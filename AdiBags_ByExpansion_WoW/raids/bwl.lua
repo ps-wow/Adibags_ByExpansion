@@ -142,4 +142,8 @@ AddonTable.bwl = {
     19380, -- Terazane's Link
     19381, -- Boots of the Shadow Flame
     19382, -- Pure Elementium Band
+    -- Quests
+    19384, -- Master Dragonslayer's Ring (The Lord of Blackrock)
+    19366, -- Master Dragonslayer's Orb (The Lord of Blackrock)
+    19383, -- Master Dragonslayer's Medallion (The Lord of Blackrock)
 }
