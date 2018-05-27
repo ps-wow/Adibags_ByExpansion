@@ -8,6 +8,7 @@ AddonTable.junk = {
     62069, -- Plugged Rifle
     62070, -- Rusted Timber Axe
     62077, -- Perforated Plate Gloves
+    62079, -- Dirt-Caked Shoulderpads
     62081, -- Dirt-Caked Armor
     62085, -- Pockmarked Cloth Boots
     62090, -- Perforated Plate Belt
