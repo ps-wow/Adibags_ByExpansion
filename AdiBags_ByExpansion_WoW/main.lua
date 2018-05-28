@@ -10,6 +10,8 @@ local module = {
     ["prefix"] = "01. WoW - ",
     ["description"] = "World of Warcraft",
     ["raids"] = {
+        ["aq20"] = "Ruins of Ahn'Qiraj",
+        ["aq40"] = "Temple of Ahn'Qiraj",
         ["mc"] = "Molten Core",
         ["bwl"] = "Blackwing Lair"
     },

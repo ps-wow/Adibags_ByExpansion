@@ -14,6 +14,8 @@
     <Script file="professions\gathering\mining.lua"/>
     <Script file="professions\gathering\skinning.lua"/>
 
+    <Script file="raids\aq20.lua"/>
+    <Script file="raids\aq40.lua"/>
     <Script file="raids\mc.lua"/>
     <Script file="raids\bwl.lua"/>
 
