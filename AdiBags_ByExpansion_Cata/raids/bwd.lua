@@ -67,7 +67,7 @@ AddonTable.bwd = {
     -- Maloriak
     152967, -- Experiment-In-A-Jar (Discarded Experiment) [Battle Pet]
     67428, -- Leggings of the Forlorn Conqueror (Pal, Priest, Lock)
-    67437, -- Leggings of the Forlorn Protector (Warr, Hunt, Sham)
+    67427, -- Leggings of the Forlorn Protector (Warr, Hunt, Sham)
     67426, -- Leggings of the Forlorn Vanquisher (Rog, DK, Mage, Druid)
     65036, -- Mace of Acrid Death
     65038, -- Dragon Bone Warhelm
@@ -108,4 +108,6 @@ AddonTable.bwd = {
     65205, -- Lightning-Charged Legguards (Hunter)
     65231, -- Mercurial Legwraps (Priest)
     65266, -- Earthern Helmet (Warrior)
+    65250, -- Grips of the Raging Elements (Shaman)
+    65252, -- Legguards of the Raging Elements (Shaman)
 }
