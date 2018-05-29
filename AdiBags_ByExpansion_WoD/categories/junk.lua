@@ -18,6 +18,8 @@ AddonTable.junk = {
     118898, -- Rusted Canary Cage
     118899, -- Crumbled Gem Shards
     118902, -- Weathered Mining Journal
+    107469, -- Depleted Elemental Shard
+    107471, -- Latent Elemental Core
 }
 
 AddonTable.soulbound = {

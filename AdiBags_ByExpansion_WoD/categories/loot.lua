@@ -7,6 +7,7 @@ AddonTable.loot = {
     106149, -- Frostwolf Stalwart Girdle
     106152, -- Frostwolf Stalwart Shoulders
     106154, -- Frostwolf Stalwart Warboots
+    119230, -- Unpopped Pustule Pendant
 
     -- BoE but not appearence slot
     116725, -- Oshu'gun Ring

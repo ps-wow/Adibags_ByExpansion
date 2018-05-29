@@ -4,9 +4,14 @@ local AddonName, AddonTable = ...
 
 AddonTable.transmog = {
     -- Uncommon (Green)
+    55288, -- Irontree Axe
     55296, -- Bladefist Broadaxe
+    55306, -- Irontree Bow
     55367, -- Mereldar Scepter
+    55377, -- Thondroril Crystal
+    55412, -- Mardenholde Spear
     55414, -- Irontree Spear
+    55430, -- Ravencrest Shield
     55449, -- Bladefist Staff
     55458, -- Bladefist Sword
     55459, -- Irontree Sword
@@ -28,6 +33,7 @@ AddonTable.transmog = {
 
     -- Rare (Blue)
     66941, -- Triple-Loop Belt (BoT)
+    67061, -- Bulwark of the Scorned Man
 
     -- Epic (Purple)
     59462, -- Maimgor's Bite [1H Axe] (BoT)
@@ -37,4 +43,5 @@ AddonTable.transmog = {
     60210, -- Crossfire Carbine [Gun] (BoT)
     60211, -- Bracers of the Dark Pool [Cloth][Wrist]
     71360, -- Spire of Scarlet Pain
+    59464, -- Treads of Savage Beatings [Plate][Boots]
 }

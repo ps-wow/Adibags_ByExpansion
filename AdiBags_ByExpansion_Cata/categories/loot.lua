@@ -22,5 +22,5 @@ AddonTable.loot = {
     55403, -- Mereldar Amulet
     55405, -- Blackwolf Amulet
     59520, -- Unheeded Warning
-
+    66974, -- Nightrend Choker
 }

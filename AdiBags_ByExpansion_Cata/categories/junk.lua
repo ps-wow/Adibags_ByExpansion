@@ -15,14 +15,18 @@ AddonTable.junk = {
     62091, -- Pockmarked Cloth Vest
     62092, -- Pockmarked Cloth Shoulderpads
     62097, -- Clammy Mail Armor
+    62098, -- Clammy Mail Shoulderpands
+    62099, -- Clammy Mail Pants
 
     62101, -- Clammy Mail Circlet
     62103, -- Pockmarked Hay
     62104, -- Perforated Plate Helmet
     62108, -- Singed Armor
     62112, -- Singed Pants
+    62119, -- Sodden Cloth Boots
     62123, -- Sooty Mail Gloves
     62124, -- Sooty Mail Bracers
+    62125, -- Sooty Mail Boots
     62136, -- Sooty Mail Circlet
     62127, -- Bleached Plate Shoulderpads
     62131, -- Sooty Mail Belt

@@ -10,7 +10,9 @@ module = {
     ["prefix"] = "03. Wrath - ",
     ["description"] = "Wrath of the Lich King",
     ["raids"] = {
-        ["icc"] = "Icecrown Citadel"
+        ["icc"] = "Icecrown Citadel",
+        ["icc10"] = "Icecrown Citadel 10",
+        ["icc25"] = "Icecrown Citadel 25"
     }
 }
 

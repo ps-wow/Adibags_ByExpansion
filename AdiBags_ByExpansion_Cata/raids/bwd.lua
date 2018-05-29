@@ -1,6 +1,9 @@
 local AddonName, AddonTable = ...
 
 AddonTable.bwd = {
+    -- Trash Mobs
+    59461, -- Fury of Angerforge (BoE Trinket)
+
     -- Omnotron Defense System
     65081, -- Organic Lifeform Inverter
     65077, -- Power Generator Hood
@@ -101,6 +104,8 @@ AddonTable.bwd = {
     65026, -- Prestor's Talisman of Machination
 
     -- Tier Pieces (From Tokens)
-    65205, -- Lightning-Charged Gloves
-    65205, -- Lightning-Charged Legguards
+    65205, -- Lightning-Charged Gloves (Hunter)
+    65205, -- Lightning-Charged Legguards (Hunter)
+    65231, -- Mercurial Legwraps (Priest)
+    65266, -- Earthern Helmet (Warrior)
 }

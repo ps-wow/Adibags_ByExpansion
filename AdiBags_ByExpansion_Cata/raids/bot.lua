@@ -1,6 +1,9 @@
 local AddonName, AddonTable = ...
 
 AddonTable.bot = {
+    -- Trash Mobs
+    60202, -- Tsanga's Helm [Leather]
+
     -- Halfus Wyrmbreaker
     65133, -- Book of Binding Will
     65134, -- Wyrmbreaker's Amulet
@@ -83,4 +86,10 @@ AddonTable.bot = {
     60229, -- War-Torn Crushers
     60226, -- Dargonax's Signet
     60233, -- Shard of Woe
+
+    -- Set Pieces (From Tokens)
+    65232, -- Mercurial Robes (Priest)
+    65267, -- Earthen Legplates (Warrior)
+    65249, -- Cuirass of the Raging Elements (Shaman)
+    65253, -- Spaulders of the Raging Elements (Shaman)
 }
