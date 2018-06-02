@@ -26,7 +26,9 @@ AddonTable.transmog = {
     55612, -- Talondeep Legguards
     55621, -- Talondeep Spaulders
     55628, -- Highperch Belt
+    55657, -- Ravenholdt Boots
     55664, -- Dandred Gloves
+    55673, -- Dandred Hood
     55675, -- Ravenholdt Hood
     55700, -- Dandred Waistband
     55701, -- Haldarr Waistband
