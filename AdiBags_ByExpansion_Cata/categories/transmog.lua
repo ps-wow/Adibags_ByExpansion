@@ -21,14 +21,17 @@ AddonTable.transmog = {
     55459, -- Irontree Sword
     55484, -- Mereldar Wand
     55485, -- Thondroril Wand
+    55538, -- Ravencrest Legplates
     55548, -- Stonewrought Pauldrons
     55556, -- Ravencrest Girdle
     55612, -- Talondeep Legguards
     55621, -- Talondeep Spaulders
     55628, -- Highperch Belt
+    55647, -- Haldarr Jerkin
     55657, -- Ravenholdt Boots
     55664, -- Dandred Gloves
     55673, -- Dandred Hood
+    55674, -- Haldarr Hood
     55675, -- Ravenholdt Hood
     55700, -- Dandred Waistband
     55701, -- Haldarr Waistband
@@ -57,6 +60,7 @@ AddonTable.transmog = {
     59466, -- Ironstar's Impenetrable Cover
     59467, -- Hide of Chromaggus
     59525, -- Chelley's Staff of Dark Mending [Staff] (BoT)
+    60201, -- Phase-Twister Leggings [Mail][Legs] (BoT)
     60210, -- Crossfire Carbine [Gun] (BoT)
     60211, -- Bracers of the Dark Pool [Cloth][Wrist]
     68601, -- Scaleslicer [Dagger]

@@ -20,6 +20,7 @@ AddonTable.loot = {
 
     -- BoE (Non-Appearence)
     55403, -- Mereldar Amulet
+    55404, -- Thondroril Amulet
     55405, -- Blackwolf Amulet
     59520, -- Unheeded Warning
     66974, -- Nightrend Choker
