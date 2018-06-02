@@ -10,6 +10,7 @@ module = {
     ["prefix"] = "06. WoD - ",
     ["description"] = "Warlords of Draenor Items",
     ["raids"] = {
+        ["hm"]  = "Highmaul",
         ["brf"] = "Blackrock Foundry",
         ["hfc"] = "Hellfire Citadel",
     }

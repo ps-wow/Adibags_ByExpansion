@@ -15,6 +15,7 @@
     <Script file="categories\professions\gathering\skinning.lua"/>
 
     <Script file="raids\brf.lua"/>
+    <Script file="raids\hm.lua"/>
 
     <Script file="main.lua"/>
 
