@@ -110,4 +110,8 @@ AddonTable.bwd = {
     65266, -- Earthern Helmet (Warrior)
     65250, -- Grips of the Raging Elements (Shaman)
     65252, -- Legguards of the Raging Elements (Shaman)
+    65251, -- Helmet of the Raging Elements (Shaman)
+    65225, -- Reinforced Sapphirium Handguards (Paladin)
+    65227, -- Reinforced Sapphirium Legguards (Paladin)
+    65226, -- Reinforced Sapphirium Faceguard (Paladin)
 }
