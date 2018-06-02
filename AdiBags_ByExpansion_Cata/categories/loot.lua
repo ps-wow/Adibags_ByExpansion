@@ -23,4 +23,5 @@ AddonTable.loot = {
     55405, -- Blackwolf Amulet
     59520, -- Unheeded Warning
     66974, -- Nightrend Choker
+    70929, -- Firebound Gorget
 }
