@@ -3,6 +3,9 @@ local AddonName, AddonTable = ...
 AddonTable.loot = {
     121106, -- Hagfeather Leggings
 
+    -- Dauntless
+    147255, -- Galvanized Stormscale Belt
+
     -- Unsullied
     152774, -- Azurelight Sage's Slippers (Bound)
     152735, -- Unsullied Ring (BoA)
