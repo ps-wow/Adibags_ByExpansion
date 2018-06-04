@@ -24,12 +24,14 @@ AddonTable.transmog = {
     55538, -- Ravencrest Legplates
     55548, -- Stonewrought Pauldrons
     55556, -- Ravencrest Girdle
+    55602, -- Thornsnarl Helm
     55612, -- Talondeep Legguards
     55621, -- Talondeep Spaulders
     55628, -- Highperch Belt
     55647, -- Haldarr Jerkin
     55657, -- Ravenholdt Boots
     55664, -- Dandred Gloves
+    55648, -- Ravenholdt Jerkin
     55673, -- Dandred Hood
     55674, -- Haldarr Hood
     55675, -- Ravenholdt Hood
@@ -45,9 +47,8 @@ AddonTable.transmog = {
     59521, -- Soul Blade
     59901, -- Heaving Plates of Protection [Plate][Shoulder]
     67119, -- Thousand Bandage Drape
+    71365, -- Hide-Bound Chains
     71366, -- Lava Bolt Crossbow
-    55648, -- Ravenholdt Jerkin
-    55602, -- Thornsnarl Helm
 
     -- Rare (Blue)
     66941, -- Triple-Loop Belt (BoT)
@@ -57,8 +58,10 @@ AddonTable.transmog = {
     59460, -- Theresa's Booklight (BoE Wand) (BwD)
     59462, -- Maimgor's Bite [1H Axe] (BoT)
     59464, -- Treads of Savage Beatings [Plate][Boots]
+    59465, -- Corehammer's Riveted Girdle [Plate][Waist]
     59466, -- Ironstar's Impenetrable Cover
     59467, -- Hide of Chromaggus
+    59468, -- Shadowforge's Lightbound Smock [Cloth][Chest]
     59525, -- Chelley's Staff of Dark Mending [Staff] (BoT)
     60201, -- Phase-Twister Leggings [Mail][Legs] (BoT)
     60210, -- Crossfire Carbine [Gun] (BoT)
