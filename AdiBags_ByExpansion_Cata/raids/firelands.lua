@@ -147,6 +147,10 @@ AddonTable.firelands = {
     71501, -- Flamewaker's Tunic (Hunter)
     71502, -- Flamewaker's Gloves (Hunter)
     71504, -- Flamewaker's Legguards (Hunter)
+    71547, -- Erupting Volcanic Cuirass (Shaman)
+    71549, -- Erupting Volcanic Helmet (Shaman)
+    71550, -- Erupting Volcanic Legguards (Shaman)
+    71551, -- Erupting Volcanic Spaulders (Shaman)
     71597, -- Balespider's Robes (Warlock)
     71598, -- Balespider's Mantle (Warlock)
     71594, -- Balespider's Handwraps (Warlock)
@@ -155,5 +159,4 @@ AddonTable.firelands = {
     71601, -- Gauntlets of the Molten Giant (Warrior)
     71602, -- Legplates of the Molten Giant (Warrior)
     71603, -- Pauldrons of the Molten Giant (Warrior)
-
 }

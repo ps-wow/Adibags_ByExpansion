@@ -19,15 +19,22 @@ AddonTable.transmog = {
     55431, -- Stonewrought Shield
     55440, -- Thondroril Spellblade
     55449, -- Bladefist Staff
+    55457, -- Mardenholde Sword
     55458, -- Bladefist Sword
     55459, -- Irontree Sword
     55467, -- Bladefist Greatsword
     55484, -- Mereldar Wand
     55485, -- Thondroril Wand
+    55493, -- Ravencrest Vambraces
     55503, -- Stonewrought Breastplate
+    55513, -- Crystalvein Sabatons
+    55520, -- Ravencrest Gauntlets
     55538, -- Ravencrest Legplates
     55548, -- Stonewrought Pauldrons
+    55549, -- Crystalvein Pauldrons
     55556, -- Ravencrest Girdle
+    55583, -- Highperch Greaves
+    55584, -- Thornsnarl Greaves
     55585, -- Talondeep Greaves
     55594, -- Talondeep Gauntlets
     55602, -- Thornsnarl Helm
@@ -75,6 +82,8 @@ AddonTable.transmog = {
     60201, -- Phase-Twister Leggings [Mail][Legs] (BoT)
     60210, -- Crossfire Carbine [Gun] (BoT)
     60211, -- Bracers of the Dark Pool [Cloth][Wrist]
+    63538, -- Claws of Agony [Fist Weapon]
+    67144, -- Pauldrons of Edward the Odd
     68601, -- Scaleslicer [Dagger]
     71359, -- Chelley's Sterilized Scalpel
     71360, -- Spire of Scarlet Pain

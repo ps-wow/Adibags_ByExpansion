@@ -32,6 +32,7 @@ AddonTable.junk = {
     62104, -- Perforated Plate Helmet
     62106, -- Bleached Plate Gloves
     62108, -- Singed Armor
+    62109, -- Sodden Cloth Vest
     62112, -- Singed Pants
     62113, -- Singed Gloves
     62114, -- Singed Bracers

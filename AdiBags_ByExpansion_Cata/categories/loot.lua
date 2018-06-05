@@ -24,6 +24,7 @@ AddonTable.loot = {
     55405, -- Blackwolf Amulet
     59520, -- Unheeded Warning
     66974, -- Nightrend Choker
+    68972, -- Apparatus of Khaz'goroth
     70929, -- Firebound Gorget
     71367, -- Theck's Emberseal
 }
