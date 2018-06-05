@@ -25,4 +25,5 @@ AddonTable.loot = {
     59520, -- Unheeded Warning
     66974, -- Nightrend Choker
     70929, -- Firebound Gorget
+    71367, -- Theck's Emberseal
 }
