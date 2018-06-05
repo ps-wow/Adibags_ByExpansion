@@ -9,6 +9,7 @@ AddonTable.transmog = {
     55306, -- Irontree Bow
     55315, -- Blackwolf Cloak
     55350, -- Bladefist Knuckles
+    55351, -- Irontree Knuckles
     55367, -- Mereldar Scepter
     55377, -- Thondroril Crystal
     55387, -- Irontree Mace
@@ -16,6 +17,7 @@ AddonTable.transmog = {
     55414, -- Irontree Spear
     55430, -- Ravencrest Shield
     55431, -- Stonewrought Shield
+    55440, -- Thondroril Spellblade
     55449, -- Bladefist Staff
     55458, -- Bladefist Sword
     55459, -- Irontree Sword
@@ -26,6 +28,7 @@ AddonTable.transmog = {
     55538, -- Ravencrest Legplates
     55548, -- Stonewrought Pauldrons
     55556, -- Ravencrest Girdle
+    55585, -- Talondeep Greaves
     55594, -- Talondeep Gauntlets
     55602, -- Thornsnarl Helm
     55612, -- Talondeep Legguards
@@ -45,6 +48,7 @@ AddonTable.transmog = {
     55738, -- Bluefen Handwraps
     55745, -- Everstill Cowl
     55747, -- Bluefen Cowl
+    55754, -- Everstill Leggings
     55763, -- Everstill Shoulderpads
     55764, -- Mystral Shoulderpads
     55765, -- Bluefen Shoulderpads
