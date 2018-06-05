@@ -14,6 +14,7 @@ AddonTable.junk = {
     62078, -- Perforated Plate Chestpiece
     62079, -- Dirt-Caked Shoulderpads
     62081, -- Dirt-Caked Armor
+    62082, -- Dirt-Caked Pants
     62084, -- Pockmarked Cloth Bracers
     62085, -- Pockmarked Cloth Boots
     62086, -- Dirt-Caked Gloves
@@ -45,8 +46,10 @@ AddonTable.junk = {
     62126, -- Bleached Plate Chestpiece
     62127, -- Bleached Plate Shoulderpads
     62128, -- Bleached Plate Bracers
+    62130, -- Bleached Plate Belt
     62131, -- Sooty Mail Belt
     62132, -- Sooty Mail Armor
+    62133, -- Sodden Cloth Hat
     62135, -- Singed Leather Helmet
     62136, -- Sooty Mail Circlet
     62421, -- Scintillating Crystals
