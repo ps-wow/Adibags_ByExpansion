@@ -19,11 +19,14 @@ AddonTable.transmog = {
     55449, -- Bladefist Staff
     55458, -- Bladefist Sword
     55459, -- Irontree Sword
+    55467, -- Bladefist Greatsword
     55484, -- Mereldar Wand
     55485, -- Thondroril Wand
+    55503, -- Stonewrought Breastplate
     55538, -- Ravencrest Legplates
     55548, -- Stonewrought Pauldrons
     55556, -- Ravencrest Girdle
+    55594, -- Talondeep Gauntlets
     55602, -- Thornsnarl Helm
     55612, -- Talondeep Legguards
     55621, -- Talondeep Spaulders
@@ -38,10 +41,12 @@ AddonTable.transmog = {
     55700, -- Dandred Waistband
     55701, -- Haldarr Waistband
     55711, -- Bluefen Wristwraps
+    55737, -- Mystral Handwraps
     55738, -- Bluefen Handwraps
     55745, -- Everstill Cowl
     55747, -- Bluefen Cowl
     55763, -- Everstill Shoulderpads
+    55764, -- Mystral Shoulderpads
     55765, -- Bluefen Shoulderpads
     59463, -- Maldo's Sword Cane
     59521, -- Soul Blade
