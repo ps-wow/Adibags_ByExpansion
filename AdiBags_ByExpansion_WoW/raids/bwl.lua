@@ -38,21 +38,21 @@ AddonTable.bwl = {
     19337, -- The Black Book
 
     -- Vaelastrasz the Corrupt
+    16903, -- Stormrage Belt
+    16910, -- Bloodfang Belt
+    16818, -- Netherwind Belt
+    16925, -- Belt of Transcendence
+    16933, -- Nemesis Belt
+    16936, -- Dragonstalker's Belt
+    16944, -- Belt of Ten Storms
+    16952, -- Judgment Belt
+    16960, -- Waistband of Wrath
+    19339, -- Mind Quickening Gem
+    19340, -- Rune of Metamorphosis
     19346, -- Dragonfang Blade
     19348, -- Red Dragonscale Protector
     19372, -- Helm of Endless Rage
     19371, -- Pendant of the Fallen Dragon
-    16944, -- Belt of Ten Storms
-    16925, -- Belt of Transcendence
-    16910, -- Bloodfang Belt
-    16936, -- Dragonstalker's Belt
-    16952, -- Judgment Belt
-    16933, -- Nemesis Belt
-    16818, -- Netherwind Belt
-    16903, -- Stormrage Belt
-    16960, -- Waistband of Wrath
-    19339, -- Mind Quickening Gem
-    19340, -- Rune of Metamorphosis
 
     -- Broodlord Lashlayer
     93037, -- Blackwing Banner (Death Talon Whelpguard) [Battle Pet]
