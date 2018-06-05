@@ -33,14 +33,17 @@ AddonTable.transmog = {
     55548, -- Stonewrought Pauldrons
     55549, -- Crystalvein Pauldrons
     55556, -- Ravencrest Girdle
+    55558, -- Crystalvein Girdle
     55583, -- Highperch Greaves
     55584, -- Thornsnarl Greaves
     55585, -- Talondeep Greaves
     55594, -- Talondeep Gauntlets
     55602, -- Thornsnarl Helm
     55612, -- Talondeep Legguards
+    55620, -- Thornsnarl Spaulders
     55621, -- Talondeep Spaulders
     55628, -- Highperch Belt
+    55637, -- Dandred Bindings
     55647, -- Haldarr Jerkin
     55657, -- Ravenholdt Boots
     55664, -- Dandred Gloves
@@ -51,6 +54,7 @@ AddonTable.transmog = {
     55700, -- Dandred Waistband
     55701, -- Haldarr Waistband
     55711, -- Bluefen Wristwraps
+    55720, -- Bluefen Robe
     55737, -- Mystral Handwraps
     55738, -- Bluefen Handwraps
     55745, -- Everstill Cowl

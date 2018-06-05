@@ -139,7 +139,7 @@ AddonTable.firelands = {
     69167, -- Vessel of Acceleration
 
     -- Set Pieces (from Tokens)
-    71599, -- Helmet of the Molten Giant (Warrior)
+    71482, -- Elementium Deathplate Handguards (Death Knight)
     71491, -- Obsidian Arborweave Handwraps (Druid)
     71493, -- Obsidian Arborweave Legwraps (Druid)
     71494, -- Obsidian Arborweave Tunic (Druid)
@@ -153,6 +153,7 @@ AddonTable.firelands = {
     71551, -- Erupting Volcanic Spaulders (Shaman)
     71597, -- Balespider's Robes (Warlock)
     71598, -- Balespider's Mantle (Warlock)
+    71599, -- Helmet of the Molten Giant (Warrior)
     71594, -- Balespider's Handwraps (Warlock)
     71595, -- Balespider's Hood (Warlock)
     71600, -- Battleplate of the Molten Giant (Warrior)
