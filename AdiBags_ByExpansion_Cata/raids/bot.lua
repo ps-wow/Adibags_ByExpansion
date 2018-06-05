@@ -88,12 +88,14 @@ AddonTable.bot = {
     60233, -- Shard of Woe
 
     -- Set Pieces (From Tokens)
+    65197, -- Stormrider's Robes (Druid)
+    65198, -- Stormrider's Mantle (Druid)
+    65204, -- Lightning-Charged Tunic (Hunter)
+    65208, -- Lightning-Charged Spaulders (Hunter)
     65232, -- Mercurial Robes (Priest)
     65267, -- Earthen Legplates (Warrior)
     65249, -- Cuirass of the Raging Elements (Shaman)
     65253, -- Spaulders of the Raging Elements (Shaman)
-    65197, -- Stormrider's Robes (Druid)
-    65198, -- Stormrider's Mantle (Druid)
     65261, -- Shadowflame Leggings (Warlock)
     65262, -- Shadowflame Robes (Warlock)
     65263, -- Shadowflame Mantle (Warlock)
