@@ -8,6 +8,7 @@ AddonTable.transmog = {
     55296, -- Bladefist Broadaxe
     55306, -- Irontree Bow
     55315, -- Blackwolf Cloak
+    55333, -- Irontree Dagger
     55350, -- Bladefist Knuckles
     55351, -- Irontree Knuckles
     55367, -- Mereldar Scepter
@@ -19,6 +20,7 @@ AddonTable.transmog = {
     55431, -- Stonewrought Shield
     55440, -- Thondroril Spellblade
     55449, -- Bladefist Staff
+    55450, -- Irontree Staff
     55457, -- Mardenholde Sword
     55458, -- Bladefist Sword
     55459, -- Irontree Sword
@@ -34,6 +36,7 @@ AddonTable.transmog = {
     55549, -- Crystalvein Pauldrons
     55556, -- Ravencrest Girdle
     55558, -- Crystalvein Girdle
+    55566, -- Thornsnarl Bracers
     55583, -- Highperch Greaves
     55584, -- Thornsnarl Greaves
     55585, -- Talondeep Greaves
@@ -91,4 +94,5 @@ AddonTable.transmog = {
     68601, -- Scaleslicer [Dagger]
     71359, -- Chelley's Sterilized Scalpel
     71360, -- Spire of Scarlet Pain
+    71361, -- Ranseur of Hatred
 }
