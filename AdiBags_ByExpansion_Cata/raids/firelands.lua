@@ -140,6 +140,7 @@ AddonTable.firelands = {
 
     -- Set Pieces (from Tokens)
     71482, -- Elementium Deathplate Handguards (Death Knight)
+    71483, -- Elementium Deathplate Faceguard (Death Knight)
     71491, -- Obsidian Arborweave Handwraps (Druid)
     71493, -- Obsidian Arborweave Legwraps (Druid)
     71494, -- Obsidian Arborweave Tunic (Druid)
