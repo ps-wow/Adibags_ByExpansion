@@ -11,3 +11,4 @@ move-folders:
 
 ignore:
   - .gitignore
+  - README.md
