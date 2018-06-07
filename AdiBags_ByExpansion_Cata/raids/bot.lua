@@ -88,6 +88,7 @@ AddonTable.bot = {
     60233, -- Shard of Woe
 
     -- Set Pieces (From Tokens)
+    65188, -- Magma Plated Shoulderguards (Death Knight)
     65197, -- Stormrider's Robes (Druid)
     65198, -- Stormrider's Mantle (Druid)
     65204, -- Lightning-Charged Tunic (Hunter)
