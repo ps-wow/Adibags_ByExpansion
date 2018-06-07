@@ -18,17 +18,6 @@ local module = {
 
 core:AddExpansion(module)
 
-core:AddCategoryItems(AddonTable.junk, "Junk", module)
-core:AddCategoryItems(AddonTable.loot, "Loot", module)
-core:AddCategoryItems(AddonTable.foodDrink, "FoodDrink", module)
-
--- Trade Materials
-core:AddCategoryItems(AddonTable.trade, "TradeMaterials", module)
-local professions = core:GetProfessions()
-for i,prof in pairs(professions) do
-    if AddonTable[prof] then
-        core:AddCategoryItems(AddonTable[prof], "TradeMaterials", module)
-    end
-end
+core:LoadCategories(AddonTable, module)
 
 core:LoadExpansion(module)
