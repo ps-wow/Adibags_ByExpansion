@@ -3,7 +3,7 @@ local AddonName, AddonTable = ...
 -- Load the core addon API.
 local core = LibStub("AceAddon-3.0"):GetAddon("AdiBags_ByExansion")
 
-module = {
+local module = {
     ["name"] = "wrath",
     ["categories"] = core:GetDefaultCategories(),
     ["namespace"] = "Wrath",

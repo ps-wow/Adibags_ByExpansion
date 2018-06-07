@@ -6,7 +6,7 @@ AddonTable.icc = {
 }
 
 AddonTable.icc10 = {
-    -- Lord Marrowgar (10-Man)
+    -- Lord Marrowgar (10 Man)
     50339, -- Sliver of Pure Ice
     50759, -- Bone Warden's Splitter
     50760, -- Bonebreaker Scepter
@@ -22,7 +22,15 @@ AddonTable.icc10 = {
 }
 
 AddonTable.icc25 = {
-    -- Lord Marrowgar (25-Man)
+    -- Shared Boss Loot (25 Man)
+    52025, -- Vanquisher's Mark of Sanctification
+    52028, -- Vanquisher's Mark of Sanctification (Heroic)
+    52030, -- Conqueror's Mark of Sanctification (Heroic)
+    52027, -- Conqueror's Mark of Sanctification
+    52029, -- Protector's Mark of Sanctification (Heroic)
+    52026, -- Protector's Mark of Sanctification
+
+    -- Lord Marrowgar (25 Man)
     142094, -- Fragment of Frozen Bone (Boneshard) [Battle Pet]
     50709, -- Bryntroll, the Bone Arbiter
     50608, -- Frozen Bonespike
@@ -40,7 +48,7 @@ AddonTable.icc25 = {
     50614, -- Loop of the Endless Labyrinth
     50610, -- Marrowgar's Frigid Eye
 
-    -- Lady Deathwhisper (25-Man)
+    -- Lady Deathwhisper (25 Man)
     50648, -- Nibelung
     50641, -- Heartpierce
     50638, -- Zod's Repeating Longbow
@@ -56,4 +64,63 @@ AddonTable.icc25 = {
     50652, -- Necrophotic Greaces
     50642, -- Juggernaut Band
     50644, -- Ring of Maddening Whispers
+
+    -- Icecrown Gunship Battle (25 Man)
+    50660, -- Boneguard Commander's Pauldrons
+    50659, -- Polar Bear Claw Bracers
+    50667, -- Waistband of Righteous Fury
+    50657, -- Skeleton Lord's Circle
+    50349, -- Corpse Tongue Coin
+
+    -- Deathbringer Saurfang (25 Man)
+    142095, -- Remains of a Blood Beast (Blood Boil) [Battle Bet]
+    50363, -- Deathbringer's Will
+
+    -- Festergut (25 Man)
+    50701, -- Faceplate of the Forgotten
+    50690, -- Fleshrending Gauntlets
+    50691, -- Belt of Broken Bones
+    50693, -- Might of Blight
+
+    -- Rotface (25 Man)
+    50682, -- Bile-Encrusted Medallion
+    50674, -- Raging Behemoth's Shoulderpads
+    50677, -- Winding Sheet
+    50681, -- Blightborne Warplate
+    50680, -- Rot-Resistant Breastplate
+    50348, -- Dislodged Foreign Object
+
+    -- Professor Putricide (25 Man)
+    142096, -- Putricide's Alchemy Supplies (Blightbreath) [Battle Pet]
+    50708, -- Last Word
+    50706, -- Tiny Abomination in a Jar
+
+    -- Blood Prince Council (25 Man)
+    50603, -- Cryptmaker
+    50712, -- Landsoul's Horned Greathelm
+    50718, -- Royal Crimson Cloak
+    50721, -- Crypt Keeper's Bracers
+    50716, -- Taldaram's Plated Fists
+
+    -- Blood-Queen Lana'thel (25 Man)
+    50728, -- Lana'thel's Chain of Flagellation
+    50726, -- Bauble of True Blood
+
+    -- Valithria Dreamwalker (25 Man)
+    138832, -- Illusion: Earthliving
+    50627, -- Noose of Malachite
+    50620, -- Coldwraith Links
+    50623, -- Leggings of Dying Candles
+    50624, -- Scourge Reaver's Legplates
+    50632, -- Boots of the Funeral March
+    50625, -- Grinning Skull Greatboots
+    50622, -- Devium's Eternally Cold Ring
+
+    -- Sindragosa (25 Man)
+    142097, -- Skull of a Frozen Whelp (Soulbroken Whelping) [Battle Pet]
+    50365, -- Phylactery of the Nameless Lich
+    50364, -- Sindragosa's Flawless Fang
+
+    -- The Lich King (25 Man)
+    142099, -- Call of the Frozen Blade
 }
