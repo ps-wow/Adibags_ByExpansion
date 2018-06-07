@@ -2,6 +2,7 @@ local AddonName, AddonTable = ...
 
 AddonTable.loot = {
     121106, -- Hagfeather Leggings
+    134179, -- Skoldiir Breastplate
 
     -- Dauntless
     147255, -- Galvanized Stormscale Belt
