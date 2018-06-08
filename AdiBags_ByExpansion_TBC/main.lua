@@ -10,6 +10,13 @@ local module = {
     ["prefix"] = "02. TBC - ",
     ["description"] = "The Burning Crusade",
     ["raids"] = {
+        ["bt"] = "Black Temple",
+        ["eye"] = "The Eye",
+        ["gl"] = "Gruul's Lair",
+        ["hyjal"] = "Hyjal Summit",
+        ["ml"] = "Magtheridon's Lair",
+        ["sp"] = "Sunwell Plateau",
+        ["ssc"] = "Serpenshrine Cavern",
     }
 }
 
