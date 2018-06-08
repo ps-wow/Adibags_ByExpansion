@@ -13,6 +13,19 @@ AddonTable.soo = {
     112417, -- Chestplate of Congealed Corrosion
     112429, -- Bracers of Purified Spirit
     112420, -- Bracers of Sordid Sleep
+    112416, -- Bubble-Burst Bracers
+    112422, -- Bolt-Burster Grips
+    112418, -- Corruption-Rotted Gauntlets
+    112445, -- Soul-Soaked Gloves
+    112447, -- Greatbelt of Living Waters
+    112383, -- Puddle Punishers
+    112428, -- Salt Water Sandals
+    112419, -- Treads of Unchained Hate
+    112448, -- Waterwalker Greatboots
+    112427, -- Seal of Eternal Sorrow
+    112426, -- Purified Bindings of Immerseus
+
+
 
     -- Garrosh
     105868, -- Essence of the Cursed Vanquisher
