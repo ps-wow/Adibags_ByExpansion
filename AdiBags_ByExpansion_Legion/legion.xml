@@ -4,7 +4,9 @@
     <Script file="categories\consumable.lua"/>
     <Script file="categories\junk.lua"/>
     <Script file="categories\loot.lua"/>
+    <Script file="categories\misc.lua"/>
     <Script file="categories\trade.lua"/>
+    <Script file="categories\transmog.lua"/>
 
     <Script file="professions\crafting\alchemy.lua"/>
     <Script file="professions\crafting\jewelcrafting.lua"/>
