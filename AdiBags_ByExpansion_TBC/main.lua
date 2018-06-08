@@ -14,6 +14,7 @@ local module = {
         ["eye"] = "The Eye",
         ["gl"] = "Gruul's Lair",
         ["hyjal"] = "Hyjal Summit",
+        ["kara"] = "Karazhan",
         ["ml"] = "Magtheridon's Lair",
         ["sp"] = "Sunwell Plateau",
         ["ssc"] = "Serpenshrine Cavern",

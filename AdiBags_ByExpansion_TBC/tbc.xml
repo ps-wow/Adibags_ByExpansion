@@ -16,6 +16,7 @@
     <Script file="raids\eye.lua"/>
     <Script file="raids\gl.lua"/>
     <Script file="raids\hyjal.lua"/>
+    <Script file="raids\kara.lua"/>
     <Script file="raids\ml.lua"/>
     <Script file="raids\sp.lua"/>
     <Script file="raids\ssc.lua"/>
