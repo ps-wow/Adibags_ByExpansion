@@ -12,4 +12,6 @@ AddonTable.junk = {
     89739, -- Stripped Gear (SoO)
     90767, -- Scruffy Cloth Shoulderpads
     90746, -- Inferior Mail Belt
+    90763, -- Shabby Bracers
+    90813, -- Salt-Scored Greatsword
 }
