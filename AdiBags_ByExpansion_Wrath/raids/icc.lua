@@ -7,18 +7,20 @@ AddonTable.icc = {
 
 AddonTable.icc10 = {
     -- Lord Marrowgar (10 Man)
-    50339, -- Sliver of Pure Ice
+    142094, -- Fragment of Frozen Bone (Boneshard) [Battle Pet]
     50759, -- Bone Warden's Splitter
     50760, -- Bonebreaker Scepter
+    50771, -- Frost Needle
+    50339, -- Sliver of Pure Ice
     50761, -- Citadel Enforcer's Claymore
     50763, -- Linked Scourge Vertebrae
     50763, -- Marrowgar's Scratching Choker
     50764, -- Shawl of Nerubian Silk
-    50771, -- Frost Needle
     50772, -- Ancient Skeletal Boots
     50773, -- Cord of the Patronizing Practitioner
     50774, -- Coldwraith Bracers
     50775, -- Corrupted Silverplate Legging
+    51936, -- Citadel Enforcer's Claymore
 }
 
 AddonTable.icc25 = {
