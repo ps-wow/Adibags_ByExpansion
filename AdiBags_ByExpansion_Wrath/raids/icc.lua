@@ -128,34 +128,73 @@ AddonTable.icc25 = {
     -- Professor Putricide (25 Man)
     142096, -- Putricide's Alchemy Supplies (Blightbreath) [Battle Pet]
     50708, -- Last Word
+    50704, -- Rigormortis
+    50707, -- Astrylian's Sutured Cinch
+    50705, -- Professor's Bloodied Smock
     50706, -- Tiny Abomination in a Jar
 
     -- Blood Prince Council (25 Man)
     50603, -- Cryptmaker
+    50710, -- Keleseth's Seducer
+    50719, -- Shadow Silk Spindle
+    50713, -- Geistlord's Punishment Sack
     50712, -- Landsoul's Horned Greathelm
+    50715, -- Shoulders of Frost-Tipped Thorns
     50718, -- Royal Crimson Cloak
     50721, -- Crypt Keeper's Bracers
+    50723, -- Mail of Crimson Coins
+    50717, -- Sanguine Silk Robes
+    50722, -- San'layn Ritualist Gloves
     50716, -- Taldaram's Plated Fists
+    50711, -- Treads of the Wasteland
+    50720, -- Incarnadine Band of Mending
+    50714, -- Valanar's Other Signet Ring
 
     -- Blood-Queen Lana'thel (25 Man)
+    50727, -- Bloodfall
+    50725, -- Dying Light
+    50729, -- Icecrown Glacial Wall
+    50724, -- Blood Queen's Crimson Choker
     50728, -- Lana'thel's Chain of Flagellation
     50726, -- Bauble of True Blood
 
     -- Valithria Dreamwalker (25 Man)
     138832, -- Illusion: Earthliving
+    50621, -- Lungbreaker
+    50631, -- Nightmare Ender
+    50626, -- Snowstorm Helm
     50627, -- Noose of Malachite
+    50628, -- Frostbinder's Shredded Cape
+    50629, -- Robe of the Waking Nightmare
+    50630, -- Bracers of Eternal Dreaming
+    50619, -- Anub'ar Stalker's Gloves
     50620, -- Coldwraith Links
     50623, -- Leggings of Dying Candles
     50624, -- Scourge Reaver's Legplates
     50632, -- Boots of the Funeral March
     50625, -- Grinning Skull Greatboots
     50622, -- Devium's Eternally Cold Ring
+    50618, -- Frostblood Sapphire Ring
 
     -- Sindragosa (25 Man)
     142097, -- Skull of a Frozen Whelp (Soulbroken Whelping) [Battle Pet]
+    50635, -- Sundial of Eternal Dusk
+    50633, -- Singragosa's Cruel Claw
+    50636, -- Memory of Malygos
     50365, -- Phylactery of the Nameless Lich
     50364, -- Sindragosa's Flawless Fang
 
     -- The Lich King (25 Man)
-    142099, -- Call of the Frozen Blade
+    142099, -- Call of the Frozen Blade (Wicked Soul) [Battle Pet]
+    138955, -- Illusion: Rune of Razorice
+    50818, -- Invincible's Reins
+    50731, -- Archus, Greatstaff of Antonidas
+    50730, -- Glorenzelg, High-Blade of the Silver Hand
+    50735, -- Oathbinder, Charge of the Ranger-General
+    50732, -- Bloodsurge, Kel'Thuzad's Blade of Agony
+    50737, -- Havoc's Call, Blade of Lordaeron Kings
+    50736, -- Heaven's Fall, Kyrss of a Thousand Lies
+    50738, -- Mithrios, Bronzebeard's Legacy
+    50734, -- Royal Scepter of Terenas II
+    50733, -- Fal'inrush, Defender of Quel'thalas
 }
