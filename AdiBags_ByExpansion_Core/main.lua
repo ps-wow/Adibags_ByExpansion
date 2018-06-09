@@ -168,6 +168,10 @@ function Core:AddExpansion(module)
     for key,desc in pairs(categories) do
         AddonTable.ItemTables[expansion][key] = {}
     end
+
+    for key,desc in pairs(module.raids) do
+        AddonTable.ItemTables[expansion][key] = {}
+    end
 end
 
 function Core:AddCategoryItems(items, category, module)
@@ -208,6 +212,7 @@ function Core:LoadCategories(table, module)
         Core:AddCategoryItems(table.trade, "TradeMaterials", module)
     end
 
+    -- Professions
     local professions = Core:GetProfessions()
     for _,prof in pairs(professions) do
         if table[prof] then

@@ -6,7 +6,9 @@ AddonTable.junk = {
     33370, -- Frost-Rimed Cloth Shoulderpads
     33371, -- Frost-Rimed Cloth Vest
     33379, -- Frozen Armor
+    33380, -- Frozen Belt
     33397, -- Frigid Mail Armor
+    33398, -- Frigid Mail Belt
     33399, -- Frigid Mail Boots
 
     33400, -- Frigid Mail Bracers
