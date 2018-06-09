@@ -83,12 +83,21 @@ AddonTable.icc25 = {
     50693, -- Might of Blight
 
     -- Rotface (25 Man)
-    50682, -- Bile-Encrusted Medallion
-    50674, -- Raging Behemoth's Shoulderpads
-    50677, -- Winding Sheet
-    50681, -- Blightborne Warplate
-    50680, -- Rot-Resistant Breastplate
     50348, -- Dislodged Foreign Object
+    50673, -- Dual-Bladed Pauldrons
+    50674, -- Raging Behemoth's Shoulderpads
+    50675, -- Aldriana's Gloves of Secrecy
+    50676, -- Rib Spreader
+    50677, -- Winding Sheet
+    50678, -- Seal of Many Mouths
+    50679, -- Helm of the Elder Moon
+    50680, -- Rot-Resistant Breastplate
+    50681, -- Blightborne Warplate
+    50682, -- Bile-Encrusted Medallion
+    50684, -- Corpse-Implaing Spike
+    50685, -- Trauma
+    50686, -- Death Surgeon's Sleeves
+    50687, -- Bloodsunder's Bracers
 
     -- Professor Putricide (25 Man)
     142096, -- Putricide's Alchemy Supplies (Blightbreath) [Battle Pet]
