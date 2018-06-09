@@ -35,11 +35,13 @@ AddonTable.transmog = {
     55503, -- Stonewrought Breastplate
     55513, -- Crystalvein Sabatons
     55520, -- Ravencrest Gauntlets
+    55522, -- Crystalvein Gauntlets
     55538, -- Ravencrest Legplates
     55548, -- Stonewrought Pauldrons
     55549, -- Crystalvein Pauldrons
     55556, -- Ravencrest Girdle
     55558, -- Crystalvein Girdle
+    55565, -- Highperch Bracers
     55566, -- Thornsnarl Bracers
     55574, -- Highperch Vest
     55583, -- Highperch Greaves
@@ -74,6 +76,7 @@ AddonTable.transmog = {
     55763, -- Everstill Shoulderpads
     55764, -- Mystral Shoulderpads
     55765, -- Bluefen Shoulderpads
+    55774, -- Bluefen Cord
 
     59463, -- Maldo's Sword Cane
     59521, -- Soul Blade
@@ -87,6 +90,7 @@ AddonTable.transmog = {
 
     -- Rare (Blue)
     66941, -- Triple-Loop Belt (BoT)
+    66972, -- Crystalline Geoknife [Fist Weapon] (BoT)
     67061, -- Bulwark of the Scorned Man
 
     -- Epic (Purple)

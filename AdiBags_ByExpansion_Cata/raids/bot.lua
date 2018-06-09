@@ -87,17 +87,30 @@ AddonTable.bot = {
     60226, -- Dargonax's Signet
     60233, -- Shard of Woe
 
-    -- Set Pieces (From Tokens)
-    65188, -- Magma Plated Shoulderguards (Death Knight)
-    65197, -- Stormrider's Robes (Druid)
-    65198, -- Stormrider's Mantle (Druid)
-    65204, -- Lightning-Charged Tunic (Hunter)
-    65208, -- Lightning-Charged Spaulders (Hunter)
-    65232, -- Mercurial Robes (Priest)
-    65267, -- Earthen Legplates (Warrior)
-    65249, -- Cuirass of the Raging Elements (Shaman)
-    65253, -- Spaulders of the Raging Elements (Shaman)
-    65261, -- Shadowflame Leggings (Warlock)
-    65262, -- Shadowflame Robes (Warlock)
-    65263, -- Shadowflame Mantle (Warlock)
+    -- Set Pieces (Death Knight)
+    65188, -- Magma Plated Shoulderguards
+
+    -- Set Pieces (Druid)
+    65197, -- Stormrider's Robes
+    65198, -- Stormrider's Mantle
+
+    -- Set Pieces (Hunter)
+    65204, -- Lightning-Charged Tunic
+    65208, -- Lightning-Charged Spaulders
+
+    -- Set Pieces (Priest)
+    65232, -- Mercurial Robes
+    65233, -- Mercurial Mantle
+
+    -- Set Pieces (Shaman)
+    65249, -- Cuirass of the Raging Elements
+    65253, -- Spaulders of the Raging Elements
+
+    -- Set Pieces (Warlock)
+    65261, -- Shadowflame Leggings
+    65262, -- Shadowflame Robes
+    65263, -- Shadowflame Mantle
+
+    -- Set Pieces (Warrior)
+    65267, -- Earthen Legplates
 }

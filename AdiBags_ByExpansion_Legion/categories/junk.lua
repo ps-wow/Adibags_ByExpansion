@@ -26,4 +26,7 @@ AddonTable.junk = {
     114005, -- Mark of the Khor (Blingtron)
     114006, -- Spirium
     114013, -- "01000010" (Blingtron)
+
+    -- Unusable Herbs
+    129158, -- Starlight Rosedust
 }

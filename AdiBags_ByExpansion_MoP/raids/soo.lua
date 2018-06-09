@@ -25,7 +25,14 @@ AddonTable.soo = {
     112427, -- Seal of Eternal Sorrow
     112426, -- Purified Bindings of Immerseus
 
-
+    -- The Fallen Protectors
+    112477, -- Softfoot's Last Resort
+    112478, -- Death Lotus Crossbow
+    112491, -- Purehearted Cricket Cage
+    112496, -- Gaze of Echoing Despair
+    112481, -- Darkfallen Shoulderplates
+    112494, -- Shoulderguards of Dark Meditations
+    112488, -- Shoulderpads of Dou Dou Chong
 
     -- Garrosh
     105868, -- Essence of the Cursed Vanquisher
