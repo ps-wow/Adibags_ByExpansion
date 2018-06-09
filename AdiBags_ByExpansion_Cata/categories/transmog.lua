@@ -6,6 +6,7 @@ AddonTable.transmog = {
     -- Uncommon (Green)
     55288, -- Irontree Axe
     55296, -- Bladefist Broadaxe
+
     55306, -- Irontree Bow
     55315, -- Blackwolf Cloak
     55333, -- Irontree Dagger
@@ -14,10 +15,12 @@ AddonTable.transmog = {
     55367, -- Mereldar Scepter
     55377, -- Thondroril Crystal
     55387, -- Irontree Mace
+
     55412, -- Mardenholde Spear
     55414, -- Irontree Spear
     55430, -- Ravencrest Shield
     55431, -- Stonewrought Shield
+    55439, -- Mereldar Spellblade
     55440, -- Thondroril Spellblade
     55449, -- Bladefist Staff
     55450, -- Irontree Staff
@@ -28,6 +31,7 @@ AddonTable.transmog = {
     55484, -- Mereldar Wand
     55485, -- Thondroril Wand
     55493, -- Ravencrest Vambraces
+
     55503, -- Stonewrought Breastplate
     55513, -- Crystalvein Sabatons
     55520, -- Ravencrest Gauntlets
@@ -37,10 +41,12 @@ AddonTable.transmog = {
     55556, -- Ravencrest Girdle
     55558, -- Crystalvein Girdle
     55566, -- Thornsnarl Bracers
+    55574, -- Highperch Vest
     55583, -- Highperch Greaves
     55584, -- Thornsnarl Greaves
     55585, -- Talondeep Greaves
     55594, -- Talondeep Gauntlets
+
     55602, -- Thornsnarl Helm
     55612, -- Talondeep Legguards
     55620, -- Thornsnarl Spaulders
@@ -54,10 +60,12 @@ AddonTable.transmog = {
     55673, -- Dandred Hood
     55674, -- Haldarr Hood
     55675, -- Ravenholdt Hood
+
     55700, -- Dandred Waistband
     55701, -- Haldarr Waistband
     55711, -- Bluefen Wristwraps
     55720, -- Bluefen Robe
+    55728, -- Mystral Sandals
     55737, -- Mystral Handwraps
     55738, -- Bluefen Handwraps
     55745, -- Everstill Cowl
@@ -66,10 +74,14 @@ AddonTable.transmog = {
     55763, -- Everstill Shoulderpads
     55764, -- Mystral Shoulderpads
     55765, -- Bluefen Shoulderpads
+
     59463, -- Maldo's Sword Cane
     59521, -- Soul Blade
+
     59901, -- Heaving Plates of Protection [Plate][Shoulder]
+
     67119, -- Thousand Bandage Drape
+
     71365, -- Hide-Bound Chains
     71366, -- Lava Bolt Crossbow
 

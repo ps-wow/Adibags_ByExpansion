@@ -138,27 +138,43 @@ AddonTable.firelands = {
     69110, -- Variable Pulse Lightning Capacitor
     69167, -- Vessel of Acceleration
 
-    -- Set Pieces (from Tokens)
-    71482, -- Elementium Deathplate Handguards (Death Knight)
-    71483, -- Elementium Deathplate Faceguard (Death Knight)
-    71491, -- Obsidian Arborweave Handwraps (Druid)
-    71493, -- Obsidian Arborweave Legwraps (Druid)
-    71494, -- Obsidian Arborweave Tunic (Druid)
-    71495, -- Obsidian Arborweave Mantle (Druid)
-    71501, -- Flamewaker's Tunic (Hunter)
-    71502, -- Flamewaker's Gloves (Hunter)
-    71504, -- Flamewaker's Legguards (Hunter)
-    71547, -- Erupting Volcanic Cuirass (Shaman)
-    71549, -- Erupting Volcanic Helmet (Shaman)
-    71550, -- Erupting Volcanic Legguards (Shaman)
-    71551, -- Erupting Volcanic Spaulders (Shaman)
-    71597, -- Balespider's Robes (Warlock)
-    71598, -- Balespider's Mantle (Warlock)
-    71599, -- Helmet of the Molten Giant (Warrior)
-    71594, -- Balespider's Handwraps (Warlock)
-    71595, -- Balespider's Hood (Warlock)
-    71600, -- Battleplate of the Molten Giant (Warrior)
-    71601, -- Gauntlets of the Molten Giant (Warrior)
-    71602, -- Legplates of the Molten Giant (Warrior)
-    71603, -- Pauldrons of the Molten Giant (Warrior)
+    -- Set Piece (Death Knight)
+    71482, -- Elementium Deathplate Handguards
+    71483, -- Elementium Deathplate Faceguard
+
+    -- Set Piece (Druid)
+    71491, -- Obsidian Arborweave Handwraps
+    71493, -- Obsidian Arborweave Legwraps
+    71494, -- Obsidian Arborweave Tunic
+    71495, -- Obsidian Arborweave Mantle
+
+    -- Set Piece (Hunter)
+    71501, -- Flamewaker's Tunic
+    71502, -- Flamewaker's Gloves
+    71504, -- Flamewaker's Legguards
+
+    -- Set Piece (Priest)
+    71527, -- Handwraps of the Cleansing Flame
+    71528, -- Cowl of the Cleansing Flame
+    71530, -- Robes of the Cleansing Flame
+    71531, -- Mantle of the Cleansing Flame
+
+    -- Set Piece (Shaman)
+    71547, -- Erupting Volcanic Cuirass
+    71549, -- Erupting Volcanic Helmet
+    71550, -- Erupting Volcanic Legguards
+    71551, -- Erupting Volcanic Spaulders
+
+    -- Set Piece (Warlock)
+    71594, -- Balespider's Handwraps
+    71595, -- Balespider's Hood
+    71597, -- Balespider's Robes
+    71598, -- Balespider's Mantle
+
+    -- Set Piece (Warrior)
+    71599, -- Helmet of the Molten Giant
+    71600, -- Battleplate of the Molten Giant
+    71601, -- Gauntlets of the Molten Giant
+    71602, -- Legplates of the Molten Giant
+    71603, -- Pauldrons of the Molten Giant
 }
