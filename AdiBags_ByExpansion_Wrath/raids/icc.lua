@@ -66,20 +66,46 @@ AddonTable.icc25 = {
     50644, -- Ring of Maddening Whispers
 
     -- Icecrown Gunship Battle (25 Man)
+    50654, -- Scourgeborne Waraxe
+    50661, -- Corp'rethar Ceremonial Crown
+    50658, -- Amulet of the Silent Eulogy
     50660, -- Boneguard Commander's Pauldrons
+    50653, -- Shadowvault Slayer's Cloak
+    50656, -- Ikfirus' Sack of Wonder
     50659, -- Polar Bear Claw Bracers
+    50655, -- Scourge Hunter's Vambraces
+    50663, -- Gunship Captain's Mittens
     50667, -- Waistband of Righteous Fury
+    50665, -- Boots of Unnatural Growth
+    50664, -- Ring of Rapid Ascent
     50657, -- Skeleton Lord's Circle
+    50366, -- Althor's Abacus
     50349, -- Corpse Tongue Coin
 
     -- Deathbringer Saurfang (25 Man)
     142095, -- Remains of a Blood Beast (Blood Boil) [Battle Bet]
+    50672, -- Bloodvenom Blade
+    50668, -- Greatcloak of the Turned Champion
+    50670, -- Toskk's Maximized Wristguard
+    50671, -- Belt of the Blood Nova
     50363, -- Deathbringer's Will
 
     -- Festergut (25 Man)
+    50695, -- Distant Land
+    50692, -- Black Bruise
     50701, -- Faceplate of the Forgotten
+    50700, -- Holiday's Grace
+    50698, -- Horrific Flesh Epaulets
+    50689, -- Carapace of Forgotten Kings
     50690, -- Fleshrending Gauntlets
+    50703, -- Unclean Surgical Gloves
     50691, -- Belt of Broken Bones
+    50702, -- Lingering Illness
+    50688, -- Nerub'ar Stalker's Cord
+    50697, -- Gangrenous Leggings
+    50696, -- Leather of Stitched Scourge Parts
+    50694, -- Plaguebringer's Stained Pants
+    50699, -- Plague Scientist's Boots
     50693, -- Might of Blight
 
     -- Rotface (25 Man)
