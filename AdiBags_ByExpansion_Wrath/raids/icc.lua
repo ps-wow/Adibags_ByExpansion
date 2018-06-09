@@ -32,21 +32,21 @@ AddonTable.icc25 = {
 
     -- Lord Marrowgar (25 Man)
     142094, -- Fragment of Frozen Bone (Boneshard) [Battle Pet]
-    50709, -- Bryntroll, the Bone Arbiter
-    50608, -- Frozen Bonespike
-    50616, -- Bulwark of Smouldering Steel
-    50605, -- Snowserpent Mail Helm
-    50609, -- Bone Sentinel's Amulet
-    50617, -- Rusted Bonespike Pauldrons
-    50606, -- Gendarme's Curiass
-    50611, -- Bracers of Dark Reckoning
-    50615, -- Handguards of Winter's Respite
-    50613, -- Crushing Coldwraith Belt
-    50612, -- Legguards of Lost Hope
-    50607, -- Frostbitten Fur Boots
     50604, -- Band of the Bone Colossus
-    50614, -- Loop of the Endless Labyrinth
+    50605, -- Snowserpent Mail Helm
+    50606, -- Gendarme's Curiass
+    50607, -- Frostbitten Fur Boots
+    50608, -- Frozen Bonespike
+    50609, -- Bone Sentinel's Amulet
     50610, -- Marrowgar's Frigid Eye
+    50611, -- Bracers of Dark Reckoning
+    50612, -- Legguards of Lost Hope
+    50613, -- Crushing Coldwraith Belt
+    50614, -- Loop of the Endless Labyrinth
+    50615, -- Handguards of Winter's Respite
+    50616, -- Bulwark of Smouldering Steel
+    50617, -- Rusted Bonespike Pauldrons
+    50709, -- Bryntroll, the Bone Arbiter
 
     -- Lady Deathwhisper (25 Man)
     50648, -- Nibelung
