@@ -33,6 +33,20 @@ AddonTable.soo = {
     112481, -- Darkfallen Shoulderplates
     112494, -- Shoulderguards of Dark Meditations
     112488, -- Shoulderpads of Dou Dou Chong
+    112492, -- Shoulders of the Roiling Inferno
+    112485, -- Gloomwrap Greatcloak
+    112487, -- Robes of the Tendered Heart
+    112489, -- Lifebane Bracers
+    112495, -- Grips of the Fallen Council
+    112480, -- Grips of Unending Anguish
+    112483, -- Shockstriker Gauntlets
+    112482, -- Poisonbinder Girth
+    112493, -- Sabatons of Defilement
+    112486, -- Sha-Seared Sandals
+    112479, -- Stonetoe's Tormented Treads
+    112490, -- Petrified Pennyroyal Ring
+    112484, -- Sorrowpath Signet
+    112476, -- Rook's Unlucky Talisman
 
     -- Garrosh
     105868, -- Essence of the Cursed Vanquisher
