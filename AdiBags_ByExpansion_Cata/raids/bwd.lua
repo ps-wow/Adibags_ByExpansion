@@ -103,15 +103,24 @@ AddonTable.bwd = {
     65057, -- Belt of the Nightmare
     65026, -- Prestor's Talisman of Machination
 
-    -- Tier Pieces (From Tokens)
-    65205, -- Lightning-Charged Gloves (Hunter)
-    65205, -- Lightning-Charged Legguards (Hunter)
-    65231, -- Mercurial Legwraps (Priest)
-    65266, -- Earthern Helmet (Warrior)
-    65250, -- Grips of the Raging Elements (Shaman)
-    65252, -- Legguards of the Raging Elements (Shaman)
-    65251, -- Helmet of the Raging Elements (Shaman)
-    65225, -- Reinforced Sapphirium Handguards (Paladin)
-    65227, -- Reinforced Sapphirium Legguards (Paladin)
-    65226, -- Reinforced Sapphirium Faceguard (Paladin)
+    -- Set Pieces (Hunter)
+    65205, -- Lightning-Charged Gloves
+    65205, -- Lightning-Charged Legguards
+
+    -- Set Pieces (Paladin)
+    65216, -- Reinforced Sapphirium Helmet
+    65225, -- Reinforced Sapphirium Handguards
+    65227, -- Reinforced Sapphirium Legguards
+    65226, -- Reinforced Sapphirium Faceguard
+
+    -- Set Pieces (Priest)
+    65231, -- Mercurial Legwraps
+
+    -- Set Pieces (Shaman)
+    65250, -- Grips of the Raging Elements
+    65252, -- Legguards of the Raging Elements
+    65251, -- Helmet of the Raging Elements
+
+    -- Set Pieces (Warrior)
+    65266, -- Earthern Helmet
 }

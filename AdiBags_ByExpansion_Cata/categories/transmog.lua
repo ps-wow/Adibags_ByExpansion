@@ -17,6 +17,7 @@ AddonTable.transmog = {
     55387, -- Irontree Mace
 
     55412, -- Mardenholde Spear
+    55413, -- Bladefist Spear
     55414, -- Irontree Spear
     55430, -- Ravencrest Shield
     55431, -- Stonewrought Shield
@@ -50,6 +51,7 @@ AddonTable.transmog = {
     55594, -- Talondeep Gauntlets
 
     55602, -- Thornsnarl Helm
+    55611, -- Thornsnarl Legguards
     55612, -- Talondeep Legguards
     55620, -- Thornsnarl Spaulders
     55621, -- Talondeep Spaulders
@@ -59,6 +61,7 @@ AddonTable.transmog = {
     55657, -- Ravenholdt Boots
     55664, -- Dandred Gloves
     55648, -- Ravenholdt Jerkin
+    55665, -- Haldarr Gloves
     55673, -- Dandred Hood
     55674, -- Haldarr Hood
     55675, -- Ravenholdt Hood
@@ -66,6 +69,7 @@ AddonTable.transmog = {
     55700, -- Dandred Waistband
     55701, -- Haldarr Waistband
     55711, -- Bluefen Wristwraps
+    55719, -- Mystral Robe
     55720, -- Bluefen Robe
     55728, -- Mystral Sandals
     55737, -- Mystral Handwraps

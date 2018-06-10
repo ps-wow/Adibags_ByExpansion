@@ -31,6 +31,7 @@ AddonTable.junk = {
     62103, -- Pockmarked Hay
     62104, -- Perforated Plate Helmet
     62106, -- Bleached Plate Gloves
+    62107, -- Singed Belt
     62108, -- Singed Armor
     62109, -- Sodden Cloth Vest
     62112, -- Singed Pants
