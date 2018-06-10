@@ -153,6 +153,12 @@ AddonTable.firelands = {
     71502, -- Flamewaker's Gloves
     71504, -- Flamewaker's Legguards
 
+    -- Set Piece (Paladin)
+    71522, -- Immolation Chestguard
+    71523, -- Immolation Handguards
+    71525, -- Immolation Legguards
+    71526, -- Immolation Shoulderguards
+
     -- Set Piece (Priest)
     71527, -- Handwraps of the Cleansing Flame
     71528, -- Cowl of the Cleansing Flame
