@@ -13,7 +13,15 @@
     <Script file="professions\gathering\mining.lua"/>
     <Script file="professions\gathering\skinning.lua"/>
 
+    <Script file="raids\archavon.lua"/>
+    <Script file="raids\eye.lua"/>
     <Script file="raids\icc.lua"/>
+    <Script file="raids\naxx.lua"/>
+    <Script file="raids\onyxia.lua"/>
+    <Script file="raids\os.lua"/>
+    <Script file="raids\rs.lua"/>
+    <Script file="raids\toc.lua"/>
+    <Script file="raids\ulduar.lua"/>
 
     <Script file="main.lua"/>
 
