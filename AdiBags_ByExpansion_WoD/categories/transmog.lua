@@ -7,6 +7,7 @@ AddonTable.transmog = {
     106702, -- Sabermaw Shoulders
     106705, -- Voidwrap Cowl
     106707, -- Voidwrap Leggings
+    106727, -- Stonecrag Shield
     106728, -- Stonecrag Vambraces
     106729, -- Meadowstomper Bindings [Leather][Wrist]
     106732, -- Meadowstomper Gloves
@@ -31,4 +32,5 @@ AddonTable.transmog = {
     119340, -- Iron-Flecked Sandals [Leather][Feet] BrF
     119343, -- Eye-Blinder Greatcloak [Back] (HM)
     119345, -- Milenah's Intricate Cloak [Back] (HM)
+    119332, -- Bracers of Darkened Skies [Bracers][Cloth] BrF
 }
