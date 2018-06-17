@@ -95,6 +95,7 @@ AddonTable.transmog = {
     -- Rare (Blue)
     66941, -- Triple-Loop Belt (BoT)
     66972, -- Crystalline Geoknife [Fist Weapon] (BoT)
+    66975, -- Hood of the Crying Rogue
     67061, -- Bulwark of the Scorned Man
 
     -- Epic (Purple)

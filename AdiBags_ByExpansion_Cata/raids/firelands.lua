@@ -156,6 +156,7 @@ AddonTable.firelands = {
     -- Set Piece (Paladin)
     71522, -- Immolation Chestguard
     71523, -- Immolation Handguards
+    71524, -- Immolation Faceguard
     71525, -- Immolation Legguards
     71526, -- Immolation Shoulderguards
 
