@@ -65,6 +65,7 @@ AddonTable.transmog = {
     55673, -- Dandred Hood
     55674, -- Haldarr Hood
     55675, -- Ravenholdt Hood
+    55684, -- Ravenholdt Britches
 
     55700, -- Dandred Waistband
     55701, -- Haldarr Waistband
@@ -77,6 +78,7 @@ AddonTable.transmog = {
     55745, -- Everstill Cowl
     55747, -- Bluefen Cowl
     55754, -- Everstill Leggings
+    55756, -- Bluefen Leggings
     55763, -- Everstill Shoulderpads
     55764, -- Mystral Shoulderpads
     55765, -- Bluefen Shoulderpads
@@ -96,6 +98,7 @@ AddonTable.transmog = {
     66941, -- Triple-Loop Belt (BoT)
     66972, -- Crystalline Geoknife [Fist Weapon] (BoT)
     66975, -- Hood of the Crying Rogue
+    66989, -- Endwyn's Flickering Gauntlets
     67061, -- Bulwark of the Scorned Man
 
     -- Epic (Purple)

@@ -3,7 +3,9 @@ local AddonName, AddonTable = ...
 -- Soulbound Items (Green or higher)
 
 AddonTable.loot = {
-    55314, -- Thondoril Cloak
+    -- Uncommon (Green)
+    55314, -- Thondroril Cloak
+    55422, -- Thondroril Ring
     55423, -- Blackwolf Ring
     55441, -- Blackwolf Spellblade
     55495, -- Crystalvein Vambraces

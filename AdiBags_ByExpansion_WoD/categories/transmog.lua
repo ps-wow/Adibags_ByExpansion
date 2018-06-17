@@ -24,6 +24,10 @@ AddonTable.transmog = {
     116638, -- Howling Spear
     116721, -- Ancestral Branch [OffHand]
 
+    -- Rare (Blue)
+    111475, -- Beater's Beat Stick
+    118803, -- Kihrawr's Scratching Post
+
     -- Epic (Purple)
     119331, -- Bracers of Visceral Force [Plate][Wrist] BrF
     119335, -- Eyeripper Girdle [Leather][Belt] (HM)
