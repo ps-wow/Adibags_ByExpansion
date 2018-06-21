@@ -10,9 +10,17 @@ local module = {
     ["prefix"] = "03. Wrath - ",
     ["description"] = "Wrath of the Lich King",
     ["raids"] = {
+        ["archavon"] = "Vault of Archavon",
+        ["eye"] = "The Eye of Eternity",
         ["icc"] = "Icecrown Citadel",
         ["icc10"] = "Icecrown Citadel 10",
-        ["icc25"] = "Icecrown Citadel 25"
+        ["icc25"] = "Icecrown Citadel 25",
+        ["naxx"] = "Naxxramas",
+        ["onyxia"] = "Onyxia's Lair",
+        ["os"] = "Obsidium Sanctum",
+        ["rs"] = "Ruby Sanctum",
+        ["toc"] = "Trial of Crusader",
+        ["ulduar"] = "Ulduar"
     }
 }
 
