@@ -15,6 +15,7 @@ AddonTable.transmog = {
     55367, -- Mereldar Scepter
     55377, -- Thondroril Crystal
     55387, -- Irontree Mace
+    55394, -- Mardenholde Hammer
 
     55412, -- Mardenholde Spear
     55413, -- Bladefist Spear
@@ -45,6 +46,7 @@ AddonTable.transmog = {
     55565, -- Highperch Bracers
     55566, -- Thornsnarl Bracers
     55574, -- Highperch Vest
+    55576, -- Talondeep Vest
     55583, -- Highperch Greaves
     55584, -- Thornsnarl Greaves
     55585, -- Talondeep Greaves
@@ -70,10 +72,12 @@ AddonTable.transmog = {
     55700, -- Dandred Waistband
     55701, -- Haldarr Waistband
     55711, -- Bluefen Wristwraps
+    55718, -- Everstill Robe
     55719, -- Mystral Robe
     55720, -- Bluefen Robe
     55727, -- Everstill Sandals
     55728, -- Mystral Sandals
+    55729, -- Bluefen Sandals
     55737, -- Mystral Handwraps
     55738, -- Bluefen Handwraps
     55745, -- Everstill Cowl
