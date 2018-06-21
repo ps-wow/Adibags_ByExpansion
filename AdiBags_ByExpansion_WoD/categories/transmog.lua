@@ -8,6 +8,7 @@ AddonTable.transmog = {
     106705, -- Voidwrap Cowl
     106707, -- Voidwrap Leggings
     106708, -- Voidwrap Robe
+    106710, -- Voidwrap Shoulderpads
     106726, -- Stonecrag Sabatons
     106727, -- Stonecrag Shield
     106728, -- Stonecrag Vambraces
