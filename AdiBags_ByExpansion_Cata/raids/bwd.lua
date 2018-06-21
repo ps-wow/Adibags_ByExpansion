@@ -108,10 +108,12 @@ AddonTable.bwd = {
     65205, -- Lightning-Charged Legguards
 
     -- Set Pieces (Paladin)
-    65216, -- Reinforced Sapphirium Helmet
-    65225, -- Reinforced Sapphirium Handguards
-    65227, -- Reinforced Sapphirium Legguards
-    65226, -- Reinforced Sapphirium Faceguard
+    65216, -- Reinforced Sapphirium Helmet (Prot)
+    65217, -- Reinforced Sapphirium Legplates (Ret)
+    65222, -- Reinforced Sapphirium Greaves (Holy)
+    65225, -- Reinforced Sapphirium Handguards (Prot)
+    65227, -- Reinforced Sapphirium Legguards (Prot)
+    65226, -- Reinforced Sapphirium Faceguard (Prot)
 
     -- Set Pieces (Priest)
     65231, -- Mercurial Legwraps

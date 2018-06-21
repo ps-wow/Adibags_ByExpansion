@@ -72,6 +72,7 @@ AddonTable.transmog = {
     55711, -- Bluefen Wristwraps
     55719, -- Mystral Robe
     55720, -- Bluefen Robe
+    55727, -- Everstill Sandals
     55728, -- Mystral Sandals
     55737, -- Mystral Handwraps
     55738, -- Bluefen Handwraps

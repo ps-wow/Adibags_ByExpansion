@@ -98,6 +98,9 @@ AddonTable.bot = {
     65204, -- Lightning-Charged Tunic
     65208, -- Lightning-Charged Spaulders
 
+    -- Set Pieces (Paladin)
+    65218, -- Reinforced Sapphirium Pauldrons (Ret)
+
     -- Set Pieces (Priest)
     65232, -- Mercurial Robes
     65233, -- Mercurial Mantle

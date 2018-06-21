@@ -12,6 +12,7 @@ AddonTable.loot = {
     147255, -- Galvanized Stormscale Belt
 
     -- Unsullied
+    152744, -- Unsullied Mail Girdle (BoA)
     152774, -- Azurelight Sage's Slippers (Bound)
     152735, -- Unsullied Ring (BoA)
     153140, -- Unsullied Plate Waistplate (BoA)

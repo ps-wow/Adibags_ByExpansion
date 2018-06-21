@@ -18,7 +18,6 @@ AddonTable.loot = {
     55755, -- Mystral Leggings (Cloth)
     55773, -- Mystical Cord
     55772, -- Everstill Cord
-    55727, -- Everstill Sandals
 
     -- BoE (Non-Appearence)
     55403, -- Mereldar Amulet
