@@ -7,18 +7,28 @@ AddonTable.transmog = {
     106702, -- Sabermaw Shoulders
     106705, -- Voidwrap Cowl
     106707, -- Voidwrap Leggings
+    106708, -- Voidwrap Robe
+    106726, -- Stonecrag Sabatons
     106727, -- Stonecrag Shield
     106728, -- Stonecrag Vambraces
     106729, -- Meadowstomper Bindings [Leather][Wrist]
+    106731, -- Meadowstomper Britches [Leather][Legs]
     106732, -- Meadowstomper Gloves
+    106733, -- Meadowstomper Hood
     106735, -- Meadowstomper Shoulders [Leather][Shoulder]
     106742, -- Dark Star Sandals
     106743, -- Dark Star Shoulderpads [Cloth][Shoulder]
     106744, -- Dark Star Wristwraps
+    106749, -- Packrunner Helm
+    106750, -- Packrunner Legguards
+    106751, -- Packrunner Spaulders
     106752, -- Packrunner Vest
 
     116612, -- Gorian Bow
     116616, -- Gorian Knuckles
+    116618, -- Gorian Mace
+    116626, -- Ancestral Wand [Wand]
+    116631, -- Howling Dagger
     116633, -- Howling Knuckles
     116635, -- Howling Mace
     116638, -- Howling Spear
