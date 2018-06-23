@@ -3,6 +3,6 @@
 ## Notes: Filter items from The Burning Crusade
 ## Author: PrivateSniper
 ## Version: 1.0.0
-## Dependencies: AdiBags, AdiBags_ByExpansion_Core
+## Dependencies: AdiBags, AdiBags_ByExpansion
 
 tbc.xml
