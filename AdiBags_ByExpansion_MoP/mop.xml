@@ -7,6 +7,7 @@
     <Script file="professions\crafting\alchemy.lua"/>
     <Script file="professions\gathering\herbalism.lua"/>
     <Script file="professions\gathering\cloth.lua"/>
+    <Script file="professions\gathering\fishing.lua"/>
     <Script file="professions\gathering\mining.lua"/>
     <Script file="professions\gathering\skinning.lua"/>
 

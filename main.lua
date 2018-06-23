@@ -140,10 +140,11 @@ function Core:GetProfessions()
         "leatherworking",
         "tailoring",
         -- Gathering
+        "cloth", -- Not a gathering profession, but works as such
+        "fishing",
         "mining",
         "skinning",
         "herbalism",
-        "cloth", -- Not a gathering profession, but works as such
     }
 end
 
