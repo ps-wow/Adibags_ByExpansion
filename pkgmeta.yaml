@@ -1,3 +1,13 @@
+move-folders:
+  Adibags_ByExpansion/AdiBags_ByExpansion_WoW: AdiBags_ByExpansion_WoW
+  Adibags_ByExpansion/AdiBags_ByExpansion_TBC: AdiBags_ByExpansion_TBC
+  Adibags_ByExpansion/AdiBags_ByExpansion_Wrath: AdiBags_ByExpansion_Wrath
+  Adibags_ByExpansion/AdiBags_ByExpansion_Cata: AdiBags_ByExpansion_Cata
+  Adibags_ByExpansion/AdiBags_ByExpansion_MoP: AdiBags_ByExpansion_MoP
+  Adibags_ByExpansion/AdiBags_ByExpansion_WoD: AdiBags_ByExpansion_WoD
+  Adibags_ByExpansion/AdiBags_ByExpansion_Legion: AdiBags_ByExpansion_Legion
+  Adibags_ByExpansion/AdiBags_ByExpansion_BfA: AdiBags_ByExpansion_BfA
+
 ignore:
   - .gitignore
   - README.md
