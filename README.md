@@ -1,11 +1,11 @@
 # AdiBags: By Expansion
-
 This is an extension to the World of Warcraft addon "Adibags" which adds further grouping by which expansion an item belongs to.
 
-## Status
+## Why?
+I run a lot of legacy content for kicks/gold and this addon helps me (and hopefully others) find items in my bags which saves a little time when for example vendoring all the items i've just collected from firelands or similar.
 
-The core code of the addon is mostly complete.
-We still need all raid drops to be added into the addon which I am working on over time at present.
+## How?
+This addon currently requires manual entry of item id's in predefined lists so will not include every single items, but will work for the most commonly encountered items, things like herbs etc should all be in the addon though it's likely I have missed some, I welcome any categorization requests and/or pull requests on github - preferably with the item id's so I can look them up.
 
 ## Decisions
 
