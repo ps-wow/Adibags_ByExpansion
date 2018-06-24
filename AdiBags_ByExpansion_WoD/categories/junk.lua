@@ -16,6 +16,7 @@ AddonTable.junk = {
 
     106824, -- Ruffled Plumage
     106825, -- Razor Talon
+    106867, -- Dulled Claw
     106870, -- Mangy Pelt
     106873, -- Luxurious Pelt
     106875, -- Worn Flat Tooth
@@ -43,6 +44,8 @@ AddonTable.junk = {
     113530, -- Scaly Skin
     116923, -- Goop Globules
     116924, -- Humerus Bone
+
+    118678, -- Ceremonial Warsong Spear
     118898, -- Rusted Canary Cage
     118899, -- Crumbled Gem Shards
     118902, -- Weathered Mining Journal

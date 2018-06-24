@@ -14,9 +14,10 @@ AddonTable.transmog = {
     106728, -- Stonecrag Vambraces
     106729, -- Meadowstomper Bindings [Leather][Wrist]
     106731, -- Meadowstomper Britches [Leather][Legs]
-    106732, -- Meadowstomper Gloves
-    106733, -- Meadowstomper Hood
+    106732, -- Meadowstomper Gloves [Leather][Gloves]
+    106733, -- Meadowstomper Hood [Leather][Helm]
     106735, -- Meadowstomper Shoulders [Leather][Shoulder]
+    106736, -- Meadowstomper Waistband [Leather][Waist]
     106742, -- Dark Star Sandals
     106743, -- Dark Star Shoulderpads [Cloth][Shoulder]
     106744, -- Dark Star Wristwraps
