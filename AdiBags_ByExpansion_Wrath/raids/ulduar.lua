@@ -39,5 +39,35 @@ AddonTable.ulduar = {
     45292, -- Energy Siphon
     45286, -- Pyrite Infuser
 
+    -- Ignis the Furnace Master
+    142086, -- Red-Hot Coal (Magma Rageling) [Battle Pet]
+    45171, -- Intensity
+    45311, -- Relentless Edge
+    45165, -- Worldcarver
+    45309, -- Rifle of the Platinum Guard
+    45170, -- Scepter of Creation
+    45314, -- Igniter Rod
+    45164, -- Helm of the Furnace Master
+    45321, -- Pauldrons of Tempered Will
+    45186, -- Soot-Covered Mantle
+    45318, -- Drape of Fuming Anger
+    45317, -- Shawl of the Caretaker
+    45167, -- Lifeforge Breastplate
+    45316, -- Armbraces of the Vibrant Flame
+    45187, -- Wristguards of the Firetender
+    45310, -- Gauntlets of the Iron Furnace
+    45312, -- Gloves of Smoldering Touch
+    45185, -- Flamewrought Cinch
+    45161, -- Girdle of Embers
+    45166, -- Charred Saronite Greaves
+    45162, -- Flamestalker Boots
+    45157, -- Cindershard Ring
+    45168, -- Pyrelight Circle
+    45313, -- Furnace Stone
+    45158, -- Heart of Iron
+
     -- TIMEWALKING
+
+    -- Flame Leviathan
+    -- Ignis the Furnace Master
 }
