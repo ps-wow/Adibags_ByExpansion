@@ -92,9 +92,45 @@ AddonTable.ulduar = {
     45308, -- Eye of the Broodmother
     45148, -- Living Flame
 
+    -- XT-002 Deconstructor
+    45868, -- Aesir's Edge
+    45256, -- Twisted Visage
+    45246, -- Golem-Shard Sticker
+    45685, -- Plasma Foil
+    45442, -- Sorthalis, Hammer of the Watchers
+    45870, -- Magnetized Projectile Emitter
+    45257, -- Quartz Crystal Wand
+    45682, -- Pulsing Spellshield
+    45687, -- Helm of Veiled Energies
+    45443, -- Charm of Meticulous Timing
+    45253, -- Mantle of Wavering Calm
+    45251, -- Shoulderplates of the Deconstructor
+    45677, -- Treacherous Shoulderpads
+    45445, -- Breastplate of the Devoted
+    45867, -- Breastplate of the Stoneshaper
+    45676, -- Chestplate of Vicious Potency
+    45259, -- Quartz-Studden Harness
+    45686, -- Vest of the Glowing Crescent
+    46580, -- Armbands of the Construct
+    45869, -- Fluxing Energy Coils
+    45446, -- Grasps of Reason
+    45252, -- Horologist's Wristguards
+    45679, -- Gloves of Taut Grip
+    45444, -- Gloves of the Steady Hand
+    45694, -- Conductive Cord
+    45248, -- Clockwork Legplates
+    45260, -- Boots of Hasty Revival
+    45249, -- Brass-Lined Boots
+    45258, -- Sandals of Rash Temperament
+    45250, -- Crazed Constructive Ring
+    45675, -- Power Enhancing Loop
+    45871, -- Seal of Ulduar
+    45247, -- Signet of the Earthshaker
+
     -- TIMEWALKING
 
     -- Flame Leviathan
     -- Ignis the Furnace Master
     -- Razorscale
+    -- XT-002 Deconstructor
 }
