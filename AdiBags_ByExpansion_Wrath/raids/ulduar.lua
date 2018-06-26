@@ -66,8 +66,35 @@ AddonTable.ulduar = {
     45313, -- Furnace Stone
     45158, -- Heart of Iron
 
+    -- Razorscale
+    142087, -- Ironbound Collar (Ironbound Proto-Whelp) [Battle Pet]
+    45147, -- Guiding Star
+    45298, -- Razorscale Talon
+    45142, -- Remorse
+    45137, -- Veranus' Bane
+    45150, -- Collar of the Wyrmhunter
+    45299, -- Dragonsteel Faceplate
+    45140, -- Razorscale Shoulderguards
+    45138, -- Drape of the Drakerider
+    45305, -- Breastplate of the Afterlife
+    45149, -- Bracers of the Broodmother
+    45301, -- Bracers of the Smothering Inferno
+    45146, -- Shackles of the Odalisque
+    45151, -- Belt of the Fallen Wyrm
+    45306, -- Binding of the Dragon Matriarch
+    45139, -- Dragonslayer's Brace
+    45304, -- Stormtempered Girdle
+    45307, -- Ironscale Leggings
+    45141, -- Proto-Hide Leggings
+    45143, -- Saronite Mesh Legguards
+    45302, -- Treads of the Invader
+    45303, -- Band of Draconic Guile
+    45308, -- Eye of the Broodmother
+    45148, -- Living Flame
+
     -- TIMEWALKING
 
     -- Flame Leviathan
     -- Ignis the Furnace Master
+    -- Razorscale
 }
