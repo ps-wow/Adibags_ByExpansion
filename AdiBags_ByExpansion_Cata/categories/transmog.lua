@@ -124,4 +124,5 @@ AddonTable.transmog = {
     71359, -- Chelley's Sterilized Scalpel
     71360, -- Spire of Scarlet Pain
     71361, -- Ranseur of Hatred
+    78886, -- Belt of Ghostly Graces [Mail][Belt] (Dragon Soul)
 }

@@ -1,6 +1,9 @@
 local AddonName, AddonTable = ...
 
 AddonTable.enchanting = {
-    -- Enchanting
+    -- Materials
     109693, -- Draenic Dust
+
+    -- Enchants
+    110656, -- Enchant Cloak - Gift of Versatility
 }

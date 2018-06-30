@@ -3,7 +3,9 @@ local AddonName, AddonTable = ...
 AddonTable.junk = {
     56046,  -- Shattered Rock Fragments
 
+    106294, -- Acid Scarred Plate Pants
     106299, -- Ripped Mail Boots
+
     106300, -- Acid Scarred Plate Boots
     106305, -- Acid Scarred Plate Helmet
     106309, -- Sun-Baked Armor
@@ -41,7 +43,12 @@ AddonTable.junk = {
     108980, -- Crushed Bone Fragments
 
     111484, -- Cold Tusk
+
     113530, -- Scaly Skin
+
+    114004, -- Medal of Patience
+    114012, -- Underground Map
+
     116923, -- Goop Globules
     116924, -- Humerus Bone
 

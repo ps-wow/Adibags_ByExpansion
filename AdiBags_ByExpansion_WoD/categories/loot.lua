@@ -10,7 +10,10 @@ AddonTable.loot = {
 
     116765, -- Positive Pantaloons
     116795, -- Greatfeather's Down Robe
+    116796, -- Malroc's Staff of Command
+    116806, -- Soul Fang
     116807, -- Flinthide's Impenetrable Crest
+
     118253, -- Trophy Band of Telaar
     118254, -- Trophy Signet of the Sabermaw
     118255, -- Trophy Ring of Gordal

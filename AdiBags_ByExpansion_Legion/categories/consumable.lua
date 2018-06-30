@@ -7,6 +7,8 @@ AddonTable.consumable = {
     127836, -- Ancient Rejuvenation Potion
     127840, -- Skaggldrynk
     127841, -- Skystep Potion
+    -- Flasks (Alchemy)
+    127847, -- Flask of the Whispered Pact
     -- Augments
     140587, -- Defiled Augment Rune
 }

@@ -1,6 +1,7 @@
 local AddonName, AddonTable = ...
 
 AddonTable.transmog = {
+    -- Greens
     36037, -- Condor Robe
     36045, -- Crystalsong Robe
     36053, -- Vizier Robe
@@ -10,4 +11,6 @@ AddonTable.transmog = {
     36262, -- Cormorant Gloves
 
     36372, -- Kraken Greaves
+
+    36526, -- Sleeted Longsword
 }

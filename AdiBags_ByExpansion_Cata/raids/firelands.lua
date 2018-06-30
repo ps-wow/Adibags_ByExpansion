@@ -163,8 +163,14 @@ AddonTable.firelands = {
     -- Set Piece (Priest)
     71527, -- Handwraps of the Cleansing Flame
     71528, -- Cowl of the Cleansing Flame
+    71529, -- Legwraps of the Cleansing Flame
     71530, -- Robes of the Cleansing Flame
     71531, -- Mantle of the Cleansing Flame
+    71532, -- Gloves of the Cleansing Flame
+    71533, -- Hood of the Cleansing Flame
+    71534, -- Leggings of the Cleansing Flame
+    71535, -- Vestment of the Cleansing Flame
+    71536, -- Shoulderwraps of the Cleansing Flame
 
     -- Set Piece (Shaman)
     71547, -- Erupting Volcanic Cuirass

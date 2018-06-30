@@ -2,11 +2,13 @@ local AddonName, AddonTable = ...
 
 AddonTable.junk = {
     33366, -- Frost-Rimed Cloth Boots
+    33367, -- Frost-Rimed Cloth Bracers
     33369, -- Frost-Rimed Cloth Pants
     33370, -- Frost-Rimed Cloth Shoulderpads
     33371, -- Frost-Rimed Cloth Vest
     33379, -- Frozen Armor
     33380, -- Frozen Belt
+    33381, -- Frozen Boots
     33397, -- Frigid Mail Armor
     33398, -- Frigid Mail Belt
     33399, -- Frigid Mail Boots

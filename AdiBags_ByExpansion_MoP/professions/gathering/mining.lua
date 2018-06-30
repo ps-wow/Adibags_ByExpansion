@@ -1,6 +1,5 @@
 local AddonName, AddonTable = ...
 
 AddonTable.mining = {
-    -- Ore
-    -- Gems
+    72094, -- Black Trillium Ore
 }
