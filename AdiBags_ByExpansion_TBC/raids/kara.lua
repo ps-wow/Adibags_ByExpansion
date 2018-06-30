@@ -108,6 +108,20 @@ AddonTable.kara = {
     28727, -- Pendant of the Violet Eye
 
     -- Terestian Illhoof
+    22561, -- Formula: Enchant Weapon - Soulfrost
+    138799, -- Illusion: Soulfrost
+    97551, -- Satyr Charm (Fiendish Imp) [Battle Pet]
+    28658, -- Terestian's Stranglestaff
+    28657, -- Fool's Bane
+    28660, -- Gilded Thorium Cloak
+    28653, -- Shadowvine Cloak of Infusion
+    28662, -- Breastplate of the Lightbinder
+    28652, -- Cincture of Will
+    28655, -- Cord of Nature's Sustenance
+    28656, -- Girdle of the Prowler
+    28654, -- Malefic Girdle
+    28661, -- Mender's Heart-Ring
+    28785, -- The Lightning Capacitor
 
     -- Netherspite
 
