@@ -9,7 +9,11 @@ AddonTable.cooking = {
     74842, -- Mogu Pumpkin
     74843, -- Scallions
     74844, -- Red Blossom Leek
+    74845, -- Ginseng
+    74846, -- Witchberries
     74847, -- Jade Squash
+    74848, -- Striped Melon
     74849, -- Pink Turnip
+    74850, -- White Turnip
     -- Recipies
 }
