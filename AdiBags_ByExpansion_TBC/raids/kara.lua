@@ -124,8 +124,48 @@ AddonTable.kara = {
     28785, -- The Lightning Capacitor
 
     -- Netherspite
+    28729, -- Spiteblade
+    28734, -- Jewel of Infinite Possibilities
+    28732, -- Cowl of Defiance
+    28744, -- Uni-Mind Headdress
+    28731, -- Shining Chain of the Afterwold
+    28743, -- Mantle of Abrahmis
+    28735, -- Earthblood Chestguard
+    28733, -- Girdle of Truth
+    28742, -- Pantaloons of Repentance
+    28740, -- Rip-Flayer Leggings
+    28741, -- Skulker's Greaves
+    28730, -- Mithril Band of the Unscarred
 
     -- Chess Event
+    28749, -- King's Defender
+    28754, -- Triptych Shield of the Ancients
+    28756, -- Headdress of the High Potentate
+    28745, -- Mithril Chain of Heroism
+    28755, -- Bladed Shoulderpads of the Merciless
+    28750, -- Girdle of Treachery
+    28751, -- Heart-Flame Leggings
+    28748, -- Legplates of the Innocent
+    28747, -- Battlescar Boots
+    28746, -- Fiend Slayer Boots
+    28752, -- Forestlord Striders
+    28753, -- Ring of Recurrence
 
     -- Prince Malchezaar
+    29760, -- Helm of the Fallen Champion
+    29761, -- Helm of the Fallen Defender
+    29759, -- Helm of the Fallen Hero
+    97550, -- Netherspace Portal-Stone (Netherspace Abyssal) [Battle Pet]
+    28773, -- Gorehowl
+    28771, -- Light's Justice
+    28768, -- Malchazeen
+    28770, -- Nathrezim Mindblade
+    28767, -- The Decapitator
+    28772, -- Sunfury Bow of the Phoenix
+    28762, -- Adornment of Stolen Souls
+    28764, -- Farstrider Wildercloak
+    28766, -- Ruby Drape of the Mysticant
+    28765, -- Stainless Cloak of the Pure Hearted
+    28763, -- Jade Ring of the Everliving
+    28757, -- Ring of a Thousand Marks
 }
