@@ -4,12 +4,13 @@
     <Script file="categories\junk.lua"/>
 
     <Script file="professions\crafting\alchemy.lua"/>
+
     <Script file="professions\gathering\herbalism.lua"/>
     <Script file="professions\gathering\cloth.lua"/>
     <Script file="professions\gathering\mining.lua"/>
     <Script file="professions\gathering\skinning.lua"/>
 
-    <Script file="raids\mc.lua"/>
+    <Script file="raids\uldir.lua"/>
 
     <Script file="main.lua"/>
 
