@@ -7,6 +7,7 @@
     <Script file="categories\transmog.lua"/>
 
     <Script file="professions\crafting\alchemy.lua"/>
+    <Script file="professions\crafting\inscription.lua"/>
 
     <Script file="professions\gathering\cloth.lua"/>
     <Script file="professions\gathering\herbalism.lua"/>
