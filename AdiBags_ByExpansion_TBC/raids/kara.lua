@@ -1,5 +1,6 @@
 local AddonName, AddonTable = ...
 
+-- [Raid] Karazhan: 10 Normal
 AddonTable.kara = {
     -- Servant's Quarters
     30686, -- Ravager's Bands
@@ -89,4 +90,28 @@ AddonTable.kara = {
     28612, -- Pauldrons of the Solace-Giver
     28621, -- Wrynn Dynasty Greaves
     28649, -- Garona's Signet Ring
+
+    -- Shade of Aran
+    22560, -- Formula: Enchant Weapon - Sunfire
+    138798, -- Illusion: Sunfire
+    28673, -- Tirisfal Wand of Ascendancy
+    28728, -- Aran's Soothing Sapphire
+    28671, -- Steelspine Faceguard
+    28674, -- Saberclaw Talisman
+    28726, -- Mantle of the Mind Flayer
+    28666, -- Pauldrons of the Justice-Seeker
+    28672, -- Drape of the Dark Reavers
+    28663, -- Boots of the Incorrupt
+    28670, -- Boots of the Infernal Coven
+    28669, -- Rapscallion Boots
+    28675, -- Shermanar Great-Ring
+    28727, -- Pendant of the Violet Eye
+
+    -- Terestian Illhoof
+
+    -- Netherspite
+
+    -- Chess Event
+
+    -- Prince Malchezaar
 }
