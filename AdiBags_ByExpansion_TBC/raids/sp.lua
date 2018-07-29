@@ -89,4 +89,25 @@ AddonTable.sp = {
     34428, -- Steely Naaru Sliver
 
     -- Kil'jaeden
+    34247, -- Apolyon, the Soul-Render
+    34337, -- Golden Staff of the Sin'dorei
+    34329, -- Crux of the Apocalypse
+    34335, -- Hammer of Sanctification
+    34331, -- Hand of the Deceiver
+    34336, -- Sunflare
+    34334, -- Thori'dal, the Stars' Fury
+    34333, -- Coif of Alleria
+    34245, -- Cover of Ursol the Wise
+    34332, -- Cowl of Gul'dan
+    34339, -- Cowl of Light's Purity
+    34345, -- Crown of Anasterian
+    34340, -- Dark Conjuror's Collar
+    34244, -- Duplicitous Guise
+    34243, -- Helm of Burning Righteousness
+    34241, -- Cloak of Unforgivable Sin
+    34242, -- Tattered Cape of Antonidas
+    34341, -- Borderland Paingrips
+    34344, -- Handguards of Defiled Worlds
+    34342, -- Handguards of the Dawn
+    34343, -- Thalassian Ranger Gauntlets
 }
