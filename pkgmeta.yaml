@@ -9,6 +9,7 @@ move-folders:
   Adibags_ByExpansion/AdiBags_ByExpansion_BfA: AdiBags_ByExpansion_BfA
 
 ignore:
-  - .gitignore
-  - README.md
   - tests # Ignore the tests folder
+  - .gitignore
+  - .travis.yml
+  - README.md
