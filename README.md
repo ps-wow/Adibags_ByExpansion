@@ -1,4 +1,7 @@
 # AdiBags: By Expansion
+
+[![Build Status](https://travis-ci.org/ps-wow/Adibags_ByExpansion.svg?branch=master)](https://travis-ci.org/ps-wow/Adibags_ByExpansion)
+
 This is an extension to the World of Warcraft addon "Adibags" which adds further grouping by which expansion an item belongs to.
 
 ## Why?
