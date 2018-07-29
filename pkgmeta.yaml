@@ -11,3 +11,4 @@ move-folders:
 ignore:
   - .gitignore
   - README.md
+  - tests # Ignore the tests folder
