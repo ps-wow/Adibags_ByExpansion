@@ -53,9 +53,6 @@ AddonTable.bot = {
     65110, -- Heart of Ignacious
 
     -- Cho'gall
-    65087, -- Shoulders of the Forlorn Protector (Warr, Hunt, Sham)
-    65088, -- Shoulders of the Forlorn Conqueror (Pal, Priest, Lock)
-    65089, -- Shoulders of the Forlorn Vanquisher (Rog, DK, Mage, Druid)
     152972, -- Twilight Summoning Portal (Faceless Minion) [Battle Pet]
     65145, -- Shalug'doom, the Axe of Unmaking
     65090, -- Twilight's Hammer

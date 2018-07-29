@@ -4,7 +4,6 @@ AddonTable.ulduar = {
     -- NORMAL
     -- Shared
     45038, -- Fragment of Val'anyr
-    45087, -- Runed Orb
     -- Flame Leviathan
     45282, -- Ironsoul
     45287, -- Firesoul

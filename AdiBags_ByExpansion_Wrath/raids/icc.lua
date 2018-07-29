@@ -3,17 +3,18 @@ local AddonName, AddonTable = ...
 AddonTable.icc = {
     -- Shared Boss Loot
     49908, -- Primordial Saronite
+    -- Lord Marrowgar
+    142094, -- Fragment of Frozen Bone (Boneshard) [Battle Pet]
 }
 
 AddonTable.icc10 = {
     -- Lord Marrowgar (10 Man)
-    142094, -- Fragment of Frozen Bone (Boneshard) [Battle Pet]
     50759, -- Bone Warden's Splitter
     50760, -- Bonebreaker Scepter
     50771, -- Frost Needle
     50339, -- Sliver of Pure Ice
     50761, -- Citadel Enforcer's Claymore
-    50763, -- Linked Scourge Vertebrae
+    50762, -- Linked Scourge Vertebrae
     50763, -- Marrowgar's Scratching Choker
     50764, -- Shawl of Nerubian Silk
     50772, -- Ancient Skeletal Boots
@@ -33,7 +34,6 @@ AddonTable.icc25 = {
     52026, -- Protector's Mark of Sanctification
 
     -- Lord Marrowgar (25 Man)
-    142094, -- Fragment of Frozen Bone (Boneshard) [Battle Pet]
     50604, -- Band of the Bone Colossus
     50605, -- Snowserpent Mail Helm
     50606, -- Gendarme's Curiass

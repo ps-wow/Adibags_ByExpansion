@@ -13,6 +13,4 @@ AddonTable.trade = {
     45087, -- Runed Orb
     -- Enchanting
     34055, -- Greater Cosmic Essence
-    -- Quest
-    45038, -- Fragment of Val'anyr
 }

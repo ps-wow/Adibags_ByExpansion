@@ -9,6 +9,5 @@ AddonTable.loot = {
 
     37505, -- Battle Leader's Breastplate
 
-    50733, -- Fal'inrush Defender of Quel'thalas
-    50734, -- Royal Scepter of Terenas II
+
 }

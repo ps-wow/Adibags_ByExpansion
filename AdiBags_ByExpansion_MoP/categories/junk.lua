@@ -1,8 +1,6 @@
 local AddonName, AddonTable = ...
 
 AddonTable.junk = {
-    43852, -- Thick Fur Clothing Scraps
-
     81194, -- Sharp Fangs
     81197, -- Enormous Tooth
 

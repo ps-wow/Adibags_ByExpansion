@@ -8,6 +8,7 @@ AddonTable.aq20 = {
     20888, -- Qiraji Ceremonial Ring
     20889, -- Qiraji Regal Drape
     20890, -- Qiraji Ornate Hilt
+    21479, -- Gauntlets of the Immovable
 
     -- Kurinaxx
     21498, -- Qiraji Sacrificial Dagger
@@ -38,7 +39,6 @@ AddonTable.aq20 = {
     21475, -- Legplates of the Destroyer
     21476, -- Obsidian Scaled Leggings
     21477, -- Ring of Fury
-    21479, -- Gauntlets of the Immovable
 
     -- Buru the Gorger
     21485, -- Buru's Skull Fragment
@@ -52,7 +52,6 @@ AddonTable.aq20 = {
     -- Ayamiss the Hunter
     21466, -- Stinger of Ayamiss
     21478, -- Bow of Taut Sinew
-    21479, -- Gauntlets of the Immovable
     21480, -- Scaled Silithid Gauntlets
     21481, -- Boots of the Desert Protector
     21483, -- Ring of the Desert Winds

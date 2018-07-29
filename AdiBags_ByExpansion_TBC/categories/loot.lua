@@ -2,6 +2,7 @@ local AddonName, AddonTable = ...
 
 -- TBC Junk
 AddonTable.loot = {
+    -- Greens
     25054, -- Sodalite Band
     25055, -- Alexandrite Ring
     25056, -- Almandine Ring

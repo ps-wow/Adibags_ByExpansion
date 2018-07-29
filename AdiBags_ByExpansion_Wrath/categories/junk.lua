@@ -31,7 +31,9 @@ AddonTable.junk = {
     33631, -- Frosted Claw
     33632, -- Icicle Fang
 
+    39212, -- Indurate Claw
+
     43852, -- Thick Fur Clothing Scraps
 
-    52019, -- Precious' Ribbon
+    52019, -- Precious' Ribbon [Shirt]
 }

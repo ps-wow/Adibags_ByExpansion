@@ -15,14 +15,8 @@ AddonTable.throne = {
     65377, -- Lightning Well Belt
 
     -- Al'Akir
-    65000, -- Crown of the Forlorn Protector (Warr, Hunt, Sham)
-    65001, -- Crown of the Forlorn Conqueror (Pal, Priest, Lock)
-    65002, -- Crown of the Forlorn Vanquisher (Rog, DK, Mage, Druid)
     66998, -- Essence of the Forlorn
     63041, -- Reins of the Drake of the South Wind
-    65087, -- Shoulders of the Forlorn Protector (Warr, Hunt, Sham)
-    65088, -- Shoulders of the Forlorn Conqueror (Pal, Priest, Lock)
-    65089, -- Shoulders of the Forlorn Vanquisher (Rog, DK, Mage, Druid)
     68130, -- Stormwake, the Tempest's Reach
     68131, -- Stormwake, the Tempest's Reach
     68132, -- Stormwake, the Tempest's Reach

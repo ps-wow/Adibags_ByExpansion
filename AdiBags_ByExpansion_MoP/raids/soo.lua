@@ -1,5 +1,6 @@
 local AddonName, AddonTable = ...
 
+-- Siege of Orgrimmar
 AddonTable.soo = {
     -- Immerseus
     110761, -- Immerseus' Crystalline Eye

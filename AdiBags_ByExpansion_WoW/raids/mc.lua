@@ -51,7 +51,6 @@ AddonTable.mc = {
     18820, -- Talisman of Ephemeral Power
 
     -- Gehennas
-    18870, -- Helm of the Lifegiver
     16839, -- Earthfury Gauntlets
     16812, -- Gloves of Prophecy
     16861, -- Lawbringer Gauntlets

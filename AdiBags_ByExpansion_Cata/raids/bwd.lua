@@ -84,9 +84,6 @@ AddonTable.bwd = {
 
     -- Nefarion's End
     122195, -- Music Roll: Legends of Azeroth
-    65001, -- Crown of the Forlorn Conqueror (Pal, Priest, Lock)
-    65000, -- Crown of the Forlorn Protector (Warr, Hunt, Sham)
-    65002, -- Crown of the Forlorn Vanquisher (Rog, DK, Mage, Druid)
     138802, -- Illusion: Power Torrent
     152968, -- Shadowy Pile of Bones (Rattlejaw) [Battle Pet]
     65003, -- Reclaimed Ashkandi, Greatsword of the Brotherhood
@@ -105,7 +102,7 @@ AddonTable.bwd = {
 
     -- Set Pieces (Hunter)
     65205, -- Lightning-Charged Gloves
-    65205, -- Lightning-Charged Legguards
+    65207, -- Lightning-Charged Legguards
 
     -- Set Pieces (Paladin)
     65216, -- Reinforced Sapphirium Helmet (Prot)

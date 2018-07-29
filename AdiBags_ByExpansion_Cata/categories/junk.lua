@@ -9,6 +9,7 @@ AddonTable.junk = {
     62068, -- Knog's Bow of Ineptitude
     62069, -- Plugged Rifle
     62070, -- Rusted Timber Axe
+    62072, -- Robble's Wobbly Staff
     62074, -- Clammy Mail Bracers
     62076, -- Perforated Plate Pants
     62077, -- Perforated Plate Gloves
@@ -66,6 +67,4 @@ AddonTable.junk = {
 
     68197, -- Scavenged Animal Parts
     68198, -- Ruined Embersilk Scraps
-    62066, -- Wolk's Blunted Shiv
-    62072, -- Robble's Wobbly Staff
 }

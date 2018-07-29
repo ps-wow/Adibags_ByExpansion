@@ -1,6 +1,6 @@
 local AddonName, AddonTable = ...
 
--- Throne of Thunder
-AddonTable.tot = {
+-- Mogu'shan Vaults
+AddonTable.mv = {
     --
 }
