@@ -5,15 +5,15 @@
     <Script file="categories\trade.lua"/>
     <Script file="categories\transmog.lua"/>
 
-    <Script file="categories\professions\crafting\cooking.lua"/>
-    <Script file="categories\professions\crafting\enchanting.lua"/>
-    <Script file="categories\professions\crafting\inscription.lua"/>
+    <Script file="professions\crafting\cooking.lua"/>
+    <Script file="professions\crafting\enchanting.lua"/>
+    <Script file="professions\crafting\inscription.lua"/>
 
-    <Script file="categories\professions\gathering\cloth.lua"/>
-    <Script file="categories\professions\gathering\garrison.lua"/>
-    <Script file="categories\professions\gathering\herbalism.lua"/>
-    <Script file="categories\professions\gathering\mining.lua"/>
-    <Script file="categories\professions\gathering\skinning.lua"/>
+    <Script file="professions\gathering\cloth.lua"/>
+    <Script file="professions\gathering\garrison.lua"/>
+    <Script file="professions\gathering\herbalism.lua"/>
+    <Script file="professions\gathering\mining.lua"/>
+    <Script file="professions\gathering\skinning.lua"/>
 
     <Script file="raids\brf.lua"/>
     <Script file="raids\hm.lua"/>
