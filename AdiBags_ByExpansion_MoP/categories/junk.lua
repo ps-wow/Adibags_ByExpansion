@@ -1,11 +1,6 @@
 local AddonName, AddonTable = ...
 
 AddonTable.junk = {
-    33366, -- Frost-Rimed Cloth Boots
-    33415, -- Frost-Worn Plate Chestpiece
-    33631, -- Frosted Claw
-    33632, -- Icicle Fang
-
     43852, -- Thick Fur Clothing Scraps
 
     81194, -- Sharp Fangs
@@ -13,6 +8,9 @@ AddonTable.junk = {
 
     82333, -- Wool of Bat
     82339, -- Thick Skull
+
+    83157, -- Shattered Bone Fragment
+
     89739, -- Stripped Gear (SoO)
 
     90767, -- Scruffy Cloth Shoulderpads
@@ -20,5 +18,6 @@ AddonTable.junk = {
     90763, -- Shabby Bracers
     90782, -- Slipshod Plate Bracers
 
+    90805, -- Robble's Stabilized Staff
     90813, -- Salt-Scored Greatsword
 }

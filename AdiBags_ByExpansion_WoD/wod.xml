@@ -7,6 +7,7 @@
 
     <Script file="categories\professions\crafting\cooking.lua"/>
     <Script file="categories\professions\crafting\enchanting.lua"/>
+    <Script file="categories\professions\crafting\inscription.lua"/>
 
     <Script file="categories\professions\gathering\cloth.lua"/>
     <Script file="categories\professions\gathering\garrison.lua"/>

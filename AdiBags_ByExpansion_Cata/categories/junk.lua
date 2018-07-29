@@ -62,6 +62,8 @@ AddonTable.junk = {
     62421, -- Scintillating Crystals
     62435, -- Conductive Shards
 
+    67333, -- Oddly Shaped Bone
+
     68197, -- Scavenged Animal Parts
     68198, -- Ruined Embersilk Scraps
     62066, -- Wolk's Blunted Shiv

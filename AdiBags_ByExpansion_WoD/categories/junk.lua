@@ -3,6 +3,8 @@ local AddonName, AddonTable = ...
 AddonTable.junk = {
     56046,  -- Shattered Rock Fragments
 
+    83156, -- Trembling Stone Shard
+
     106294, -- Acid Scarred Plate Pants
     106299, -- Ripped Mail Boots
 

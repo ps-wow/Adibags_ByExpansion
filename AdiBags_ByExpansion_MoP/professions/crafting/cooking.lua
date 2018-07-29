@@ -2,8 +2,8 @@ local AddonName, AddonTable = ...
 
 AddonTable.cooking = {
     -- Materials
-    102542, -- Ancient Pandaren Spices
     74833, -- Raw Tiger Steak
+    74837, -- Raw Turtle Meat
     74840, -- Green Cabbage
     74841, -- Juicycrunch Carrot
     74842, -- Mogu Pumpkin
@@ -15,5 +15,8 @@ AddonTable.cooking = {
     74848, -- Striped Melon
     74849, -- Pink Turnip
     74850, -- White Turnip
+
+    102541, -- Aged Balsamic Vinegar
+    102542, -- Ancient Pandaren Spices
     -- Recipies
 }
