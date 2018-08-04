@@ -279,6 +279,34 @@ AddonTable.ulduar = {
     45929, -- Sif's Remembrance
 
     -- Freya
+    45644, -- Gloves of the Wayward Conqueror
+    45645, -- Gloves of the Wayward Protector
+    45646, -- Gloves of the Wayward Vanquisher
+    45653, -- Legplates of the Wayward Conqueror
+    45654, -- Legplates of the Wayward Protector
+    45655, -- Legplates of the Wayward Vanquisher
+    45613, -- Dreambinder
+    45479, -- The Lifebinder
+    45934, -- Unraveling Reach
+    45484, -- Bladetwister
+    45947, -- Serilas, Blood Blade of the Invar One-Arm
+    45294, -- Petrified Ivy Sprig
+    45935, -- Ironbark Faceguard
+    45485, -- Bronze Pendant of the Vanir
+    45480, -- Nymph Heart Charm
+    45945, -- Seed of Budding Carnage
+    45486, -- Drape of the Sullen Goddess
+    45941, -- Chestguard of the Lasher
+    45940, -- Tunic of the Limber Stalker
+    45481, -- Gauntlets of Ruthless Reprisal
+    45943, -- Gloves of Whispering Winds
+    45487, -- Handguards of Revitalization
+    45488, -- Leggings of the Enslaved Idol
+    45482, -- Leggings of the Lifetender
+    45936, -- Legplates of Flourishing Resolve
+    45483, -- Boots of the Servant
+    45946, -- Fire Orchid Signet
+
     -- Mimiron
     -- General Vezax
     -- Yogg-Saron
