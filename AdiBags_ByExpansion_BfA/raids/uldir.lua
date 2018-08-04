@@ -52,7 +52,7 @@ AddonTable.uldir = {
     160718, -- Greaves of Creeping Darkness
     160624, -- Quarantine Protocol Treads
     160640, -- Warboots of Absolute Eradication
-    160645, -- Ring of the Infinite Void
+    160647, -- Ring of the Infinite Void
     160650, -- Disc of Systematic Regression
 
     -- Vectis
