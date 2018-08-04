@@ -69,6 +69,17 @@ AddonTable.uldir = {
     160655, -- Syringe of Bloodborne Infirmity
 
     -- Zul, Reborn
+    160684, -- Pursax, the Backborer
+    160691, -- Tusk of the Reborn Prophet
+    160630, -- Crest of the Undying Visionary [Azerite Armor / Mail]
+    160719, -- Visage of the Ascended Prophet [Azerite Armor / Cloth]
+    160620, -- Usurper's Bloodcaked Spaulders [Azerite Armor / Leather]
+    160642, -- Cloak of Rippling Whispers
+    160722, -- Chestplate of Apocalyptic Machinations  [Azerite Armor / Plate]
+    160720, -- Armbands of Sacrosanct Acts
+    160723, -- Imperious Vambraces
+    160724, -- Cincture of Profane Deeds
+
     -- Mythrax the Unraveler
     -- G'huun
 }
