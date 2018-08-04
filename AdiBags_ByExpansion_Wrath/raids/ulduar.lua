@@ -4,6 +4,7 @@ AddonTable.ulduar = {
     -- NORMAL
     -- Shared
     45038, -- Fragment of Val'anyr
+    138800, -- Illusion: Blade Ward
     -- Flame Leviathan
     45282, -- Ironsoul
     45287, -- Firesoul
@@ -222,7 +223,6 @@ AddonTable.ulduar = {
     45632, -- Breastplate of the Wayward Conqueror
     45633, -- Breastplate of the Wayward Protector
     45634, -- Breastplate of the Wayward Vanquisher
-    138800, -- Illusion: Blade Ward
     45650, -- Leggings of the Wayward Conqueror
     45651, -- Leggings of the Wayward Protector
     45652, -- Leggings of the Wayward Vanquisher
@@ -250,6 +250,34 @@ AddonTable.ulduar = {
     45874, -- Signet of Winter
 
     -- Thorim
+    45638, -- Crown of the Wayward Conqueror
+    45639, -- Crown of the Wayward Protector
+    45640, -- Crown of the Wayward Vanquisher
+    45659, -- Spaulders of the Wayward Conqueror
+    45660, -- Spaulders of the Wayward Protector
+    45661, -- Spaulders of the Wayward Vanquisher
+    45930, -- Combatant's Bootblade
+    45892, -- Legacy of Thunder
+    45463, -- Vulmir, the Northern Tempest
+    45570, -- Skyforge Crossbow
+    45470, -- Wisdom's Hold
+    45893, -- Guise of the Midgard Serpent
+    45472, -- Warhelm of the Champion
+    45933, -- Pendant of the Shallow Grave
+    45474, -- Pauldrons of the Combatant
+    45473, -- Embrace of the Gladiator
+    45928, -- Gauntlets of the Thunder God
+    45927, -- Handwraps of Resonance
+    45467, -- Belt of the Betrayed
+    45895, -- Belt of the Blood Pit
+    45468, -- Leggings of Lost Love
+    45894, -- Leggings of Unstable Discharge
+    45471, -- Fate's Clutch
+    45469, -- Sif's Promise
+    45931, -- Mjolnir Runestone
+    45466, -- Scale of Fates
+    45929, -- Sif's Remembrance
+
     -- Freya
     -- Mimiron
     -- General Vezax
