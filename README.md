@@ -2,6 +2,11 @@
 
 [![Build Status](https://travis-ci.org/ps-wow/Adibags_ByExpansion.svg?branch=master)](https://travis-ci.org/ps-wow/Adibags_ByExpansion)
 
+[CurseForge Project](https://wow.curseforge.com/projects/adibags_by_expansion)
+
+[CurseForge Addon](https://www.curseforge.com/wow/addons/adibags_by_expansion)
+
+
 This is an extension to the World of Warcraft addon "Adibags" which adds further grouping by which expansion an item belongs to.
 
 ## Why?
