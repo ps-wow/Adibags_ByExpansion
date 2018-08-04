@@ -219,6 +219,36 @@ AddonTable.ulduar = {
     45866, -- Elemental Focus Stone
 
     -- Hodir
+    45632, -- Breastplate of the Wayward Conqueror
+    45633, -- Breastplate of the Wayward Protector
+    45634, -- Breastplate of the Wayward Vanquisher
+    138800, -- Illusion: Blade Ward
+    45650, -- Leggings of the Wayward Conqueror
+    45651, -- Leggings of the Wayward Protector
+    45652, -- Leggings of the Wayward Vanquisher
+    142090, -- Ominous Pile of Snow (Winter Rageling) [Battle Pet]
+    45886, -- Icecore Staff
+    45457, -- Staff of Endless Winter
+    45458, -- Stormedge
+    45612, -- Constellus
+    45876, -- Shiver
+    45872, -- Avalanche
+    45887, -- Ice Layered Barrier
+    45450, -- Northern Barrier
+    45877, -- The Boreal Guard
+    45464, -- Cowl of Icy Breaths
+    45459, -- Frigid Strength of Hodir
+    45461, -- Drape of Icy Intent
+    45873, -- Winter's Frigid Embrace
+    45453, -- Winter's Icy Embrace
+    45460, -- Bindings of Winter Gale
+    45888, -- Bitter Cold Armguards
+    45454, -- Frost-Bound Chain Bracers
+    45462, -- Gloves of the Frozen Glade
+    45452, -- Frostplate Greaves
+    45451, -- Frozen Loop
+    45874, -- Signet of Winter
+
     -- Thorim
     -- Freya
     -- Mimiron
