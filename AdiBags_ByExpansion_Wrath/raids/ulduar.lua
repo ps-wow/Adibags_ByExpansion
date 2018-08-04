@@ -338,6 +338,40 @@ AddonTable.ulduar = {
     45490, -- Pandora's Plea
 
     -- General Vezax
+    45996, -- Hoperender
+    45498, -- Lotrafen, Spear of the Damned
+    46033, -- Tortured Earth
+    45516, -- Voldrethar, Dark Blade of Oblivion
+    46035, -- Aesuga, Hand of the Ardent Champion
+    46011, -- Shadowbite
+    46036, -- Void Sabre
+    45511, -- Scepter of Lost Souls
+    45502, -- Helm of the Faceless
+    46008, -- Choker of the Abyss
+    46015, -- Pendant of Endless Despair
+    45517, -- Pendulum of Infinity
+    45514, -- Mantle of the Unknowing
+    46013, -- Underworld Mantle
+    46032, -- Drape of the Faceless General
+    46014, -- Saronite Animus Cloak
+    45519, -- Vestments of the Blind Denizen
+    46012, -- Vestments of the Piercing Light
+    46009, -- Bindings of the Depths
+    45997, -- Gauntlets of the Wretched
+    45512, -- Grips of the Unbroken
+    45520, -- Handwraps of the Vigilant
+    45505, -- Belt of Clinging Hope
+    45508, -- Belt of the Darkspeaker
+    45504, -- Darkcore Leggings
+    46034, -- Leggings of Profound Darkness
+    45513, -- Boots of the Forgotten Depths
+    45501, -- Boots of the Underdweller
+    46010, -- Darkstone Ring
+    45503, -- Metallic Loop of the Sufferer
+    45515, -- Ring of the Vacant Eye
+    45518, -- Flare of the Heavens
+    45507, -- The General's Heart
+
     -- Yogg-Saron
     -- Algalon the Observer
 
