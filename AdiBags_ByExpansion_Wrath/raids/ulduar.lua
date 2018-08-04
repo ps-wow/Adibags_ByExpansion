@@ -192,6 +192,32 @@ AddonTable.ulduar = {
     45263, -- Wrathstone
 
     -- Auriaya
+    142089, -- Glittering Ball of Yarn (Sanctum Cub) [Battle Pet]
+    45437, -- Runescribed Blade
+    45315, -- Stonerender
+    45713, -- Nurturing Touch
+    45327, -- Siren's Cry
+    45707, -- Shieldwall of the Breaker
+    45864, -- Cover of the Keepers
+    45435, -- Cowl of the Absolute
+    45439, -- Unwavering Stare
+    45440, -- Amice of the Stoic Watch
+    45711, -- Ironaya's Discarded Mantle
+    45832, -- Mantle of the Preserver
+    45320, -- Shoulderplates of the Eternal
+    45319, -- Cloak of the Makers
+    45712, -- Chestplate of Titanic Fury
+    45865, -- Raiments of the Corrupted
+    45334, -- Unbreakable Chestguard
+    45325, -- Gloves of the Stonereaper
+    45709, -- Nimble Climber's Belt
+    45708, -- Archaedas' Lost Legplates
+    45434, -- Greaves of the Rockmender
+    45441, -- Sandals of the Ancient Keeper
+    45326, -- Platinum Band of the Aesir
+    45438, -- Ring of the Faithful Servant
+    45866, -- Elemental Focus Stone
+
     -- Hodir
     -- Thorim
     -- Freya
