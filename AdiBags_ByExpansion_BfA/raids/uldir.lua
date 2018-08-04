@@ -81,5 +81,29 @@ AddonTable.uldir = {
     160724, -- Cincture of Profane Deeds
 
     -- Mythrax the Unraveler
+    160686, -- Voror, Gleaming Blade of the Stalwart
+    160692, -- Luminous Edge of Virtue
+    160696, -- Codex of Imminent Ruin
+    163596, -- Cowl of Dark Portents [Azerite Armor / Leather]
+    160641, -- Chitinspire Pauldrons  [Azerite Armor / Plate]
+    160725, -- C'thraxxi General's Hauberk  [Azerite Armor / Mail]
+    160614, -- Robes of the Unraveler  [Azerite Armor / Cloth]
+    160721, -- Oblivion Crushers
+    160646, -- Band of Certain Annihilation
+    160656, -- Twitching Tentacle of Xalzaix
+    160653, -- Xalzaix's Veiled Eye
+
     -- G'huun
+    160690, -- Heptavium, Staff of Torturous Knowledge
+    160693, -- Lancet of the Deft Hand
+    160694, -- Re-Origination Pulse Rifle
+    160699, -- Barricade of Purifying Resolve
+    160732, -- Helm of Defiled Laboratorium  [Azerite Armor / Plate]
+    160726, -- Amice of Corrupting Horror  [Azerite Armor / Cloth]
+    160731, -- Spaulders of Coagulated Viscera  [Azerite Armor / Mail]
+    160728, -- Tunic of the Sanguine Deity  [Azerite Armor / Leather]
+    160727, -- Cord of Septic Envelopment
+    160733, -- Hematocyst Stompers
+    160729, -- Striders of the Putrescent Path
+    160654, -- Vanquished Tendril of G'huun
 }
