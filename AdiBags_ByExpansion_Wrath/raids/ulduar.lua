@@ -3,8 +3,13 @@ local AddonName, AddonTable = ...
 AddonTable.ulduar = {
     -- NORMAL
     -- Shared
-    45038, -- Fragment of Val'anyr
     138800, -- Illusion: Blade Ward
+    45038, -- Fragment of Val'anyr
+    45570, -- Skyforge Crossbow
+    45607, -- Fang of Oblivion
+    45612, -- Constellus
+    45613, -- Dreambinder
+    45620, -- Starshard Edge
     -- Flame Leviathan
     45282, -- Ironsoul
     45287, -- Firesoul
@@ -131,7 +136,6 @@ AddonTable.ulduar = {
     142088, -- Stormforged Rune (Runeforged Servitor) [Battle Pet]
     45234, -- Rapture
     45233, -- Stormrune Edge
-    45607, -- Fang of Oblivion
     45448, -- Perilous Bite
     45331, -- Rune-Etched Nightblade
     45332, -- Stormtip
@@ -230,7 +234,6 @@ AddonTable.ulduar = {
     45886, -- Icecore Staff
     45457, -- Staff of Endless Winter
     45458, -- Stormedge
-    45612, -- Constellus
     45876, -- Shiver
     45872, -- Avalanche
     45887, -- Ice Layered Barrier
@@ -259,7 +262,6 @@ AddonTable.ulduar = {
     45930, -- Combatant's Bootblade
     45892, -- Legacy of Thunder
     45463, -- Vulmir, the Northern Tempest
-    45570, -- Skyforge Crossbow
     45470, -- Wisdom's Hold
     45893, -- Guise of the Midgard Serpent
     45472, -- Warhelm of the Champion
@@ -285,7 +287,6 @@ AddonTable.ulduar = {
     45653, -- Legplates of the Wayward Conqueror
     45654, -- Legplates of the Wayward Protector
     45655, -- Legplates of the Wayward Vanquisher
-    45613, -- Dreambinder
     45479, -- The Lifebinder
     45934, -- Unraveling Reach
     45484, -- Bladetwister
@@ -319,7 +320,6 @@ AddonTable.ulduar = {
     45990, -- Fusion Blade
     45489, -- Insanity's Grip
     45972, -- Pulse Baton
-    45620, -- Starshard Edge
     45497, -- Crown of Luminescence
     45993, -- Mimiron's Flight Goggles
     45492, -- Malleable Steelweave Mantle
@@ -415,6 +415,32 @@ AddonTable.ulduar = {
     46312, -- Vanquished Clutches of Yogg-Saron
 
     -- Algalon the Observer
+    45587, -- Bulwark of Algalon
+    45617, -- Cosmos
+    45610, -- Boundless Gaze
+    46047, -- Pendant of the Somber Witness
+    46040, -- Strength of the Heavens
+    46044, -- Observer's Mantle
+    46037, -- Shoulderplates of the Celestial Watch
+    46042, -- Drape of the Messenger
+    46039, -- Breastplate of the Timeless
+    45611, -- Solar Bindings
+    46043, -- Gloves of the Endless Dark
+    45665, -- Pharos Gloves
+    46045, -- Pulsar Gloves
+    45616, -- Star-Beaded Clutch
+    46041, -- Starfall Girdle
+    45619, -- Starwatcher's Binding
+    45594, -- Legplates of the Endless Void
+    46049, -- Zodiac Leggings
+    45615, -- Planewalker Treads
+    45599, -- Sabatons of Lifeless Night
+    46050, -- Starlight Treads
+    46048, -- Band of Lights
+    46046, -- Nebula Band
+    45609, -- Comet's Trail
+    46038, -- Dark Matter
+    46051, -- Meteorite Crystal
 
     -- TIMEWALKING
 
