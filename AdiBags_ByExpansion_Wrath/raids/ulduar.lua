@@ -308,6 +308,35 @@ AddonTable.ulduar = {
     45946, -- Fire Orchid Signet
 
     -- Mimiron
+    45641, -- Gauntlets of the Wayward Conqueror
+    45642, -- Gauntlets of the Wayward Protector
+    45643, -- Gauntlets of the Wayward Vanquisher
+    45647, -- Helm of the Wayward Conqueror
+    45648, -- Helm of the Wayward Protector
+    45649, -- Helm of the Wayward Vanquisher
+    142092, -- Overcomplicated Controller (G0-R41-0N) [Battle Pet]
+    45494, -- Delirium's Touch
+    45990, -- Fusion Blade
+    45489, -- Insanity's Grip
+    45972, -- Pulse Baton
+    45620, -- Starshard Edge
+    45497, -- Crown of Luminescence
+    45993, -- Mimiron's Flight Goggles
+    45492, -- Malleable Steelweave Mantle
+    45974, -- Shoulderguards of Assimilation
+    45493, -- Asimov's Drape
+    45973, -- Stylish Power Cape
+    45496, -- Titanskin Cloak
+    45663, -- Armbands of Bedlam
+    45976, -- Static Charge Handwraps
+    45975, -- Cable of the Metrognome
+    45491, -- Waistguard of the Creator
+    45982, -- Fused Allow Legplates
+    45988, -- Greaves of the Iron Army
+    45989, -- Tempered Mercury Greaves
+    45495, -- Conductive Seal
+    45490, -- Pandora's Plea
+
     -- General Vezax
     -- Yogg-Saron
     -- Algalon the Observer
