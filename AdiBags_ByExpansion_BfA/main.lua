@@ -10,6 +10,7 @@ local module = {
     ["prefix"] = "08. BfA - ",
     ["description"] = "Battle for Azeroth",
     ["raids"] = {
+        ["uldir"] = "Uldir",
     }
 }
 
