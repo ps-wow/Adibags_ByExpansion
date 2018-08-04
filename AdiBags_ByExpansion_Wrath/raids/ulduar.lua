@@ -126,10 +126,94 @@ AddonTable.ulduar = {
     45871, -- Seal of Ulduar
     45247, -- Signet of the Earthshaker
 
+    -- The Assembly of Iron
+    142088, -- Stormforged Rune (Runeforged Servitor) [Battle Pet]
+    45234, -- Rapture
+    45233, -- Stormrune Edge
+    45607, -- Fang of Oblivion
+    45448, -- Perilous Bite
+    45331, -- Rune-Etched Nightblade
+    45332, -- Stormtip
+    45449, -- The Masticator
+    45226, -- Ancient Iron Heaume
+    45329, -- Circlet of True Sight
+    45193, -- Insurmountable Fervor
+    45243, -- Sapphire Amulet of Renewal
+    45236, -- Unblinking Eye
+    45447, -- Watchful Eye of Fate
+    45227, -- Iron-Studded Mantle
+    45245, -- Shoulderpads of the Intruder
+    45322, -- Cloak of the Iron Council
+    45242, -- Drape of Mortal Downfall
+    45224, -- Drape of the Lithe
+    45237, -- Phaelia's Vestments of the Sprouting Seed
+    45240, -- Raiments of the Iron Council
+    45225, -- Steelbreaker's Embrace
+    45423, -- Runetouch Wristwraps
+    45228, -- Handguards of the Enclave
+    45239, -- Runeshaper's Gloves
+    45241, -- Belt of Colossal Rage
+    45455, -- Belt of the Crystal Tree
+    45333, -- Belt of the Iron Servant
+    45324, -- Leggings of Swift Reflexes
+    45238, -- Overload Legwraps
+    45378, -- Boots of the Petrified Forest
+    45330, -- Greaves of Iron Intensity
+    45244, -- Greaves of Swift Vengeance
+    45232, -- Runed Ironhide Boots
+    45418, -- Lady Maye's Sapphire Ring
+    45456, -- Loop of the Agile
+    45235, -- Radiant Seal
+
+    -- Kologarn
+    45695, -- Spire of Withering Dreams
+    45266, -- Malice
+    45700, -- Stoneguard
+    45261, -- Giant's Bane
+    45271, -- Ironmender
+    45696, -- Mark opf the Unyielding
+    45262, -- Necklace of Unerring Mettle
+    45699, -- Pendant of the Piercing Glare
+    45697, -- Shoulderguards of the Solemn Watch
+    45265, -- Shoulderpads of the Monolith
+    45704, -- Shawl of the Shattered Giant
+    45272, -- Robes of the Umbral Brute
+    45275, -- Bracers of Unleashed Magic
+    45264, -- Decimator's Armguards
+    45269, -- Unfaltering Armguards
+    45268, -- Gloves of the Pythonic Guardian
+    45273, -- Handwraps of Plentiful Recovery
+    45274, -- Leggings of the Stoneweaver
+    45267, -- Saronite Plated Legguards
+    45701, -- Greaves of the Earthbinder
+    45698, -- Sabatons of the Iron Watcher
+    45702, -- Emerald Signet Ring
+    45703, -- Spark of Hope
+    45263, -- Wrathstone
+
+    -- Auriaya
+    -- Hodir
+    -- Thorim
+    -- Freya
+    -- Mimiron
+    -- General Vezax
+    -- Yogg-Saron
+    -- Algalon the Observer
+
     -- TIMEWALKING
 
     -- Flame Leviathan
     -- Ignis the Furnace Master
     -- Razorscale
     -- XT-002 Deconstructor
+    -- The Assembly of Iron
+    -- Kologarn
+    -- Auriaya
+    -- Hodir
+    -- Thorim
+    -- Freya
+    -- Mimiron
+    -- General Vezax
+    -- Yogg-Saron
+    -- Algalon the Observer
 }
