@@ -373,6 +373,47 @@ AddonTable.ulduar = {
     45507, -- The General's Heart
 
     -- Yogg-Saron
+    138801, -- Illusion: Blood Draining
+    45635, -- Chestguard of the Wayward Conqueror
+    45636, -- Chestguard of the Wayward Protector
+    45637, -- Chestguard of the Wayward Vanquisher
+    45656, -- Mantle of the Wayward Conqueror
+    45657, -- Mantle of the Wayward Protector
+    45658, -- Mantle of the Wayward Vanquisher
+    45693, -- Mimiron's Head [Mount]
+    142093, -- Wriggling Darkness (Creeping Tentacle) [Battle Pet]
+    46016, -- Abaddon
+    45533, -- Dark Edge of Depravity
+    46025, -- Devotion
+    45521, -- Earthshaper
+    46067, -- Hammer of Crushing Whispers
+    46097, -- Caress of Insanity
+    46024, -- Kingsblade
+    45527, -- Soulscribe
+    46031, -- Touch of Madness
+    46018, -- Deliverance
+    45532, -- Cowl of Dark Whispers
+    46028, -- Faceguard of the Eyeless Horror
+    45523, -- Garona's Guise
+    46022, -- Pendant of a Thousand Maws
+    46068, -- Amice of Inconceivable Horror
+    45529, -- Shawl of Haunted Memories
+    45524, -- Chestguard of Insidious Intent
+    45531, -- Chestguard of the Fallen God
+    46095, -- Soul-Devouring Cinch
+    46019, -- Leggings of the Insatiable
+    45536, -- Legguards of Cunning Deception
+    46030, -- Treads of the Dragon Council
+    45537, -- Treads of the False Oracle
+    45525, -- Godbane Signet
+    45530, -- Sanity's Bond
+    45534, -- Seal of the Betrayed King
+    46096, -- Signet of Soft Lament
+    45522, -- Blood of the Old God
+    46021, -- Royal Seal of King Llane
+    45535, -- Show of Faith
+    46312, -- Vanquished Clutches of Yogg-Saron
+
     -- Algalon the Observer
 
     -- TIMEWALKING
