@@ -32,8 +32,42 @@ AddonTable.uldir = {
     160645, -- Rot-Scour Ring
 
     -- Fetid Devourer
+    160689, -- Regurgitated Purifier's Flamestaff
+    160685, -- Biomelding Cleaver
+    160616, -- Horrific Amalgam's Hood [Azerite Armor / Cloth]
+    160643, -- Fetid Horror's Tanglecloak
+    160619, -- Jerkin of the Aberrant Chimera [Azerite Armor / Leather]
+    160635, -- Waste Disposal Crushers
+    160628, -- Fused Monstrosity Stompers
+    160648, -- Frenetic Corpuscle
+
     -- Zek-voz, Herald of N'zoth
+    160688, -- Void-Binder
+    160687, -- Containment Analysis Baton
+    160613, -- Mantle of Contained Corruption [Azerite Armor / Cloth]
+    160627, -- Chainvest of Assured Quality [Azerite Armor / Mail]
+    160617, -- Void-Lashed Wristband
+    160717, -- Replicated Chitin Cord
+    160633, -- Titanspark Energy Girdle
+    160718, -- Greaves of Creeping Darkness
+    160624, -- Quarantine Protocol Treads
+    160640, -- Warboots of Absolute Eradication
+    160645, -- Ring of the Infinite Void
+    160650, -- Disc of Systematic Regression
+
     -- Vectis
+    160678, -- Bow of Virulent Infection
+    160698, -- Vector Deflector
+    160623, -- Hood of the Pestilent Ichor [Azerite Armor / Leather]
+    160644, -- Plasma-Spattered Greatcloak
+    160636, -- Chestguard of Virulent Mutagens [Azerite Armor / Plate]
+    160621, -- Wristwraps of Coursing Miasma
+    160715, -- Mutagenic Protofluid Handwraps
+    160734, -- Cord of Animated Contagion
+    160716, -- Blighted Anima Greaves
+    160649, -- Inoculating Extract
+    160655, -- Syringe of Bloodborne Infirmity
+
     -- Zul, Reborn
     -- Mythrax the Unraveler
     -- G'huun
