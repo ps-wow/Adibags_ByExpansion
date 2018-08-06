@@ -11,8 +11,11 @@ AddonTable.mining = {
     17771, -- Enchanted Elementium Bar
     -- Gems
     818, -- Tigerseye
-    7909,  -- Aquamarine
-    7910,  -- Star Ruby
+    1529, -- Jade
+    3864, -- Citrine
+    7909, -- Aquamarine
+    7910, -- Star Ruby
+    7971, -- Black Pearl
     12361, -- Blue Sapphire
     12363, -- Arcane Crystal
     12364, -- Huge Emerald
