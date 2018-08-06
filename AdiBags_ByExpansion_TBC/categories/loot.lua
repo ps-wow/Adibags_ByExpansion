@@ -10,7 +10,5 @@ AddonTable.loot = {
     25058, -- Anglesite Choker
     25059, -- Fire Opal Collar
 
-    29997, -- Band of the Ranger-General
-
     30028, -- Seventh Ring of the Tirisfalen
 }
