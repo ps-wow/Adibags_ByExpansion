@@ -24,10 +24,14 @@ AddonTable.loot = {
     155314, -- Ritual Flayer's Vest
     157977, -- Seafarer Headcover
     158958, -- Ritual Flayer's Trousers
+    158973, -- Band of Destiny
     159048, -- Ritual Flayer's Treads
     159084, -- Handscythe of the First City
     159305, -- Corrosive Handler's Gloves
     159332, -- Wristguards of the Sandswimmer
     159338, -- Pustule Bearer's Pants
     161028, -- Noxious Crocolisk Trousers
+
+    -- Epic (Purple)
+    159346, -- Grubby Servant-Grabbers
 }

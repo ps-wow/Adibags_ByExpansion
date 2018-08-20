@@ -22,6 +22,7 @@ AddonTable.junk = {
     155742, -- "Preserved" Foodstuffs
 
     155843, -- Brittle Ceremonial Necklace
+    155844, -- Unreliable Lodestone
 
     157844, -- Iridescent Speck
 
@@ -43,6 +44,7 @@ AddonTable.junk = {
     158836, -- Barbed Stinger
     158838, -- Fibrous Sludge
     158839, -- Thick Crab Claw
+    158844, -- Shimmerdust
     158855, -- Grim Skull Fetish
     158859, -- Jagged Fang
     158863, -- Chitinous Exoskeleton
@@ -54,6 +56,9 @@ AddonTable.junk = {
 
     159756, -- Depleted Azerite
 
+    160579, -- Digested Krolusk Chitin
+    160581, -- Vulture Egg Shell
+    160582, -- Broken Lizard Bones
     160583, -- Broken Sethrak Blade
     160925, -- Crusty Cutlass
 }
