@@ -1,10 +1,11 @@
 local AddonName, AddonTable = ...
 
 AddonTable.herbalism = {
-    152506, -- Star Moss
     152505, -- Riverbud
-    152510, -- Anchor Weed
+    152506, -- Star Moss
     152507, -- Akunda's Bite
-    -- ? -- Sea Stalk
-    -- ? -- Siren's Pollen
+    152508, -- Winter's Kiss
+    152509, -- Siren's Pollen
+    152510, -- Anchor Weed
+    152511, -- Sea Stalk
 }

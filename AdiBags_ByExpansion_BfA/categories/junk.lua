@@ -13,6 +13,7 @@ AddonTable.junk = {
     155608, -- Defiled Bone
     155609, -- Springy Eyeball
     155610, -- Stinging Nettle
+    155631, -- Inert Stone
     155635, -- Sinewy Wing
     155629, -- Shaggy Mane
     155615, -- Perstilent Muck
@@ -21,10 +22,10 @@ AddonTable.junk = {
 
     155843, -- Brittle Ceremonial Necklace
 
-
     157844, -- Iridescent Speck
 
     158210, -- Fearsome Claw
+    158653, -- Bloodsiege Drape
     158747, -- Thorny Prickle
     158751, -- Matted Pelt
     158759, -- Bloodgorged Sac
@@ -39,6 +40,7 @@ AddonTable.junk = {
     158831, -- Parched Honeycomb
     158832, -- Bushy Tail
     158836, -- Barbed Stinger
+    158838, -- Fibrous Sludge
     158839, -- Thick Crab Claw
     158855, -- Grim Skull Fetish
     158859, -- Jagged Fang
