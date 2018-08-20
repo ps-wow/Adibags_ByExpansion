@@ -4,6 +4,7 @@ AddonTable.junk = {
     154771, -- Cracked Hide Boots
     154785, -- Ruptured Plate Belt
     154788, -- Unraveling Cloth Sandals
+    154792, -- Unraveling Cloth Cord
     154801, -- Crumbling Chain Belt
 
     155593, -- Keeled Breastbone
@@ -53,5 +54,6 @@ AddonTable.junk = {
 
     159756, -- Depleted Azerite
 
+    160583, -- Broken Sethrak Blade
     160925, -- Crusty Cutlass
 }
