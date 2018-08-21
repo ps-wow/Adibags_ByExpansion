@@ -63,5 +63,7 @@ AddonTable.junk = {
     160581, -- Vulture Egg Shell
     160582, -- Broken Lizard Bones
     160583, -- Broken Sethrak Blade
+    160924, -- Scored Antique Blade
     160925, -- Crusty Cutlass
+    160928, -- Weathered Greatsword
 }

@@ -15,9 +15,11 @@ AddonTable.loot = {
     159077, -- Ticker's Spare Catalyst
     159078, -- Potency Manipulator
     159084, -- Handscythe of the First City
+    159528, -- Zem'lan Dagger
     159543, -- Loa-Blessed Maul
     159545, -- Bleached Bone Club of the Harmonious
     159556, -- Loa-Blessed Greathammer
+    159606, -- Bleached Bone Wand
     161182, -- Cracked Crawg Shackles
 
     -- Rare (Blue)
@@ -36,5 +38,6 @@ AddonTable.loot = {
     161028, -- Noxious Crocolisk Trousers
 
     -- Epic (Purple)
+    155393, -- Exiled Veteran's Handguards
     159346, -- Grubby Servant-Grabbers
 }
