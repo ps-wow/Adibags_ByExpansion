@@ -57,6 +57,7 @@ AddonTable.junk = {
     158866, -- Oily Blubber
     158868, -- Golden Ornament
     158870, -- Wooly Hair
+    158879, -- Bloodstained Message
 
     159756, -- Depleted Azerite
 
@@ -67,4 +68,12 @@ AddonTable.junk = {
     160924, -- Scored Antique Blade
     160925, -- Crusty Cutlass
     160928, -- Weathered Greatsword
+
+    161203, -- Shanty Sheet Music
+
+    162634, -- Ancient Nazmani Coins
+    162673, -- Knotted Bowline
+
+    163084, -- Solid Gold Cutlass
+    163632, -- Pristine Strings of Pearls
 }
