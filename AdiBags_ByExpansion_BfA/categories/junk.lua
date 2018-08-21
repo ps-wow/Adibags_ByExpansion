@@ -2,8 +2,11 @@ local AddonName, AddonTable = ...
 
 AddonTable.junk = {
     154771, -- Cracked Hide Boots
+    154774, -- Cracked Hide Pants
+    154781, -- Ruptured Plate Leggings
     154785, -- Ruptured Plate Belt
     154788, -- Unraveling Cloth Sandals
+    154791, -- Unraveling Cloth Cowl
     154792, -- Unraveling Cloth Cord
     154801, -- Crumbling Chain Belt
 

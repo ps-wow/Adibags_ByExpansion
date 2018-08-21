@@ -4,7 +4,8 @@ local AddonName, AddonTable = ...
 
 AddonTable.loot = {
     -- Uncommon (Green)
-    154809, -- Togashell Helmet
+    154809, -- Torgashell Helmet
+    154811, -- Torgashell Shoulderguards
     154821, -- Festerroot Shoulderpads
     155378, -- Zardax's Tattered Drape
     155383, -- Bloody Warmother's Greatcloak
@@ -22,9 +23,11 @@ AddonTable.loot = {
     -- Rare (Blue)
     154461, -- Cursed Boarhide Helm
     155314, -- Ritual Flayer's Vest
+    157910, -- Gonk Outrunner Vest
     157977, -- Seafarer Headcover
     158958, -- Ritual Flayer's Trousers
     158973, -- Band of Destiny
+    159012, -- Ritual Flayer's Jerkin
     159048, -- Ritual Flayer's Treads
     159084, -- Handscythe of the First City
     159305, -- Corrosive Handler's Gloves
