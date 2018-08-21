@@ -18,13 +18,16 @@ AddonTable.junk = {
     155598, -- Severed Mandible
 
     155601, -- Pointy Leg Segment
+    155605, -- Huge Femur
     155608, -- Defiled Bone
     155609, -- Springy Eyeball
     155610, -- Stinging Nettle
+    155618, -- Discarded Molting
     155631, -- Inert Stone
     155635, -- Sinewy Wing
     155629, -- Shaggy Mane
     155615, -- Perstilent Muck
+    155636, -- Viscous Ink
 
     155742, -- "Preserved" Foodstuffs
 
@@ -39,10 +42,12 @@ AddonTable.junk = {
     158745, -- Luminous Scale
     158747, -- Thorny Prickle
     158751, -- Matted Pelt
+    158757, -- Disquiet Earth
     158759, -- Bloodgorged Sac
     158771, -- Spirit Ichor
     158773, -- Wriggling Goop
     158775, -- Thick Hivewax
+    158778, -- Mucose Tendril
     158801, -- Finely Serrated Tooth
     158806, -- Hooked Talon
     158808, -- Thick Tendon
@@ -55,9 +60,12 @@ AddonTable.junk = {
     158838, -- Fibrous Sludge
     158839, -- Thick Crab Claw
     158844, -- Shimmerdust
-    158855, -- Grim Skull Fetish
     158849, -- Sawtooth Jawbone
+    158850, -- Vibrant Plumage
+    158855, -- Grim Skull Fetish
+    158858, -- Adder's Fork
     158859, -- Jagged Fang
+    158860, -- Grindstone Molar
     158861, -- Tensile Eye Stalk
     158862, -- Ancient Grave Dust
     158863, -- Chitinous Exoskeleton
@@ -65,9 +73,11 @@ AddonTable.junk = {
     158865, -- Ghastly Ooze
     158866, -- Oily Blubber
     158868, -- Golden Ornament
+    158869, -- Stone Tusk
     158870, -- Wooly Hair
     158879, -- Bloodstained Message
 
+    159140, -- Lifeless Clay
     159756, -- Depleted Azerite
 
     160579, -- Digested Krolusk Chitin
@@ -80,11 +90,14 @@ AddonTable.junk = {
 
     161203, -- Shanty Sheet Music
 
+    162633, -- Petrified Jungle Orchid
     162634, -- Ancient Nazmani Coins
+    162667, -- Farraki Funeral Urn
     162672, -- Witch Doctor's Juju Beads
     162673, -- Knotted Bowline
 
     163084, -- Solid Gold Cutlass
     163329, -- Zach's Canteen
     163632, -- Pristine Strings of Pearls
+    163849, -- Bad Troll Love Poem
 }
