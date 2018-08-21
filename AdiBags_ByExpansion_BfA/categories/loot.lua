@@ -7,8 +7,11 @@ AddonTable.loot = {
     154809, -- Torgashell Helmet
     154811, -- Torgashell Shoulderguards
     154821, -- Festerroot Shoulderpads
+    155305, -- Golden City Greatcloak
     155378, -- Zardax's Tattered Drape
     155383, -- Bloody Warmother's Greatcloak
+    155388, -- Exiled Veteran's Treads
+    155400, -- Exiled Veteran's Wargreaves
     158823, -- Etched Bone Ring of the Quickblade
     158947, -- Ritual Flayer's Handguards
     158994, -- Ritual Flayer's Legwraps
@@ -19,8 +22,12 @@ AddonTable.loot = {
     159543, -- Loa-Blessed Maul
     159545, -- Bleached Bone Club of the Harmonious
     159556, -- Loa-Blessed Greathammer
+    159601, -- Zem'lan Longsword
     159606, -- Bleached Bone Wand
+
+    160000, -- Exiled Veteran's Waistguard
     161182, -- Cracked Crawg Shackles
+    161195, -- Sethrak Warden's Scimitar
 
     -- Rare (Blue)
     154461, -- Cursed Boarhide Helm
