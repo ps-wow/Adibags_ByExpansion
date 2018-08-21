@@ -4,6 +4,7 @@ AddonTable.junk = {
     154771, -- Cracked Hide Boots
     154774, -- Cracked Hide Pants
     154781, -- Ruptured Plate Leggings
+    154782, -- Ruptured Plate Helmet
     154785, -- Ruptured Plate Belt
     154788, -- Unraveling Cloth Sandals
     154791, -- Unraveling Cloth Cowl
