@@ -1,8 +1,11 @@
 local AddonName, AddonTable = ...
 
 AddonTable.junk = {
+    131805, -- Gilded Goblet
     154771, -- Cracked Hide Boots
     154774, -- Cracked Hide Pants
+    154776, -- Cracked Hide Vest
+    154777, -- Cracked Hide Wristguards
     154781, -- Ruptured Plate Leggings
     154782, -- Ruptured Plate Helmet
     154785, -- Ruptured Plate Belt
@@ -32,10 +35,13 @@ AddonTable.junk = {
 
     158210, -- Fearsome Claw
     158653, -- Bloodsiege Drape
+    158743, -- Conductive Antennae
+    158745, -- Luminous Scale
     158747, -- Thorny Prickle
     158751, -- Matted Pelt
     158759, -- Bloodgorged Sac
     158771, -- Spirit Ichor
+    158773, -- Wriggling Goop
     158775, -- Thick Hivewax
     158801, -- Finely Serrated Tooth
     158806, -- Hooked Talon
@@ -50,7 +56,10 @@ AddonTable.junk = {
     158839, -- Thick Crab Claw
     158844, -- Shimmerdust
     158855, -- Grim Skull Fetish
+    158849, -- Sawtooth Jawbone
     158859, -- Jagged Fang
+    158861, -- Tensile Eye Stalk
+    158862, -- Ancient Grave Dust
     158863, -- Chitinous Exoskeleton
     158864, -- Viscous Webbing
     158865, -- Ghastly Ooze
@@ -72,8 +81,10 @@ AddonTable.junk = {
     161203, -- Shanty Sheet Music
 
     162634, -- Ancient Nazmani Coins
+    162672, -- Witch Doctor's Juju Beads
     162673, -- Knotted Bowline
 
     163084, -- Solid Gold Cutlass
+    163329, -- Zach's Canteen
     163632, -- Pristine Strings of Pearls
 }
