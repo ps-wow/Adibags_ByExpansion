@@ -2,6 +2,8 @@ local AddonName, AddonTable = ...
 
 AddonTable.junk = {
     131805, -- Gilded Goblet
+    139542, -- Strip of Sailcloth
+
     154771, -- Cracked Hide Boots
     154774, -- Cracked Hide Pants
     154776, -- Cracked Hide Vest
@@ -10,6 +12,7 @@ AddonTable.junk = {
     154782, -- Ruptured Plate Helmet
     154785, -- Ruptured Plate Belt
     154788, -- Unraveling Cloth Sandals
+    154790, -- Unraveling Cloth Handwraps
     154791, -- Unraveling Cloth Cowl
     154792, -- Unraveling Cloth Cord
     154801, -- Crumbling Chain Belt
@@ -48,6 +51,7 @@ AddonTable.junk = {
     158773, -- Wriggling Goop
     158775, -- Thick Hivewax
     158778, -- Mucose Tendril
+    158790, -- Charnel Ash
     158801, -- Finely Serrated Tooth
     158806, -- Hooked Talon
     158808, -- Thick Tendon
@@ -95,9 +99,14 @@ AddonTable.junk = {
     162667, -- Farraki Funeral Urn
     162672, -- Witch Doctor's Juju Beads
     162673, -- Knotted Bowline
+    162978, -- Blood Magic Ritual Dish
 
+    163065, -- Tusk Wax
+    163068, -- Axebeak Feather
     163084, -- Solid Gold Cutlass
     163329, -- Zach's Canteen
+    163592, -- Ceremonial Nose Ring
     163632, -- Pristine Strings of Pearls
+    163845, -- Silver Statue Base
     163849, -- Bad Troll Love Poem
 }
