@@ -7,6 +7,9 @@ AddonTable.loot = {
     154809, -- Torgashell Helmet
     154811, -- Torgashell Shoulderguards
     154821, -- Festerroot Shoulderpads
+    154823, -- Etched Bone Ring
+    154825, -- Zala'mar Vambraces
+    154826, -- Zala'mar Gauntlets
 
     155305, -- Golden City Greatcloak
     155314, -- Ritual Flayer's Vest
@@ -18,21 +21,28 @@ AddonTable.loot = {
     155400, -- Exiled Veteran's Wargreaves
     155420, -- Xombo's Prized Greataxe
 
+    157884, -- Blood Bog Waistband
     157910, -- Gonk Outrunner Vest
     157977, -- Seafarer Headcover
 
+    158007, -- Gravethorn Striders
     158012, -- Gravethorn Belt
     158823, -- Etched Bone Ring of the Quickblade
     158947, -- Ritual Flayer's Handguards
     158958, -- Ritual Flayer's Trousers
     158973, -- Band of Destiny
+    158982, -- Ritual Flayer's Striders
     158994, -- Ritual Flayer's Legwraps
 
     159012, -- Ritual Flayer's Jerkin
+    159016, -- Ritual Flayer's Footwraps
+    159028, -- Ritual Flayer's Pants
     159048, -- Ritual Flayer's Treads
     159077, -- Ticker's Spare Catalyst
     159078, -- Potency Manipulator
     159084, -- Handscythe of the First City
+
+    159174, -- Freehold Belt
 
     159305, -- Corrosive Handler's Gloves
     159332, -- Wristguards of the Sandswimmer
@@ -51,6 +61,7 @@ AddonTable.loot = {
     159997, -- Exiled Veteran's Vambraces
 
     160000, -- Exiled Veteran's Waistguard
+    160125, -- Direbone Frill Stompers
     160153, -- Stormforger Chestplate
     160154, -- Stormforger Gauntlets
     160185, -- Skycaller Mantle
