@@ -5,18 +5,22 @@ AddonTable.junk = {
     139542, -- Strip of Sailcloth
 
     154771, -- Cracked Hide Boots
+    154773, -- Cracked Hide Hood
     154774, -- Cracked Hide Pants
     154776, -- Cracked Hide Vest
     154777, -- Cracked Hide Wristguards
     154781, -- Ruptured Plate Leggings
     154782, -- Ruptured Plate Helmet
+    154783, -- Ruptured Plate Gauntlets
     154785, -- Ruptured Plate Belt
     154788, -- Unraveling Cloth Sandals
     154790, -- Unraveling Cloth Handwraps
     154791, -- Unraveling Cloth Cowl
     154792, -- Unraveling Cloth Cord
+    154796, -- Crumbling Chain Sabatons
     154801, -- Crumbling Chain Belt
 
+    155312, -- Nazmani Warplate Chestplate
     155593, -- Keeled Breastbone
     155598, -- Severed Mandible
 

@@ -11,8 +11,10 @@ AddonTable.loot = {
     154825, -- Zala'mar Vambraces
     154826, -- Zala'mar Gauntlets
 
+    155254, -- Rastari Legguards
     155305, -- Golden City Greatcloak
     155314, -- Ritual Flayer's Vest
+    155327, -- Nazmani Warplate Greaves
     155378, -- Zardax's Tattered Drape
     155383, -- Bloody Warmother's Greatcloak
     155388, -- Exiled Veteran's Treads
@@ -61,6 +63,7 @@ AddonTable.loot = {
     159997, -- Exiled Veteran's Vambraces
 
     160000, -- Exiled Veteran's Waistguard
+    160013, -- Exiled Veteran's Legplates
     160125, -- Direbone Frill Stompers
     160153, -- Stormforger Chestplate
     160154, -- Stormforger Gauntlets
