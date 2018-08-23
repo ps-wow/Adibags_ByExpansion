@@ -26,8 +26,11 @@ AddonTable.loot = {
     155420, -- Xombo's Prized Greataxe
 
     157884, -- Blood Bog Waistband
+    157895, -- Bone-Fetished Stompers
+    157899, -- Bone-Fetished Wargreaves
     157902, -- Bone-Fetished Armguards
     157910, -- Gonk Outrunner Vest
+    157934, -- Vambraces of Rezan's Bladeguard
     157965, -- Dunecrawler Waistguard
     157977, -- Seafarer Headcover
 
@@ -40,11 +43,14 @@ AddonTable.loot = {
     158958, -- Ritual Flayer's Trousers
     158973, -- Band of Destiny
     158982, -- Ritual Flayer's Striders
+    158955, -- Nazmani Warplate Legguards
     158994, -- Ritual Flayer's Legwraps
 
     159012, -- Ritual Flayer's Jerkin
     159016, -- Ritual Flayer's Footwraps
     159028, -- Ritual Flayer's Pants
+    159039, -- Nazmani Warplate Armguards
+    159045, -- Nazmani Warplate Boots
     159048, -- Ritual Flayer's Treads
     159064, -- Nazmani Warplate Greatbelt
     159077, -- Ticker's Spare Catalyst
@@ -57,6 +63,8 @@ AddonTable.loot = {
     159338, -- Pustule Bearer's Pants
     159341, -- Hound-Jowl Waistband
     159346, -- Grubby Servant-Grabbers
+    159448, -- Breastplate of the Vengeful
+    159450, -- Girdle of Durgeoning Apathy
     159528, -- Zem'lan Dagger
     159543, -- Loa-Blessed Maul
     159545, -- Bleached Bone Club of the Harmonious
@@ -74,6 +82,7 @@ AddonTable.loot = {
     160153, -- Stormforger Chestplate
     160154, -- Stormforger Gauntlets
     160185, -- Skycaller Mantle
+    160474, -- Vicemaul Wristpinchers
     160910, -- Greathelm of the Champion
 
     161037, -- Sand Scoured Girdle
@@ -86,5 +95,6 @@ AddonTable.loot = {
     161274, -- Exiled Veteran's Bindings
     161028, -- Noxious Crocolisk Trousers
 
+    163673, -- Honorbound Centurion's Pauldrons
     163865, -- Bartered Vrykul Warhelm
 }

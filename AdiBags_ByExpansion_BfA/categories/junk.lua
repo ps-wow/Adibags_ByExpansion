@@ -18,6 +18,7 @@ AddonTable.junk = {
     154790, -- Unraveling Cloth Handwraps
     154791, -- Unraveling Cloth Cowl
     154792, -- Unraveling Cloth Cord
+    154794, -- Unraveling Cloth Wristguards
     154796, -- Crumbling Chain Sabatons
     154800, -- Crumbling Chain Coif
     154801, -- Crumbling Chain Belt
@@ -78,6 +79,7 @@ AddonTable.junk = {
     158849, -- Sawtooth Jawbone
     158850, -- Vibrant Plumage
     158855, -- Grim Skull Fetish
+    158856, -- Giant Frog Leg
     158858, -- Adder's Fork
     158859, -- Jagged Fang
     158860, -- Grindstone Molar
