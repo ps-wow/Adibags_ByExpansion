@@ -2,6 +2,7 @@ local AddonName, AddonTable = ...
 
 AddonTable.junk = {
     131805, -- Gilded Goblet
+
     139542, -- Strip of Sailcloth
 
     154771, -- Cracked Hide Boots
@@ -18,13 +19,15 @@ AddonTable.junk = {
     154791, -- Unraveling Cloth Cowl
     154792, -- Unraveling Cloth Cord
     154796, -- Crumbling Chain Sabatons
+    154800, -- Crumbling Chain Coif
     154801, -- Crumbling Chain Belt
+    154803, -- Battered Greatmaul
 
     155312, -- Nazmani Warplate Chestplate
     155593, -- Keeled Breastbone
     155598, -- Severed Mandible
-
     155601, -- Pointy Leg Segment
+    155603, -- Flaky Fish Scales
     155605, -- Huge Femur
     155608, -- Defiled Bone
     155609, -- Springy Eyeball
@@ -35,22 +38,25 @@ AddonTable.junk = {
     155629, -- Shaggy Mane
     155615, -- Perstilent Muck
     155636, -- Viscous Ink
-
     155742, -- "Preserved" Foodstuffs
-
     155843, -- Brittle Ceremonial Necklace
     155844, -- Unreliable Lodestone
 
+    157842, -- Rusty Gear
     157844, -- Iridescent Speck
 
+    158178, -- Mangled Tortollan Scroll
     158210, -- Fearsome Claw
     158653, -- Bloodsiege Drape
+    158740, -- Pearly Incisor
     158743, -- Conductive Antennae
     158745, -- Luminous Scale
     158747, -- Thorny Prickle
     158751, -- Matted Pelt
+    158756, -- Rotary Gasket
     158757, -- Disquiet Earth
     158759, -- Bloodgorged Sac
+    158760, -- Fin Ray
     158771, -- Spirit Ichor
     158773, -- Wriggling Goop
     158775, -- Thick Hivewax
@@ -64,6 +70,7 @@ AddonTable.junk = {
     158822, -- Lustrous Black Feather
     158831, -- Parched Honeycomb
     158832, -- Bushy Tail
+    158834, -- Winch Coil
     158836, -- Barbed Stinger
     158838, -- Fibrous Sludge
     158839, -- Thick Crab Claw
@@ -83,6 +90,7 @@ AddonTable.junk = {
     158868, -- Golden Ornament
     158869, -- Stone Tusk
     158870, -- Wooly Hair
+    158874, -- Frothing Vapor
     158879, -- Bloodstained Message
 
     159140, -- Lifeless Clay
@@ -95,6 +103,7 @@ AddonTable.junk = {
     160924, -- Scored Antique Blade
     160925, -- Crusty Cutlass
     160928, -- Weathered Greatsword
+    160936, -- Depleted Arcane Scepter
 
     161203, -- Shanty Sheet Music
 
@@ -106,8 +115,10 @@ AddonTable.junk = {
     162978, -- Blood Magic Ritual Dish
 
     163065, -- Tusk Wax
+    163067, -- Satchel of Blood Oranges
     163068, -- Axebeak Feather
     163084, -- Solid Gold Cutlass
+    163087, -- Satchel of Blood Oranges
     163329, -- Zach's Canteen
     163592, -- Ceremonial Nose Ring
     163632, -- Pristine Strings of Pearls
