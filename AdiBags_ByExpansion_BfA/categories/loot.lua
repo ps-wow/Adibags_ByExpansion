@@ -6,6 +6,7 @@ AddonTable.loot = {
     154461, -- Cursed Boarhide Helm
     154809, -- Torgashell Helmet
     154811, -- Torgashell Shoulderguards
+    154814, -- Morass Prowler's Cloak
     154821, -- Festerroot Shoulderpads
     154822, -- Festerroot Belt
     154823, -- Etched Bone Ring
@@ -37,6 +38,7 @@ AddonTable.loot = {
     158007, -- Gravethorn Striders
     158012, -- Gravethorn Belt
     158025, -- Bleakweald Greathelm
+    158153, -- Gilded Loa Figurine
 
     158823, -- Etched Bone Ring of the Quickblade
     158947, -- Ritual Flayer's Handguards
