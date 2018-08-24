@@ -8,9 +8,13 @@ AddonTable.loot = {
     134179, -- Skoldiir Breastplate
 
     137329, -- Figurehead of the Naglfar
+    137497, -- Footpads of the Swift Balestra
 
     139897, -- Cloak of the White Prowler
     139926, -- Subject 12's ID Bracelets
+
+    144485, -- Mo'arg Heavyweight's Wristwraps
+    144488, -- Feaster Hide Gloves
 
     151311, -- Band of the Triumvirate
 

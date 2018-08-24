@@ -8,12 +8,15 @@ AddonTable.junk = {
     154771, -- Cracked Hide Boots
     154773, -- Cracked Hide Hood
     154774, -- Cracked Hide Pants
+    154775, -- Cracked Hide Shoulders
     154776, -- Cracked Hide Vest
     154777, -- Cracked Hide Wristguards
     154781, -- Ruptured Plate Leggings
     154782, -- Ruptured Plate Helmet
     154783, -- Ruptured Plate Gauntlets
+    154784, -- Ruptured Plate Breastplate
     154785, -- Ruptured Plate Belt
+    154787, -- Unraveling Cloth Shirt
     154788, -- Unraveling Cloth Sandals
     154790, -- Unraveling Cloth Handwraps
     154791, -- Unraveling Cloth Cowl
@@ -111,6 +114,7 @@ AddonTable.junk = {
     160583, -- Broken Sethrak Blade
     160924, -- Scored Antique Blade
     160925, -- Crusty Cutlass
+    160926, -- Broken Mooring Post
     160928, -- Weathered Greatsword
     160933, -- Splintered Longbow
     160934, -- Mud-Soaked Crossbow

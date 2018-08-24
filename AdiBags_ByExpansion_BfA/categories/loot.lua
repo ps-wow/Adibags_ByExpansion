@@ -23,6 +23,7 @@ AddonTable.loot = {
     155385, -- Exiled Veteran's Cuirass
     155388, -- Exiled Veteran's Treads
     155393, -- Exiled Veteran's Handguards
+    155399, -- Scorching Sands Mask
     155400, -- Exiled Veteran's Wargreaves
     155420, -- Xombo's Prized Greataxe
 
@@ -41,6 +42,7 @@ AddonTable.loot = {
     158007, -- Gravethorn Striders
     158012, -- Gravethorn Belt
     158025, -- Bleakweald Greathelm
+    158028, -- Bleakweald Pauldrons
     158060, -- Shoalbreach Pauldrons
     158153, -- Gilded Loa Figurine
 
@@ -78,6 +80,7 @@ AddonTable.loot = {
     159556, -- Loa-Blessed Greathammer
     159601, -- Zem'lan Longsword
     159606, -- Bleached Bone Wand
+    159763, -- Idol of Vol'jamba
     159979, -- Rorgog's Antenna
     159982, -- Exiled Veteran's Crushers
     159997, -- Exiled Veteran's Vambraces
@@ -104,7 +107,13 @@ AddonTable.loot = {
     161274, -- Exiled Veteran's Bindings
     161028, -- Noxious Crocolisk Trousers
 
+    162980, -- Spindle of Golden Sailthread
+
+    163078, -- Glittering Earring
+    163374, -- Josh's Fang Necklace
     163673, -- Honorbound Centurion's Pauldrons
+    163850, -- Bloody Gamekeeper's Arm
+    163851, -- Venerated Golden Censer
     163865, -- Bartered Vrykul Warhelm
     163874, -- Honorbound Decapitator
 }

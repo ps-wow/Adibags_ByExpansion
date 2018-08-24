@@ -3,6 +3,7 @@ local AddonName, AddonTable = ...
 AddonTable.transmog = {
     154806, -- Torgashell Breastplate
     154822, -- Festerroot Belt
+    154828, -- Zala'mar Helm
 
     159481, -- Rivermarsh Waraxe
     159488, -- Zem'lan Cleaver
@@ -14,6 +15,7 @@ AddonTable.transmog = {
     159576, -- Golden Fleet Warstaff
     159594, -- Zem'lan Saber (1H Sword)
     159596, -- Rivermarsh Machete
+    159602, -- Gol Osigr Wand
     159821, -- Rivermarsh Juju
 
     160121, -- Direbone Frill Greatbelt
@@ -21,4 +23,5 @@ AddonTable.transmog = {
     160159, -- Stormforger Sabatons
     160171, -- Bonepicker Cinch
     160174, -- Bonepicker Footguards
+    160178, -- Bonepicker Undermail
 }
