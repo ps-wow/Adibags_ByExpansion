@@ -8,7 +8,7 @@ AddonTable.loot = {
     154811, -- Torgashell Shoulderguards
     154814, -- Morass Prowler's Cloak
     154821, -- Festerroot Shoulderpads
-    154822, -- Festerroot Belt
+    --154822, Transmog
     154823, -- Etched Bone Ring
     154825, -- Zala'mar Vambraces
     154826, -- Zala'mar Gauntlets
@@ -67,7 +67,7 @@ AddonTable.loot = {
     159346, -- Grubby Servant-Grabbers
     159448, -- Breastplate of the Vengeful
     159450, -- Girdle of Durgeoning Apathy
-    159528, -- Zem'lan Dagger
+    --159528, Transmog
     159543, -- Loa-Blessed Maul
     159545, -- Bleached Bone Club of the Harmonious
     159556, -- Loa-Blessed Greathammer
