@@ -13,6 +13,7 @@ AddonTable.loot = {
     154825, -- Zala'mar Vambraces
     154826, -- Zala'mar Gauntlets
 
+    155055, -- Soul-Curse Executioner
     155254, -- Rastari Legguards
     155305, -- Golden City Greatcloak
     155314, -- Ritual Flayer's Vest
@@ -22,7 +23,6 @@ AddonTable.loot = {
     155385, -- Exiled Veteran's Cuirass
     155388, -- Exiled Veteran's Treads
     155393, -- Exiled Veteran's Handguards
-
     155400, -- Exiled Veteran's Wargreaves
     155420, -- Xombo's Prized Greataxe
 
@@ -71,6 +71,7 @@ AddonTable.loot = {
     159346, -- Grubby Servant-Grabbers
     159448, -- Breastplate of the Vengeful
     159450, -- Girdle of Durgeoning Apathy
+    159480, -- Bleached Bone Handaxe
     --159528, Transmog
     159543, -- Loa-Blessed Maul
     159545, -- Bleached Bone Club of the Harmonious
@@ -91,6 +92,7 @@ AddonTable.loot = {
     160185, -- Skycaller Mantle
     160474, -- Vicemaul Wristpinchers
     160910, -- Greathelm of the Champion
+    160972, -- Herculean Golden Sword
 
     161037, -- Sand Scoured Girdle
     161038, -- Sand Trapper's Legguards
@@ -104,4 +106,5 @@ AddonTable.loot = {
 
     163673, -- Honorbound Centurion's Pauldrons
     163865, -- Bartered Vrykul Warhelm
+    163874, -- Honorbound Decapitator
 }

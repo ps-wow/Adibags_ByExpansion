@@ -20,6 +20,7 @@ AddonTable.junk = {
     154792, -- Unraveling Cloth Cord
     154794, -- Unraveling Cloth Wristguards
     154796, -- Crumbling Chain Sabatons
+    154797, -- Crumbling Chain Leggings
     154800, -- Crumbling Chain Coif
     154801, -- Crumbling Chain Belt
     154803, -- Battered Greatmaul
@@ -111,6 +112,8 @@ AddonTable.junk = {
     160924, -- Scored Antique Blade
     160925, -- Crusty Cutlass
     160928, -- Weathered Greatsword
+    160933, -- Splintered Longbow
+    160934, -- Mud-Soaked Crossbow
     160936, -- Depleted Arcane Scepter
 
     161199, -- Silver-Plated Tankard

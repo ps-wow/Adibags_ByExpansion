@@ -6,6 +6,7 @@ AddonTable.transmog = {
 
     159481, -- Rivermarsh Waraxe
     159488, -- Zem'lan Cleaver
+    159491, -- Warport Short Bow
     159507, -- Zem'lan Warglaive
     159533, -- Zocali Ripper
     159524, -- Shipwrecker Knife
