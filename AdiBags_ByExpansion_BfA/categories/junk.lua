@@ -62,6 +62,7 @@ AddonTable.junk = {
     158773, -- Wriggling Goop
     158775, -- Thick Hivewax
     158778, -- Mucose Tendril
+    158789, -- Webbed Frill
     158790, -- Charnel Ash
     158801, -- Finely Serrated Tooth
     158806, -- Hooked Talon
@@ -94,6 +95,7 @@ AddonTable.junk = {
     158870, -- Wooly Hair
     158874, -- Frothing Vapor
     158879, -- Bloodstained Message
+    158936, -- Rakera's Journal
 
     159140, -- Lifeless Clay
     159756, -- Depleted Azerite
@@ -121,9 +123,17 @@ AddonTable.junk = {
     163068, -- Axebeak Feather
     163084, -- Solid Gold Cutlass
     163087, -- Satchel of Blood Oranges
+    163322, -- Ian's Empty Bottle
+    163323, -- Julie's Cracked Dish
+    163325, -- Ofer's Bound Journal
+    163326, -- Skye's Pet Rock
+    163328, -- Navarro's Flask
     163329, -- Zach's Canteen
+    163590, -- Careworn Loa Statue
     163592, -- Ceremonial Nose Ring
     163632, -- Pristine Strings of Pearls
     163845, -- Silver Statue Base
+    163846, -- Silver Monkey Head
     163849, -- Bad Troll Love Poem
+    163855, -- Duplicate Pilgrimage Scroll
 }

@@ -78,6 +78,7 @@ AddonTable.loot = {
     159997, -- Exiled Veteran's Vambraces
 
     160000, -- Exiled Veteran's Waistguard
+    160002, -- Scorching Sands Waistband
     160013, -- Exiled Veteran's Legplates
     160021, -- Exiled Veteran's Waistplate
     160125, -- Direbone Frill Stompers

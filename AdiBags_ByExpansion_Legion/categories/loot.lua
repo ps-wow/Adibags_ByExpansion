@@ -3,10 +3,16 @@ local AddonName, AddonTable = ...
 AddonTable.loot = {
     121106, -- Hagfeather Leggings
 
+    133620, -- Amice of the Enlightened
+
     134179, -- Skoldiir Breastplate
+
+    137329, -- Figurehead of the Naglfar
 
     139897, -- Cloak of the White Prowler
     139926, -- Subject 12's ID Bracelets
+
+    151311, -- Band of the Triumvirate
 
     -- Dauntless
     147255, -- Galvanized Stormscale Belt
