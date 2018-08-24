@@ -2,15 +2,15 @@ local AddonName, AddonTable = ...
 
 AddonTable.blacksmithing = {
     -- Armour
+    152802, -- Monel-Hardened Breastplate
     152803, -- Monel-Hardened Boots
     152804, -- Monel-Hardened Gauntlets
+    152805, -- Monel-Hardened Helm
     152806, -- Monel-Hardened Greaves
+    152807, -- Monel-Hardened Pauldrons
     152808, -- Monel-Hardened Waistguard
     152809, -- Monel-Hardened Armguards
     152818, -- Monel-Hardened Shield
-    152805, -- Monel-Hardened Helm
-    152807, -- Monel-Hardened Pauldrons
-    152802, -- Monel-Hardened Breastplate
     -- Weapons
     152828, -- Monel-Hardened Claymore
     152827, -- Monel-Hardened Cutlass

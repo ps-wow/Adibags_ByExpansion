@@ -58,6 +58,7 @@ AddonTable.junk = {
     158757, -- Disquiet Earth
     158759, -- Bloodgorged Sac
     158760, -- Fin Ray
+    158770, -- Gelatinous Roe
     158771, -- Spirit Ichor
     158773, -- Wriggling Goop
     158775, -- Thick Hivewax
@@ -65,9 +66,12 @@ AddonTable.junk = {
     158789, -- Webbed Frill
     158790, -- Charnel Ash
     158801, -- Finely Serrated Tooth
+    158805, -- Soft Turtle Shell
     158806, -- Hooked Talon
     158808, -- Thick Tendon
     158817, -- Razorpetal
+    158819, -- Rat Tail
+    158820, -- Blind-Worm Sting
     158821, -- Cracked Mask
     158822, -- Lustrous Black Feather
     158831, -- Parched Honeycomb
@@ -109,7 +113,10 @@ AddonTable.junk = {
     160928, -- Weathered Greatsword
     160936, -- Depleted Arcane Scepter
 
+    161199, -- Silver-Plated Tankard
+    161201, -- Mermaid's Looking Glass
     161203, -- Shanty Sheet Music
+    161206, -- Faded Treasure Map
 
     162633, -- Petrified Jungle Orchid
     162634, -- Ancient Nazmani Coins
@@ -123,6 +130,8 @@ AddonTable.junk = {
     163068, -- Axebeak Feather
     163084, -- Solid Gold Cutlass
     163087, -- Satchel of Blood Oranges
+    163091, -- Jeweled Spyglass
+    163095, -- Golden Troll Berserker
     163322, -- Ian's Empty Bottle
     163323, -- Julie's Cracked Dish
     163325, -- Ofer's Bound Journal

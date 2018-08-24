@@ -1,6 +1,7 @@
 local AddonName, AddonTable = ...
 
 AddonTable.transmog = {
+    154806, -- Torgashell Breastplate
     154822, -- Festerroot Belt
 
     159481, -- Rivermarsh Waraxe
@@ -14,6 +15,7 @@ AddonTable.transmog = {
     159596, -- Rivermarsh Machete
     159821, -- Rivermarsh Juju
 
+    160121, -- Direbone Frill Greatbelt
     160155, -- Stormforger Girdle
     160159, -- Stormforger Sabatons
     160171, -- Bonepicker Cinch

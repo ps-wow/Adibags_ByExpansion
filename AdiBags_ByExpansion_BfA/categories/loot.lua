@@ -27,17 +27,21 @@ AddonTable.loot = {
     155420, -- Xombo's Prized Greataxe
 
     157884, -- Blood Bog Waistband
+    157894, -- Bone-Fetished Chestplate
     157895, -- Bone-Fetished Stompers
     157899, -- Bone-Fetished Wargreaves
     157902, -- Bone-Fetished Armguards
     157910, -- Gonk Outrunner Vest
     157934, -- Vambraces of Rezan's Bladeguard
+    157958, -- Dunecrawler Chestplate
+    157961, -- Dunecrawler Faceguard
     157965, -- Dunecrawler Waistguard
     157977, -- Seafarer Headcover
 
     158007, -- Gravethorn Striders
     158012, -- Gravethorn Belt
     158025, -- Bleakweald Greathelm
+    158060, -- Shoalbreach Pauldrons
     158153, -- Gilded Loa Figurine
 
     158823, -- Etched Bone Ring of the Quickblade
