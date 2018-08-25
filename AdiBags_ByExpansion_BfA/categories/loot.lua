@@ -107,8 +107,6 @@ AddonTable.loot = {
     161274, -- Exiled Veteran's Bindings
     161028, -- Noxious Crocolisk Trousers
 
-    162980, -- Spindle of Golden Sailthread
-
     163078, -- Glittering Earring
     163374, -- Josh's Fang Necklace
     163673, -- Honorbound Centurion's Pauldrons

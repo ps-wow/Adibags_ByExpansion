@@ -131,6 +131,7 @@ AddonTable.junk = {
     162672, -- Witch Doctor's Juju Beads
     162673, -- Knotted Bowline
     162978, -- Blood Magic Ritual Dish
+    162980, -- Spindle of Golden Sailthread
 
     163065, -- Tusk Wax
     163067, -- Satchel of Blood Oranges
