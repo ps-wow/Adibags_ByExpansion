@@ -15,9 +15,12 @@ AddonTable.loot = {
 
     155055, -- Soul-Curse Executioner
     155254, -- Rastari Legguards
+    155257, -- Jambani Breeches
     155305, -- Golden City Greatcloak
     155314, -- Ritual Flayer's Vest
     155327, -- Nazmani Warplate Greaves
+    155339, -- Ritual Flayer's Belt
+    155344, -- Ceremonial Limb Chopper
     155378, -- Zardax's Tattered Drape
     155383, -- Bloody Warmother's Greatcloak
     155385, -- Exiled Veteran's Cuirass
@@ -25,8 +28,12 @@ AddonTable.loot = {
     155393, -- Exiled Veteran's Handguards
     155399, -- Scorching Sands Mask
     155400, -- Exiled Veteran's Wargreaves
+    155403, -- Scorching Sands Breeches
+    155405, -- Scorching Sands Shoulderpads
+    155417, -- Keeper's Crescent
     155420, -- Xombo's Prized Greataxe
 
+    157881, -- Blood Bog Headcover [Azerite]
     157884, -- Blood Bog Waistband
     157894, -- Bone-Fetished Chestplate
     157895, -- Bone-Fetished Stompers
@@ -88,13 +95,16 @@ AddonTable.loot = {
     160000, -- Exiled Veteran's Waistguard
     160002, -- Scorching Sands Waistband
     160013, -- Exiled Veteran's Legplates
+    160016, -- Scorching Sands Legwraps
     160021, -- Exiled Veteran's Waistplate
+    160023, -- Scorching Sands Waistwrap
     160125, -- Direbone Frill Stompers
     160153, -- Stormforger Chestplate
     160154, -- Stormforger Gauntlets
     160185, -- Skycaller Mantle
     160474, -- Vicemaul Wristpinchers
     160910, -- Greathelm of the Champion
+    160911, -- Cowl of the Champion
     160972, -- Herculean Golden Sword
 
     161037, -- Sand Scoured Girdle

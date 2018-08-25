@@ -5,8 +5,6 @@ $config = require_once(__DIR__ . '/config.php');
 $folderScan = require_once(__DIR__ . '/FolderScan.php');
 $getItemIds = require_once(__DIR__ . '/GetItemIds.php');
 
-// var_dump($config); die;
-
 function verifyModules($modules) {
     $moduleFolders = [];
     foreach ($modules as $expac) {
@@ -30,3 +28,5 @@ $modFolders = verifyModules($config->getModules());
 $files = $folderScan->buildAddonFilesList($modFolders, $config->getFolders());
 
 $itemIds = $getItemIds->run($files);
+echo "No duplicates found.";
+exit(0);
