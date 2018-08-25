@@ -122,6 +122,7 @@ AddonTable.junk = {
 
     161199, -- Silver-Plated Tankard
     161201, -- Mermaid's Looking Glass
+    161202, -- Polished Brass Sextant
     161203, -- Shanty Sheet Music
     161206, -- Faded Treasure Map
 
