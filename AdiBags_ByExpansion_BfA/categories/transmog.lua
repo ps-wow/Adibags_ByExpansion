@@ -6,12 +6,14 @@ AddonTable.transmog = {
     154828, -- Zala'mar Helm
     154829, -- Zala'mar Legguards
 
+    159168, -- Freehold Boots
     159171, -- Freehold Cowl
     159481, -- Rivermarsh Waraxe
     159488, -- Zem'lan Cleaver
     159491, -- Warport Short Bow
     159507, -- Zem'lan Warglaive
     159515, -- Warport Knuckles
+    159531, -- Warport Dirk
     159533, -- Zocali Ripper
     159524, -- Shipwrecker Knife
     159528, -- Zem'lan Dagger

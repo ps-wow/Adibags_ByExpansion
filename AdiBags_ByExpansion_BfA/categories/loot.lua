@@ -3,6 +3,7 @@ local AddonName, AddonTable = ...
 -- Soulbound Items (Green or higher), Questing Gear
 
 AddonTable.loot = {
+    154389, -- Abyssal-Serpent Pauldrons
     154461, -- Cursed Boarhide Helm
     154809, -- Torgashell Helmet
     154811, -- Torgashell Shoulderguards
@@ -40,11 +41,13 @@ AddonTable.loot = {
     157899, -- Bone-Fetished Wargreaves
     157902, -- Bone-Fetished Armguards
     157910, -- Gonk Outrunner Vest
+    157926, -- Breastplate of Rezan's Bladeguard
     157934, -- Vambraces of Rezan's Bladeguard
     157958, -- Dunecrawler Chestplate
     157961, -- Dunecrawler Faceguard
     157965, -- Dunecrawler Waistguard
     157977, -- Seafarer Headcover
+    157998, -- Harbormaster Wristplates
 
     158007, -- Gravethorn Striders
     158012, -- Gravethorn Belt
@@ -78,6 +81,7 @@ AddonTable.loot = {
     159338, -- Pustule Bearer's Pants
     159341, -- Hound-Jowl Waistband
     159346, -- Grubby Servant-Grabbers
+    159445, -- Grips of the Everlasting Guardian
     159448, -- Breastplate of the Vengeful
     159450, -- Girdle of Durgeoning Apathy
     159480, -- Bleached Bone Handaxe
@@ -89,6 +93,7 @@ AddonTable.loot = {
     159606, -- Bleached Bone Wand
     159763, -- Idol of Vol'jamba
     159979, -- Rorgog's Antenna
+    159981, -- Lastwind Handwraps
     159982, -- Exiled Veteran's Crushers
     159997, -- Exiled Veteran's Vambraces
 
@@ -110,9 +115,11 @@ AddonTable.loot = {
     161037, -- Sand Scoured Girdle
     161038, -- Sand Trapper's Legguards
     161039, -- Sandclaw Handguards
+    161043, -- Relentless Hydra Legguards
 
     161158, -- Exiled Veteran's Spaulders
     161182, -- Cracked Crawg Shackles
+    161188, -- Fangcaller's Staff
     161195, -- Sethrak Warden's Scimitar
     161274, -- Exiled Veteran's Bindings
     161028, -- Noxious Crocolisk Trousers

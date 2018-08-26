@@ -18,6 +18,8 @@ AddonTable.junk = {
     132233, -- Lingering Essence
     132239, -- Bone Splinters
 
+    153164, -- Otherworldy Trophy
+
     -- Sentinax Consumables
     146907, -- Sentinax Beacon of Warbeasts
 

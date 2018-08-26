@@ -5,6 +5,8 @@ AddonTable.junk = {
 
     139542, -- Strip of Sailcloth
 
+    152855, -- Exhausted Soulcore
+
     154771, -- Cracked Hide Boots
     154773, -- Cracked Hide Hood
     154774, -- Cracked Hide Pants
@@ -22,6 +24,7 @@ AddonTable.junk = {
     154791, -- Unraveling Cloth Cowl
     154792, -- Unraveling Cloth Cord
     154794, -- Unraveling Cloth Wristguards
+    154795, -- Crumbling Chain Spaulders
     154796, -- Crumbling Chain Sabatons
     154797, -- Crumbling Chain Leggings
     154800, -- Crumbling Chain Coif
@@ -116,11 +119,13 @@ AddonTable.junk = {
     160925, -- Crusty Cutlass
     160926, -- Broken Mooring Post
     160928, -- Weathered Greatsword
+    160932, -- Termite-Addled Staff
     160933, -- Splintered Longbow
     160934, -- Mud-Soaked Crossbow
     160936, -- Depleted Arcane Scepter
 
     161199, -- Silver-Plated Tankard
+    161200, -- Teardrop Pearl
     161201, -- Mermaid's Looking Glass
     161202, -- Polished Brass Sextant
     161203, -- Shanty Sheet Music
@@ -131,6 +136,7 @@ AddonTable.junk = {
     162667, -- Farraki Funeral Urn
     162672, -- Witch Doctor's Juju Beads
     162673, -- Knotted Bowline
+    162683, -- Archaic Dinomancy Carvings
     162978, -- Blood Magic Ritual Dish
     162980, -- Spindle of Golden Sailthread
 
