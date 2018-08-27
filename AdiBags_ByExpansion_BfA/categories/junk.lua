@@ -159,6 +159,7 @@ AddonTable.junk = {
     163326, -- Skye's Pet Rock
     163328, -- Navarro's Flask
     163329, -- Zach's Canteen
+    163374, -- Josh's Fang Necklace
     163590, -- Careworn Loa Statue
     163592, -- Ceremonial Nose Ring
     163632, -- Pristine Strings of Pearls

@@ -137,7 +137,6 @@ AddonTable.loot = {
     161028, -- Noxious Crocolisk Trousers
 
     163078, -- Glittering Earring
-    163374, -- Josh's Fang Necklace
     163668, -- Honorbound Outrider's Mantle
     163669, -- Honorbound Outrider's Faceguard
     163671, -- Honorbound Outrider's Vestments
