@@ -7,12 +7,14 @@ AddonTable.junk = {
 
     152855, -- Exhausted Soulcore
 
+    154770, -- Cracked Hide Belt
     154771, -- Cracked Hide Boots
     154773, -- Cracked Hide Hood
     154774, -- Cracked Hide Pants
     154775, -- Cracked Hide Shoulders
     154776, -- Cracked Hide Vest
     154777, -- Cracked Hide Wristguards
+    154778, -- Ruptured Plate Vambraces
     154781, -- Ruptured Plate Leggings
     154782, -- Ruptured Plate Helmet
     154783, -- Ruptured Plate Gauntlets
@@ -30,6 +32,7 @@ AddonTable.junk = {
     154800, -- Crumbling Chain Coif
     154801, -- Crumbling Chain Belt
     154803, -- Battered Greatmaul
+    154804, -- Chipped-Blade Scimitar
 
     155312, -- Nazmani Warplate Chestplate
     155593, -- Keeled Breastbone

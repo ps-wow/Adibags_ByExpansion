@@ -2,12 +2,14 @@ local AddonName, AddonTable = ...
 
 AddonTable.transmog = {
     154806, -- Torgashell Breastplate
+    154821, -- Festerroot Shoulderpads
     154822, -- Festerroot Belt
     154828, -- Zala'mar Helm
     154829, -- Zala'mar Legguards
 
     159168, -- Freehold Boots
     159171, -- Freehold Cowl
+    159188, -- Foxhollow Sandals
     159481, -- Rivermarsh Waraxe
     159488, -- Zem'lan Cleaver
     159491, -- Warport Short Bow
@@ -28,6 +30,7 @@ AddonTable.transmog = {
     160130, -- Brutohide Leggings
     160155, -- Stormforger Girdle
     160159, -- Stormforger Sabatons
+    160160, -- Stormforger Vambraces
     160171, -- Bonepicker Cinch
     160174, -- Bonepicker Footguards
     160178, -- Bonepicker Undermail

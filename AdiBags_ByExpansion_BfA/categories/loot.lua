@@ -8,7 +8,6 @@ AddonTable.loot = {
     154809, -- Torgashell Helmet
     154811, -- Torgashell Shoulderguards
     154814, -- Morass Prowler's Cloak
-    154821, -- Festerroot Shoulderpads
     --154822, Transmog
     154823, -- Etched Bone Ring
     154825, -- Zala'mar Vambraces
@@ -25,6 +24,7 @@ AddonTable.loot = {
     155378, -- Zardax's Tattered Drape
     155383, -- Bloody Warmother's Greatcloak
     155385, -- Exiled Veteran's Cuirass
+    155382, -- Spare Stabilizer Band
     155388, -- Exiled Veteran's Treads
     155393, -- Exiled Veteran's Handguards
     155399, -- Scorching Sands Mask
@@ -33,7 +33,9 @@ AddonTable.loot = {
     155405, -- Scorching Sands Shoulderpads
     155417, -- Keeper's Crescent
     155420, -- Xombo's Prized Greataxe
+    155450, -- Ring of Tides
 
+    157878, -- Blood Bog Wraps [Azerite]
     157881, -- Blood Bog Headcover [Azerite]
     157884, -- Blood Bog Waistband
     157894, -- Bone-Fetished Chestplate
@@ -55,7 +57,8 @@ AddonTable.loot = {
     158028, -- Bleakweald Pauldrons
     158060, -- Shoalbreach Pauldrons
     158153, -- Gilded Loa Figurine
-
+    158154, -- Emblem of Zandalar
+    158411, -- Jambani Girdle
     158823, -- Etched Bone Ring of the Quickblade
     158947, -- Ritual Flayer's Handguards
     158958, -- Ritual Flayer's Trousers
@@ -71,6 +74,7 @@ AddonTable.loot = {
     159045, -- Nazmani Warplate Boots
     159048, -- Ritual Flayer's Treads
     159064, -- Nazmani Warplate Greatbelt
+    159075, -- Bloodhex Talisman
     159077, -- Ticker's Spare Catalyst
     159078, -- Potency Manipulator
     159084, -- Handscythe of the First City
@@ -92,6 +96,7 @@ AddonTable.loot = {
     159601, -- Zem'lan Longsword
     159606, -- Bleached Bone Wand
     159763, -- Idol of Vol'jamba
+    159977, -- Vindictive Golem Core
     159979, -- Rorgog's Antenna
     159981, -- Lastwind Handwraps
     159982, -- Exiled Veteran's Crushers
@@ -99,6 +104,7 @@ AddonTable.loot = {
 
     160000, -- Exiled Veteran's Waistguard
     160002, -- Scorching Sands Waistband
+    160004, -- Cobra Charmer's Ring
     160013, -- Exiled Veteran's Legplates
     160016, -- Scorching Sands Legwraps
     160021, -- Exiled Veteran's Waistplate
@@ -116,7 +122,8 @@ AddonTable.loot = {
     161038, -- Sand Trapper's Legguards
     161039, -- Sandclaw Handguards
     161043, -- Relentless Hydra Legguards
-
+    161091, -- Swift-Talon Striders
+    161113, -- Incessantly Ticking Clock
     161158, -- Exiled Veteran's Spaulders
     161182, -- Cracked Crawg Shackles
     161188, -- Fangcaller's Staff
