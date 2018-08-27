@@ -122,6 +122,7 @@ AddonTable.junk = {
     160924, -- Scored Antique Blade
     160925, -- Crusty Cutlass
     160926, -- Broken Mooring Post
+    160927, -- Chipped Stone Hatchet
     160928, -- Weathered Greatsword
     160930, -- Barnacled Greataxe
     160931, -- Rough Cooking Spit
