@@ -15,6 +15,7 @@ AddonTable.junk = {
     154776, -- Cracked Hide Vest
     154777, -- Cracked Hide Wristguards
     154778, -- Ruptured Plate Vambraces
+    154779, -- Ruptured Plate Stompers
     154781, -- Ruptured Plate Leggings
     154782, -- Ruptured Plate Helmet
     154783, -- Ruptured Plate Gauntlets
@@ -122,6 +123,8 @@ AddonTable.junk = {
     160925, -- Crusty Cutlass
     160926, -- Broken Mooring Post
     160928, -- Weathered Greatsword
+    160930, -- Barnacled Greataxe
+    160931, -- Rough Cooking Spit
     160932, -- Termite-Addled Staff
     160933, -- Splintered Longbow
     160934, -- Mud-Soaked Crossbow

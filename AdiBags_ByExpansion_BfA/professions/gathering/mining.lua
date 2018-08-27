@@ -6,7 +6,8 @@ AddonTable.mining = {
     152513, -- Platium Ore
     152579, -- Storm Silver Ore
     -- Gems
-    153701, -- Rubellite
-    153704, -- Viridium
-    153705, -- Kyanite
+    153701, -- Rubellite [Uncommon]
+    153704, -- Viridium [Uncommon]
+    153705, -- Kyanite [Uncommon]
+    154124, -- Laribole [Rare]
 }

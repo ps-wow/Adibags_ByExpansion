@@ -34,6 +34,7 @@ AddonTable.loot = {
     155417, -- Keeper's Crescent
     155420, -- Xombo's Prized Greataxe
     155450, -- Ring of Tides
+    155455, -- Ring of Akunda's Chosen
 
     157878, -- Blood Bog Wraps [Azerite]
     157881, -- Blood Bog Headcover [Azerite]
@@ -56,14 +57,18 @@ AddonTable.loot = {
     158025, -- Bleakweald Greathelm
     158028, -- Bleakweald Pauldrons
     158060, -- Shoalbreach Pauldrons
+    158151, -- Zandalari Band
     158153, -- Gilded Loa Figurine
     158154, -- Emblem of Zandalar
+    158318, -- Murky Cerulean Signet
+    158366, -- Charged Sandstone Band
     158411, -- Jambani Girdle
     158823, -- Etched Bone Ring of the Quickblade
     158947, -- Ritual Flayer's Handguards
     158958, -- Ritual Flayer's Trousers
     158973, -- Band of Destiny
     158982, -- Ritual Flayer's Striders
+    158983, -- Ritual Flayer's Grips
     158955, -- Nazmani Warplate Legguards
     158994, -- Ritual Flayer's Legwraps
 
@@ -133,6 +138,9 @@ AddonTable.loot = {
 
     163078, -- Glittering Earring
     163374, -- Josh's Fang Necklace
+    163668, -- Honorbound Outrider's Mantle
+    163669, -- Honorbound Outrider's Faceguard
+    163671, -- Honorbound Outrider's Vestments
     163673, -- Honorbound Centurion's Pauldrons
     163850, -- Bloody Gamekeeper's Arm
     163851, -- Venerated Golden Censer
