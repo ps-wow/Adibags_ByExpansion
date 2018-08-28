@@ -18,6 +18,7 @@ AddonTable.loot = {
     155257, -- Jambani Breeches
     155305, -- Golden City Greatcloak
     155314, -- Ritual Flayer's Vest
+    155319, -- Ritual Flayer's Gloves
     155327, -- Nazmani Warplate Greaves
     155339, -- Ritual Flayer's Belt
     155344, -- Ceremonial Limb Chopper
@@ -26,6 +27,7 @@ AddonTable.loot = {
     155385, -- Exiled Veteran's Cuirass
     155382, -- Spare Stabilizer Band
     155388, -- Exiled Veteran's Treads
+    155391, -- Scorching Sands Footpads
     155393, -- Exiled Veteran's Handguards
     155399, -- Scorching Sands Mask
     155400, -- Exiled Veteran's Wargreaves
@@ -35,6 +37,7 @@ AddonTable.loot = {
     155420, -- Xombo's Prized Greataxe
     155450, -- Ring of Tides
     155455, -- Ring of Akunda's Chosen
+    155522, -- Ritual Flayer's Wristwraps
 
     157878, -- Blood Bog Wraps [Azerite]
     157881, -- Blood Bog Headcover [Azerite]
@@ -46,10 +49,12 @@ AddonTable.loot = {
     157910, -- Gonk Outrunner Vest
     157926, -- Breastplate of Rezan's Bladeguard
     157934, -- Vambraces of Rezan's Bladeguard
+    157945, -- Deathsnap Hood [Azerite]
     157958, -- Dunecrawler Chestplate
     157961, -- Dunecrawler Faceguard
     157965, -- Dunecrawler Waistguard
     157977, -- Seafarer Headcover
+    157978, -- Seafarer Breeches
     157998, -- Harbormaster Wristplates
 
     158007, -- Gravethorn Striders
@@ -64,6 +69,7 @@ AddonTable.loot = {
     158366, -- Charged Sandstone Band
     158411, -- Jambani Girdle
     158823, -- Etched Bone Ring of the Quickblade
+    158946, -- Ritual Flayer's Footpads
     158947, -- Ritual Flayer's Handguards
     158958, -- Ritual Flayer's Trousers
     158973, -- Band of Destiny
@@ -76,6 +82,7 @@ AddonTable.loot = {
     159016, -- Ritual Flayer's Footwraps
     159028, -- Ritual Flayer's Pants
     159039, -- Nazmani Warplate Armguards
+    159041, -- Ritual Flayer's Armbands
     159045, -- Nazmani Warplate Boots
     159048, -- Ritual Flayer's Treads
     159064, -- Nazmani Warplate Greatbelt
@@ -84,10 +91,12 @@ AddonTable.loot = {
     159078, -- Potency Manipulator
     159084, -- Handscythe of the First City
     159086, -- Corrupted Tribe Headsmasher
+    159147, -- Jambani Walkers
     159174, -- Freehold Belt
     159305, -- Corrosive Handler's Gloves
     159332, -- Wristguards of the Sandswimmer
     159338, -- Pustule Bearer's Pants
+    159340, -- Bracers of Dreadful Maladies
     159341, -- Hound-Jowl Waistband
     159346, -- Grubby Servant-Grabbers
     159445, -- Grips of the Everlasting Guardian
@@ -105,6 +114,7 @@ AddonTable.loot = {
     159979, -- Rorgog's Antenna
     159981, -- Lastwind Handwraps
     159982, -- Exiled Veteran's Crushers
+    159991, -- Scorching Sands Boots
     159997, -- Exiled Veteran's Vambraces
 
     160000, -- Exiled Veteran's Waistguard
@@ -132,6 +142,7 @@ AddonTable.loot = {
     161158, -- Exiled Veteran's Spaulders
     161182, -- Cracked Crawg Shackles
     161188, -- Fangcaller's Staff
+    161192, -- Sethrak Warbringer's Scimitar
     161195, -- Sethrak Warden's Scimitar
     161274, -- Exiled Veteran's Bindings
     161028, -- Noxious Crocolisk Trousers

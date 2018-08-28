@@ -71,6 +71,7 @@ AddonTable.junk = {
     158757, -- Disquiet Earth
     158759, -- Bloodgorged Sac
     158760, -- Fin Ray
+    158765, -- Hardshell Mollusk
     158770, -- Gelatinous Roe
     158771, -- Spirit Ichor
     158773, -- Wriggling Goop
@@ -146,6 +147,7 @@ AddonTable.junk = {
     162672, -- Witch Doctor's Juju Beads
     162673, -- Knotted Bowline
     162683, -- Archaic Dinomancy Carvings
+    162684, -- Etched Dock Cleat
     162978, -- Blood Magic Ritual Dish
     162980, -- Spindle of Golden Sailthread
 

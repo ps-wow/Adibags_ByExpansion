@@ -22,6 +22,7 @@ AddonTable.transmog = {
     159576, -- Golden Fleet Warstaff
     159594, -- Zem'lan Saber (1H Sword)
     159596, -- Rivermarsh Machete
+    159598, -- Golden Fleet Longsword
     159602, -- Gol Osigr Wand
     159821, -- Rivermarsh Juju
 
@@ -32,6 +33,7 @@ AddonTable.transmog = {
     160159, -- Stormforger Sabatons
     160160, -- Stormforger Vambraces
     160171, -- Bonepicker Cinch
+    160172, -- Bonepicker Armguards
     160174, -- Bonepicker Footguards
     160178, -- Bonepicker Undermail
     160182, -- Skycaller Leggings
