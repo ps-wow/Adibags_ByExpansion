@@ -65,6 +65,7 @@ AddonTable.junk = {
     158743, -- Conductive Antennae
     158745, -- Luminous Scale
     158747, -- Thorny Prickle
+    158750, -- Bonebreaker Beak
     158751, -- Matted Pelt
     158756, -- Rotary Gasket
     158757, -- Disquiet Earth
