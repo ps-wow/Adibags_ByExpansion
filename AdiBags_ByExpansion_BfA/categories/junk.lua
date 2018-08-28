@@ -51,6 +51,7 @@ AddonTable.junk = {
     155615, -- Perstilent Muck
     155636, -- Viscous Ink
     155742, -- "Preserved" Foodstuffs
+    155841, -- Defaced Statuette
     155843, -- Brittle Ceremonial Necklace
     155844, -- Unreliable Lodestone
 
@@ -153,6 +154,7 @@ AddonTable.junk = {
     163084, -- Solid Gold Cutlass
     163087, -- Satchel of Blood Oranges
     163091, -- Jeweled Spyglass
+    163092, -- Embroidered Falconry Hood
     163095, -- Golden Troll Berserker
     163322, -- Ian's Empty Bottle
     163323, -- Julie's Cracked Dish
@@ -161,6 +163,7 @@ AddonTable.junk = {
     163328, -- Navarro's Flask
     163329, -- Zach's Canteen
     163374, -- Josh's Fang Necklace
+    163587, -- Discarded Zandalari Brooch
     163590, -- Careworn Loa Statue
     163592, -- Ceremonial Nose Ring
     163632, -- Pristine Strings of Pearls
