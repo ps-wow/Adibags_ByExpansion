@@ -14,6 +14,7 @@ AddonTable.loot = {
     154826, -- Zala'mar Gauntlets
 
     155055, -- Soul-Curse Executioner
+    155246, -- Jambani Grips
     155254, -- Rastari Legguards
     155257, -- Jambani Breeches
     155305, -- Golden City Greatcloak
@@ -28,6 +29,7 @@ AddonTable.loot = {
     155382, -- Spare Stabilizer Band
     155388, -- Exiled Veteran's Treads
     155391, -- Scorching Sands Footpads
+    155392, -- Scorching Sands Grips
     155393, -- Exiled Veteran's Handguards
     155399, -- Scorching Sands Mask
     155400, -- Exiled Veteran's Wargreaves
@@ -36,6 +38,7 @@ AddonTable.loot = {
     155417, -- Keeper's Crescent
     155420, -- Xombo's Prized Greataxe
     155450, -- Ring of Tides
+    155454, -- Devoted Defender's Band
     155455, -- Ring of Akunda's Chosen
     155522, -- Ritual Flayer's Wristwraps
 
@@ -68,6 +71,7 @@ AddonTable.loot = {
     158318, -- Murky Cerulean Signet
     158366, -- Charged Sandstone Band
     158411, -- Jambani Girdle
+    158423, -- Jambani Gloves
     158823, -- Etched Bone Ring of the Quickblade
     158946, -- Ritual Flayer's Footpads
     158947, -- Ritual Flayer's Handguards
@@ -114,6 +118,7 @@ AddonTable.loot = {
     159979, -- Rorgog's Antenna
     159981, -- Lastwind Handwraps
     159982, -- Exiled Veteran's Crushers
+    159983, -- Scorching Sands Handwraps
     159991, -- Scorching Sands Boots
     159997, -- Exiled Veteran's Vambraces
 
@@ -122,6 +127,7 @@ AddonTable.loot = {
     160004, -- Cobra Charmer's Ring
     160013, -- Exiled Veteran's Legplates
     160016, -- Scorching Sands Legwraps
+    160020, -- Scorching Sands Gloves
     160021, -- Exiled Veteran's Waistplate
     160023, -- Scorching Sands Waistwrap
     160125, -- Direbone Frill Stompers
@@ -140,6 +146,7 @@ AddonTable.loot = {
     161091, -- Swift-Talon Striders
     161113, -- Incessantly Ticking Clock
     161158, -- Exiled Veteran's Spaulders
+    161180, -- Scorching Sands Handlers
     161182, -- Cracked Crawg Shackles
     161188, -- Fangcaller's Staff
     161192, -- Sethrak Warbringer's Scimitar
