@@ -38,8 +38,10 @@ AddonTable.loot = {
     155417, -- Keeper's Crescent
     155420, -- Xombo's Prized Greataxe
     155450, -- Ring of Tides
+    155451, -- Akunda Adherant's Cloak
     155454, -- Devoted Defender's Band
     155455, -- Ring of Akunda's Chosen
+    155456, -- Zem'lan Crewman's Cloak
     155522, -- Ritual Flayer's Wristwraps
 
     157878, -- Blood Bog Wraps [Azerite]
@@ -90,6 +92,7 @@ AddonTable.loot = {
     159045, -- Nazmani Warplate Boots
     159048, -- Ritual Flayer's Treads
     159064, -- Nazmani Warplate Greatbelt
+    159074, -- Jarkadiax's Other Eye
     159075, -- Bloodhex Talisman
     159077, -- Ticker's Spare Catalyst
     159078, -- Potency Manipulator
@@ -114,7 +117,9 @@ AddonTable.loot = {
     159601, -- Zem'lan Longsword
     159606, -- Bleached Bone Wand
     159763, -- Idol of Vol'jamba
+    159764, -- Enraged Diemetradon Fin
     159977, -- Vindictive Golem Core
+    159978, -- Juni's Egg Timer
     159979, -- Rorgog's Antenna
     159981, -- Lastwind Handwraps
     159982, -- Exiled Veteran's Crushers
@@ -148,6 +153,7 @@ AddonTable.loot = {
     161158, -- Exiled Veteran's Spaulders
     161180, -- Scorching Sands Handlers
     161182, -- Cracked Crawg Shackles
+    161183, -- Honorable Tiger's Cloak
     161188, -- Fangcaller's Staff
     161192, -- Sethrak Warbringer's Scimitar
     161195, -- Sethrak Warden's Scimitar
