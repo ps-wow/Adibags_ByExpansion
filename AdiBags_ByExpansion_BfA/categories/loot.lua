@@ -106,6 +106,7 @@ AddonTable.loot = {
     159340, -- Bracers of Dreadful Maladies
     159341, -- Hound-Jowl Waistband
     159346, -- Grubby Servant-Grabbers
+    159415, -- Skyscorcher Pauldrons
     159445, -- Grips of the Everlasting Guardian
     159448, -- Breastplate of the Vengeful
     159450, -- Girdle of Durgeoning Apathy
@@ -140,6 +141,7 @@ AddonTable.loot = {
     160154, -- Stormforger Gauntlets
     160185, -- Skycaller Mantle
     160474, -- Vicemaul Wristpinchers
+    160529, -- Dune Shroud
     160910, -- Greathelm of the Champion
     160911, -- Cowl of the Champion
     160972, -- Herculean Golden Sword
