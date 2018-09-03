@@ -21,3 +21,37 @@ This addon currently requires manual entry of item id's in predefined lists so w
 - "Pre-patch" items belong to the expansion which they preceed.
 - Items belong to the expansion of their content not necessarily the patch added
   * eg, an item added in patch 3.x (wrath) to drop from a WoW mob would be classed as WoW not wrath.
+
+## Category Structure
+
+- Categories
+  - Artifacts (Legion)
+  - Consumables (Flasks, Potions, Runes)
+  - Food and Drink
+  - Loot (Bound Gear, Levelling Gear, etc, BoE rings/necks, Account Bound items)
+  - Tradeskill (Non profession-specific trade materials)
+  - Transmog (Any BoE armour/weapons [excludes, regardless of if it looks good
+- Dungeons
+- Professions
+  - Crafting
+    - Alchemy
+    - Blacksmithing
+    - Enchanting
+    - Engineering
+    - Inscription
+    - Leatherworking
+    - Tailoring
+  - Gathering
+    - Cloth
+    - Herbalism
+    - Mining
+    - Skinning
+  - Secondary
+    - Fishing
+    - Cooking
+    - Archaeology
+- Raids
+
+Notes:
+
+ - Cloth isn't a gathering profession, but you do collect cloth in your adventures and it doesn't fit strictly in any other category
