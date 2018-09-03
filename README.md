@@ -33,23 +33,9 @@ This addon currently requires manual entry of item id's in predefined lists so w
   - Transmog (Any BoE armour/weapons [excludes, regardless of if it looks good
 - Dungeons
 - Professions
-  - Crafting
-    - Alchemy
-    - Blacksmithing
-    - Enchanting
-    - Engineering
-    - Inscription
-    - Leatherworking
-    - Tailoring
-  - Gathering
-    - Cloth
-    - Herbalism
-    - Mining
-    - Skinning
-  - Secondary
-    - Fishing
-    - Cooking
-    - Archaeology
+  - Crafting (Alchemy, Blacksmithing, Enchanting, Engineering, Inscription, Leatherworking, Tailoring)
+  - Gathering (Cloth, Herbalism, Mining, Skinning)
+  - Secondary (Fishing, Cooking, Archaeology)
 - Raids
 
 Notes:
