@@ -17,6 +17,7 @@ AddonTable.loot = {
     155246, -- Jambani Grips
     155254, -- Rastari Legguards
     155257, -- Jambani Breeches
+    155267, -- Zanchuli Wristwraps
     155305, -- Golden City Greatcloak
     155314, -- Ritual Flayer's Vest
     155319, -- Ritual Flayer's Gloves
@@ -24,6 +25,7 @@ AddonTable.loot = {
     155328, -- Loa Speaker's Leggings
     155339, -- Ritual Flayer's Belt
     155344, -- Ceremonial Limb Chopper
+    155351, -- Strong Juju Bloodletter
     155378, -- Zardax's Tattered Drape
     155383, -- Bloody Warmother's Greatcloak
     155385, -- Exiled Veteran's Cuirass
@@ -42,6 +44,7 @@ AddonTable.loot = {
     155407, -- Lastwind Mantle
     155417, -- Keeper's Crescent
     155420, -- Xombo's Prized Greataxe
+    155424, -- Mozesha's Hexblade
     155430, -- Trapped Soul Warmace
     155450, -- Ring of Tides
     155451, -- Akunda Adherant's Cloak
@@ -63,6 +66,7 @@ AddonTable.loot = {
     157926, -- Breastplate of Rezan's Bladeguard
     157934, -- Vambraces of Rezan's Bladeguard
     157935, -- Sandspinner Footwraps
+    157938, -- Sandspinner Legwraps
     157945, -- Deathsnap Hood [Azerite]
     157958, -- Dunecrawler Chestplate
     157961, -- Dunecrawler Faceguard
@@ -78,6 +82,7 @@ AddonTable.loot = {
     158025, -- Bleakweald Greathelm
     158028, -- Bleakweald Pauldrons
     158034, -- Squallshaper Leggings
+    158035, -- Squallshaper Mantle
     158060, -- Shoalbreach Pauldrons
     158151, -- Zandalari Band
     158153, -- Gilded Loa Figurine
@@ -90,12 +95,14 @@ AddonTable.loot = {
     158944, -- Loa Speaker's Footwraps
     158946, -- Ritual Flayer's Footpads
     158947, -- Ritual Flayer's Handguards
+    158949, -- Loa Speaker's Grips
+    158955, -- Nazmani Warplate Legguards
+    158956, -- Loa Speaker's Pants
     158958, -- Ritual Flayer's Trousers
+    158968, -- Loa Speaker's Wraps
     158973, -- Band of Destiny
     158982, -- Ritual Flayer's Striders
     158983, -- Ritual Flayer's Grips
-    158955, -- Nazmani Warplate Legguards
-    158956, -- Loa Speaker's Pants
     158992, -- Loa Speaker's Trousers
     158994, -- Ritual Flayer's Legwraps
 
@@ -107,6 +114,7 @@ AddonTable.loot = {
     159045, -- Nazmani Warplate Boots
     159046, -- Loa Speaker's Footpads
     159048, -- Ritual Flayer's Treads
+    159051, -- Loa Speaker's Grasps
     159064, -- Nazmani Warplate Greatbelt
     159074, -- Jarkadiax's Other Eye
     159075, -- Bloodhex Talisman
@@ -143,6 +151,7 @@ AddonTable.loot = {
     159983, -- Scorching Sands Handwraps
     159989, -- Lastwind Slippers
     159991, -- Scorching Sands Boots
+    159996, -- Lastwind Cuffs
     159997, -- Exiled Veteran's Vambraces
 
     160000, -- Exiled Veteran's Waistguard
@@ -150,9 +159,11 @@ AddonTable.loot = {
     160002, -- Scorching Sands Waistband
     160004, -- Cobra Charmer's Ring
     160006, -- Lastwind Treads
+    160009, -- Lastwind Wristwraps
     160013, -- Exiled Veteran's Legplates
     160014, -- Lastwind Leggings
     160016, -- Scorching Sands Legwraps
+    160018, -- Lastwind Gloves
     160020, -- Scorching Sands Gloves
     160021, -- Exiled Veteran's Waistplate
     160023, -- Scorching Sands Waistwrap
@@ -160,6 +171,7 @@ AddonTable.loot = {
     160153, -- Stormforger Chestplate
     160154, -- Stormforger Gauntlets
     160185, -- Skycaller Mantle
+    160456, -- Blanched Ravenfeather Gloves
     160474, -- Vicemaul Wristpinchers
     160529, -- Dune Shroud
     160910, -- Greathelm of the Champion
@@ -172,7 +184,9 @@ AddonTable.loot = {
     161043, -- Relentless Hydra Legguards
     161091, -- Swift-Talon Striders
     161113, -- Incessantly Ticking Clock
+    161125, -- Kaja-fied Banana
     161158, -- Exiled Veteran's Spaulders
+    161178, -- Lastwind Handlers
     161180, -- Scorching Sands Handlers
     161182, -- Cracked Crawg Shackles
     161183, -- Honorable Tiger's Cloak
@@ -184,6 +198,7 @@ AddonTable.loot = {
     161028, -- Noxious Crocolisk Trousers
 
     163078, -- Glittering Earring
+    163285, -- Honorbound Artificer's Sandles
     163666, -- Honorbound Artificer's Mantle
     163668, -- Honorbound Outrider's Mantle
     163669, -- Honorbound Outrider's Faceguard

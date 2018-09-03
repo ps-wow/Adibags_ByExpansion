@@ -28,6 +28,7 @@ AddonTable.transmog = {
     159533, -- Zocali Ripper
     159523, -- Tideguard Shanker
     159524, -- Shipwrecker Knife
+    159527, -- Loa-Blessed Fang
     159528, -- Zem'lan Dagger
     159540, -- Coralshell Hammer
     159545, -- Bleached Bone Club
