@@ -28,12 +28,14 @@ AddonTable.junk = {
     154790, -- Unraveling Cloth Handwraps
     154791, -- Unraveling Cloth Cowl
     154792, -- Unraveling Cloth Cord
+    154793, -- Unraveling Cloth Amice
     154794, -- Unraveling Cloth Wristguards
     154795, -- Crumbling Chain Spaulders
     154796, -- Crumbling Chain Sabatons
     154797, -- Crumbling Chain Leggings
     154800, -- Crumbling Chain Coif
     154801, -- Crumbling Chain Belt
+    154802, -- Notched Handaxe
     154803, -- Battered Greatmaul
     154804, -- Chipped-Blade Scimitar
     154805, -- Rottingwood Quarterstaff
