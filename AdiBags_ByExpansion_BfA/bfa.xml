@@ -17,9 +17,15 @@
     <Script file="professions\gathering\skinning.lua"/>
 
     <Script file="dungeons\ataldazar.lua"/>
+    <Script file="dungeons\boralus.lua"/>
     <Script file="dungeons\freehold.lua"/>
     <Script file="dungeons\kingsrest.lua"/>
     <Script file="dungeons\motherlode.lua"/>
+    <Script file="dungeons\sethraliss.lua"/>
+    <Script file="dungeons\shrine.lua"/>
+    <Script file="dungeons\toldagor.lua"/>
+    <Script file="dungeons\underrot.lua"/>
+    <Script file="dungeons\waycrest.lua"/>
 
     <Script file="raids\uldir.lua"/>
 

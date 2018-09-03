@@ -14,9 +14,15 @@ local module = {
     },
     ["dungeons"] = {
         ["ataldazar"] = "Atal'dazar",
+        ["boralus"] = "Siege of Boralus",
         ["freehold"] = "Freehold",
         ["kingsrest"] = "King's Rest",
         ["motherlode"] = "The MOTHERLODE",
+        ["sethraliss"] = "Temple of Sethraliss",
+        ["shrine"] = "Shrine of the Storm",
+        ["toldagor"] = "Tol'Dagor",
+        ["underrot"] = "The Underrot",
+        ["waycrest"] = "Waycrest Manor",
     }
 }
 
