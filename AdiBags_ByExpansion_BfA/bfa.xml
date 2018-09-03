@@ -7,11 +7,19 @@
     <Script file="categories\transmog.lua"/>
 
     <Script file="professions\crafting\alchemy.lua"/>
+    <Script file="professions\crafting\blacksmithing.lua"/>
+    <Script file="professions\crafting\enchanting.lua"/>
+    <Script file="professions\crafting\tailoring.lua"/>
 
     <Script file="professions\gathering\cloth.lua"/>
     <Script file="professions\gathering\herbalism.lua"/>
     <Script file="professions\gathering\mining.lua"/>
     <Script file="professions\gathering\skinning.lua"/>
+
+    <Script file="dungeons\ataldazar.lua"/>
+    <Script file="dungeons\freehold.lua"/>
+    <Script file="dungeons\kingsrest.lua"/>
+    <Script file="dungeons\motherlode.lua"/>
 
     <Script file="raids\uldir.lua"/>
 

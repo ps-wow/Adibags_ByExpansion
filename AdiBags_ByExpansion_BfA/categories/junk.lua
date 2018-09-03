@@ -9,6 +9,7 @@ AddonTable.junk = {
 
     154770, -- Cracked Hide Belt
     154771, -- Cracked Hide Boots
+    154772, -- Cracked Hide Gloves
     154773, -- Cracked Hide Hood
     154774, -- Cracked Hide Pants
     154775, -- Cracked Hide Shoulders
@@ -23,6 +24,7 @@ AddonTable.junk = {
     154785, -- Ruptured Plate Belt
     154787, -- Unraveling Cloth Shirt
     154788, -- Unraveling Cloth Sandals
+    154789, -- Unraveling Cloth Pants
     154790, -- Unraveling Cloth Handwraps
     154791, -- Unraveling Cloth Cowl
     154792, -- Unraveling Cloth Cord
@@ -34,6 +36,7 @@ AddonTable.junk = {
     154801, -- Crumbling Chain Belt
     154803, -- Battered Greatmaul
     154804, -- Chipped-Blade Scimitar
+    154805, -- Rottingwood Quarterstaff
 
     155312, -- Nazmani Warplate Chestplate
     155593, -- Keeled Breastbone
@@ -67,6 +70,8 @@ AddonTable.junk = {
     158747, -- Thorny Prickle
     158750, -- Bonebreaker Beak
     158751, -- Matted Pelt
+    158752, -- Severed Foot
+    158754, -- Trueflight Fletchling
     158756, -- Rotary Gasket
     158757, -- Disquiet Earth
     158759, -- Bloodgorged Sac
@@ -79,11 +84,15 @@ AddonTable.junk = {
     158778, -- Mucose Tendril
     158789, -- Webbed Frill
     158790, -- Charnel Ash
+    158797, -- Jar of Truffles
     158801, -- Finely Serrated Tooth
     158805, -- Soft Turtle Shell
     158806, -- Hooked Talon
     158808, -- Thick Tendon
+    158810, -- Humming Dew
+    158813, -- Sausage Casing
     158817, -- Razorpetal
+    158818, -- Canine Tongue
     158819, -- Rat Tail
     158820, -- Blind-Worm Sting
     158821, -- Cracked Mask
@@ -97,6 +106,7 @@ AddonTable.junk = {
     158844, -- Shimmerdust
     158849, -- Sawtooth Jawbone
     158850, -- Vibrant Plumage
+    158851, -- Bottled Squall
     158855, -- Grim Skull Fetish
     158856, -- Giant Frog Leg
     158858, -- Adder's Fork
@@ -141,6 +151,7 @@ AddonTable.junk = {
     161203, -- Shanty Sheet Music
     161206, -- Faded Treasure Map
 
+    162571, -- Soggy Treasure Map (Common) (Readable)
     162633, -- Petrified Jungle Orchid
     162634, -- Ancient Nazmani Coins
     162667, -- Farraki Funeral Urn
@@ -151,9 +162,15 @@ AddonTable.junk = {
     162978, -- Blood Magic Ritual Dish
     162980, -- Spindle of Golden Sailthread
 
+    163062, -- Crude Saurid Effigy
     163065, -- Tusk Wax
+    163066, -- Calcified Mosquito
     163067, -- Satchel of Blood Oranges
     163068, -- Axebeak Feather
+    163069, -- Cursed Coin
+    163071, -- Stinkbomb Casing
+    163074, -- Hard White Pellet
+    163079, -- Chipped Trophy Tusk
     163084, -- Solid Gold Cutlass
     163087, -- Satchel of Blood Oranges
     163091, -- Jeweled Spyglass
@@ -166,12 +183,14 @@ AddonTable.junk = {
     163328, -- Navarro's Flask
     163329, -- Zach's Canteen
     163374, -- Josh's Fang Necklace
+    163376, -- Kurt's Ornate Key
     163587, -- Discarded Zandalari Brooch
     163590, -- Careworn Loa Statue
     163592, -- Ceremonial Nose Ring
     163632, -- Pristine Strings of Pearls
     163845, -- Silver Statue Base
     163846, -- Silver Monkey Head
+    163847, -- Silver Monkey Torso
     163849, -- Bad Troll Love Poem
     163855, -- Duplicate Pilgrimage Scroll
 }

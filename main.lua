@@ -100,6 +100,17 @@ function Core:DefaultFilter(slotData, module, expFilter)
                                 end
                             end
                         end
+                    elseif tableName == "DungeonEquipment" then
+                        if (module.dungeons ~= nil) then
+                            for abbr,dungeon in pairs(module.dungeons) do
+                                if expTable[tableName][abbr] then
+                                    if expTable[tableName][abbr][slotData.itemId] then
+                                        return prefix .. "Equipment (" .. dungeon .. ")"
+                                    end
+                                end
+                            end
+                        end
+
                     else
                         if expTable[tableName][slotData.itemId] then
                             return prefix .. tableDescription
@@ -187,6 +198,37 @@ function Core:AddCategoryItems(items, category, module)
     end
 end
 
+--- Add items to a given dungeon.
+-- @param items
+-- @param dungeon
+-- @param module
+--
+function Core:AddDungeonItems(items, dungeon, module)
+    if not items then
+        return
+    end
+    -- Create the table if it doesn't already exist
+    if not AddonTable.ItemTables[module.name]["DungeonEquipment"] then
+        AddonTable.ItemTables[module.name]["DungeonEquipment"] = {}
+    end
+    local dungeonEquipment = AddonTable.ItemTables[module.name]["DungeonEquipment"]
+
+    -- Add the dungeon if it does not already exist.
+    if not dungeonEquipment[dungeon] then
+        dungeonEquipment[dungeon] = {}
+    end
+
+    -- Add the items for the dungeon
+    for i,itemId in pairs(items) do
+        dungeonEquipment[dungeon][itemId] = true
+    end
+end
+
+--- Add items to a given raid.
+-- @param items
+-- @param raid
+-- @param module
+--
 function Core:AddRaidItems(items, raid, module)
     if not items then
         return
@@ -205,6 +247,10 @@ function Core:AddRaidItems(items, raid, module)
     end
 end
 
+--- Load all the categories.
+-- @param table
+-- @param module
+--
 function Core:LoadCategories(table, module)
     -- Consumables
     if table.foodDrink ~= nil then
@@ -221,6 +267,15 @@ function Core:LoadCategories(table, module)
     for _,prof in pairs(professions) do
         if table[prof] then
             Core:AddCategoryItems(table[prof], "TradeMaterials", module)
+        end
+    end
+
+    -- Dungeons
+    if module.dungeons ~= nil then
+        for dungeon,desc in pairs(module.dungeons) do
+            if table[dungeon] then
+                Core:AddDungeonItems(table[dungeon], dungeon, module)
+            end
         end
     end
 

@@ -22,6 +22,7 @@ class Config {
             'professions' . DIRECTORY_SEPARATOR . 'gathering',
             'professions' . DIRECTORY_SEPARATOR . 'secondary',
             'raids',
+            'dungeons'
         ];
     }
 

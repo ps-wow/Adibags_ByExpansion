@@ -11,6 +11,12 @@ local module = {
     ["description"] = "Battle for Azeroth",
     ["raids"] = {
         ["uldir"] = "Uldir",
+    },
+    ["dungeons"] = {
+        ["ataldazar"] = "Atal'dazar",
+        ["freehold"] = "Freehold",
+        ["kingsrest"] = "King's Rest",
+        ["motherlode"] = "The MOTHERLODE",
     }
 }
 
