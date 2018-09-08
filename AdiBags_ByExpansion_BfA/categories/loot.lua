@@ -84,6 +84,7 @@ AddonTable.loot = {
     158034, -- Squallshaper Leggings
     158035, -- Squallshaper Mantle
     158060, -- Shoalbreach Pauldrons
+    158133, -- Zandalari Machete
     158151, -- Zandalari Band
     158153, -- Gilded Loa Figurine
     158154, -- Emblem of Zandalar
@@ -126,7 +127,6 @@ AddonTable.loot = {
     159174, -- Freehold Belt
     159226, -- Excavator's Safety Belt
     159305, -- Corrosive Handler's Gloves
-    159332, -- Wristguards of the Sandswimmer
     159338, -- Pustule Bearer's Pants
     159340, -- Bracers of Dreadful Maladies
     159341, -- Hound-Jowl Waistband
