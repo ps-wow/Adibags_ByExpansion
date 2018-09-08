@@ -18,6 +18,7 @@ AddonTable.loot = {
     155254, -- Rastari Legguards
     155257, -- Jambani Breeches
     155267, -- Zanchuli Wristwraps
+    155299, -- Sister Martha's Soulstealer
     155305, -- Golden City Greatcloak
     155314, -- Ritual Flayer's Vest
     155319, -- Ritual Flayer's Gloves
@@ -26,9 +27,11 @@ AddonTable.loot = {
     155339, -- Ritual Flayer's Belt
     155344, -- Ceremonial Limb Chopper
     155351, -- Strong Juju Bloodletter
+    155375, -- Ghoulish Blood Idol
     155378, -- Zardax's Tattered Drape
     155383, -- Bloody Warmother's Greatcloak
     155385, -- Exiled Veteran's Cuirass
+    155381, -- Cutwater-Captain's Sapphire Ring
     155382, -- Spare Stabilizer Band
     155388, -- Exiled Veteran's Treads
     155389, -- Lastwind Sandals
@@ -46,6 +49,8 @@ AddonTable.loot = {
     155420, -- Xombo's Prized Greataxe
     155424, -- Mozesha's Hexblade
     155430, -- Trapped Soul Warmace
+    155440, -- Korthek's Greatstaff
+    155445, -- Mugabu's Soulwand
     155450, -- Ring of Tides
     155451, -- Akunda Adherant's Cloak
     155454, -- Devoted Defender's Band
@@ -66,10 +71,13 @@ AddonTable.loot = {
     157926, -- Breastplate of Rezan's Bladeguard
     157934, -- Vambraces of Rezan's Bladeguard
     157935, -- Sandspinner Footwraps
+    157937, -- Sandspinner Headdress
     157938, -- Sandspinner Legwraps
     157945, -- Deathsnap Hood [Azerite]
     157958, -- Dunecrawler Chestplate
+    157959, -- Dunecrawler Footguards
     157961, -- Dunecrawler Faceguard
+    157963, -- Dunecrawler Legplates
     157965, -- Dunecrawler Waistguard
     157977, -- Seafarer Headcover
     157978, -- Seafarer Breeches
@@ -83,11 +91,16 @@ AddonTable.loot = {
     158028, -- Bleakweald Pauldrons
     158034, -- Squallshaper Leggings
     158035, -- Squallshaper Mantle
+    158059, -- Shoalbreach Legguards
     158060, -- Shoalbreach Pauldrons
+    158095, -- Gnarlwood Hammer
     158133, -- Zandalari Machete
     158151, -- Zandalari Band
     158153, -- Gilded Loa Figurine
     158154, -- Emblem of Zandalar
+    158159, -- Boralus Sailor's Cloak
+    158160, -- Smuggler's Cove Ring
+    158161, -- Speakfisher's Band
     158318, -- Murky Cerulean Signet
     158366, -- Charged Sandstone Band
     158411, -- Jambani Girdle
@@ -101,6 +114,7 @@ AddonTable.loot = {
     158956, -- Loa Speaker's Pants
     158958, -- Ritual Flayer's Trousers
     158968, -- Loa Speaker's Wraps
+    158972, -- Alluring Glowfly Lantern
     158973, -- Band of Destiny
     158982, -- Ritual Flayer's Striders
     158983, -- Ritual Flayer's Grips
@@ -196,6 +210,9 @@ AddonTable.loot = {
     161195, -- Sethrak Warden's Scimitar
     161274, -- Exiled Veteran's Bindings
     161028, -- Noxious Crocolisk Trousers
+    161446, -- Blistering Seawater Seal
+
+    162876, -- Dread Aspirant's Wand
 
     163078, -- Glittering Earring
     163285, -- Honorbound Artificer's Sandles

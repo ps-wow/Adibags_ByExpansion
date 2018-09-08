@@ -151,6 +151,7 @@ AddonTable.junk = {
     161201, -- Mermaid's Looking Glass
     161202, -- Polished Brass Sextant
     161203, -- Shanty Sheet Music
+    161204, -- Oily Glass Eyeball
     161206, -- Faded Treasure Map
 
     162571, -- Soggy Treasure Map (Common) (Readable)
@@ -162,6 +163,7 @@ AddonTable.junk = {
     162683, -- Archaic Dinomancy Carvings
     162684, -- Etched Dock Cleat
     162978, -- Blood Magic Ritual Dish
+    162979, -- Gral-Adorned Astrolabe
     162980, -- Spindle of Golden Sailthread
 
     163062, -- Crude Saurid Effigy
