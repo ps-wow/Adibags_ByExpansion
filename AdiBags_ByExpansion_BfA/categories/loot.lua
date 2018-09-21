@@ -48,6 +48,8 @@ AddonTable.loot = {
     155417, -- Keeper's Crescent
     155420, -- Xombo's Prized Greataxe
     155424, -- Mozesha's Hexblade
+    155427, -- Soulwrenching Claws
+    155429, -- Sezahjin's Tenderizer
     155430, -- Trapped Soul Warmace
     155440, -- Korthek's Greatstaff
     155445, -- Mugabu's Soulwand
@@ -65,6 +67,8 @@ AddonTable.loot = {
     157884, -- Blood Bog Waistband
     157894, -- Bone-Fetished Chestplate
     157895, -- Bone-Fetished Stompers
+    157896, -- Bone-Fetished Crushers
+    157897, -- Bone-Fetished Faceguard
     157899, -- Bone-Fetished Wargreaves
     157902, -- Bone-Fetished Armguards
     157910, -- Gonk Outrunner Vest
@@ -93,9 +97,12 @@ AddonTable.loot = {
     158035, -- Squallshaper Mantle
     158059, -- Shoalbreach Legguards
     158060, -- Shoalbreach Pauldrons
+    158093, -- Stagheart Gavel
     158095, -- Gnarlwood Hammer
     158133, -- Zandalari Machete
+    158134, -- Salt Coast Piercer
     158151, -- Zandalari Band
+    158152, -- Golden Empire Signet
     158153, -- Gilded Loa Figurine
     158154, -- Emblem of Zandalar
     158159, -- Boralus Sailor's Cloak
@@ -137,6 +144,7 @@ AddonTable.loot = {
     159078, -- Potency Manipulator
     159084, -- Handscythe of the First City
     159086, -- Corrupted Tribe Headsmasher
+    159099, -- Pa'ku Adherant's Talons
     159147, -- Jambani Walkers
     159174, -- Freehold Belt
     159226, -- Excavator's Safety Belt
@@ -151,6 +159,7 @@ AddonTable.loot = {
     159480, -- Bleached Bone Handaxe
     --159528, Transmog
     159543, -- Loa-Blessed Maul
+    159548, -- Golden Fleet Mace
     159556, -- Loa-Blessed Greathammer
     159601, -- Zem'lan Longsword
     159606, -- Bleached Bone Wand
@@ -160,6 +169,7 @@ AddonTable.loot = {
     159977, -- Vindictive Golem Core
     159978, -- Juni's Egg Timer
     159979, -- Rorgog's Antenna
+    159980, -- Resilient Outcast's Gauntlets
     159981, -- Lastwind Handwraps
     159982, -- Exiled Veteran's Crushers
     159983, -- Scorching Sands Handwraps
@@ -207,6 +217,7 @@ AddonTable.loot = {
     161186, -- Lastwind Pants
     161188, -- Fangcaller's Staff
     161192, -- Sethrak Warbringer's Scimitar
+    161193, -- Sethrak Ravager's Claws
     161195, -- Sethrak Warden's Scimitar
     161274, -- Exiled Veteran's Bindings
     161028, -- Noxious Crocolisk Trousers
@@ -214,15 +225,14 @@ AddonTable.loot = {
 
     162876, -- Dread Aspirant's Wand
 
-    163078, -- Glittering Earring
     163285, -- Honorbound Artificer's Sandles
     163666, -- Honorbound Artificer's Mantle
     163668, -- Honorbound Outrider's Mantle
     163669, -- Honorbound Outrider's Faceguard
     163671, -- Honorbound Outrider's Vestments
     163673, -- Honorbound Centurion's Pauldrons
-    163850, -- Bloody Gamekeeper's Arm
     163851, -- Venerated Golden Censer
     163865, -- Bartered Vrykul Warhelm
+    163870, -- Honorbound Bonebreaker
     163874, -- Honorbound Decapitator
 }

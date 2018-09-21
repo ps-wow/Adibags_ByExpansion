@@ -33,6 +33,7 @@ AddonTable.junk = {
     154795, -- Crumbling Chain Spaulders
     154796, -- Crumbling Chain Sabatons
     154797, -- Crumbling Chain Leggings
+    154798, -- Crumbling Chain Hauberk
     154800, -- Crumbling Chain Coif
     154801, -- Crumbling Chain Belt
     154802, -- Notched Handaxe
@@ -50,6 +51,7 @@ AddonTable.junk = {
     155609, -- Springy Eyeball
     155610, -- Stinging Nettle
     155618, -- Discarded Molting
+    155629, -- Shaggy Mane
     155631, -- Inert Stone
     155635, -- Sinewy Wing
     155629, -- Shaggy Mane
@@ -153,6 +155,7 @@ AddonTable.junk = {
     161203, -- Shanty Sheet Music
     161204, -- Oily Glass Eyeball
     161206, -- Faded Treasure Map
+    161209, -- Coven Dream Catcher
 
     162571, -- Soggy Treasure Map (Common) (Readable)
     162633, -- Petrified Jungle Orchid
@@ -174,6 +177,7 @@ AddonTable.junk = {
     163069, -- Cursed Coin
     163071, -- Stinkbomb Casing
     163074, -- Hard White Pellet
+    163078, -- Glittering Earring
     163079, -- Chipped Trophy Tusk
     163084, -- Solid Gold Cutlass
     163087, -- Satchel of Blood Oranges
@@ -192,9 +196,11 @@ AddonTable.junk = {
     163590, -- Careworn Loa Statue
     163592, -- Ceremonial Nose Ring
     163632, -- Pristine Strings of Pearls
+    163717, -- Forbidden Sea Shanty of Josephus
     163845, -- Silver Statue Base
     163846, -- Silver Monkey Head
     163847, -- Silver Monkey Torso
     163849, -- Bad Troll Love Poem
+    163850, -- Bloody Gamekeeper's Arm
     163855, -- Duplicate Pilgrimage Scroll
 }
