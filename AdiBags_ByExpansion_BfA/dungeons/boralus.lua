@@ -22,5 +22,20 @@ AddonTable.boralus = {
     159379, -- Sure-Foot Sabatons
     159623, -- Dead-Eye Spyglass
     -- Hadal Darkfathom
+    159650, -- Dismembered Submersible Claw
+    159386, -- Anchor Chain Girdle
+    159322, -- Seawalker's Pantaloons
+    159428, -- Ballast Sinkers
+    159461, -- Band of the Ancient Dredger
+    159622, -- Hadal's Nautilus
     -- Viq'Goth
+    159651, -- Coral-Edged Crescent
+    159310, -- Circlet of the Enveloping Leviathan
+    159252, -- Grasping Crown of the Deep
+    159376, -- Hook-Barbed Spaulders
+    159431, -- Kraken Shell Pauldrons
+    159314, -- Cephalohide Jacket
+    159416, -- Harpooner's Plate Cuirass
+    159362, -- Tri-Heart Chestguard
+    159256, -- Iron-Kelp Wristwraps
 }
