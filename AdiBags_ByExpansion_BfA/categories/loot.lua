@@ -147,7 +147,6 @@ AddonTable.loot = {
     159099, -- Pa'ku Adherant's Talons
     159147, -- Jambani Walkers
     159174, -- Freehold Belt
-    159338, -- Pustule Bearer's Pants
     159340, -- Bracers of Dreadful Maladies
     159341, -- Hound-Jowl Waistband
     159346, -- Grubby Servant-Grabbers
