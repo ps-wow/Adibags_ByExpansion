@@ -50,12 +50,11 @@ AddonTable.junk = {
     155608, -- Defiled Bone
     155609, -- Springy Eyeball
     155610, -- Stinging Nettle
+    155615, -- Perstilent Muck
     155618, -- Discarded Molting
     155629, -- Shaggy Mane
     155631, -- Inert Stone
     155635, -- Sinewy Wing
-    155629, -- Shaggy Mane
-    155615, -- Perstilent Muck
     155636, -- Viscous Ink
     155742, -- "Preserved" Foodstuffs
     155841, -- Defaced Statuette
