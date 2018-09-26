@@ -1,0 +1,8 @@
+## Interface: 80000
+## Title: AdiBags: ByExpansion |cff69ccf003. Wrath|r
+## Notes: Filter items from Wrath of the Lich King
+## Author: PrivateSniper
+## Version: 1.0.0
+## Dependencies: AdiBags, AdiBags_ByExpansion
+
+wrath.xml

@@ -1,0 +1,8 @@
+## Interface: 80000
+## Title: AdiBags: ByExpansion |cff69ccf005. MoP|r
+## Notes: Filter items from World of Warcraft
+## Author: PrivateSniper
+## Version: 1.0.0
+## Dependencies: AdiBags, AdiBags_ByExpansion
+
+mop.xml

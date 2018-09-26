@@ -1,8 +1,0 @@
-## Interface: 80000
-## Title: AdiBags: ByExpansion |cff69ccf002. TBC|r
-## Notes: Filter items from The Burning Crusade
-## Author: PrivateSniper
-## Version: 1.0.0
-## Dependencies: AdiBags, AdiBags_ByExpansion
-
-tbc.xml

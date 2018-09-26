@@ -1,0 +1,8 @@
+## Interface: 80000
+## Title: AdiBags: ByExpansion |cff69ccf004. Cata|r
+## Notes: Filter items from Cataclysm
+## Author: PrivateSniper
+## Version: 1.0.0
+## Dependencies: AdiBags, AdiBags_ByExpansion
+
+cata.xml

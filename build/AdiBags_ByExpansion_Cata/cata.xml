@@ -1,0 +1,28 @@
+<Ui xsi:schemaLocation="http://www.blizzard.com/wow/ui/ ..\FrameXML\UI.xsd">
+
+    <Script file="categories\consumable.lua"/>
+    <Script file="categories\junk.lua"/>
+    <Script file="categories\loot.lua"/>
+    <Script file="categories\trade.lua"/>
+    <Script file="categories\transmog.lua"/>
+
+    <Script file="professions\crafting\alchemy.lua"/>
+    <Script file="professions\crafting\enchanting.lua"/>
+
+    <Script file="professions\gathering\herbalism.lua"/>
+    <Script file="professions\gathering\cloth.lua"/>
+    <Script file="professions\gathering\mining.lua"/>
+    <Script file="professions\gathering\skinning.lua"/>
+
+    <Script file="professions\secondary\archaeology.lua"/>
+
+    <Script file="raids\bot.lua"/>
+    <Script file="raids\bwd.lua"/>
+    <Script file="raids\ds.lua"/>
+    <Script file="raids\firelands.lua"/>
+    <Script file="raids\throne.lua"/>
+    <Script file="raids\multi.lua"/>
+
+    <Script file="main.lua"/>
+
+</Ui>

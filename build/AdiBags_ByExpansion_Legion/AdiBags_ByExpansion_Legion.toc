@@ -1,0 +1,8 @@
+## Interface: 80000
+## Title: AdiBags: ByExpansion |cff69ccf007. Legion|r
+## Notes: Filter items from Legion
+## Author: PrivateSniper
+## Version: 1.0.0
+## Dependencies: AdiBags, AdiBags_ByExpansion
+
+legion.xml
