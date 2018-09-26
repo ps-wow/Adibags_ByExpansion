@@ -3,4 +3,4 @@ php:
   - '7.2'
 
 script:
-  php ./tests/duplicates.php
+  php ./scripts/duplicates.php
