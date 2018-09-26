@@ -17,6 +17,7 @@ AddonTable.junk = {
     154777, -- Cracked Hide Wristguards
     154778, -- Ruptured Plate Vambraces
     154779, -- Ruptured Plate Stompers
+    154780, -- Ruptured Plate Pauldrons
     154781, -- Ruptured Plate Leggings
     154782, -- Ruptured Plate Helmet
     154783, -- Ruptured Plate Gauntlets
@@ -87,6 +88,7 @@ AddonTable.junk = {
     158778, -- Mucose Tendril
     158789, -- Webbed Frill
     158790, -- Charnel Ash
+    158792, -- Digestive Acid
     158797, -- Jar of Truffles
     158801, -- Finely Serrated Tooth
     158805, -- Soft Turtle Shell
@@ -146,6 +148,7 @@ AddonTable.junk = {
     160933, -- Splintered Longbow
     160934, -- Mud-Soaked Crossbow
     160936, -- Depleted Arcane Scepter
+    160937, -- Arrow-Pocked Aegis
 
     161199, -- Silver-Plated Tankard
     161200, -- Teardrop Pearl
@@ -157,6 +160,8 @@ AddonTable.junk = {
     161209, -- Coven Dream Catcher
 
     162571, -- Soggy Treasure Map (Common) (Readable)
+    162630, -- Sandy Ornate Relic
+    162632, -- Lavish Sethrallis Figurine
     162633, -- Petrified Jungle Orchid
     162634, -- Ancient Nazmani Coins
     162667, -- Farraki Funeral Urn
