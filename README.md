@@ -41,3 +41,19 @@ This addon currently requires manual entry of item id's in predefined lists so w
 Notes:
 
  - Cloth isn't a gathering profession, but you do collect cloth in your adventures and it doesn't fit strictly in any other category
+
+## Building the Addon
+
+The addon has several PHP scripts in the scripts folder which can be used to check that there are no duplicate items (across any module) and also to compile the module files into a minified version (this removes comments and empty lines to save disk space (although this is only a minor saving it should still reduce load which is always a good thing)).
+
+To build the addon output:
+
+```
+php ./scripts/build.php
+```
+
+To check for duplicates:
+
+```
+php ./scripts/duplicates.php
+```
