@@ -1,6 +1,5 @@
 local AddonName, AddonTable = ...
 AddonTable.uldir = {
-Note: all item id's are the same regardless of difficulty.
 160679, 
 160680, 
 160637, 
