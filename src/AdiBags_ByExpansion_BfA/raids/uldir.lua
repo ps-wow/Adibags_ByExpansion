@@ -1,9 +1,7 @@
 local AddonName, AddonTable = ...
 
 AddonTable.uldir = {
-    --[[
-    Note: all item id's are the same regardless of difficulty.
-    --]]
+    -- Note: all item id's are the same regardless of difficulty.
 
     -- Taloc
     160679, -- Khor, Hammer of the Corrupted
