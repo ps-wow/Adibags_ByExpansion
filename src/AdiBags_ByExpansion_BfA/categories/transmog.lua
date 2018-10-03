@@ -3,22 +3,26 @@ local AddonName, AddonTable = ...
 AddonTable.transmog = {
     154806, -- Torgashell Breastplate
     154808, -- Torgashell Greatbelt
+    154813, -- Torgashell Armplates
     154815, -- Festerroot Bindings
     154817, -- Festerroot Breeches
     154820, -- Festerroot Jerkin
     154821, -- Festerroot Shoulderpads
     154822, -- Festerroot Belt
+    154826, -- Zala'mar Gauntlets
     154828, -- Zala'mar Helm
     154829, -- Zala'mar Legguards
     154834, -- Bloodhex Grips
     154837, -- Bloodhex Anklewraps
 
+    159158, -- Ashvane Company Chestplate
     159168, -- Freehold Boots
     159171, -- Freehold Cowl
     159188, -- Foxhollow Sandals
     159192, -- Brineworks Gauntlets
     159206, -- Briarback Shoulderpads
     159229, -- Mistfall Greatcloak
+    159284, -- Corlain Cape
     159475, -- Shipwrecker Axe
     159476, -- Golden Fleet Waraxe
     159481, -- Rivermarsh Waraxe
@@ -61,6 +65,8 @@ AddonTable.transmog = {
     160123, -- Direbone Frill Legplates
     160130, -- Brutohide Leggings
     160132, -- Brutohide Faceguard
+    160135, -- Brutohide Belt
+    160136, -- Golden City Signet
     160148, -- Saurifeather Pants
     160151, -- Saurifeather Mantle
     160155, -- Stormforger Girdle
@@ -68,7 +74,9 @@ AddonTable.transmog = {
     160159, -- Stormforger Sabatons
     160160, -- Stormforger Vambraces
     160161, -- Faithless Skycloak
+    160166, -- Sandscout Headcover
     160168, -- Sandscout Shoulders
+    160170, -- Arid Caravan Band
     160171, -- Bonepicker Cinch
     160172, -- Bonepicker Armguards
     160174, -- Bonepicker Footguards

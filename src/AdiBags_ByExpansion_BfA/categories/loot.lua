@@ -11,7 +11,6 @@ AddonTable.loot = {
     --154822, Transmog
     154823, -- Etched Bone Ring
     154825, -- Zala'mar Vambraces
-    154826, -- Zala'mar Gauntlets
 
     155055, -- Soul-Curse Executioner
     155246, -- Jambani Grips
@@ -220,6 +219,7 @@ AddonTable.loot = {
     161446, -- Blistering Seawater Seal
 
     162876, -- Dread Aspirant's Wand
+    162946, -- Dread Aspirant's Chain Helm
 
     163285, -- Honorbound Artificer's Sandles
     163666, -- Honorbound Artificer's Mantle

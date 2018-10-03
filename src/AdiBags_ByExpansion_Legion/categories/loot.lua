@@ -34,4 +34,8 @@ AddonTable.loot = {
 
     -- Order Hall Champion Equipment
     156630, -- Relinquished Armor Set
+
+    -- BfA War of the Thorns
+    162796, -- Wildguard Spaulders
+    162791, -- Wildguard Ringmail
 }
