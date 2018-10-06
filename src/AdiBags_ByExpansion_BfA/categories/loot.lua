@@ -8,7 +8,6 @@ AddonTable.loot = {
     154809, -- Torgashell Helmet
     154811, -- Torgashell Shoulderguards
     154814, -- Morass Prowler's Cloak
-    --154822, Transmog
     154823, -- Etched Bone Ring
     154825, -- Zala'mar Vambraces
 
@@ -17,6 +16,7 @@ AddonTable.loot = {
     155254, -- Rastari Legguards
     155257, -- Jambani Breeches
     155267, -- Zanchuli Wristwraps
+    155284, -- Bleak Hills Swatter
     155299, -- Sister Martha's Soulstealer
     155305, -- Golden City Greatcloak
     155314, -- Ritual Flayer's Vest
@@ -69,9 +69,12 @@ AddonTable.loot = {
     157896, -- Bone-Fetished Crushers
     157897, -- Bone-Fetished Faceguard
     157899, -- Bone-Fetished Wargreaves
+    157900, -- Bone-Fetished Shoulderplates
     157902, -- Bone-Fetished Armguards
     157910, -- Gonk Outrunner Vest
     157926, -- Breastplate of Rezan's Bladeguard
+    157929, -- Greathelm of Rezan's Bladeguard
+    157932, -- Pauldrons of Rezan's Bladeguard
     157934, -- Vambraces of Rezan's Bladeguard
     157935, -- Sandspinner Footwraps
     157937, -- Sandspinner Headdress
@@ -91,24 +94,30 @@ AddonTable.loot = {
     158008, -- Gravethorn Grips
     158012, -- Gravethorn Belt
     158025, -- Bleakweald Greathelm
+    158027, -- Bleakweald Legguards
     158028, -- Bleakweald Pauldrons
+    158030, -- Bleakweald Vambraces
     158034, -- Squallshaper Leggings
     158035, -- Squallshaper Mantle
     158059, -- Shoalbreach Legguards
     158060, -- Shoalbreach Pauldrons
     158093, -- Stagheart Gavel
     158095, -- Gnarlwood Hammer
+    158124, -- Dinobone Cracker
+    158127, -- Razorbone Spear
     158133, -- Zandalari Machete
     158134, -- Salt Coast Piercer
     158151, -- Zandalari Band
     158152, -- Golden Empire Signet
     158153, -- Gilded Loa Figurine
     158154, -- Emblem of Zandalar
+    158155, -- Dinobone Charm
     158159, -- Boralus Sailor's Cloak
     158160, -- Smuggler's Cove Ring
     158161, -- Speakfisher's Band
     158318, -- Murky Cerulean Signet
     158366, -- Charged Sandstone Band
+    158387, -- Rastari Footguards
     158411, -- Jambani Girdle
     158423, -- Jambani Gloves
     158823, -- Etched Bone Ring of the Quickblade
@@ -222,6 +231,9 @@ AddonTable.loot = {
     162946, -- Dread Aspirant's Chain Helm
 
     163285, -- Honorbound Artificer's Sandles
+    163453, -- Honorbound Centurion's Shoulderplates
+    163458, -- Honorbound Centurion's Gauntlets
+    163461, -- Honorbound Centurion's Greatbelt
     163666, -- Honorbound Artificer's Mantle
     163668, -- Honorbound Outrider's Mantle
     163669, -- Honorbound Outrider's Faceguard

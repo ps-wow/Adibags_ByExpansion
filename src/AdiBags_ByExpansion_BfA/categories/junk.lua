@@ -123,6 +123,7 @@ AddonTable.junk = {
     158864, -- Viscous Webbing
     158865, -- Ghastly Ooze
     158866, -- Oily Blubber
+    158867, -- Needlepoint Bill
     158868, -- Golden Ornament
     158869, -- Stone Tusk
     158870, -- Wooly Hair
@@ -149,6 +150,7 @@ AddonTable.junk = {
     160934, -- Mud-Soaked Crossbow
     160936, -- Depleted Arcane Scepter
     160937, -- Arrow-Pocked Aegis
+    160938, -- Bent Punching Blade
 
     161199, -- Silver-Plated Tankard
     161200, -- Teardrop Pearl
@@ -169,6 +171,7 @@ AddonTable.junk = {
     162673, -- Knotted Bowline
     162683, -- Archaic Dinomancy Carvings
     162684, -- Etched Dock Cleat
+    162685, -- Overflowing Loa Tribute
     162978, -- Blood Magic Ritual Dish
     162979, -- Gral-Adorned Astrolabe
     162980, -- Spindle of Golden Sailthread
@@ -194,6 +197,7 @@ AddonTable.junk = {
     163326, -- Skye's Pet Rock
     163328, -- Navarro's Flask
     163329, -- Zach's Canteen
+    163372, -- Damarcus' Backpack
     163374, -- Josh's Fang Necklace
     163376, -- Kurt's Ornate Key
     163587, -- Discarded Zandalari Brooch

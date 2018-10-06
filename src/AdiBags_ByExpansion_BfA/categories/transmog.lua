@@ -31,6 +31,7 @@ AddonTable.transmog = {
     159491, -- Warport Short Bow
     159506, -- Loa-Blessed Crescent
     159507, -- Zem'lan Warglaive
+    159514, -- Rivermarsh Claws
     159515, -- Warport Knuckles
     159517, -- Zocali Claws
     159523, -- Tideguard Shanker
@@ -67,6 +68,7 @@ AddonTable.transmog = {
     160132, -- Brutohide Faceguard
     160135, -- Brutohide Belt
     160136, -- Golden City Signet
+    160142, -- Ravascale Legguards
     160148, -- Saurifeather Pants
     160151, -- Saurifeather Mantle
     160155, -- Stormforger Girdle
