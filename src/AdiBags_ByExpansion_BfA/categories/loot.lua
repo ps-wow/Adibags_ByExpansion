@@ -115,7 +115,6 @@ AddonTable.loot = {
     158159, -- Boralus Sailor's Cloak
     158160, -- Smuggler's Cove Ring
     158161, -- Speakfisher's Band
-    158318, -- Murky Cerulean Signet
     158366, -- Charged Sandstone Band
     158387, -- Rastari Footguards
     158411, -- Jambani Girdle
