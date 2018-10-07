@@ -85,4 +85,6 @@ AddonTable.transmog = {
     160176, -- Bonepicker Legguards
     160178, -- Bonepicker Undermail
     160182, -- Skycaller Leggings
+
+    164446, -- Spiritbough Grasps
 }

@@ -71,6 +71,8 @@ AddonTable.loot = {
     157899, -- Bone-Fetished Wargreaves
     157900, -- Bone-Fetished Shoulderplates
     157902, -- Bone-Fetished Armguards
+    157904, -- Shadra Silk Gloves
+    157905, -- Shadra Silk Headband
     157910, -- Gonk Outrunner Vest
     157926, -- Breastplate of Rezan's Bladeguard
     157929, -- Greathelm of Rezan's Bladeguard
@@ -115,7 +117,6 @@ AddonTable.loot = {
     158159, -- Boralus Sailor's Cloak
     158160, -- Smuggler's Cove Ring
     158161, -- Speakfisher's Band
-    158366, -- Charged Sandstone Band
     158387, -- Rastari Footguards
     158411, -- Jambani Girdle
     158423, -- Jambani Gloves
@@ -239,6 +240,7 @@ AddonTable.loot = {
     163671, -- Honorbound Outrider's Vestments
     163673, -- Honorbound Centurion's Pauldrons
     163851, -- Venerated Golden Censer
+    163862, -- Bartered Vrykul Hood
     163865, -- Bartered Vrykul Warhelm
     163870, -- Honorbound Bonebreaker
     163874, -- Honorbound Decapitator
