@@ -42,6 +42,7 @@ AddonTable.loot = {
     155400, -- Exiled Veteran's Wargreaves
     155401, -- Lastwind Trousers
     155403, -- Scorching Sands Breeches
+    155404, -- Lastwind Robes
     155405, -- Scorching Sands Shoulderpads
     155407, -- Lastwind Mantle
     155417, -- Keeper's Crescent
@@ -52,15 +53,19 @@ AddonTable.loot = {
     155430, -- Trapped Soul Warmace
     155440, -- Korthek's Greatstaff
     155445, -- Mugabu's Soulwand
+    155448, -- Deserted Divining Rod
     155450, -- Ring of Tides
     155451, -- Akunda Adherant's Cloak
     155454, -- Devoted Defender's Band
     155455, -- Ring of Akunda's Chosen
     155456, -- Zem'lan Crewman's Cloak
+    155457, -- Devoted Defender's Cloak
     155510, -- Loa Speaker's Robes
     155522, -- Ritual Flayer's Wristwraps
 
     157871, -- Fen Spirit Footwraps
+    157872, -- Fen Spirit Handwraps
+    157876, -- Fen Spirit Cinch
     157878, -- Blood Bog Wraps [Azerite]
     157881, -- Blood Bog Headcover [Azerite]
     157884, -- Blood Bog Waistband
@@ -71,6 +76,7 @@ AddonTable.loot = {
     157899, -- Bone-Fetished Wargreaves
     157900, -- Bone-Fetished Shoulderplates
     157902, -- Bone-Fetished Armguards
+    157903, -- Shadra Silk Footwraps
     157904, -- Shadra Silk Gloves
     157905, -- Shadra Silk Headband
     157910, -- Gonk Outrunner Vest
@@ -81,12 +87,15 @@ AddonTable.loot = {
     157935, -- Sandspinner Footwraps
     157937, -- Sandspinner Headdress
     157938, -- Sandspinner Legwraps
+    157939, -- Sandspinner Mantle
     157945, -- Deathsnap Hood [Azerite]
     157958, -- Dunecrawler Chestplate
     157959, -- Dunecrawler Footguards
     157961, -- Dunecrawler Faceguard
+    157962, -- Sandspinner Vestments
     157963, -- Dunecrawler Legplates
     157965, -- Dunecrawler Waistguard
+    157968, -- Sirensong Handwraps
     157977, -- Seafarer Headcover
     157978, -- Seafarer Breeches
     157998, -- Harbormaster Wristplates
@@ -199,17 +208,22 @@ AddonTable.loot = {
     160153, -- Stormforger Chestplate
     160154, -- Stormforger Gauntlets
     160185, -- Skycaller Mantle
+    160447, -- Soul-Pillar Lantern
     160456, -- Blanched Ravenfeather Gloves
+    160459, -- Apiarist's Stingproof Belt
     160474, -- Vicemaul Wristpinchers
     160529, -- Dune Shroud
     160910, -- Greathelm of the Champion
     160911, -- Cowl of the Champion
+    160913, -- Crown of the Champion
     160972, -- Herculean Golden Sword
+    160979, -- Ancient Chronicler's Focus
 
     161037, -- Sand Scoured Girdle
     161038, -- Sand Trapper's Legguards
     161039, -- Sandclaw Handguards
     161043, -- Relentless Hydra Legguards
+    161046, -- Scrollbound Arachnid Gloves
     161091, -- Swift-Talon Striders
     161113, -- Incessantly Ticking Clock
     161125, -- Kaja-fied Banana
@@ -231,6 +245,7 @@ AddonTable.loot = {
     162946, -- Dread Aspirant's Chain Helm
 
     163285, -- Honorbound Artificer's Sandles
+    163426, -- Honorbound Artificer's Guise
     163453, -- Honorbound Centurion's Shoulderplates
     163458, -- Honorbound Centurion's Gauntlets
     163461, -- Honorbound Centurion's Greatbelt

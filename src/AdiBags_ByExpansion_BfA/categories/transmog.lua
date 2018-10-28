@@ -6,6 +6,7 @@ AddonTable.transmog = {
     154813, -- Torgashell Armplates
     154815, -- Festerroot Bindings
     154817, -- Festerroot Breeches
+    154819, -- Festerroot Helm
     154820, -- Festerroot Jerkin
     154821, -- Festerroot Shoulderpads
     154822, -- Festerroot Belt
@@ -16,29 +17,36 @@ AddonTable.transmog = {
     154837, -- Bloodhex Anklewraps
 
     159158, -- Ashvane Company Chestplate
+    159166, -- Foxhollow Drape
     159168, -- Freehold Boots
     159171, -- Freehold Cowl
     159188, -- Foxhollow Sandals
     159192, -- Brineworks Gauntlets
     159206, -- Briarback Shoulderpads
+    159214, -- Eventide Pauldrons
     159229, -- Mistfall Greatcloak
     159284, -- Corlain Cape
     159475, -- Shipwrecker Axe
     159476, -- Golden Fleet Waraxe
+    159479, -- Zem'lan Chopper
     159481, -- Rivermarsh Waraxe
     159482, -- Warport Handaxe
     159488, -- Zem'lan Cleaver
     159491, -- Warport Short Bow
+    159505, -- Zocali Warglaive
     159506, -- Loa-Blessed Crescent
+    159508, -- Bleached Bone Glaive
     159507, -- Zem'lan Warglaive
     159514, -- Rivermarsh Claws
     159515, -- Warport Knuckles
+    159516, -- Golden Fleet Fists
     159517, -- Zocali Claws
     159523, -- Tideguard Shanker
     159524, -- Shipwrecker Knife
     159527, -- Loa-Blessed Fang
     159528, -- Zem'lan Dagger
     159531, -- Warport Dirk
+    159532, -- Golden Fleet Dagger
     159533, -- Zocali Ripper
     159540, -- Coralshell Hammer
     159545, -- Bleached Bone Club
@@ -63,9 +71,11 @@ AddonTable.transmog = {
     159822, -- Warport Hex Focus
 
     160121, -- Direbone Frill Greatbelt
+    160122, -- Direbone Frill Helmet
     160123, -- Direbone Frill Legplates
     160130, -- Brutohide Leggings
     160132, -- Brutohide Faceguard
+    160133, -- Brutohide Vest
     160135, -- Brutohide Belt
     160136, -- Golden City Signet
     160142, -- Ravascale Legguards
@@ -73,6 +83,7 @@ AddonTable.transmog = {
     160151, -- Saurifeather Mantle
     160155, -- Stormforger Girdle
     160156, -- Stormforger Helm
+    160158, -- Stormforger Pauldrons
     160159, -- Stormforger Sabatons
     160160, -- Stormforger Vambraces
     160161, -- Faithless Skycloak
@@ -84,7 +95,10 @@ AddonTable.transmog = {
     160174, -- Bonepicker Footguards
     160176, -- Bonepicker Legguards
     160178, -- Bonepicker Undermail
+    160180, -- Skycaller Cowl
     160182, -- Skycaller Leggings
 
     164446, -- Spiritbough Grasps
+    164522, -- Voodoo Stalker's Chestguard
+    164550, -- Whirling Dervish Gloves
 }
