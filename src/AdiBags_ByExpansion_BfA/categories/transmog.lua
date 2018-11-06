@@ -1,6 +1,7 @@
 local AddonName, AddonTable = ...
 
 AddonTable.transmog = {
+    154142, -- Coarse Leather Leggings
     154806, -- Torgashell Breastplate
     154808, -- Torgashell Greatbelt
     154813, -- Torgashell Armplates

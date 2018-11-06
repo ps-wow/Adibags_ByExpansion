@@ -66,6 +66,7 @@ AddonTable.loot = {
     157871, -- Fen Spirit Footwraps
     157872, -- Fen Spirit Handwraps
     157876, -- Fen Spirit Cinch
+    157877, -- Fen Spirit Wristwraps
     157878, -- Blood Bog Wraps [Azerite]
     157881, -- Blood Bog Headcover [Azerite]
     157884, -- Blood Bog Waistband
@@ -88,6 +89,7 @@ AddonTable.loot = {
     157937, -- Sandspinner Headdress
     157938, -- Sandspinner Legwraps
     157939, -- Sandspinner Mantle
+    157941, -- Sandspinner Wristwraps
     157945, -- Deathsnap Hood [Azerite]
     157958, -- Dunecrawler Chestplate
     157959, -- Dunecrawler Footguards
@@ -240,12 +242,21 @@ AddonTable.loot = {
     161274, -- Exiled Veteran's Bindings
     161028, -- Noxious Crocolisk Trousers
     161446, -- Blistering Seawater Seal
+    161766, -- Dread Gladiator's Silk Sash
 
     162876, -- Dread Aspirant's Wand
+    162938, -- Dread Aspirant's Silk Treads
+    162943, -- Dread Aspirant's Silk Gloves
     162946, -- Dread Aspirant's Chain Helm
+    162959, -- Dread Aspirant's Silk Cuffs
 
     163285, -- Honorbound Artificer's Sandles
+    163296, -- Honorbound Artificer's Legwraps
+    163306, -- Honorbound Artificer's Cuffs
+    163424, -- Honorbound Artificer's Amice
     163426, -- Honorbound Artificer's Guise
+    163428, -- Honorbound Artificer's Mitts
+    163430, -- Honorbound Artificer's Cord
     163453, -- Honorbound Centurion's Shoulderplates
     163458, -- Honorbound Centurion's Gauntlets
     163461, -- Honorbound Centurion's Greatbelt
@@ -254,6 +265,7 @@ AddonTable.loot = {
     163669, -- Honorbound Outrider's Faceguard
     163671, -- Honorbound Outrider's Vestments
     163673, -- Honorbound Centurion's Pauldrons
+    163703, -- Crawg Gnawed Femur
     163851, -- Venerated Golden Censer
     163862, -- Bartered Vrykul Hood
     163865, -- Bartered Vrykul Warhelm
