@@ -271,4 +271,5 @@ AddonTable.loot = {
     163865, -- Bartered Vrykul Warhelm
     163870, -- Honorbound Bonebreaker
     163874, -- Honorbound Decapitator
+    163876, -- Honorbound Focus
 }
