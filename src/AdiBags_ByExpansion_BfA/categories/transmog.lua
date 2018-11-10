@@ -27,12 +27,18 @@ AddonTable.transmog = {
     159214, -- Eventide Pauldrons
     159229, -- Mistfall Greatcloak
     159284, -- Corlain Cape
+    159474, -- Tideguard Handaxe
     159475, -- Shipwrecker Axe
     159476, -- Golden Fleet Waraxe
+    159477, -- Zocali Carver
+    159478, -- Loa-Blessed Headchopper
     159479, -- Zem'lan Chopper
     159481, -- Rivermarsh Waraxe
     159482, -- Warport Handaxe
+    159485, -- Golden Fleet Greataxe
+    159486, -- Zocali Waraxe
     159488, -- Zem'lan Cleaver
+    159490, -- Rivermarsh Composite
     159491, -- Warport Short Bow
     159505, -- Zocali Warglaive
     159506, -- Loa-Blessed Crescent
@@ -50,26 +56,37 @@ AddonTable.transmog = {
     159532, -- Golden Fleet Dagger
     159533, -- Zocali Ripper
     159540, -- Coralshell Hammer
+    159544, -- Zem'lan Smasher
     159545, -- Bleached Bone Club
     159546, -- Rivermarsh Basher
+    159547, -- Warport Clobberer
+    159557, -- Zem'lan Headsmasher
     159558, -- Bleached Bone Skullcracker
+    159573, -- Bleached Bone Staff
     159576, -- Golden Fleet Warstaff
     159578, -- Loa-Blessed Stave
     159584, -- Coldscale Saber
+    159590, -- Shipwrecker Blade
     159594, -- Zem'lan Saber (1H Sword)
     159596, -- Rivermarsh Machete
+    159597, -- Warport Quickblade
     159598, -- Golden Fleet Longsword
+    159599, -- Zocali Greatsword
+    159600, -- Loa-Blessed Broadsword
     159602, -- Gol Osigr Wand
     159604, -- Coldscale Rod
+    159607, -- Rivermarsh Wand
     159609, -- Golden Fleet Wand
     159802, -- Deepwarden Redoubt
     159805, -- Coralshell Barrier
     159807, -- Zem'lan Buckler
+    159808, -- Bleached Bone Shield
     159811, -- Golden Fleet Buckler
     159813, -- Loa-Blessed Warshield
     159818, -- Deepwarden Torch
     159821, -- Rivermarsh Juju
     159822, -- Warport Hex Focus
+    159823, -- Golden Fleet Mojo Charm
 
     160121, -- Direbone Frill Greatbelt
     160122, -- Direbone Frill Helmet
