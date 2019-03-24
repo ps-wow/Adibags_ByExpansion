@@ -21,6 +21,7 @@ AddonTable.transmog = {
     159166, -- Foxhollow Drape
     159168, -- Freehold Boots
     159171, -- Freehold Cowl
+    159174, -- Freehold Belt
     159188, -- Foxhollow Sandals
     159192, -- Brineworks Gauntlets
     159206, -- Briarback Shoulderpads
@@ -50,6 +51,7 @@ AddonTable.transmog = {
     159517, -- Zocali Claws
     159523, -- Tideguard Shanker
     159524, -- Shipwrecker Knife
+    159525, -- Coldscale Dagger
     159527, -- Loa-Blessed Fang
     159528, -- Zem'lan Dagger
     159531, -- Warport Dirk

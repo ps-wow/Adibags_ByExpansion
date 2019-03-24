@@ -5,6 +5,7 @@ local AddonName, AddonTable = ...
 AddonTable.loot = {
     154389, -- Abyssal-Serpent Pauldrons
     154461, -- Cursed Boarhide Helm
+    154467, -- Parrot-Trainer Mantle
     154809, -- Torgashell Helmet
     154811, -- Torgashell Shoulderguards
     154814, -- Morass Prowler's Cloak
@@ -105,6 +106,7 @@ AddonTable.loot = {
     158001, -- Bloodbough Cowl
     158007, -- Gravethorn Striders
     158008, -- Gravethorn Grips
+    158011, -- Gravethorn Shoulderguards
     158012, -- Gravethorn Belt
     158025, -- Bleakweald Greathelm
     158027, -- Bleakweald Legguards
@@ -165,13 +167,14 @@ AddonTable.loot = {
     159086, -- Corrupted Tribe Headsmasher
     159099, -- Pa'ku Adherant's Talons
     159147, -- Jambani Walkers
-    159174, -- Freehold Belt
+    159163, -- Ashvane Company Spaulders
     159340, -- Bracers of Dreadful Maladies
     159341, -- Hound-Jowl Waistband
     159346, -- Grubby Servant-Grabbers
     159448, -- Breastplate of the Vengeful
     159450, -- Girdle of Durgeoning Apathy
     159480, -- Bleached Bone Handaxe
+    --159525, Transmog
     --159528, Transmog
     159543, -- Loa-Blessed Maul
     159548, -- Golden Fleet Mace
@@ -215,8 +218,9 @@ AddonTable.loot = {
     160459, -- Apiarist's Stingproof Belt
     160474, -- Vicemaul Wristpinchers
     160529, -- Dune Shroud
+    160907, -- Cowl of the Champion [A]
     160910, -- Greathelm of the Champion
-    160911, -- Cowl of the Champion
+    160911, -- Cowl of the Champion [H]
     160913, -- Crown of the Champion
     160972, -- Herculean Golden Sword
     160979, -- Ancient Chronicler's Focus
@@ -260,6 +264,7 @@ AddonTable.loot = {
     163453, -- Honorbound Centurion's Shoulderplates
     163458, -- Honorbound Centurion's Gauntlets
     163461, -- Honorbound Centurion's Greatbelt
+    163657, -- 7th Legionnaire's Tunic
     163666, -- Honorbound Artificer's Mantle
     163668, -- Honorbound Outrider's Mantle
     163669, -- Honorbound Outrider's Faceguard
