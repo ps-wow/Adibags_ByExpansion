@@ -118,6 +118,7 @@ AddonTable.loot = {
     158060, -- Shoalbreach Pauldrons
     158093, -- Stagheart Gavel
     158095, -- Gnarlwood Hammer
+    158096, -- Wavecaller Greatmace
     158124, -- Dinobone Cracker
     158127, -- Razorbone Spear
     158133, -- Zandalari Machete
@@ -277,4 +278,6 @@ AddonTable.loot = {
     163870, -- Honorbound Bonebreaker
     163874, -- Honorbound Decapitator
     163876, -- Honorbound Focus
+
+    165628, -- Sentinel's Branch [Staff]
 }
