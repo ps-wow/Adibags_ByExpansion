@@ -9,6 +9,7 @@ AddonTable.mining = {
     36916, -- Cobalt Bar
     36913, -- Saronite Bar
     41163, -- Titanium Bar
+    37663, -- Titansteel Bar
     -- Gems
     36919, -- Cardinal Ruby
     36922, -- King's Amber
