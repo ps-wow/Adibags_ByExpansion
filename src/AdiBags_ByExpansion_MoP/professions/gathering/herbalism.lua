@@ -7,6 +7,5 @@ AddonTable.herbalism = {
     72238, -- Golden Lotus
     79010, -- Snow Lily
     79011, -- Fool's Cap
-    72238, -- Golden Lotus
     89639, -- Desecrated Herb
 }
