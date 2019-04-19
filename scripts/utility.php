@@ -51,29 +51,18 @@ class Utility
 
             // Loop through the modules files and minify any lua comments
             foreach ($files as $file) {
-                $output = '';
                 $data = file_get_contents($file);
-                $lines = explode(PHP_EOL, $data);
 
-                foreach ($lines as $line) {
-                    // Skip empty lines.
-                    if ($line === '') {
-                        continue;
-                    }
+                $search = "/([0-9]{0,7},)( -- .+)/";
+                $replace = '$1';
 
-                    $line = trim($line, ' ');
-                    // Skip lines that are only comments
-                    if (strpos($line, '--') === 0) {
-                        continue;
-                    }
-                    // Remove the comments from any remaining lines
-                    $line = explode('--', $line);
-                    $line = $line[0];
+                $data = preg_replace(
+                    $search,
+                    $replace,
+                    $data
+                );
 
-                    $output .= $line . PHP_EOL;
-                }
-
-                file_put_contents($file, $output);
+                file_put_contents($file, $data);
             }
         }
     }

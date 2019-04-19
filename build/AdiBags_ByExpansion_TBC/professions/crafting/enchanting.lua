@@ -1,4 +1,6 @@
 local AddonName, AddonTable = ...
+
 AddonTable.enchanting = {
-22445, 
+    -- Materials
+    22445,
 }

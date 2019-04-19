@@ -1,4 +1,5 @@
 local AddonName, AddonTable = ...
+
 AddonTable.misc = {
-132892, 
+    132892,
 }

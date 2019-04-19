@@ -1,11 +1,14 @@
 local AddonName, AddonTable = ...
+
 AddonTable.trade = {
-33470, 
-36918, 
-36929, 
-37701, 
-37702, 
-37704, 
-45087, 
-34055, 
+    -- Gems
+    36918,
+    36929,
+    -- General
+    37701,
+    37702,
+    37704,
+    45087,
+    -- Enchanting
+    34055,
 }

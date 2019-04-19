@@ -1,4 +1,5 @@
 local AddonName, AddonTable = ...
+
 AddonTable.cloth = {
-111557, 
+    111557,
 }

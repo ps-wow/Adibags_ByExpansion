@@ -1,4 +1,6 @@
 local AddonName, AddonTable = ...
+
 AddonTable.blacksmithing = {
-124436, 
+    -- Materials
+    124436,
 }
