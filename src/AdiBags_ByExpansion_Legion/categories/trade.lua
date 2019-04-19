@@ -5,12 +5,8 @@ AddonTable.trade = {
     123919, -- Felslate
     123918, -- Leystone Ore
     -- Herbs
-    124101, -- Aethril
     124102, -- Dreamleaf
-    124103, -- Foxflower
-    124105, -- Starlight Rose
     128304, -- Yseralline Seed
-    151565, -- Astral Glory
     -- Meat/Fish
     124117, -- Lean Shank
     124119, -- Big Gamy Ribs

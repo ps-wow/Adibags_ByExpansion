@@ -1,8 +1,6 @@
 local AddonName, AddonTable = ...
 
 AddonTable.trade = {
-    -- Cloth
-    33470, -- Frostweave Cloth
     -- Gems
     36918, -- Scarlet Ruby
     36929, -- Huge Citrine
