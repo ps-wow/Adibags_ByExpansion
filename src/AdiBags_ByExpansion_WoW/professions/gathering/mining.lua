@@ -17,7 +17,7 @@ AddonTable.mining = {
     3576, -- Tin Bar
     2841, -- Bronze Bar
     2842, -- Silver Bar
-    3575. -- Iron Bar
+    3575, -- Iron Bar
     3859, -- Steel Bar
     3577, -- Gold Bar
     3860, -- Mithril Bar
