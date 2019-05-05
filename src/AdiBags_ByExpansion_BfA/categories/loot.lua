@@ -6,6 +6,7 @@ AddonTable.loot = {
     154389, -- Abyssal-Serpent Pauldrons
     154461, -- Cursed Boarhide Helm
     154467, -- Parrot-Trainer Mantle
+    154500, -- Moonwood Bramblespire
     154809, -- Torgashell Helmet
     154811, -- Torgashell Shoulderguards
     154814, -- Morass Prowler's Cloak
@@ -116,6 +117,7 @@ AddonTable.loot = {
     158035, -- Squallshaper Mantle
     158059, -- Shoalbreach Legguards
     158060, -- Shoalbreach Pauldrons
+    158075, -- Heart of Azeroth
     158093, -- Stagheart Gavel
     158095, -- Gnarlwood Hammer
     158096, -- Wavecaller Greatmace
@@ -219,6 +221,7 @@ AddonTable.loot = {
     160910, -- Greathelm of the Champion
     160911, -- Cowl of the Champion [H]
     160913, -- Crown of the Champion
+    160963, -- Blood Jungle Stinger
     160972, -- Herculean Golden Sword
     160979, -- Ancient Chronicler's Focus
 
@@ -276,5 +279,6 @@ AddonTable.loot = {
     163876, -- Honorbound Focus
 
     165443, -- Darkwood Sentinel's Cowl
+    165444, -- Darkwood Sentinel's Breeches
     165628, -- Sentinel's Branch [Staff]
 }

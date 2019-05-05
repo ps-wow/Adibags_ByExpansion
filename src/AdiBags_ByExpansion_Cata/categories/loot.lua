@@ -24,9 +24,12 @@ AddonTable.loot = {
     55404, -- Thondroril Amulet
     55405, -- Blackwolf Amulet
     59520, -- Unheeded Warning
+    66934, -- Gloves of Baleflame [Quest (Grim Batol Dungeon)]
+    66936, -- Helm of Secret Knowledge [Quest (Grim Batol Dungeon)]
     66974, -- Nightrend Choker
     68915, -- Scales of Life
     68972, -- Apparatus of Khaz'goroth
     70929, -- Firebound Gorget
     71367, -- Theck's Emberseal
+    76156, -- Bindings of the End Times [Dungeon: End Time]
 }
