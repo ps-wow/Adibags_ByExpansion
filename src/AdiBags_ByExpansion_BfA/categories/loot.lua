@@ -169,11 +169,7 @@ AddonTable.loot = {
     159099, -- Pa'ku Adherant's Talons
     159147, -- Jambani Walkers
     159163, -- Ashvane Company Spaulders
-    159340, -- Bracers of Dreadful Maladies
-    159341, -- Hound-Jowl Waistband
-    159346, -- Grubby Servant-Grabbers
     159448, -- Breastplate of the Vengeful
-    159450, -- Girdle of Durgeoning Apathy
     159480, -- Bleached Bone Handaxe
     --159525, Transmog
     --159528, Transmog
@@ -184,6 +180,7 @@ AddonTable.loot = {
     159606, -- Bleached Bone Wand
     159763, -- Idol of Vol'jamba
     159764, -- Enraged Diemetradon Fin
+    159820, -- Ironcrest Lantern [Off-Hand]
     159908, -- Robes of the Champion
     159977, -- Vindictive Golem Core
     159978, -- Juni's Egg Timer
