@@ -169,7 +169,6 @@ AddonTable.loot = {
     159099, -- Pa'ku Adherant's Talons
     159147, -- Jambani Walkers
     159163, -- Ashvane Company Spaulders
-    159448, -- Breastplate of the Vengeful
     159480, -- Bleached Bone Handaxe
     --159525, Transmog
     --159528, Transmog
@@ -276,5 +275,6 @@ AddonTable.loot = {
     163874, -- Honorbound Decapitator
     163876, -- Honorbound Focus
 
+    165443, -- Darkwood Sentinel's Cowl
     165628, -- Sentinel's Branch [Staff]
 }
