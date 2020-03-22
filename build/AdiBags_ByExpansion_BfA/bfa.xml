@@ -16,6 +16,9 @@
     <Script file="professions\gathering\mining.lua"/>
     <Script file="professions\gathering\skinning.lua"/>
 
+    <Script file="professions\secondary\cooking.lua"/>
+    <Script file="professions\secondary\fishing.lua"/>
+
     <Script file="dungeons\ataldazar.lua"/>
     <Script file="dungeons\boralus.lua"/>
     <Script file="dungeons\freehold.lua"/>

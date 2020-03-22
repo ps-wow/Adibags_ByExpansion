@@ -105,6 +105,7 @@ AddonTable.loot = {
     157998, -- Harbormaster Wristplates
 
     158001, -- Bloodbough Cowl
+    158004, -- Bloodbough Cord
     158007, -- Gravethorn Striders
     158008, -- Gravethorn Grips
     158011, -- Gravethorn Shoulderguards
@@ -281,4 +282,9 @@ AddonTable.loot = {
     165443, -- Darkwood Sentinel's Cowl
     165444, -- Darkwood Sentinel's Breeches
     165628, -- Sentinel's Branch [Staff]
+
+    167754, -- Shirakess Headdress
+    167756, -- Shirakess Mantle
+
+    170516, -- Honorbound Artificer's Robes
 }

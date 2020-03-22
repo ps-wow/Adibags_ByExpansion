@@ -23,6 +23,7 @@ AddonTable.junk = {
     154783, -- Ruptured Plate Gauntlets
     154784, -- Ruptured Plate Breastplate
     154785, -- Ruptured Plate Belt
+    154786, -- Unraveling Cloth Wristwraps
     154787, -- Unraveling Cloth Shirt
     154788, -- Unraveling Cloth Sandals
     154789, -- Unraveling Cloth Pants
