@@ -110,7 +110,6 @@ function Core:DefaultFilter(slotData, module, expFilter)
                                 end
                             end
                         end
-
                     else
                         if expTable[tableName][slotData.itemId] then
                             return prefix .. tableDescription

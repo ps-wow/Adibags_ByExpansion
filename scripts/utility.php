@@ -5,14 +5,12 @@ class Utility
     private $config;
     private $sep;
 
-    public function __construct($config)
-    {
+    public function __construct($config) {
         $this->config = $config;
         $this->sep = DIRECTORY_SEPARATOR;
     }
 
-    public function getModuleLocation($module, $path = 'src')
-    {
+    public function getModuleLocation($module, $path = 'src') {
         $root = $this->getAddonRoot();
         return $root . $path . $this->sep . 'AdiBags_ByExpansion_' . $module;
     }
@@ -21,13 +19,11 @@ class Utility
      * Get the root addon folder.
      * @return string
      */
-    public function getAddonRoot()
-    {
+    public function getAddonRoot() {
         return __DIR__ . $this->sep . '..' . $this->sep;
     }
 
-    public function copyModules()
-    {
+    public function copyModules() {
         $modules = $this->config->getModules();
 
         foreach ($modules as $module) {
@@ -41,8 +37,7 @@ class Utility
         }
     }
 
-    public function minify(FolderScan $folderScan)
-    {
+    public function minify(FolderScan $folderScan) {
         $modules = $this->config->getModules();
         foreach ($modules as $module) {
             $build = $this->getModuleLocation($module, 'build');
@@ -67,8 +62,7 @@ class Utility
         }
     }
 
-    public function getLuaFiles($folder)
-    {
+    public function getLuaFiles($folder) {
 
     }
 
@@ -82,8 +76,7 @@ class Utility
      * @param       int      $permissions New folder creation permissions
      * @return      bool     Returns true on success, false on failure
      */
-    public function dirCopy($source, $dest, $permissions = 0755)
-    {
+    public function dirCopy($source, $dest, $permissions = 0755) {
         // Check for symlinks
         if (is_link($source)) {
             return symlink(readlink($source), $dest);
@@ -120,8 +113,7 @@ class Utility
      * Recursively remove directory contents.
      * @param $src
      */
-    public function dirClean($src)
-    {
+    public function dirClean($src) {
         $dir = opendir($src);
         while(false !== ( $file = readdir($dir)) ) {
             if (( $file != '.' ) && ( $file != '..' )) {
