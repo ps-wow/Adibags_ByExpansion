@@ -212,4 +212,6 @@ AddonTable.junk = {
     163849, -- Bad Troll Love Poem
     163850, -- Bloody Gamekeeper's Arm
     163855, -- Duplicate Pilgrimage Scroll
+
+    169984, -- Shattered Dragonscale
 }

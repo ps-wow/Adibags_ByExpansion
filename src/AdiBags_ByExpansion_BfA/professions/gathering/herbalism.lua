@@ -8,4 +8,6 @@ AddonTable.herbalism = {
     152509, -- Siren's Pollen
     152510, -- Anchor Weed
     152511, -- Sea Stalk
+    -- 8.3
+    168487, -- Zin'anthid
 }
