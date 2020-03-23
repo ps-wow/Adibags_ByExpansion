@@ -31,6 +31,7 @@
     <Script file="dungeons\waycrest.lua"/>
 
     <Script file="raids\uldir.lua"/>
+    <Script file="raids\dazaralor.lua"/>
 
     <Script file="main.lua"/>
 

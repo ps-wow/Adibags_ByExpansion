@@ -100,8 +100,10 @@ AddonTable.loot = {
     157963, -- Dunecrawler Legplates
     157965, -- Dunecrawler Waistguard
     157968, -- Sirensong Handwraps
+    157974, -- Seafarer Vest
     157977, -- Seafarer Headcover
     157978, -- Seafarer Breeches
+    157981, -- Seafarer Armguards
     157998, -- Harbormaster Wristplates
 
     158001, -- Bloodbough Cowl
@@ -287,4 +289,7 @@ AddonTable.loot = {
     167756, -- Shirakess Mantle
 
     170516, -- Honorbound Artificer's Robes
+    170521, -- 7th Legionnaire's Leather Mantle
+
+    174954, -- Wristwraps of the Insatiable Maw
 }

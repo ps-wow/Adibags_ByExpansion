@@ -13,5 +13,6 @@ AddonTable.mining = {
     154123, -- Amberblaze [Rare]
     154124, -- Laribole [Rare]
     154120, -- Owlseye [Rare]
+    154121, -- Scarlet Diamond [Rare]
     154125, -- Royal Quartz [Rare]
 }

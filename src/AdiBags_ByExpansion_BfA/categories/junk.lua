@@ -58,8 +58,8 @@ AddonTable.junk = {
     155631, -- Inert Stone
     155635, -- Sinewy Wing
     155636, -- Viscous Ink
-    155742, -- "Preserved" Foodstuffs
     155841, -- Defaced Statuette
+    155842, -- "Preserved" Foodstuffs
     155843, -- Brittle Ceremonial Necklace
     155844, -- Unreliable Lodestone
 
@@ -214,4 +214,6 @@ AddonTable.junk = {
     163855, -- Duplicate Pilgrimage Scroll
 
     169984, -- Shattered Dragonscale
+
+    174514, -- Discarded Token
 }

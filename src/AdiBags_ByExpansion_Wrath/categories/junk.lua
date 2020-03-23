@@ -1,6 +1,7 @@
 local AddonName, AddonTable = ...
 
 AddonTable.junk = {
+    33365, -- Frost-Rimed Cloth Belt
     33366, -- Frost-Rimed Cloth Boots
     33367, -- Frost-Rimed Cloth Bracers
     33369, -- Frost-Rimed Cloth Pants
@@ -32,7 +33,11 @@ AddonTable.junk = {
     33632, -- Icicle Fang
 
     39212, -- Indurate Claw
+    39512, -- Hoary Crystals
+    39516, -- Frosty Mushroom
+    39567, -- Rubicund Scale
 
+    43851, -- Fur Clothing Scraps
     43852, -- Thick Fur Clothing Scraps
 
     52019, -- Precious' Ribbon [Shirt]
