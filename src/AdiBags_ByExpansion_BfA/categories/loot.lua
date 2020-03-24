@@ -82,6 +82,7 @@ AddonTable.loot = {
     157903, -- Shadra Silk Footwraps
     157904, -- Shadra Silk Gloves
     157905, -- Shadra Silk Headband
+    157907, -- Shadra Silk Mantle
     157910, -- Gonk Outrunner Vest
     157926, -- Breastplate of Rezan's Bladeguard
     157929, -- Greathelm of Rezan's Bladeguard
@@ -100,6 +101,7 @@ AddonTable.loot = {
     157963, -- Dunecrawler Legplates
     157965, -- Dunecrawler Waistguard
     157968, -- Sirensong Handwraps
+    157971, -- Sirensong Amice
     157974, -- Seafarer Vest
     157977, -- Seafarer Headcover
     157978, -- Seafarer Breeches

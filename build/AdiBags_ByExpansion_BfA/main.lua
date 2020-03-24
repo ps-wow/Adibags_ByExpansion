@@ -12,8 +12,8 @@ local module = {
     ["raids"] = {
         ["uldir"] = "Uldir",
         ["dazaralor"] = "Battle of Dazar'alor",
-        ["crucible"] = "Crucible of Storms"
-        ["eternalpalace"] = "The Eternal Palace"
+        ["crucible"] = "Crucible of Storms",
+        ["eternalpalace"] = "The Eternal Palace",
         ["nyalotha"] = "Ny'alotha, the Waking City"
     },
     ["dungeons"] = {
