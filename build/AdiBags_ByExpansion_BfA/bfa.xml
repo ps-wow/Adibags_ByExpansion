@@ -10,6 +10,7 @@
     <Script file="professions\crafting\blacksmithing.lua"/>
     <Script file="professions\crafting\enchanting.lua"/>
     <Script file="professions\crafting\inscription.lua"/>
+    <Script file="professions\crafting\leatherworking.lua"/>
     <Script file="professions\crafting\tailoring.lua"/>
 
     <Script file="professions\gathering\cloth.lua"/>
