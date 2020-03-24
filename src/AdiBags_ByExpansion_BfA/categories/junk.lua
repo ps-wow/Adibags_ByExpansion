@@ -215,5 +215,6 @@ AddonTable.junk = {
 
     169984, -- Shattered Dragonscale
 
+    174209, -- Encased Arthropod
     174514, -- Discarded Token
 }

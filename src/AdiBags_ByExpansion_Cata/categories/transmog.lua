@@ -16,6 +16,7 @@ AddonTable.transmog = {
     55377, -- Thondroril Crystal
     55387, -- Irontree Mace
     55394, -- Mardenholde Hammer
+    55396, -- Irontree Hammer
 
     55412, -- Mardenholde Spear
     55413, -- Bladefist Spear
@@ -50,9 +51,11 @@ AddonTable.transmog = {
     55583, -- Highperch Greaves
     55584, -- Thornsnarl Greaves
     55585, -- Talondeep Greaves
+    55592, -- Highperch Gauntlets
     55594, -- Talondeep Gauntlets
 
     55602, -- Thornsnarl Helm
+    55603, -- Talondeep Helm
     55611, -- Thornsnarl Legguards
     55612, -- Talondeep Legguards
     55620, -- Thornsnarl Spaulders

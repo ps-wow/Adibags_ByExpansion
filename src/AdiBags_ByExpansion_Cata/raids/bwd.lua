@@ -122,4 +122,7 @@ AddonTable.bwd = {
 
     -- Set Pieces (Warrior)
     65266, -- Earthern Helmet
+
+    -- Battle Pet
+    152966, -- Rough-Hewn Remote
 }

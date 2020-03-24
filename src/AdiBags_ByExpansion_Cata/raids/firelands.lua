@@ -121,10 +121,13 @@ AddonTable.firelands = {
     69112, -- The Hungerer
 
     -- Ragnaros
+    69150, -- Matrix Restabilizer
+    69110, -- Variable Pulse Lightning Capacitor
+    69167, -- Vessel of Acceleration
+    69224, -- Smoldering Egg of Millagazor
     71677, -- Crown of the Fiery Conqueror
     71684, -- Crown of the Fiery Protector
     71670, -- Crown of the Fiery Vanquisher
-    69224, -- Smoldering Egg of Millagazor
     71797, -- Sho'ravon, Greatstaff of Annihilation
     70723, -- Sulfuras, the Extinguished Hand
     71615, -- Ko'ggun, Hammer of the Firelord
@@ -134,15 +137,14 @@ AddonTable.firelands = {
     71612, -- Pauldrons of Roaring Flame
     71614, -- Fingers of Incineration
     71613, -- Majordomo's Chain of Office
-    69150, -- Matrix Restabilizer
-    69110, -- Variable Pulse Lightning Capacitor
-    69167, -- Vessel of Acceleration
 
     -- Set Piece (Death Knight)
     71482, -- Elementium Deathplate Handguards
     71483, -- Elementium Deathplate Faceguard
 
     -- Set Piece (Druid)
+    71486, -- Obsidian Arborweave Raiment
+    71488, -- Obsidian Arborweave Headpiece
     71491, -- Obsidian Arborweave Handwraps
     71493, -- Obsidian Arborweave Legwraps
     71494, -- Obsidian Arborweave Tunic
