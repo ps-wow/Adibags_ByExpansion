@@ -9,8 +9,10 @@ AddonTable.junk = {
     62068, -- Knog's Bow of Ineptitude
     62069, -- Plugged Rifle
     62070, -- Rusted Timber Axe
+    62071, -- Corroded Blade
     62072, -- Robble's Wobbly Staff
     62074, -- Clammy Mail Bracers
+    62075, -- Perforated Plate Shoulderpads
     62076, -- Perforated Plate Pants
     62077, -- Perforated Plate Gloves
     62078, -- Perforated Plate Chestpiece
@@ -25,6 +27,7 @@ AddonTable.junk = {
     62091, -- Pockmarked Cloth Vest
     62092, -- Pockmarked Cloth Shoulderpads
     62093, -- Pockmarked Cloth Pants
+    62094, -- Pockmarked Cloth Gloves
     62095, -- Perforated Plate Bracers
     62096, -- Clammy Mail Belt
     62097, -- Clammy Mail Armor
@@ -53,6 +56,7 @@ AddonTable.junk = {
     62126, -- Bleached Plate Chestpiece
     62127, -- Bleached Plate Shoulderpads
     62128, -- Bleached Plate Bracers
+    62129, -- Bleached Plate Boots
     62130, -- Bleached Plate Belt
     62131, -- Sooty Mail Belt
     62132, -- Sooty Mail Armor

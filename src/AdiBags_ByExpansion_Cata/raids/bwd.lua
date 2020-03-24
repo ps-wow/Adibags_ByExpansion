@@ -124,5 +124,5 @@ AddonTable.bwd = {
     65266, -- Earthern Helmet
 
     -- Battle Pet
-    152966, -- Rough-Hewn Remote
+    152966, -- Rough-Hewn Remote (Tinytron)
 }

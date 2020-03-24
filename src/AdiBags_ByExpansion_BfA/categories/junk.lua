@@ -215,6 +215,12 @@ AddonTable.junk = {
 
     169984, -- Shattered Dragonscale
 
+    173908, -- Crumbling Stone Slab
+
+    174207, -- Bony Amber Fragment
     174209, -- Encased Arthropod
     174514, -- Discarded Token
+    174515, -- Star Powder
+    174825, -- Chunk of Amber
+    174826, -- Frail Ceremonial Spear
 }
