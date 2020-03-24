@@ -14,6 +14,7 @@ AddonTable.transmog = {
     55350, -- Bladefist Knuckles
     55351, -- Irontree Knuckles
     55367, -- Mereldar Scepter
+    55369, -- Blackwolf Scepter
     55377, -- Thondroril Crystal
     55387, -- Irontree Mace
     55394, -- Mardenholde Hammer
@@ -87,6 +88,7 @@ AddonTable.transmog = {
     55737, -- Mystral Handwraps
     55738, -- Bluefen Handwraps
     55745, -- Everstill Cowl
+    55746, -- Mystral Cowl
     55747, -- Bluefen Cowl
     55754, -- Everstill Leggings
     55756, -- Bluefen Leggings
