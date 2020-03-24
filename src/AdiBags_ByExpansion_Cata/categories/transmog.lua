@@ -9,6 +9,7 @@ AddonTable.transmog = {
 
     55306, -- Irontree Bow
     55315, -- Blackwolf Cloak
+    55332, -- Bladefist Dagger
     55333, -- Irontree Dagger
     55350, -- Bladefist Knuckles
     55351, -- Irontree Knuckles
@@ -62,6 +63,7 @@ AddonTable.transmog = {
     55621, -- Talondeep Spaulders
     55628, -- Highperch Belt
     55637, -- Dandred Bindings
+    55638, -- Haldarr Bindings
     55647, -- Haldarr Jerkin
     55657, -- Ravenholdt Boots
     55664, -- Dandred Gloves
@@ -81,6 +83,7 @@ AddonTable.transmog = {
     55727, -- Everstill Sandals
     55728, -- Mystral Sandals
     55729, -- Bluefen Sandals
+    55736, -- Everstill Handwraps
     55737, -- Mystral Handwraps
     55738, -- Bluefen Handwraps
     55745, -- Everstill Cowl

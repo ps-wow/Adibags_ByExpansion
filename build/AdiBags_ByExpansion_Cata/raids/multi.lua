@@ -5,8 +5,12 @@ AddonTable.multi = {
     65087,
     65088,
     65089,
+
     -- BwD: Nefarion's End == Throne: Al'Akir
     65000,
     65001,
     65002,
+
+    -- Druid
+    65193,
 }
