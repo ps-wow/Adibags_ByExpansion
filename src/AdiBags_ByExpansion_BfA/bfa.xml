@@ -34,6 +34,9 @@
 
     <Script file="raids\uldir.lua"/>
     <Script file="raids\dazaralor.lua"/>
+    <Script file="raids\crucible.lua"/>
+    <Script file="raids\eternalpalace.lua"/>
+    <Script file="raids\nyalotha.lua"/>
 
     <Script file="main.lua"/>
 
