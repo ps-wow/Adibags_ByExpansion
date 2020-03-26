@@ -6,6 +6,7 @@ AddonTable.junk = {
 
     132183, -- Razor Tooth
     132184, -- Intact Shimmering Scale
+    132192, -- Pitted Bone
     132193, -- Tuft of Plumage
     132199, -- Congealed Felblood
 
@@ -14,11 +15,15 @@ AddonTable.junk = {
     132212, -- Frothing Essence
     132213, -- Drop of Magic
     132217, -- Elemental Pebbles
+    132219, -- Opposable Leaf
     132231, -- Won Hooked Claw
     132233, -- Lingering Essence
     132239, -- Bone Splinters
 
     153164, -- Otherworldy Trophy
+
+    -- Old AP items
+    138781, -- Brief History of the Aeons
 
     -- Sentinax Consumables
     146907, -- Sentinax Beacon of Warbeasts
