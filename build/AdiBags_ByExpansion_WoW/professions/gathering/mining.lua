@@ -28,6 +28,7 @@ AddonTable.mining = {
     17771,
     -- Stones
     2838,
+    7912,
     -- Gems
     818,
     1206,

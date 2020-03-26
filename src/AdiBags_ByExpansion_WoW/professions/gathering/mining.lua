@@ -28,6 +28,7 @@ AddonTable.mining = {
     17771, -- Enchanted Elementium Bar
     -- Stones
     2838, -- Heavy Stone
+    7912, -- Solid Stone
     -- Gems
     818, -- Tigerseye
     1206, -- Moss Agate

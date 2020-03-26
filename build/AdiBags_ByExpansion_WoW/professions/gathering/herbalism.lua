@@ -9,6 +9,7 @@ AddonTable.herbalism = {
     3356,  -- Kingsblood
     3357,  -- Liferoot
     3358,  -- Khadgar's Whisker
+    3369,  -- Grave Moss
     3818,  -- Fadeleaf
     3819,  -- Dragon's Teeth
     3821,  -- Goldthorn
@@ -23,4 +24,9 @@ AddonTable.herbalism = {
     13466,
     13467,
     13468,
+
+    -- Partial Parts
+    108327,
+    108328,
+    108331,
 }

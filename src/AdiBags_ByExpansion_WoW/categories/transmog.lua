@@ -2,6 +2,7 @@ local AddonName, AddonTable = ...
 
 AddonTable.transmog = {
     -- Uncommon (Green)
+    6386, -- Glimmering Mail Legguards
     6595, -- Battleforge Gauntlets [Mail][Hands]
     10140, -- High Councillor's Gloves [Cloth][Hands]
     10217, -- Elegant Leggings [Cloth][Legs]
@@ -11,6 +12,7 @@ AddonTable.transmog = {
     10384, -- Hyperion Armor [Plate][Chest]
 
     14559, -- Prospector's Sash [Leather][Waist]
+    14562, -- Prospector's Chestpiece
 
     -- Rare (Blue)
     13073, -- Mugthol's Helm [Plate][Head] (Nefarian)
