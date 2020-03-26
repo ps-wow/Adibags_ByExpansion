@@ -25,4 +25,6 @@ AddonTable.blacksmithing = {
     152812, -- Monel-Hardened Hoofplates
     152813, -- Monel-Hardened Stirrups
     159826, -- Monelite Skeleton Key
+    -- Material
+    160298, -- Durable Flux
 }

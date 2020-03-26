@@ -26,8 +26,11 @@ AddonTable.mining = {
     12359, -- Thorium Bar
     11371, -- Dark Iron Bar
     17771, -- Enchanted Elementium Bar
+    -- Stones
+    2838, -- Heavy Stone
     -- Gems
     818, -- Tigerseye
+    1206, -- Moss Agate
     1529, -- Jade
     3864, -- Citrine
     7909, -- Aquamarine

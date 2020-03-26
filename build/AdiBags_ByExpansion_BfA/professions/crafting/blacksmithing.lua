@@ -25,4 +25,6 @@ AddonTable.blacksmithing = {
     152812,
     152813,
     159826,
+    -- Material
+    160298,
 }

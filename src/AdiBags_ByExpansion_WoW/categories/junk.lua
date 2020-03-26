@@ -19,4 +19,6 @@ AddonTable.junk = {
 
     6444, -- Forked Tongue
     6445, -- Brittle Molting
+
+    7073, -- Broken Fang
 }
