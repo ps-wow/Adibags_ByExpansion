@@ -2,8 +2,12 @@ local AddonName, AddonTable = ...
 
 AddonTable.transmog = {
     -- Uncommon (Green)
+    4576, -- Light Bow
+
+    4733, -- Blackforge Pauldrons
     6386, -- Glimmering Mail Legguards
     6595, -- Battleforge Gauntlets [Mail][Hands]
+
     10140, -- High Councillor's Gloves [Cloth][Hands]
     10217, -- Elegant Leggings [Cloth][Legs]
     10246, -- Master's Vest [Cloth][Chest]
@@ -11,6 +15,7 @@ AddonTable.transmog = {
     10275, -- Emerald Breastplate [Plate][Chest]
     10384, -- Hyperion Armor [Plate][Chest]
 
+    14200, -- Thistlefur Cap
     14559, -- Prospector's Sash [Leather][Waist]
     14562, -- Prospector's Chestpiece
 

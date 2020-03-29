@@ -49,6 +49,7 @@ AddonTable.transmog = {
     159515, -- Warport Knuckles
     159516, -- Golden Fleet Fists
     159517, -- Zocali Claws
+    159519, -- Ironcrest Knife
     159523, -- Tideguard Shanker
     159524, -- Shipwrecker Knife
     159525, -- Coldscale Dagger
@@ -77,6 +78,7 @@ AddonTable.transmog = {
     159600, -- Loa-Blessed Broadsword
     159602, -- Gol Osigr Wand
     159604, -- Coldscale Rod
+    159605, -- Ironcrest Baton
     159607, -- Rivermarsh Wand
     159609, -- Golden Fleet Wand
     159802, -- Deepwarden Redoubt
@@ -121,4 +123,8 @@ AddonTable.transmog = {
     164446, -- Spiritbough Grasps
     164522, -- Voodoo Stalker's Chestguard
     164550, -- Whirling Dervish Gloves
+
+    169433, -- Wavecrash Greatcloak
+
+    170119, -- Slithershell Warglaive
 }

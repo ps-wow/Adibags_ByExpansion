@@ -3,6 +3,7 @@ local AddonName, AddonTable = ...
 AddonTable.herbalism = {
     765,   -- Silverleaf
     785,   -- Mageroyal
+    2447,  -- Peacebloom
     2449,  -- Earthroot
     2450,  -- Briarthorn
     2453,  -- Bruiseweed

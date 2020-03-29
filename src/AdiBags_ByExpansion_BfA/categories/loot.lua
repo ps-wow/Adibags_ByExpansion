@@ -82,6 +82,7 @@ AddonTable.loot = {
     157903, -- Shadra Silk Footwraps
     157904, -- Shadra Silk Gloves
     157905, -- Shadra Silk Headband
+    157906, -- Shadra Silk Legwraps
     157907, -- Shadra Silk Mantle
     157910, -- Gonk Outrunner Vest
     157926, -- Breastplate of Rezan's Bladeguard
@@ -176,6 +177,7 @@ AddonTable.loot = {
     159099, -- Pa'ku Adherant's Talons
     159147, -- Jambani Walkers
     159163, -- Ashvane Company Spaulders
+    159185, -- Foxhollow Handwraps
     159480, -- Bleached Bone Handaxe
     --159525, Transmog
     --159528, Transmog
@@ -289,7 +291,12 @@ AddonTable.loot = {
 
     167754, -- Shirakess Headdress
     167756, -- Shirakess Mantle
+    167779, -- Shirakess Wraps
 
+    169790, -- Shirakess Gloves (Benethic)
+
+    170133, -- Shirakess Grips
+    170140, -- Akana's Reefstrider Soles (Benethic)
     170516, -- Honorbound Artificer's Robes
     170521, -- 7th Legionnaire's Leather Mantle
 
