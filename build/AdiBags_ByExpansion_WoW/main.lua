@@ -15,7 +15,11 @@ local module = {
         ["mc"] = "Molten Core",
         ["bwl"] = "Blackwing Lair"
     },
-    ["db"] = {}
+    ["dungeons"] = {
+        ["deadmines"] = "The Deadmines",
+        ["stockade"] = "The Stockade",
+        ["wailingcaverns"] = "Wailing Caverns"
+    }
 }
 
 core:AddExpansion(module)

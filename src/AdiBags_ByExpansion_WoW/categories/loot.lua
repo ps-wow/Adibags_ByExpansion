@@ -37,7 +37,6 @@ AddonTable.loot = {
 
     143582, -- Stalward Belt
 
-    151074, -- Turnkey's Pauldrons
     151430, -- Hematite Tortoise Pendant
     151437, -- Hook Charm Necklace
     151453, -- Grungy Necromantic Ring

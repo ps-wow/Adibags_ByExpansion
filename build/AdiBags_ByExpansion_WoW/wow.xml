@@ -19,6 +19,10 @@
 
     <Script file="professions\secondary\cooking.lua"/>
 
+    <Script file="dungeons\deadmines.lua"/>
+    <Script file="dungeons\stockade.lua"/>
+    <Script file="dungeons\wailingcaverns.lua"/>
+
     <Script file="raids\aq20.lua"/>
     <Script file="raids\aq40.lua"/>
     <Script file="raids\mc.lua"/>
