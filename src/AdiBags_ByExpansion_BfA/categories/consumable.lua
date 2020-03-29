@@ -1,10 +1,6 @@
 local AddonName, AddonTable = ...
 
-AddonTable.consumable = {
-    -- Flasks
-
-    -- Potions
-}
+AddonTable.consumable = {}
 
 AddonTable.foodDrink = {
     -- Food
