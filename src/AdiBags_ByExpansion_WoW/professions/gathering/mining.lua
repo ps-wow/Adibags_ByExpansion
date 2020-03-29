@@ -27,6 +27,7 @@ AddonTable.mining = {
     11371, -- Dark Iron Bar
     17771, -- Enchanted Elementium Bar
     -- Stones
+    2835,  -- Rough Stone
     2838,  -- Heavy Stone
     7912,  -- Solid Stone
     -- Gems

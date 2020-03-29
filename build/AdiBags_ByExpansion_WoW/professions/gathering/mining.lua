@@ -27,6 +27,7 @@ AddonTable.mining = {
     11371,
     17771,
     -- Stones
+    2835,  -- Rough Stone
     2838,  -- Heavy Stone
     7912,  -- Solid Stone
     -- Gems
