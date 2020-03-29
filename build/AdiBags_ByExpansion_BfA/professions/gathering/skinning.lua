@@ -7,8 +7,10 @@ AddonTable.skinning = {
     -- Hides
     154722,
     152542,
-    -- Misc
+    -- Scales
     153050,
+    168650,
+    -- Misc
     154164,
     154165,
 }
