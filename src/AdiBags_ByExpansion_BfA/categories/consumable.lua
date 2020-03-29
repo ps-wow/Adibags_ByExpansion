@@ -19,6 +19,7 @@ AddonTable.consumable = {
     163222, -- Battle Potion of Intellect [8.0]
     163223, -- Battle Potion of Agility [8.0]
     152557, -- Steelskin Potion [8.0]
+    152561, -- Potion of Replenishment [8.0]
 
     169451, -- Abyssal Healing Potion [8.2]
     168502, -- Potion of Reconstitution [8.2]
