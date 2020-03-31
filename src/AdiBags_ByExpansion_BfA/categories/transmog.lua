@@ -120,6 +120,8 @@ AddonTable.transmog = {
     160180, -- Skycaller Cowl
     160182, -- Skycaller Leggings
 
+    161944, -- Coarse Leather Waistguard
+
     164446, -- Spiritbough Grasps
     164522, -- Voodoo Stalker's Chestguard
     164550, -- Whirling Dervish Gloves

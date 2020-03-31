@@ -46,4 +46,6 @@ AddonTable.mining = {
     12799, -- Large Opal
     12800, -- Azerothian Diamond
     12811, -- Righteous Orb
+    -- Recipe
+    44956, -- Goblin's Guide to Elementium
 }

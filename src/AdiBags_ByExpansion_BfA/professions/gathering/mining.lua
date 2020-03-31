@@ -5,6 +5,7 @@ AddonTable.mining = {
     152512, -- Monelite Ore [Common]
     152513, -- Platium Ore [Uncommon]
     152579, -- Storm Silver Ore [Common]
+    168185, -- Osmenite Ore [Common]
     -- Gems
     153701, -- Rubellite [Uncommon]
     153703, -- Solstone [Uncommon]

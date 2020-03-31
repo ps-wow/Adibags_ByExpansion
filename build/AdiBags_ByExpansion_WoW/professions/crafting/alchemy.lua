@@ -5,4 +5,5 @@ AddonTable.alchemy = {
 
     -- Recipe's
     3832,
+    13486,
 }

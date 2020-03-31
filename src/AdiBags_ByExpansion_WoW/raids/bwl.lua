@@ -155,4 +155,7 @@ AddonTable.bwl = {
     19366, -- Master Dragonslayer's Orb (The Lord of Blackrock)
     19383, -- Master Dragonslayer's Medallion (The Lord of Blackrock)
     19384, -- Master Dragonslayer's Ring (The Lord of Blackrock)
+
+    -- Misc
+    19354, -- Draconic Avenger
 }

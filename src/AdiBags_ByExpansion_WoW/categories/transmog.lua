@@ -19,6 +19,7 @@ AddonTable.transmog = {
     10217, -- Elegant Leggings [Cloth][Legs]
     10246, -- Master's Vest [Cloth][Chest]
     10250, -- Master's Hat [Cloth][Head]
+    10255, -- Master's Belt
     10275, -- Emerald Breastplate [Plate][Chest]
     10384, -- Hyperion Armor [Plate][Chest]
 
@@ -30,4 +31,6 @@ AddonTable.transmog = {
     -- Rare (Blue)
     13073, -- Mugthol's Helm [Plate][Head] (Nefarian)
     13123, -- Dreamwalker Armor [Mail][Chest] (Nefarian)
+    13113, -- Feathermoon Headdress (Nefarian)
+    13144, -- Serenity Belt
 }

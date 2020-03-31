@@ -15,6 +15,8 @@ AddonTable.loot = {
 
     10775, -- Carapace of Tuten'kash
 
+    12048, -- Prismatic Pendant (BoE Neck)
+
     13384, -- Rainbow Girdle
 
     14951, -- Bloodforged Sabatons

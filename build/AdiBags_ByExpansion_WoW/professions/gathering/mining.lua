@@ -46,4 +46,6 @@ AddonTable.mining = {
     12799,
     12800,
     12811,
+    -- Recipe
+    44956,
 }
