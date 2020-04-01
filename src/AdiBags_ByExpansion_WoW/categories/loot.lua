@@ -28,7 +28,8 @@ AddonTable.loot = {
 
     51974, -- Enumerated Shoulderpads
     51984, -- Stalwart Shoulderpads
-    51992, -- Tumultous Ring
+    51992, -- Tumultuous Ring
+    51994, -- Tumultuous Cloak
     51996, -- Tumultous Necklace (Satchel of Helpful Goods)
     57401, -- Jasperlode Chestguard (White Plate Chest)
 
@@ -50,7 +51,8 @@ AddonTable.loot = {
     88265, -- Beastbinder Ring
     88277, -- Pyretic Legguards
 
-    143582, -- Stalward Belt
+    143582, -- Stalwart Belt
+    143583, -- Stalwart Grips
 
     151430, -- Hematite Tortoise Pendant
     151437, -- Hook Charm Necklace
@@ -59,6 +61,7 @@ AddonTable.loot = {
 
     157643, -- Helm-Hewer Greataxe (Starter Gear)
     157686, -- Spellsculptor's Robe
+    157688, -- Spellsculptor's Cord
     157699, -- Lightsoul Sabatons
     157704, -- Lightsoul Girdle
     157705, -- Lightsoul Vambraces
