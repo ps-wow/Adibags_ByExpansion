@@ -11,9 +11,12 @@ AddonTable.loot = {
 
     7489, -- Captain's Gauntlets
 
+    9470, -- Bad Mojo Mask
     9743, -- Simple Shoes
 
     10775, -- Carapace of Tuten'kash
+
+    11935, -- Magmus Stone
 
     12048, -- Prismatic Pendant (BoE Neck)
 
@@ -26,6 +29,8 @@ AddonTable.loot = {
     18302, -- Band of Vigor
     18380, -- Eldritch Reinforced Legplates
 
+    51967, -- Enumerated Sandals
+    51970, -- Enumerated Gloves
     51973, -- Enumerated Handwraps
     51974, -- Enumerated Shoulderpads
     51984, -- Stalwart Shoulderpads
@@ -61,10 +66,13 @@ AddonTable.loot = {
     151437, -- Hook Charm Necklace
     151453, -- Grungy Necromantic Ring
     151454, -- Splinterbone Sabatons
+    151456, -- Theka's Seal of Vigilance
 
     157643, -- Helm-Hewer Greataxe (Starter Gear)
+    157651, -- Staff of Elemental Shaping
     157682, -- Spellsculptor's Sandals
     157683, -- Spellsculptor's Handwraps
+    157685, -- Spellsculptor's Leggings
     157686, -- Spellsculptor's Robe
     157688, -- Spellsculptor's Cord
     157699, -- Lightsoul Sabatons

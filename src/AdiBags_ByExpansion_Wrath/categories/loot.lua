@@ -9,5 +9,8 @@ AddonTable.loot = {
 
     37505, -- Battle Leader's Breastplate
 
+    44404, -- Bauble-Woven Gloves
+    44408, -- Cowl of the Vindictive Captain
 
+    113684, -- Icecrust Cloak
 }

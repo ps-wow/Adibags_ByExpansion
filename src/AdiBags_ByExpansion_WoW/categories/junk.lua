@@ -2,6 +2,7 @@ local AddonName, AddonTable = ...
 
 AddonTable.junk = {
     -- Grey Items (WoW)
+    1520, -- Troll Sweat
     1735, -- Worn Mail Pants
     1737, -- Worn Mail Vest
     1745, -- Laced Mail Vest
@@ -18,6 +19,7 @@ AddonTable.junk = {
     3781, -- Broad Claymore
     3783, -- Light Scimitar
     3931, -- Poisoned Spider Fang
+    3950, -- Twill Shoulderpads
 
     4555, -- Thick Scaly Tail
     4784, -- Lifeless Stone
@@ -34,13 +36,17 @@ AddonTable.junk = {
 
     8748, -- Double Mail Coif
 
+    9242, -- Ancient Tablet
+
     11391, -- Spined Bat Wing
     11392, -- Severed Bat Claw
     11393, -- Small Bat Skull
 
     17057, -- Shiny Fish Scales
 
+    22526, -- Bone Fragments
     22527, -- Core of Elements
+    22528, -- Dark Iron Scraps
 
     56035, -- Colorful Rock
 }

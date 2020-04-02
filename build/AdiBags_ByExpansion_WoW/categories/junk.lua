@@ -2,6 +2,7 @@ local AddonName, AddonTable = ...
 
 AddonTable.junk = {
     -- Grey Items (WoW)
+    1520,
     1735,
     1737,
     1745,
@@ -18,6 +19,7 @@ AddonTable.junk = {
     3781,
     3783,
     3931,
+    3950,
 
     4555,
     4784,
@@ -34,13 +36,17 @@ AddonTable.junk = {
 
     8748,
 
+    9242,
+
     11391,
     11392,
     11393,
 
     17057,
 
+    22526,
     22527,
+    22528,
 
     56035,
 }

@@ -2,6 +2,8 @@ local AddonName, AddonTable = ...
 
 AddonTable.transmog = {
     -- Uncommon (Green)
+    866,   -- Monk's Staff
+
     3184,  -- Hook Dagger
     3193,  -- Oak Mallet
 
@@ -15,7 +17,8 @@ AddonTable.transmog = {
 
     8111,  -- Hibernal Mantle
 
-    9791,
+    9791,  -- Ivycloth Tunic
+    9804,  -- Superior Buckler
     9852,  -- Conjurer's Robe
 
     10140,
@@ -32,6 +35,7 @@ AddonTable.transmog = {
     14562,
 
     15241,
+    15374,
 
     -- Rare (Blue)
     13073,

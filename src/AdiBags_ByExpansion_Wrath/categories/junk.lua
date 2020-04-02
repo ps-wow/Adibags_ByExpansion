@@ -33,12 +33,15 @@ AddonTable.junk = {
     33632, -- Icicle Fang
 
     39212, -- Indurate Claw
+    39220, -- Geodesic Fragments
     39512, -- Hoary Crystals
     39516, -- Frosty Mushroom
     39567, -- Rubicund Scale
 
     43851, -- Fur Clothing Scraps
     43852, -- Thick Fur Clothing Scraps
+
+    44776, -- Translucent Scale
 
     52019, -- Precious' Ribbon [Shirt]
 }

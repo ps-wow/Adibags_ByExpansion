@@ -4,6 +4,7 @@ local AddonName, AddonTable = ...
 
 AddonTable.loot = {
     -- Uncommon (Green)
+    82283,
     83738,
 
     -- Rare (Blue)

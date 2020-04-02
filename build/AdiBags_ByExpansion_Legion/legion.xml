@@ -19,6 +19,10 @@
     <Script file="professions\gathering\mining.lua"/>
     <Script file="professions\gathering\skinning.lua"/>
 
+    <Script file="raids\antorus.lua"/>
+    <Script file="raids\tov.lua"/>
+    <Script file="raids\emeraldnightmare.lua"/>
+
     <Script file="main.lua"/>
 
 </Ui>

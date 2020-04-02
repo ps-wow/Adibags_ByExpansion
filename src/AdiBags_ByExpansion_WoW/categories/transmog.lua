@@ -2,6 +2,8 @@ local AddonName, AddonTable = ...
 
 AddonTable.transmog = {
     -- Uncommon (Green)
+    866,   -- Monk's Staff
+
     3184,  -- Hook Dagger
     3193,  -- Oak Mallet
 
@@ -15,7 +17,8 @@ AddonTable.transmog = {
 
     8111,  -- Hibernal Mantle
 
-    9791, -- Ivycloth Tunic
+    9791,  -- Ivycloth Tunic
+    9804,  -- Superior Buckler
     9852,  -- Conjurer's Robe
 
     10140, -- High Councillor's Gloves [Cloth][Hands]
@@ -32,6 +35,7 @@ AddonTable.transmog = {
     14562, -- Prospector's Chestpiece
 
     15241, -- Battle Knife
+    15374, -- Wolf Rider's Leggings
 
     -- Rare (Blue)
     13073, -- Mugthol's Helm [Plate][Head] (Nefarian)

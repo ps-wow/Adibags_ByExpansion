@@ -10,6 +10,9 @@ local module = {
     ["prefix"] = "07. Legion - ",
     ["description"] = "Legion",
     ["raids"] = {
+        ["emeraldnightmare"] = "Emerald Nightmare",
+        ["antorus"] = "Antorus",
+        ["tov"] = "Trial of Valor"
     }
 }
 

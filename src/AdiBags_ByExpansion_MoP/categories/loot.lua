@@ -4,6 +4,7 @@ local AddonName, AddonTable = ...
 
 AddonTable.loot = {
     -- Uncommon (Green)
+    82283, -- Immaculate Ring [BoE Ring]
     83738, -- Sigil of Grace
 
     -- Rare (Blue)
