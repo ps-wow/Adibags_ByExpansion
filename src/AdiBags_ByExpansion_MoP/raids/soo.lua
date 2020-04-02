@@ -184,4 +184,26 @@ AddonTable.soo = {
     105868, -- Essence of the Cursed Vanquisher (M)
     105867, -- Essence of the Cursed Conqueror (M)
     104253, -- Kor'kron Juggernaut
+    112932, -- Kor'kron Spire of Supremacy
+    112925, -- Xal'atoh, Desecrated Image of Gorehowl
+    112939, -- Horned Mace of the Old Ones
+    112940, -- Revelations of Y'Shaarj
+    112943, -- Cowl of Smoking Dreams
+    112937, -- Ebon Ritual Hood
+    112928, -- Greathelm of the Warchief
+    112926, -- Kor'kron Elite Skullmask
+    112930, -- Penetrating Gaze of Y'Shaarj
+    112942, -- Hopeglow Spaulders
+    112945, -- Mantle of Looming Darkness
+    112927, -- Shoulderguards of Intended Power
+    112934, -- Spaulders of the Fallen Warchief
+    112935, -- Tusks of Mannoroth
+    112931, -- Chestguard of Relentless Tyranny
+    112944, -- Chestplate of Fallen Passion
+    112936, -- Belt of the Broken Pact
+    112929, -- Cord of Black Dreams
+    112941, -- Seal of Karmic Return
+    112933, -- Legplates of Unthinking Strife
+    112938, -- Black Blood of Y'Shaarj
+    112924, -- Curse of Hubris
 }

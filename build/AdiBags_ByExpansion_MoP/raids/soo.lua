@@ -74,6 +74,8 @@ AddonTable.soo = {
     112503,
 
     -- Sha of Pride
+    99715,  -- Chest of the Cursed Conqueror (M)
+    99716,  -- Chest of the Cursed Protector (M)
     99743,  -- Chest of the Cursed Conqueror
     99744,  -- Chest of the Cursed Protector
     99742,  -- Chest of the Curses Vanquisher
@@ -139,6 +141,28 @@ AddonTable.soo = {
     112729,
 
     -- Kor'kron Dark Shaman
+    112759,
+    112769,
+    112770,
+    112762,
+    112766,
+    112767,
+    112772,
+    112774,
+    112764,
+    112755,
+    112773,
+    112763,
+    112771,
+    112760,
+    112761,
+    112765,
+    112757,
+    112756,
+    112758,
+    112754,
+    112768,
+
     -- General Nazgrim
     -- Malkorok
     -- Spoils of Pandaria
@@ -160,4 +184,26 @@ AddonTable.soo = {
     105868,
     105867,
     104253,
+    112932,
+    112925,
+    112939,
+    112940,
+    112943,
+    112937,
+    112928,
+    112926,
+    112930,
+    112942,
+    112945,
+    112927,
+    112934,
+    112935,
+    112931,
+    112944,
+    112936,
+    112929,
+    112941,
+    112933,
+    112938,
+    112924,
 }
