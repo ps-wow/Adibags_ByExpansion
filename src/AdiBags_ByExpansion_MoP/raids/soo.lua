@@ -74,6 +74,8 @@ AddonTable.soo = {
     112503, -- Fusion-Fire Core
 
     -- Sha of Pride
+    99715,  -- Chest of the Cursed Conqueror (M)
+    99716,  -- Chest of the Cursed Protector (M)
     99743,  -- Chest of the Cursed Conqueror
     99744,  -- Chest of the Cursed Protector
     99742,  -- Chest of the Curses Vanquisher
@@ -139,6 +141,28 @@ AddonTable.soo = {
     112729, -- Juggernaut's Focusing Crystal
 
     -- Kor'kron Dark Shaman
+    112759, -- Haromm's Frozen Crescent
+    112769, -- Kardris' Scepter
+    112770, -- Darkfang Mask
+    112762, -- Haromm's Horrifying Helm
+    112766, -- Iron Wolf Hood
+    112767, -- Ashflare Pendant
+    112772, -- Shoulderguards of Foul Streams
+    112774, -- Shoulderplates of Gushing Geysers
+    112764, -- Poisonmist Nightcloak
+    112755, -- Breastplate of Shamanic Mirrors
+    112773, -- Shackles of Stinking Slime
+    112763, -- Ashen Wall Girdle
+    112771, -- Belt of the Iron Prison
+    112760, -- Damron's Belt of Darkness
+    112761, -- Riou's Vigilant Leggings
+    112765, -- Toxic Tornado Treads
+    112757, -- Wolf-Rider Spurs
+    112756, -- Bloodclaw Band
+    112758, -- Ring of the Iron Tomb
+    112754, -- Haromm's Talisman
+    112768, -- Kardris' Toxic Totem
+
     -- General Nazgrim
     -- Malkorok
     -- Spoils of Pandaria

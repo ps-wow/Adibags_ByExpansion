@@ -13,8 +13,9 @@ AddonTable.consumable = {
 AddonTable.foodDrink = {
     81403, -- Dried Peaches
     81405, -- Boiled Silkworm Pupa
-    81414, -- Pearl Milk Tea
+    81410, -- Green Curry Fish
     81413, -- Skewered Peanut Chicken
+    81414, -- Pearl Milk Tea
 }
 
 AddonTable.alcohol = {

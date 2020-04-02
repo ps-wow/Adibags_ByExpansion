@@ -26,6 +26,7 @@ AddonTable.loot = {
     18302, -- Band of Vigor
     18380, -- Eldritch Reinforced Legplates
 
+    51973, -- Enumerated Handwraps
     51974, -- Enumerated Shoulderpads
     51984, -- Stalwart Shoulderpads
     51992, -- Tumultuous Ring
@@ -33,9 +34,11 @@ AddonTable.loot = {
     51996, -- Tumultous Necklace (Satchel of Helpful Goods)
     57401, -- Jasperlode Chestguard (White Plate Chest)
 
+    65910, -- Godfrey's Britches
     65912, -- Robe of Kelris
     65913, -- Hann Ibal's Epaulets
     65922, -- Warpwood Leaf Mantle
+    65926, -- Coldbringer's Leggings
     65953, -- Dathrohan's Mace
     65961, -- Cobrahn's Boots
     65962, -- Thaelrid's Greaves
@@ -60,6 +63,8 @@ AddonTable.loot = {
     151454, -- Splinterbone Sabatons
 
     157643, -- Helm-Hewer Greataxe (Starter Gear)
+    157682, -- Spellsculptor's Sandals
+    157683, -- Spellsculptor's Handwraps
     157686, -- Spellsculptor's Robe
     157688, -- Spellsculptor's Cord
     157699, -- Lightsoul Sabatons
