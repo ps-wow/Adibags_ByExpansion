@@ -12,6 +12,8 @@
     <Script file="professions\gathering\mining.lua"/>
     <Script file="professions\gathering\skinning.lua"/>
 
+    <Script file="dungeons\botanica.lua"/>
+
     <Script file="raids\bt.lua"/>
     <Script file="raids\eye.lua"/>
     <Script file="raids\gl.lua"/>

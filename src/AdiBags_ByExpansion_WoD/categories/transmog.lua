@@ -2,7 +2,10 @@ local AddonName, AddonTable = ...
 
 AddonTable.transmog = {
     -- Green
+    106410, -- Lunarglow Leggings
     106426, -- Rimeplate Helm
+    106502, -- Steamscar Hood
+    106520, -- Highland Spaulders
     106699, -- Sabermaw Gloves
     106702, -- Sabermaw Shoulders
     106705, -- Voidwrap Cowl

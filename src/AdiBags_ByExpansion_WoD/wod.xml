@@ -1,5 +1,6 @@
 <Ui xsi:schemaLocation="http://www.blizzard.com/wow/ui/ ..\FrameXML\UI.xsd">
 
+    <Script file="categories\consumable.lua"/>
     <Script file="categories\junk.lua"/>
     <Script file="categories\loot.lua"/>
     <Script file="categories\trade.lua"/>
@@ -15,7 +16,10 @@
     <Script file="professions\gathering\mining.lua"/>
     <Script file="professions\gathering\skinning.lua"/>
 
+    <Script file="dungeons\auchindoun.lua"/>
+
     <Script file="raids\brf.lua"/>
+    <Script file="raids\hfc.lua"/>
     <Script file="raids\hm.lua"/>
 
     <Script file="main.lua"/>

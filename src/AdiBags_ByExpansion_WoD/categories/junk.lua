@@ -39,25 +39,37 @@ AddonTable.junk = {
     107532, -- Intact Vocal Sac
     107603, -- Eroded Tusk
     107604, -- Pristine Ivory Tusk
+    107650, -- Shadowmoon Offering
 
+    108977, -- Tangled Vines
     108978, -- Congealed Telestic Ooze
     108979, -- Bleached Bones
     108980, -- Crushed Bone Fragments
 
     111484, -- Cold Tusk
 
+    112463, -- Battered Armor Fragments
+
     113530, -- Scaly Skin
 
+    114003, -- Tazik Hand Attachment
     114004, -- Medal of Patience
     114012, -- Underground Map
 
+    116128, -- Tiny Naaru Statue
     116923, -- Goop Globules
     116924, -- Humerus Bone
 
+    118227, -- Glossy Brochure
+    118233, -- Enormous Nagrand Pearl
+    118234, -- Smoldering Offerings
     118678, -- Ceremonial Warsong Spear
+    118715, -- Cracked Femur
     118898, -- Rusted Canary Cage
     118899, -- Crumbled Gem Shards
     118902, -- Weathered Mining Journal
+
+    112684, -- Damaged Weaponry
 }
 
 AddonTable.soulbound = {

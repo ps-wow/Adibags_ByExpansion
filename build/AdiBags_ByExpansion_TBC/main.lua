@@ -9,6 +9,9 @@ local module = {
     ["namespace"] = "TBC",
     ["prefix"] = "02. TBC - ",
     ["description"] = "The Burning Crusade",
+    ["dungeons"] = {
+        ["botanica"] = "The Botanica"
+    },
     ["raids"] = {
         ["bt"] = "Black Temple",
         ["eye"] = "The Eye",

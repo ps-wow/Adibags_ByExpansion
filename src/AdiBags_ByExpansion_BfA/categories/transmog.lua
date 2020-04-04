@@ -16,6 +16,8 @@ AddonTable.transmog = {
     154829, -- Zala'mar Legguards
     154834, -- Bloodhex Grips
     154837, -- Bloodhex Anklewraps
+    154847, -- Corlain Vambraces
+    154864, -- Barrowknoll Pauldrons
 
     159158, -- Ashvane Company Chestplate
     159166, -- Foxhollow Drape

@@ -3,23 +3,35 @@ local AddonName, AddonTable = ...
 AddonTable.loot = {
     121106, -- Hagfeather Leggings
 
+    129172, -- Band of Demonic Guile
+
+    132963, -- Young Drake's Impulse
+
     133620, -- Amice of the Enlightened
 
     134179, -- Skoldiir Breastplate
+    134530, -- Loop of Vitriolic Intent
 
     137329, -- Figurehead of the Naglfar
+    137352, -- Tunic of Smoldering Ire
     137497, -- Footpads of the Swift Balestra
 
+    139089, -- Night Dreamer Robe
     139897, -- Cloak of the White Prowler
     139926, -- Subject 12's ID Bracelets
+
+    141628, -- Soul-Stealer's Leggings
 
     144485, -- Mo'arg Heavyweight's Wristwraps
     144488, -- Feaster Hide Gloves
 
     151311, -- Band of the Triumvirate
 
+    157597, -- Troggstitched Drape
+
     -- Dauntless
     147255, -- Galvanized Stormscale Belt
+    147276, -- Spellbinder's Seal
 
     -- Unsullied
     152744, -- Unsullied Mail Girdle (BoA)

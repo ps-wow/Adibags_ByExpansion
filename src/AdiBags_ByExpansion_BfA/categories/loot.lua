@@ -179,8 +179,6 @@ AddonTable.loot = {
     159163, -- Ashvane Company Spaulders
     159185, -- Foxhollow Handwraps
     159480, -- Bleached Bone Handaxe
-    --159525, Transmog
-    --159528, Transmog
     159543, -- Loa-Blessed Maul
     159548, -- Golden Fleet Mace
     159556, -- Loa-Blessed Greathammer
@@ -189,7 +187,8 @@ AddonTable.loot = {
     159763, -- Idol of Vol'jamba
     159764, -- Enraged Diemetradon Fin
     159820, -- Ironcrest Lantern [Off-Hand]
-    159908, -- Robes of the Champion
+    159904, -- Robes of the Champion [A]
+    159908, -- Robes of the Champion [H]
     159977, -- Vindictive Golem Core
     159978, -- Juni's Egg Timer
     159979, -- Rorgog's Antenna

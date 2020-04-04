@@ -11,6 +11,8 @@
     <Script file="professions\gathering\mining.lua"/>
     <Script file="professions\gathering\skinning.lua"/>
 
+    <Script file="dungeons\mogushan.lua"/>
+
     <Script file="raids\soo.lua"/>
     <Script file="raids\tot.lua"/>
 

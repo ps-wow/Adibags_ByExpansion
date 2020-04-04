@@ -7,6 +7,7 @@ AddonTable.junk = {
     81194, -- Sharp Fangs
     81197, -- Enormous Tooth
 
+    82328, -- Shiny Carapace
     82333, -- Wool of Bat
     82339, -- Thick Skull
 
@@ -20,6 +21,7 @@ AddonTable.junk = {
     90760, -- Scruffy Cloth Gloves
     90763, -- Shabby Bracers
     90767, -- Scruffy Cloth Shoulderpads
+    90779, -- Moist Mail Shoulderpads
     90782, -- Slipshod Plate Bracers
 
     90805, -- Robble's Stabilized Staff

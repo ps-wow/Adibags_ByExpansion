@@ -9,6 +9,9 @@ local module = {
     ["namespace"] = "MoP",
     ["prefix"] = "05. MoP - ",
     ["description"] = "Mists of Pandaria",
+    ["dungeons"] = {
+        ["mogushan"] = "Mogu'shan Palace",
+    },
     ["raids"] = {
         ["soo"] = "Siege of Orgrimmar",
     }

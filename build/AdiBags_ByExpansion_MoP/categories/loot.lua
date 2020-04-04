@@ -6,10 +6,8 @@ AddonTable.loot = {
     -- Uncommon (Green)
     82283,
     83738,
-
-    -- Rare (Blue)
     87624,
     87626,
-
+    90350,
     -- BoE (Non-Appearence)
 }

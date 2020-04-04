@@ -7,7 +7,15 @@ AddonTable.loot = {
     106149, -- Frostwolf Stalwart Girdle
     106152, -- Frostwolf Stalwart Shoulders
     106154, -- Frostwolf Stalwart Warboots
+    108957, -- Venomshade Skin Boots
+    109970, -- Hood of Arcane Mystery
+    109973, -- Lightbinder Cover
 
+    112440, -- Slavebreaker Robes
+    112664, -- Voidgazer Cap
+    112670, -- Quarrier's Mantle
+    113762, -- Smoldercloth Robe
+    113767, -- Blossoming Mantle
     116765, -- Positive Pantaloons
     116795, -- Greatfeather's Down Robe
     116796, -- Malroc's Staff of Command
