@@ -16,9 +16,26 @@ local module = {
         ["bwl"] = "Blackwing Lair"
     },
     ["dungeons"] = {
+        ["bfd"] = "Blackfathom Deeps",
+        ["brd"] = "Blackrock Depths",
         ["deadmines"] = "The Deadmines",
+        ["diremaul"] = "Dire Maul",
+        ["gnomeregan"] = "Gnomeregan",
+        ["lbrs"] = "Lower Blackrock Spire",
+        ["maraudon"] = "Maraudon",
+        ["rfc"] = "Ragefire Chasm",
+        ["rfd"] = "Razorfen Downs",
+        ["rfk"] = "Razorfen Kraul",
+        ["scholo"] = "Scholomance",
+        ["sfk"] = "Shadowfang Keep",
+        ["sh"] = "Scarlet Halls",
+        ["sm"] = "Scalet Monestary",
+        ["st"] = "The Temple of Atal'hakkar", -- AKA Sunken Temple
         ["stockade"] = "The Stockade",
-        ["wailingcaverns"] = "Wailing Caverns"
+        ["stratholme"] = "Stratholme",
+        ["uldaman"] = "Uldaman",
+        ["wailingcaverns"] = "Wailing Caverns",
+        ["zf"] = "Zul'Farrak",
     }
 }
 
