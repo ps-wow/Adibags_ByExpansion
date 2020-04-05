@@ -48,7 +48,7 @@ class Utility
             foreach ($files as $file) {
                 $data = file_get_contents($file);
 
-                $search = "/([0-9]{0,7},)( -- .+)/";
+                $search = "/([0-9]{0,7},)([ ]+-- .+)/";
                 $replace = '$1';
 
                 $data = preg_replace(
