@@ -256,6 +256,10 @@ function Core:LoadCategories(table, module)
         Core:AddCategoryItems(table.foodDrink, "Consumable", module)
     end
 
+    if table.consumable ~= nil then
+        Core:AddCategoryItems(table.consumable, "Consumable", module)
+    end
+
     if table.alcohol ~= nil then
         Core:AddCategoryItems(table.alcohol, "Consumable", module)
     end
