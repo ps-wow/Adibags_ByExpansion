@@ -48,7 +48,6 @@ AddonTable.loot = {
     65912, -- Robe of Kelris
     65913, -- Hann Ibal's Epaulets
     65922, -- Warpwood Leaf Mantle
-    65926, -- Coldbringer's Leggings
     65953, -- Dathrohan's Mace
     65961, -- Cobrahn's Boots
     65962, -- Thaelrid's Greaves
