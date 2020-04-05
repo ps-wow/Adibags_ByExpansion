@@ -2,6 +2,7 @@
 
     <Script file="categories\consumable.lua"/>
     <Script file="categories\junk.lua"/>
+    <Script file="categories\loot.lua"/>
     <Script file="categories\trade.lua"/>
     <Script file="categories\transmog.lua"/>
 
@@ -20,9 +21,25 @@
 
     <Script file="professions\secondary\cooking.lua"/>
 
+    <Script file="dungeons\bfd.lua"/>
+    <Script file="dungeons\brd.lua"/>
     <Script file="dungeons\deadmines.lua"/>
+    <Script file="dungeons\diremaul.lua"/>
+    <Script file="dungeons\gnomeregan.lua"/>
+    <Script file="dungeons\lbrs.lua"/>
+    <Script file="dungeons\maraudon.lua"/>
+    <Script file="dungeons\rfc.lua"/>
+    <Script file="dungeons\rfd.lua"/>
+    <Script file="dungeons\rfk.lua"/>
+    <Script file="dungeons\scholo.lua"/>
+    <Script file="dungeons\sfk.lua"/>
+    <Script file="dungeons\sh.lua"/>
+    <Script file="dungeons\sm.lua"/>
+    <Script file="dungeons\st.lua"/>
     <Script file="dungeons\stockade.lua"/>
+    <Script file="dungeons\stratholme.lua"/>
     <Script file="dungeons\wailingcaverns.lua"/>
+    <Script file="dungeons\zf.lua"/>
 
     <Script file="raids\aq20.lua"/>
     <Script file="raids\aq40.lua"/>

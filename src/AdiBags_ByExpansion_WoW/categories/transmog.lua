@@ -12,6 +12,7 @@ AddonTable.transmog = {
     4733,  -- Blackforge Pauldrons
 
     6386,  -- Glimmering Mail Legguards
+    6570, -- Shimmering Sash
     6584,  -- Scouting Tunic
     6595,  -- Battleforge Gauntlets [Mail][Hands]
 

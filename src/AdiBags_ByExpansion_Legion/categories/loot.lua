@@ -16,11 +16,13 @@ AddonTable.loot = {
     123959, -- Demon Trophy
     123960, -- Charm of Demonic Fire
 
+    128956, -- Fel-Etched Glaive
     128958, -- Leko's Leash
 
     129104, -- Brand of the Banshee Queen
     129172, -- Band of Demonic Guile
 
+    132243, -- Fel-Etched Glaive
     132963, -- Young Drake's Impulse
 
     133310, -- The Brood Queen's Veil

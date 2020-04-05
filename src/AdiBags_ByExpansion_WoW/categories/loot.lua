@@ -13,6 +13,7 @@ AddonTable.loot = {
 
     9470, -- Bad Mojo Mask
     9743, -- Simple Shoes
+    9797, -- Ivycloth Pants
 
     10775, -- Carapace of Tuten'kash
 
@@ -22,6 +23,8 @@ AddonTable.loot = {
 
     13384, -- Rainbow Girdle
 
+    14168, -- Buccaneer's Gloves
+
     14951, -- Bloodforged Sabatons
 
     17943, -- Fist of Stone
@@ -30,6 +33,7 @@ AddonTable.loot = {
     18380, -- Eldritch Reinforced Legplates
 
     51967, -- Enumerated Sandals
+    51968, -- Enumerated Wrap
     51970, -- Enumerated Gloves
     51973, -- Enumerated Handwraps
     51974, -- Enumerated Shoulderpads
@@ -40,6 +44,7 @@ AddonTable.loot = {
     57401, -- Jasperlode Chestguard (White Plate Chest)
 
     65910, -- Godfrey's Britches
+    65911, -- Anacondra's Robe
     65912, -- Robe of Kelris
     65913, -- Hann Ibal's Epaulets
     65922, -- Warpwood Leaf Mantle
@@ -53,6 +58,8 @@ AddonTable.loot = {
     65996, -- Belt of Tyrannic Rule
     66003, -- Pythas' Vest
 
+    82878, -- Fireworm Robes
+    82882, -- Dark Ritual Cape
     82885, -- Flameseared Carapace
     82891, -- Robes of the Doomed Ritual
     82895, -- Searing Belt
@@ -62,6 +69,7 @@ AddonTable.loot = {
     143582, -- Stalwart Belt
     143583, -- Stalwart Grips
 
+    151067, -- Boots of Lingering Sorrow
     151430, -- Hematite Tortoise Pendant
     151437, -- Hook Charm Necklace
     151453, -- Grungy Necromantic Ring
@@ -78,6 +86,12 @@ AddonTable.loot = {
     157699, -- Lightsoul Sabatons
     157704, -- Lightsoul Girdle
     157705, -- Lightsoul Vambraces
+    157730, -- Felburner's Sandals (Starter Gear)
+    157731, -- Felburner's Handwraps (Starter Gear)
+    157733, -- Felburner's Leggings (Starter Gear)
+    157734, -- Felburner's Robe (Starter Gear)
+    157736, -- Felburner's Cord (Starter Gear)
+    157737, -- Felburner's Wristwraps (Starter Gear)
     157738, -- Warsinger's Breastplate (Starter Gear)
     157742, -- Warsinger's Legplates (Starter Gear)
 
