@@ -10,4 +10,6 @@ $util = new Utility($config);
 $util->copyModules();
 $util->minify($folderScan);
 
+echo("Build complete");
+
 exit(0);
