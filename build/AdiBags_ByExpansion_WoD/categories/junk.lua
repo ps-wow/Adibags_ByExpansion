@@ -1,7 +1,7 @@
 local AddonName, AddonTable = ...
 
 AddonTable.junk = {
-    56046,  -- Shattered Rock Fragments
+    56046,
 
     83156,
 

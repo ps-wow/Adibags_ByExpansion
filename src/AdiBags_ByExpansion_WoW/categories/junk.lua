@@ -54,5 +54,8 @@ AddonTable.junk = {
     22527, -- Core of Elements
     22528, -- Dark Iron Scraps
 
+    55978, -- Inert Elemental Flake
+    55984, -- Inert Elemental Shard
+
     56035, -- Colorful Rock
 }

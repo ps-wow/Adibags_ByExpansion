@@ -74,11 +74,11 @@ AddonTable.soo = {
     112503,
 
     -- Sha of Pride
-    99715,  -- Chest of the Cursed Conqueror (M)
-    99716,  -- Chest of the Cursed Protector (M)
-    99743,  -- Chest of the Cursed Conqueror
-    99744,  -- Chest of the Cursed Protector
-    99742,  -- Chest of the Curses Vanquisher
+    99715,
+    99716,
+    99743,
+    99744,
+    99742,
     104162,
     104163,
     112951,

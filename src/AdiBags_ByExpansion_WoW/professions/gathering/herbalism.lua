@@ -7,6 +7,7 @@ AddonTable.herbalism = {
     2449,  -- Earthroot
     2450,  -- Briarthorn
     2453,  -- Bruiseweed
+    3355,  -- Wild Steelbloom
     3356,  -- Kingsblood
     3357,  -- Liferoot
     3358,  -- Khadgar's Whisker

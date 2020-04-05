@@ -2,25 +2,25 @@ local AddonName, AddonTable = ...
 
 AddonTable.transmog = {
     -- Uncommon (Green)
-    866,   -- Monk's Staff
+    866,
 
-    3184,  -- Hook Dagger
-    3193,  -- Oak Mallet
+    3184,
+    3193,
 
-    4567,  -- Merc Sword
-    4576,  -- Light Bow
-    4733,  -- Blackforge Pauldrons
+    4567,
+    4576,
+    4733,
 
-    6386,  -- Glimmering Mail Legguards
+    6386,
     6570,
-    6584,  -- Scouting Tunic
-    6595,  -- Battleforge Gauntlets [Mail][Hands]
+    6584,
+    6595,
 
-    8111,  -- Hibernal Mantle
+    8111,
 
-    9791,  -- Ivycloth Tunic
-    9804,  -- Superior Buckler
-    9852,  -- Conjurer's Robe
+    9791,
+    9804,
+    9852,
 
     10140,
     10217,

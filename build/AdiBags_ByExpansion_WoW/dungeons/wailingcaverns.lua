@@ -2,43 +2,43 @@ local AddonName, AddonTable = ...
 
 AddonTable.wailingcaverns = {
     -- Lady Anacondra
-    6446,   -- Snakeskin Bag
+    6446,
     151427,
     132737,
-    5404,   -- Serpent's Shoulders
+    5404,
     151426,
-    10412,  -- Belt of the Fang
+    10412,
     132740,
     -- Lord Pythas
-    6472,   -- Stinging Viper
+    6472,
     151429,
-    6473,   -- Armor of the Fang
+    6473,
     132739,
     151428,
     -- Lord Cobrahn
-    6465,   -- Robe of the Moccasin
-    6460,   -- Cobrahn's Grasp
-    10410,  -- Leggings of the Fang
+    6465,
+    6460,
+    10410,
     132742,
     -- Kresh
-    13245,  -- Kresh's Back
-    6447,   -- Worn Turtle Shell Shield
+    13245,
+    6447,
     141430,
     -- Skum
-    6448,   -- Tail Spike
-    6449,   -- Glowing Lizardscale Cloak
+    6448,
+    6449,
     -- Lord Serpentis
-    6469,   -- Venomstrike
-    5970,   -- Serpent Gloves
-    10411,  -- Footpads of the Fang
-    6459,   -- Savage Trodders
+    6469,
+    5970,
+    10411,
+    6459,
     132741,
     -- Verdan the Everling
-    6631,   -- Living Root
-    6630,   -- Seedcloud Buckler
-    6629,   -- Sporid Cape
+    6631,
+    6630,
+    6629,
     -- Mutanus the Devourer
-    6461,   -- Slime-Encrusted Pads
-    6627,   -- Mutant Breastplate
-    6463,   -- Deep Fathom Ring
+    6461,
+    6627,
+    6463,
 }

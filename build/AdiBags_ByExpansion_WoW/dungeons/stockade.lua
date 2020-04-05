@@ -2,21 +2,27 @@ local AddonName, AddonTable = ...
 
 AddonTable.stockade = {
     -- Hogger
-    1959,   -- Cold Iron Pick
+    1959,
     151074,
-    1934,   -- Hogger's Trousers
+    1934,
     132569,
-    2168,   -- Corpse Rompers
+    2168,
     -- Lord Overheat
     151075,
     151076,
-    4676,   -- Skeletal Gauntlets
-    5967,   -- Girdle of Nobility
-    1929,   -- Silk-Threadeed Trousers
+    4676,
+    5967,
+    1929,
     -- Randolph Moloch
-    63346,  -- Wicked Dagger
-    63345,  -- Noble's Robe
+    63346,
+    63345,
     151077,
-    63344,  -- Standard Issue Prisoner Shoes
+    63344,
     132570,
+    -- Quest Rewards (The Gnoll King [A] / Grant Me Revenge [H])
+    65941,
+    65989,
+    65915,
+    65965,
+    131683,
 }

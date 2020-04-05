@@ -1,7 +1,7 @@
 local AddonName, AddonTable = ...
 
 AddonTable.loot = {
-    3914,  -- Journeyman's Backpack
+    3914,
 
     36173,
     36385,

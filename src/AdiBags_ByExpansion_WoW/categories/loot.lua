@@ -42,8 +42,8 @@ AddonTable.loot = {
     51994, -- Tumultuous Cloak
     51996, -- Tumultous Necklace (Satchel of Helpful Goods)
     57401, -- Jasperlode Chestguard (White Plate Chest)
+    58907, -- Crime Scene Tape [Quest: Westfall]
 
-    65910, -- Godfrey's Britches
     65911, -- Anacondra's Robe
     65912, -- Robe of Kelris
     65913, -- Hann Ibal's Epaulets
@@ -78,6 +78,7 @@ AddonTable.loot = {
 
     157643, -- Helm-Hewer Greataxe (Starter Gear)
     157651, -- Staff of Elemental Shaping
+    157652, -- Shadow-Binder's Spire
     157682, -- Spellsculptor's Sandals
     157683, -- Spellsculptor's Handwraps
     157685, -- Spellsculptor's Leggings
