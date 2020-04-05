@@ -26,6 +26,7 @@
     <Script file="dungeons\freehold.lua"/>
     <Script file="dungeons\kingsrest.lua"/>
     <Script file="dungeons\motherlode.lua"/>
+    <Script file="dungeons\mechagon.lua"/>
     <Script file="dungeons\sethraliss.lua"/>
     <Script file="dungeons\shrine.lua"/>
     <Script file="dungeons\toldagor.lua"/>

@@ -21,6 +21,11 @@ AddonTable.consumable = {
     127850, -- Flask of Ten Thousand Scars
     -- Augments
     140587, -- Defiled Augment Rune
+    -- Misc
+    -- DH Starting
+    129196, -- Legion Healthstone
+    129192, -- Inquisitor's Menacing Eye
+    129210, -- Fel Crystal Fragments
 }
 
 AddonTable.foodDrink = {

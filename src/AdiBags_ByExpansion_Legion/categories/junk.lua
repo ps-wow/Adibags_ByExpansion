@@ -5,6 +5,12 @@ AddonTable.junk = {
     121368, -- Sunbleached Shirt
     121372, -- Sunbleached Sandals
 
+    130264, -- Fel-Stained Claw
+    130265, -- Sharpened Canine
+    130267, -- Extinguished Demon Stone
+    130268, -- Bone Toothpick
+    130317, -- Fractured Trophy
+
     131795, -- Nar'thalasian Corsage
 
     132183, -- Razor Tooth

@@ -1,15 +1,38 @@
 local AddonName, AddonTable = ...
 
 AddonTable.loot = {
+    112450, -- Illidari Blindfold
+    112451, -- Illidari Leggings
+    112454, -- Illidari Robe
+    112455, -- Illidari Gloves
+    112456, -- Illidari Shoulders
+    112457, -- Illidari Boots
+    112459, -- Illidari Ring
+    112460, -- Illidari Band
+    112462, -- Illidari Drape
+
     121106, -- Hagfeather Leggings
 
+    123959, -- Demon Trophy
+    123960, -- Charm of Demonic Fire
+
+    128958, -- Leko's Leash
+
+    129104, -- Brand of the Banshee Queen
     129172, -- Band of Demonic Guile
 
     132963, -- Young Drake's Impulse
 
+    133310, -- The Brood Queen's Veil
+    133311, -- Demon-Rend Shoulderblades
+    133312, -- Torment Ender's Chestguard
+    133315, -- Infernal Firecord Sash
+    133316, -- Leggings of Sacrifice
     133620, -- Amice of the Enlightened
 
     134179, -- Skoldiir Breastplate
+    134245, -- Nazjatar Manapearl Ring
+    134291, -- Nightborne's Hunting Horn
     134530, -- Loop of Vitriolic Intent
 
     137329, -- Figurehead of the Naglfar
@@ -21,6 +44,7 @@ AddonTable.loot = {
     139926, -- Subject 12's ID Bracelets
 
     141628, -- Soul-Stealer's Leggings
+    141650, -- Helm of Reaffirmed Purpose
 
     144485, -- Mo'arg Heavyweight's Wristwraps
     144488, -- Feaster Hide Gloves

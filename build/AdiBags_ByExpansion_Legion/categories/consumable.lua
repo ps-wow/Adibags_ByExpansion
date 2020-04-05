@@ -21,6 +21,11 @@ AddonTable.consumable = {
     127850,
     -- Augments
     140587,
+    -- Misc
+    -- DH Starting
+    129196,
+    129192,
+    129210,
 }
 
 AddonTable.foodDrink = {

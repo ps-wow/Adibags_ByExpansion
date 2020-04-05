@@ -21,6 +21,7 @@ local module = {
         ["boralus"] = "Siege of Boralus",
         ["freehold"] = "Freehold",
         ["kingsrest"] = "King's Rest",
+        ["mechagon"] = "Operation: Mechagon",
         ["motherlode"] = "The MOTHERLODE",
         ["sethraliss"] = "Temple of Sethraliss",
         ["shrine"] = "Shrine of the Storm",

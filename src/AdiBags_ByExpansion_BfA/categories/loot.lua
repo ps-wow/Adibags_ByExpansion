@@ -254,6 +254,8 @@ AddonTable.loot = {
     161446, -- Blistering Seawater Seal
     161766, -- Dread Gladiator's Silk Sash
 
+    162831, -- Ambuscade Tunic
+    162835, -- Ambuscade Breeches
     162876, -- Dread Aspirant's Wand
     162938, -- Dread Aspirant's Silk Treads
     162943, -- Dread Aspirant's Silk Gloves
