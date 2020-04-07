@@ -12,7 +12,25 @@
     <Script file="professions\gathering\mining.lua"/>
     <Script file="professions\gathering\skinning.lua"/>
 
+    <Script file="professions\secondary\archaeology.lua"/>
+    <Script file="professions\secondary\cooking.lua"/>
+
+    <Script file="dungeons\arcatraz.lua"/>
+    <Script file="dungeons\bloodfurnace.lua"/>
     <Script file="dungeons\botanica.lua"/>
+    <Script file="dungeons\crypts.lua"/>
+    <Script file="dungeons\hillsbrad.lua"/>
+    <Script file="dungeons\magisters.lua"/>
+    <Script file="dungeons\manatombs.lua"/>
+    <Script file="dungeons\mechanar.lua"/>
+    <Script file="dungeons\morass.lua"/>
+    <Script file="dungeons\ramparts.lua"/>
+    <Script file="dungeons\sethekk.lua"/>
+    <Script file="dungeons\shadowlab.lua"/>
+    <Script file="dungeons\shatteredhalls.lua"/>
+    <Script file="dungeons\slavepens.lua"/>
+    <Script file="dungeons\steamvault.lua"/>
+    <Script file="dungeons\underbog.lua"/>
 
     <Script file="raids\bt.lua"/>
     <Script file="raids\eye.lua"/>

@@ -14,6 +14,7 @@ AddonTable.junk = {
 
     3180, -- Flecked Raptor Scale
     3181, -- Partially Digested Meat
+    3299, -- Fractured Canine
     3301, -- Sharp Canine
     3401, -- Rough Crocolisk Scale
     3402, -- Soft Patch of Fur
@@ -49,6 +50,7 @@ AddonTable.junk = {
     7098, -- Splintered Tusk
     7100, -- Sticky Ichor
 
+    8146, -- Wicked Claw
     8151, -- Flask of Mojo
     8152, -- Flask of Big Mojo
     8748, -- Double Mail Coif
@@ -63,6 +65,7 @@ AddonTable.junk = {
     13825, -- Primed Musket
 
     17057, -- Shiny Fish Scales
+    17058, -- Fish Oil
     18285, -- Crystallized Mana Shard
     18286, -- Condensed Mana Fragment
 

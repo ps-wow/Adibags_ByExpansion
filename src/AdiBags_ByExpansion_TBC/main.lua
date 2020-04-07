@@ -10,7 +10,10 @@ local module = {
     ["prefix"] = "02. TBC - ",
     ["description"] = "The Burning Crusade",
     ["dungeons"] = {
-        ["botanica"] = "The Botanica"
+        ["arcatraz"] = "The Arcatraz",
+        ["botanica"] = "The Botanica",
+        ["mt"] = "Magister's Terrace",
+        ["ramparts"] = "Hellfire Ramparts"
     },
     ["raids"] = {
         ["bt"] = "Black Temple",

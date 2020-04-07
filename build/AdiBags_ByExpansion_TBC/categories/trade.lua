@@ -8,4 +8,6 @@ AddonTable.trade = {
     22578,
     22457,
     21882,
+    -- Clams
+    24476,
 }

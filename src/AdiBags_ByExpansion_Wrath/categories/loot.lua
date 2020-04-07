@@ -15,4 +15,21 @@ AddonTable.loot = {
     44408, -- Cowl of the Vindictive Captain
 
     113684, -- Icecrust Cloak
+
+    -- Death Knight Starter Gear
+    38661,  -- Greathelm of the Scourge Champion
+    38662,  -- Bladed Ebon Amulet
+    38663,  -- Blood-Soaked Saronite Spaulders
+    38664,  -- Sky Darkener's Shroud
+    38665,  -- Saronite War Plate
+    38666,  -- Plated Saronite Bracers
+    38667,  -- Bloodbane's Gauntlets of Command
+    38668,  -- The Plaguebringer's Girdle
+    38669,  -- Engraved Saronite Legplates
+    38670,  -- Greaves of the Slaughter
+    38671,  -- Valanar's Signet Ring
+    38672,  -- Kaleseth's Signet Ring
+    38674,  -- Soul Harvester's Charm
+    38675,  -- Signet of the Dark Brotherhood
+    174487, -- Unholy Greatsword
 }
