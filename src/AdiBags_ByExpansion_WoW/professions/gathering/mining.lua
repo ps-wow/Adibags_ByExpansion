@@ -41,6 +41,7 @@ AddonTable.mining = {
     7909,  -- Aquamarine
     7910,  -- Star Ruby
     7971,  -- Black Pearl
+    11754, -- Black Diamond
     12361, -- Blue Sapphire
     12363, -- Arcane Crystal
     12364, -- Huge Emerald

@@ -21,6 +21,7 @@ AddonTable.transmog = {
     7456,  -- Knight's Headguard
 
     8111,  -- Hibernal Mantle
+    8287,  -- Arcane Gloves
 
     9778,  -- Bandit Buckler
     9791,  -- Ivycloth Tunic
@@ -29,6 +30,7 @@ AddonTable.transmog = {
 
     10083, -- Lord's Crown
     10140, -- High Councillor's Gloves [Cloth][Hands]
+    10185, -- Swashbuckler's Cape
     10217, -- Elegant Leggings [Cloth][Legs]
     10246, -- Master's Vest [Cloth][Chest]
     10250, -- Master's Hat [Cloth][Head]

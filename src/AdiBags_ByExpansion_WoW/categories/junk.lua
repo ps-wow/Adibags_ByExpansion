@@ -35,6 +35,7 @@ AddonTable.junk = {
     4555, -- Thick Scaly Tail
     4557, -- Fiery Gland
     4784, -- Lifeless Stone
+    4787, -- Burning Pitch
     4865, -- Ruined Pelt
 
     5124, -- Small Raptor Tooth
@@ -59,6 +60,7 @@ AddonTable.junk = {
     11391, -- Spined Bat Wing
     11392, -- Severed Bat Claw
     11393, -- Small Bat Skull
+    13825, -- Primed Musket
 
     17057, -- Shiny Fish Scales
     18285, -- Crystallized Mana Shard

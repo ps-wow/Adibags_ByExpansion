@@ -2,8 +2,10 @@ local AddonName, AddonTable = ...
 
 AddonTable.trade = {
     -- General
+    3857,
     7075,
     7076,
+    7077,
     7078,
     7080,
     7082,
@@ -13,7 +15,8 @@ AddonTable.trade = {
     12808,
     17010,
     17011,
-    18567,
     17963,
     17964,
+    18567,
+    18945,
 }

@@ -10,5 +10,6 @@ AddonTable.cooking = {
     5503,  -- Clam Meat
     5504,  -- Tangy Clam Meat
 
+    12203, -- Red Wolf Meat
     12205, -- White Spider Meat
 }
