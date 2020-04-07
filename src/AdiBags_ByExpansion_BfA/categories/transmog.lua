@@ -17,18 +17,28 @@ AddonTable.transmog = {
     154834, -- Bloodhex Grips
     154837, -- Bloodhex Anklewraps
     154847, -- Corlain Vambraces
+    154850, -- Crimsonwood Boots
     154864, -- Barrowknoll Pauldrons
 
     159158, -- Ashvane Company Chestplate
     159166, -- Foxhollow Drape
     159168, -- Freehold Boots
     159171, -- Freehold Cowl
+    159173, -- Freehold Shoulderpads
     159174, -- Freehold Belt
     159188, -- Foxhollow Sandals
+    159191, -- Brineworks Breastplate
     159192, -- Brineworks Gauntlets
+    159193, -- Brineworks Girdle
     159206, -- Briarback Shoulderpads
+    159212, -- Eventide Coif
     159214, -- Eventide Pauldrons
+    159217, -- Sagehold Circlet
+    159222, -- Sagehold Mantle
     159229, -- Mistfall Greatcloak
+    159260, -- Briarback Greatcloak
+    159265, -- Brineworks Drape
+    159280, -- Crimsonwood Drape
     159284, -- Corlain Cape
     159474, -- Tideguard Handaxe
     159475, -- Shipwrecker Axe
@@ -45,8 +55,9 @@ AddonTable.transmog = {
     159491, -- Warport Short Bow
     159505, -- Zocali Warglaive
     159506, -- Loa-Blessed Crescent
-    159508, -- Bleached Bone Glaive
     159507, -- Zem'lan Warglaive
+    159508, -- Bleached Bone Glaive
+    159509, -- Gnarlwood Spikes
     159514, -- Rivermarsh Claws
     159515, -- Warport Knuckles
     159516, -- Golden Fleet Fists
@@ -65,8 +76,12 @@ AddonTable.transmog = {
     159545, -- Bleached Bone Club
     159546, -- Rivermarsh Basher
     159547, -- Warport Clobberer
+    159551, -- Tideguard Maul
     159557, -- Zem'lan Headsmasher
     159558, -- Bleached Bone Skullcracker
+    159560, -- Dockyard Pike
+    159568, -- Wintersail Staff
+    159569, -- Wavecaller Spire
     159573, -- Bleached Bone Staff
     159576, -- Golden Fleet Warstaff
     159578, -- Loa-Blessed Stave
@@ -83,7 +98,9 @@ AddonTable.transmog = {
     159605, -- Ironcrest Baton
     159607, -- Rivermarsh Wand
     159609, -- Golden Fleet Wand
+    159799, -- Wintersail Bulwark
     159802, -- Deepwarden Redoubt
+    159803, -- Coldscale Shield
     159805, -- Coralshell Barrier
     159807, -- Zem'lan Buckler
     159808, -- Bleached Bone Shield
@@ -104,6 +121,7 @@ AddonTable.transmog = {
     160136, -- Golden City Signet
     160142, -- Ravascale Legguards
     160148, -- Saurifeather Pants
+    160150, -- Saurifeather Treads
     160151, -- Saurifeather Mantle
     160155, -- Stormforger Girdle
     160156, -- Stormforger Helm
@@ -124,7 +142,10 @@ AddonTable.transmog = {
 
     161944, -- Coarse Leather Waistguard
 
+    164342, -- Plundered Geode Gavel
     164446, -- Spiritbough Grasps
+    164447, -- Mrrglurggl Girdle
+    164469, -- Mrrglurggl Grips
     164522, -- Voodoo Stalker's Chestguard
     164550, -- Whirling Dervish Gloves
 

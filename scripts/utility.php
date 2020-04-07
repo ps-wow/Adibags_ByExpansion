@@ -23,6 +23,10 @@ class Utility
         return __DIR__ . $this->sep . '..' . $this->sep;
     }
 
+    /**
+     * Copy everything from src into build
+     * @return void
+     */
     public function copyModules() {
         $modules = $this->config->getModules();
 

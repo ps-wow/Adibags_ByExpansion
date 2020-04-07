@@ -11,6 +11,7 @@ local module = {
     ["description"] = "Mists of Pandaria",
     ["dungeons"] = {
         ["mogushan"] = "Mogu'shan Palace",
+        ["jadeserpent"] = "Temple of the Jade Serpent",
     },
     ["raids"] = {
         ["soo"] = "Siege of Orgrimmar",

@@ -29,15 +29,13 @@ AddonTable.loot = {
 
     17943, -- Fist of Stone
 
-    18302, -- Band of Vigor
-    18380, -- Eldritch Reinforced Legplates
-
     51967, -- Enumerated Sandals
     51968, -- Enumerated Wrap
     51970, -- Enumerated Gloves
     51973, -- Enumerated Handwraps
     51974, -- Enumerated Shoulderpads
     51984, -- Stalwart Shoulderpads
+    51990, -- Stalwart Treads
     51992, -- Tumultuous Ring
     51994, -- Tumultuous Cloak
     51996, -- Tumultous Necklace (Satchel of Helpful Goods)

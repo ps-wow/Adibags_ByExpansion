@@ -9,6 +9,8 @@ AddonTable.loot = {
 
     37505, -- Battle Leader's Breastplate
 
+    43180, -- Lion's Head Ring
+
     44404, -- Bauble-Woven Gloves
     44408, -- Cowl of the Vindictive Captain
 

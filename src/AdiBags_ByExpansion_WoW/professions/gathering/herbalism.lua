@@ -6,6 +6,7 @@ AddonTable.herbalism = {
     2447,  -- Peacebloom
     2449,  -- Earthroot
     2450,  -- Briarthorn
+    2452,  -- Swiftthistle
     2453,  -- Bruiseweed
     3355,  -- Wild Steelbloom
     3356,  -- Kingsblood

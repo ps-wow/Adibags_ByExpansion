@@ -14,6 +14,16 @@ AddonTable.loot = {
     154825, -- Zala'mar Vambraces
 
     155055, -- Soul-Curse Executioner
+    155095, -- Banisher Tunic
+    155168, -- Darkwater Tunic (Quest)
+    155172, -- Darkwater Boots
+    155180, -- Darkwater Hood
+    155184, -- Darkwater Breeches
+    155219, -- Zeth'jir Scaleguard Pillar
+    155221, -- Stormfused Spire
+    155229, -- Abyssal Beacon
+    155231, -- Purified Tideblood Band
+    155236, -- Stormwarden Seal
     155246, -- Jambani Grips
     155254, -- Rastari Legguards
     155257, -- Jambani Breeches
@@ -121,6 +131,7 @@ AddonTable.loot = {
     158030, -- Bleakweald Vambraces
     158034, -- Squallshaper Leggings
     158035, -- Squallshaper Mantle
+    158037, -- Squallshaper Cuffs
     158059, -- Shoalbreach Legguards
     158060, -- Shoalbreach Pauldrons
     158075, -- Heart of Azeroth
@@ -142,6 +153,11 @@ AddonTable.loot = {
     158387, -- Rastari Footguards
     158411, -- Jambani Girdle
     158423, -- Jambani Gloves
+    158679, -- Maokka's Carving
+    158680, -- Rikal's Ritual Beads
+    158681, -- Lightning Tether
+    158684, -- Salvage-Hunter's Torch
+    158688, -- Darkwater Treads
     158823, -- Etched Bone Ring of the Quickblade
     158944, -- Loa Speaker's Footwraps
     158946, -- Ritual Flayer's Footpads
@@ -218,11 +234,15 @@ AddonTable.loot = {
     160153, -- Stormforger Chestplate
     160154, -- Stormforger Gauntlets
     160185, -- Skycaller Mantle
+    160337, -- Darkwater Footpads
+    160345, -- Zeth'jir Seacaller Signet
     160447, -- Soul-Pillar Lantern
     160456, -- Blanched Ravenfeather Gloves
     160459, -- Apiarist's Stingproof Belt
     160474, -- Vicemaul Wristpinchers
     160529, -- Dune Shroud
+    160885, -- Fort Daelin Lantern
+    160888, -- Banisher Jerkin
     160907, -- Cowl of the Champion [A]
     160910, -- Greathelm of the Champion
     160911, -- Cowl of the Champion [H]
@@ -278,6 +298,7 @@ AddonTable.loot = {
     163669, -- Honorbound Outrider's Faceguard
     163671, -- Honorbound Outrider's Vestments
     163673, -- Honorbound Centurion's Pauldrons
+    163676, -- 7th Legionnaire's Raiment
     163703, -- Crawg Gnawed Femur
     163851, -- Venerated Golden Censer
     163862, -- Bartered Vrykul Hood
@@ -300,6 +321,9 @@ AddonTable.loot = {
     170140, -- Akana's Reefstrider Soles (Benethic)
     170516, -- Honorbound Artificer's Robes
     170521, -- 7th Legionnaire's Leather Mantle
+
+    173815, -- Girdle of the Insatiable Maw
+    173439, -- Footpads of the Insatiable Maw
 
     174954, -- Wristwraps of the Insatiable Maw
 }

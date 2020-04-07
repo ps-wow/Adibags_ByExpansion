@@ -3,6 +3,7 @@ local AddonName, AddonTable = ...
 AddonTable.junk = {
     81200, -- Vial of Swirling Mist
     81202, -- Inert Elemental Sphere
+    81203, -- Soft Down Feather
     81220, -- Liquid Shadow
     81194, -- Sharp Fangs
     81197, -- Enormous Tooth

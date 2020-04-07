@@ -38,6 +38,7 @@
     <Script file="dungeons\st.lua"/>
     <Script file="dungeons\stockade.lua"/>
     <Script file="dungeons\stratholme.lua"/>
+    <Script file="dungeons\uldaman.lua"/>
     <Script file="dungeons\wailingcaverns.lua"/>
     <Script file="dungeons\zf.lua"/>
 

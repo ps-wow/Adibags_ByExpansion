@@ -4,6 +4,8 @@ AddonTable.transmog = {
     -- Uncommon (Green)
     866,   -- Monk's Staff
 
+    1625,  -- Exquisite Flamberge
+
     3184,  -- Hook Dagger
     3193,  -- Oak Mallet
 
@@ -16,12 +18,16 @@ AddonTable.transmog = {
     6584,  -- Scouting Tunic
     6595,  -- Battleforge Gauntlets [Mail][Hands]
 
+    7456,  -- Knight's Headguard
+
     8111,  -- Hibernal Mantle
 
+    9778,  -- Bandit Buckler
     9791,  -- Ivycloth Tunic
     9804,  -- Superior Buckler
     9852,  -- Conjurer's Robe
 
+    10083, -- Lord's Crown
     10140, -- High Councillor's Gloves [Cloth][Hands]
     10217, -- Elegant Leggings [Cloth][Legs]
     10246, -- Master's Vest [Cloth][Chest]
@@ -32,10 +38,12 @@ AddonTable.transmog = {
 
     14124, -- Ritual Gloves
     14200, -- Thistlefur Cap
+    14431, -- Windchaser Handguards
     14559, -- Prospector's Sash [Leather][Waist]
     14562, -- Prospector's Chestpiece
 
     15241, -- Battle Knife
+    15287, -- Crusader Bow
     15374, -- Wolf Rider's Leggings
 
     -- Rare (Blue)
