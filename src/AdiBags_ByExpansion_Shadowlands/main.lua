@@ -10,7 +10,8 @@ local module = {
     ["prefix"] = "09. Shadowlands - ",
     ["description"] = "Shadowlands",
     ["dungeons"] = {
-        ["necroticwake"] = "Necrotic Wake"
+        ["necroticwake"] = "Necrotic Wake",
+        ["torghast"] = "Torghast"
     },
     ["raids"] = {}
 }
