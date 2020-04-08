@@ -12,5 +12,6 @@ ignore:
   - src # Ignore the source (src) folder
   - scripts # Ignore the tests folder
   - .gitignore
+  - .github
   - .travis.yml
   - README.md
