@@ -88,7 +88,6 @@ function Core:DefaultFilter(slotData, module, expFilter)
     for tableName, tableDescription in pairs(module.categories) do
 
         if expFilter.db.profile[tableName] then
-            -- DEFAULT_CHAT_FRAME:AddMessage(tableName .. ' is set') -- DEBUG
             --option for the table is enabled
             if expTable then
                 if expTable[tableName] then
