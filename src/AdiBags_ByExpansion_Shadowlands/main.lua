@@ -9,7 +9,9 @@ local module = {
     ["namespace"] = "Shadowlands",
     ["prefix"] = "09. Shadowlands - ",
     ["description"] = "Shadowlands",
-    ["dungeons"] = {},
+    ["dungeons"] = {
+        ["necroticwake"] = "Necrotic Wake"
+    },
     ["raids"] = {}
 }
 
