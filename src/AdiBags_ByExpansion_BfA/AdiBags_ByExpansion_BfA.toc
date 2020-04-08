@@ -1,4 +1,4 @@
-## Interface: 80300
+## Interface: 90000
 ## Title: AdiBags: ByExpansion |cff69ccf008. BfA|r
 ## Notes: Filter items from Battle for Azeroth
 ## Author: PrivateSniper

@@ -1,4 +1,4 @@
-## Interface: 80300
+## Interface: 90000
 ## Title: AdiBags: ByExpansion |cff69ccf006. WoD|r
 ## Notes: Filter items from World of Warcraft
 ## Author: PrivateSniper
