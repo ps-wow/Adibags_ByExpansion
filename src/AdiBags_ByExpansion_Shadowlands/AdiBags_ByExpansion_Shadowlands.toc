@@ -1,0 +1,8 @@
+## Interface: 90000
+## Title: AdiBags: ByExpansion |cff69ccf009. Shadowlands|r
+## Notes: Filter items from Shadowlands
+## Author: PrivateSniper
+## Version: 1.0.0
+## Dependencies: AdiBags, AdiBags_ByExpansion
+
+shadowlands.xml
