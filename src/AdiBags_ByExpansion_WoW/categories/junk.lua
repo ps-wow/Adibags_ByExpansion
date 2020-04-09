@@ -35,6 +35,7 @@ AddonTable.junk = {
     4460, -- Ripped Wing Webbing
     4555, -- Thick Scaly Tail
     4557, -- Fiery Gland
+    4585, -- Driping Spider Mandible
     4784, -- Lifeless Stone
     4787, -- Burning Pitch
     4865, -- Ruined Pelt
