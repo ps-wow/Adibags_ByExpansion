@@ -67,6 +67,7 @@ AddonTable.loot = {
     143583, -- Stalwart Grips
 
     151067, -- Boots of Lingering Sorrow
+    151418, -- Raider Aspirant's Helm
     151430, -- Hematite Tortoise Pendant
     151453, -- Grungy Necromantic Ring
     151454, -- Splinterbone Sabatons

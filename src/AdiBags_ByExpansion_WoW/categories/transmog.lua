@@ -36,6 +36,8 @@ AddonTable.transmog = {
     10250, -- Master's Hat [Cloth][Head]
     10255, -- Master's Belt
     10275, -- Emerald Breastplate [Plate][Chest]
+
+    10379, -- Commander's Helm
     10384, -- Hyperion Armor [Plate][Chest]
 
     14124, -- Ritual Gloves
