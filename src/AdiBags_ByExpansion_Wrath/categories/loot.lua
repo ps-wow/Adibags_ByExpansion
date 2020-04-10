@@ -16,6 +16,8 @@ AddonTable.loot = {
 
     113684, -- Icecrust Cloak
 
+    112346, -- Ice-Encrusted Plate Headguard
+
     -- Death Knight Starter Gear
     38661,  -- Greathelm of the Scourge Champion
     38662,  -- Bladed Ebon Amulet
