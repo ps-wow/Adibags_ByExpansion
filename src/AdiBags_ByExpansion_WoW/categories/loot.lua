@@ -70,9 +70,6 @@ AddonTable.loot = {
     151067, -- Boots of Lingering Sorrow
     151418, -- Raider Aspirant's Helm
     151430, -- Hematite Tortoise Pendant
-    151453, -- Grungy Necromantic Ring
-    151454, -- Splinterbone Sabatons
-    151456, -- Theka's Seal of Vigilance
 
     157643, -- Helm-Hewer Greataxe (Starter Gear)
     157651, -- Staff of Elemental Shaping

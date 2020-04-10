@@ -1,4 +1,5 @@
 local AddonName, AddonTable = ...
 
-AddonTable.gundrak = {
+AddonTable.forge = {
+
 }

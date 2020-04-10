@@ -14,6 +14,23 @@
     <Script file="professions\gathering\mining.lua"/>
     <Script file="professions\gathering\skinning.lua"/>
 
+    <Script file="dungeons\ahnkahet.lua"/>
+    <Script file="dungeons\azjolnerub.lua"/>
+    <Script file="dungeons\draktharon.lua"/>
+    <Script file="dungeons\forge.lua"/>
+    <Script file="dungeons\gundrak.lua"/>
+    <Script file="dungeons\hol.lua"/>
+    <Script file="dungeons\hor.lua"/>
+    <Script file="dungeons\hos.lua"/>
+    <Script file="dungeons\nexus.lua"/>
+    <Script file="dungeons\oculus.lua"/>
+    <Script file="dungeons\pinnacle.lua"/>
+    <Script file="dungeons\pit.lua"/>
+    <Script file="dungeons\strat.lua"/>
+    <Script file="dungeons\toc.lua"/>
+    <Script file="dungeons\uk.lua"/>
+    <Script file="dungeons\violethold.lua"/>
+
     <Script file="raids\archavon.lua"/>
     <Script file="raids\eye.lua"/>
     <Script file="raids\icc.lua"/>
