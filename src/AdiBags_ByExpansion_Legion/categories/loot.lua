@@ -35,10 +35,8 @@ AddonTable.loot = {
     134179, -- Skoldiir Breastplate
     134245, -- Nazjatar Manapearl Ring
     134291, -- Nightborne's Hunting Horn
-    134530, -- Loop of Vitriolic Intent
 
     137329, -- Figurehead of the Naglfar
-    137352, -- Tunic of Smoldering Ire
     137497, -- Footpads of the Swift Balestra
 
     139089, -- Night Dreamer Robe
