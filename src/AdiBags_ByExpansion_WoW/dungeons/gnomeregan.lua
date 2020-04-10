@@ -14,12 +14,18 @@ AddonTable.gnomeregan = {
     9454,   -- Acidic Walkers
     151083, -- Hazmat Galoshes
     -- Electrocutioner 6000
+    9446,   -- Electrocutioner Leg
+    9448,   -- Spidertank Oilrag
+    9447,   -- Electrocutioner Lagnut
     -- Crowd Pummeler 9-60
+    9449,   -- Manual Crowd Pummeler
+    151085, -- Glitchbot Helm
+    151084, -- Grease-Smudged Sash
+    132558, -- Bot Operator's Treads
+    9450,   -- Gnomebot Operating Bots
     -- Mekgineer Thermaplugg
-
-
-
-
-
-    9492, -- Electromagnetic Gigaflux Reactivator
+    9459,   -- Thermaplugg's Left Arm
+    9458,   -- Thermaplugg's Central Core
+    9492,   -- Electromagnetic Gigaflux Reactivator
+    9461,   -- Charged Gear
 }
