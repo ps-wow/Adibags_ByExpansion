@@ -128,6 +128,7 @@ AddonTable.junk = {
     158868, -- Golden Ornament
     158869, -- Stone Tusk
     158870, -- Wooly Hair
+    158872, -- Unstable Essence
     158874, -- Frothing Vapor
     158879, -- Bloodstained Message
     158936, -- Rakera's Journal
@@ -223,6 +224,7 @@ AddonTable.junk = {
     174209, -- Encased Arthropod
     174514, -- Discarded Token
     174515, -- Star Powder
+    174819, -- Fractured Aqiri Idol
     174825, -- Chunk of Amber
     174826, -- Frail Ceremonial Spear
 }

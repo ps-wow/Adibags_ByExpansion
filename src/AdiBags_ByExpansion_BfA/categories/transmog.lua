@@ -16,9 +16,11 @@ AddonTable.transmog = {
     154829, -- Zala'mar Legguards
     154834, -- Bloodhex Grips
     154837, -- Bloodhex Anklewraps
+    154842, -- Corlain Girdle
     154847, -- Corlain Vambraces
     154850, -- Crimsonwood Boots
     154864, -- Barrowknoll Pauldrons
+    
 
     159158, -- Ashvane Company Chestplate
     159166, -- Foxhollow Drape
@@ -27,6 +29,7 @@ AddonTable.transmog = {
     159173, -- Freehold Shoulderpads
     159174, -- Freehold Belt
     159188, -- Foxhollow Sandals
+    159189, -- Foxhollow Amice
     159191, -- Brineworks Breastplate
     159192, -- Brineworks Gauntlets
     159193, -- Brineworks Girdle
@@ -141,6 +144,8 @@ AddonTable.transmog = {
     160182, -- Skycaller Leggings
 
     161944, -- Coarse Leather Waistguard
+
+    163957, -- Carmodius Crystalline Stylus
 
     164342, -- Plundered Geode Gavel
     164446, -- Spiritbough Grasps
