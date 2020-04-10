@@ -19,6 +19,20 @@
     <Script file="professions\gathering\mining.lua"/>
     <Script file="professions\gathering\skinning.lua"/>
 
+    <Script file="dungeons\arcway.lua"/>
+    <Script file="dungeons\azshara.lua"/>
+    <Script file="dungeons\blackrook.lua"/>
+    <Script file="dungeons\cathedral.lua"/>
+    <Script file="dungeons\cos.lua"/>
+    <Script file="dungeons\darkheart.lua"/>
+    <Script file="dungeons\halls.lua"/>
+    <Script file="dungeons\karazhan.lua"/>
+    <Script file="dungeons\maw.lua"/>
+    <Script file="dungeons\neltharion.lua"/>
+    <Script file="dungeons\triumvirate.lua"/>
+    <Script file="dungeons\violethold.lua"/>
+    <Script file="dungeons\wardens.lua"/>
+
     <Script file="raids\antorus.lua"/>
     <Script file="raids\tov.lua"/>
     <Script file="raids\emeraldnightmare.lua"/>

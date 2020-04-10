@@ -20,7 +20,7 @@ AddonTable.transmog = {
     154847, -- Corlain Vambraces
     154850, -- Crimsonwood Boots
     154864, -- Barrowknoll Pauldrons
-    
+    154844, -- Corlain Greaves
 
     159158, -- Ashvane Company Chestplate
     159166, -- Foxhollow Drape
@@ -56,6 +56,7 @@ AddonTable.transmog = {
     159488, -- Zem'lan Cleaver
     159490, -- Rivermarsh Composite
     159491, -- Warport Short Bow
+    159497, -- Deepwarden Flintlock
     159505, -- Zocali Warglaive
     159506, -- Loa-Blessed Crescent
     159507, -- Zem'lan Warglaive
