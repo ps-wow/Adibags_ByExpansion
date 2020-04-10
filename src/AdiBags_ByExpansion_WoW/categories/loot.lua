@@ -41,6 +41,7 @@ AddonTable.loot = {
     51996, -- Tumultous Necklace (Satchel of Helpful Goods)
     57401, -- Jasperlode Chestguard (White Plate Chest)
     58907, -- Crime Scene Tape [Quest: Westfall]
+    58909, -- Golden Sunshine Cloak [Quest: Westfall]
 
     65911, -- Anacondra's Robe
     65912, -- Robe of Kelris

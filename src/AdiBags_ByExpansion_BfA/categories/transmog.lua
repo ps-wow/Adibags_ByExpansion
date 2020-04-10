@@ -19,6 +19,7 @@ AddonTable.transmog = {
     154842, -- Corlain Girdle
     154847, -- Corlain Vambraces
     154850, -- Crimsonwood Boots
+    154863, -- Barrowknoll Legguards
     154864, -- Barrowknoll Pauldrons
     154844, -- Corlain Greaves
 

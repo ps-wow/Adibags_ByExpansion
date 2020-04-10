@@ -4,6 +4,7 @@ AddonTable.junk = {
     121363, -- Warped-Plate Helmet
     121368, -- Sunbleached Shirt
     121372, -- Sunbleached Sandals
+    121414, -- The Dreamweavers Ignorance
 
     130264, -- Fel-Stained Claw
     130265, -- Sharpened Canine
@@ -16,6 +17,7 @@ AddonTable.junk = {
     132183, -- Razor Tooth
     132184, -- Intact Shimmering Scale
     132185, -- Intact Skull
+    132190, -- Pointed Tail Tip
     132192, -- Pitted Bone
     132193, -- Tuft of Plumage
     132197, -- Fel Paw
@@ -41,6 +43,7 @@ AddonTable.junk = {
     134404, -- Insignia of the Second Command
     138781, -- Brief History of the Aeons
     138783, -- Glittering Memento
+    138839, -- Valiant's Glory
     138885, -- Treasure of the Ages
     140310, -- Crude Statuette
     140517, -- Glory of the Order

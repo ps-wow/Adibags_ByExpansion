@@ -16,6 +16,7 @@ AddonTable.junk = {
 
     33400, -- Frigid Mail Bracers
     33402, -- Frigid Mail Pants
+    33412, -- Frost-Worn Plate Belt
     33415, -- Frost-Worn Plate Chestpiece
     33416, -- Frost-Worn Plate Gloves
     33417, -- Frost-Worn Plate Pants
@@ -32,6 +33,9 @@ AddonTable.junk = {
     33631, -- Frosted Claw
     33632, -- Icicle Fang
 
+    39209, -- Scintillating Stone Shard
+    39210, -- Shattered Stone
+    39211, -- Serrated Fang
     39212, -- Indurate Claw
     39220, -- Geodesic Fragments
     39512, -- Hoary Crystals

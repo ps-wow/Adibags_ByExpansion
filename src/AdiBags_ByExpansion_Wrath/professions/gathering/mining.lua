@@ -17,4 +17,5 @@ AddonTable.mining = {
     36928, -- Dreadstone
     36934, -- Eye of Zul
     36925, -- Majestic Zircon
+    36926, -- Shadow Crystal
 }

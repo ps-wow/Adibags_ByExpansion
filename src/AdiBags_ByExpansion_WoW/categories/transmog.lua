@@ -19,6 +19,7 @@ AddonTable.transmog = {
     6595,  -- Battleforge Gauntlets [Mail][Hands]
 
     7456,  -- Knight's Headguard
+    7481,  -- Ranger Boots
 
     8111,  -- Hibernal Mantle
     8287,  -- Arcane Gloves
@@ -42,6 +43,7 @@ AddonTable.transmog = {
 
     14124, -- Ritual Gloves
     14200, -- Thistlefur Cap
+    14228, -- Embersilk Coronet
     14431, -- Windchaser Handguards
     14559, -- Prospector's Sash [Leather][Waist]
     14562, -- Prospector's Chestpiece
@@ -49,6 +51,12 @@ AddonTable.transmog = {
     15241, -- Battle Knife
     15287, -- Crusader Bow
     15374, -- Wolf Rider's Leggings
+
+    18337, -- Orphic Bracers
+
+    68754, -- Imbued Disciple's Boots
+
+    115348, -- Feathered Cape
 
     -- Rare (Blue)
     13073, -- Mugthol's Helm [Plate][Head] (Nefarian)

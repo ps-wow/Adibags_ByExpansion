@@ -67,6 +67,7 @@ AddonTable.junk = {
     118715, -- Cracked Femur
     118898, -- Rusted Canary Cage
     118899, -- Crumbled Gem Shards
+    118901, -- Faded Note
     118902, -- Weathered Mining Journal
 
     112684, -- Damaged Weaponry

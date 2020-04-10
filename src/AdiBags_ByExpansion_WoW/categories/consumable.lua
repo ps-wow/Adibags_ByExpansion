@@ -14,6 +14,7 @@ AddonTable.foodDrink = {
     422,  -- Dwarven Mild
     1179, -- Ice Cold Milk
     1205, -- Melon Juice
+    1645, -- Moonberry Juice
     1708, -- Sweet Nectar
     3770, -- Mutton Chop
     4542, -- Moist Cornbread

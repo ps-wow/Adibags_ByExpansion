@@ -2,6 +2,8 @@ local AddonName, AddonTable = ...
 
 AddonTable.junk = {
     -- Grey Items (WoW)
+    771,  -- Chipped Boar Tusk
+
     1415, -- Carpenter's Mallet
     1507, -- Warped Leather Pants
     1520, -- Troll Sweat
@@ -15,6 +17,7 @@ AddonTable.junk = {
     3180, -- Flecked Raptor Scale
     3181, -- Partially Digested Meat
     3299, -- Fractured Canine
+    3300, -- Rabbit's Foot
     3301, -- Sharp Canine
     3401, -- Rough Crocolisk Scale
     3402, -- Soft Patch of Fur
@@ -39,10 +42,14 @@ AddonTable.junk = {
     4784, -- Lifeless Stone
     4787, -- Burning Pitch
     4865, -- Ruined Pelt
+    4867, -- Broken Scorpid Leg
+    4873, -- Dry Hardened Barnacle
+    4874, -- Clean Fishbones
 
     5124, -- Small Raptor Tooth
     5128, -- Shed Lizard Skin
     5133, -- Seeping Gizzard
+    5506, -- Beady Eye Stalk
 
     6444, -- Forked Tongue
     6445, -- Brittle Molting
@@ -63,6 +70,8 @@ AddonTable.junk = {
     11391, -- Spined Bat Wing
     11392, -- Severed Bat Claw
     11393, -- Small Bat Skull
+    11394, -- Bat Heart
+    11414, -- Grizzled Mane
     13825, -- Primed Musket
 
     17057, -- Shiny Fish Scales
@@ -73,6 +82,8 @@ AddonTable.junk = {
     22526, -- Bone Fragments
     22527, -- Core of Elements
     22528, -- Dark Iron Scraps
+    25421, -- Gnarled Claw
+    25425, -- Molted Feather
 
     54627, -- Wilted Flower
     54831, -- Shiny Pebble
@@ -83,4 +94,6 @@ AddonTable.junk = {
     56035, -- Colorful Rock
 
     60398, -- Roasted Basilisk Skin
+
+    68724, -- Broken Barn Door
 }

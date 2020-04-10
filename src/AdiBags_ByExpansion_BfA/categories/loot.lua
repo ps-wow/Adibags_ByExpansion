@@ -15,6 +15,8 @@ AddonTable.loot = {
 
     155055, -- Soul-Curse Executioner
     155095, -- Banisher Tunic
+    155158, -- Alderwood Loop
+    155159, -- Waycrest Inquisitor's Cloak
     155168, -- Darkwater Tunic (Quest)
     155172, -- Darkwater Boots
     155180, -- Darkwater Hood
@@ -74,6 +76,7 @@ AddonTable.loot = {
     155457, -- Devoted Defender's Cloak
     155510, -- Loa Speaker's Robes
     155522, -- Ritual Flayer's Wristwraps
+    155570, -- Ravenfeather Drape
 
     157871, -- Fen Spirit Footwraps
     157872, -- Fen Spirit Handwraps
@@ -114,6 +117,7 @@ AddonTable.loot = {
     157968, -- Sirensong Handwraps
     157971, -- Sirensong Amice
     157974, -- Seafarer Vest
+    157975, -- Seafarer Striders
     157977, -- Seafarer Headcover
     157978, -- Seafarer Breeches
     157981, -- Seafarer Armguards
@@ -153,9 +157,12 @@ AddonTable.loot = {
     158159, -- Boralus Sailor's Cloak
     158160, -- Smuggler's Cove Ring
     158161, -- Speakfisher's Band
+    158258, -- Freebooter Handwraps
     158387, -- Rastari Footguards
     158411, -- Jambani Girdle
     158423, -- Jambani Gloves
+    158581, -- Shimmering Quicksilver Drape
+    158585, -- Banisher Walkers
     158679, -- Maokka's Carving
     158680, -- Rikal's Ritual Beads
     158681, -- Lightning Tether
@@ -314,6 +321,7 @@ AddonTable.loot = {
     163870, -- Honorbound Bonebreaker
     163874, -- Honorbound Decapitator
     163876, -- Honorbound Focus
+    163892, -- 7th Legionnaire's Censer
 
     165443, -- Darkwood Sentinel's Cowl
     165444, -- Darkwood Sentinel's Breeches

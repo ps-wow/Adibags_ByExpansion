@@ -5,6 +5,7 @@ AddonTable.junk = {
 
     139542, -- Strip of Sailcloth
 
+    152099, -- Shriveled Onion
     152855, -- Exhausted Soulcore
 
     154770, -- Cracked Hide Belt
@@ -145,23 +146,29 @@ AddonTable.junk = {
     160926, -- Broken Mooring Post
     160927, -- Chipped Stone Hatchet
     160928, -- Weathered Greatsword
+    160929, -- Cracked Cannon Ram
     160930, -- Barnacled Greataxe
     160931, -- Rough Cooking Spit
     160932, -- Termite-Addled Staff
     160933, -- Splintered Longbow
     160934, -- Mud-Soaked Crossbow
+    160935, -- Backfiring Blunderbuss
     160936, -- Depleted Arcane Scepter
     160937, -- Arrow-Pocked Aegis
     160938, -- Bent Punching Blade
 
+    161198, -- Old Sailor's Almanac
     161199, -- Silver-Plated Tankard
     161200, -- Teardrop Pearl
     161201, -- Mermaid's Looking Glass
     161202, -- Polished Brass Sextant
     161203, -- Shanty Sheet Music
     161204, -- Oily Glass Eyeball
+    161205, -- Wooden Horse Carving
     161206, -- Faded Treasure Map
     161209, -- Coven Dream Catcher
+    161211, -- Ship in a Bottle
+    161437, -- Shipping Contract
 
     162571, -- Soggy Treasure Map (Common) (Readable)
     162630, -- Sandy Ornate Relic
@@ -214,11 +221,13 @@ AddonTable.junk = {
     163850, -- Bloody Gamekeeper's Arm
     163855, -- Duplicate Pilgrimage Scroll
 
+    168787, -- Empty Birdcage
     168795, -- Old Boot
 
     169984, -- Shattered Dragonscale
 
     173908, -- Crumbling Stone Slab
+    173937, -- Severed Oculus [Openable]
 
     174207, -- Bony Amber Fragment
     174209, -- Encased Arthropod

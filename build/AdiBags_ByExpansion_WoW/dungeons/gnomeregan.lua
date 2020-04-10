@@ -16,4 +16,10 @@ AddonTable.gnomeregan = {
     -- Electrocutioner 6000
     -- Crowd Pummeler 9-60
     -- Mekgineer Thermaplugg
+
+
+
+
+
+    9492,
 }
