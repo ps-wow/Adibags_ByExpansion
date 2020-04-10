@@ -67,7 +67,6 @@ AddonTable.loot = {
     143582, -- Stalwart Belt
     143583, -- Stalwart Grips
 
-    151067, -- Boots of Lingering Sorrow
     151418, -- Raider Aspirant's Helm
     151430, -- Hematite Tortoise Pendant
 

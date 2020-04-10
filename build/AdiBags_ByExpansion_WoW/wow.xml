@@ -26,7 +26,6 @@
     <Script file="dungeons\deadmines.lua"/>
     <Script file="dungeons\diremaul.lua"/>
     <Script file="dungeons\gnomeregan.lua"/>
-    <Script file="dungeons\lbrs.lua"/>
     <Script file="dungeons\maraudon.lua"/>
     <Script file="dungeons\rfc.lua"/>
     <Script file="dungeons\rfd.lua"/>
