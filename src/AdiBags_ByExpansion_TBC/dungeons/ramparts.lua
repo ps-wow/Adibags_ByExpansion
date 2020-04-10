@@ -25,8 +25,37 @@ AddonTable.ramparts = {
     27539, -- Justice Bearer's Pauldrons
     27906, -- Crimsonforge Breastplate
     27462, -- Crimson Bracers of Gloom
+    24090, -- Bloodstained Ravager Gauntlets
+    27465, -- Mana-Etched Gloves
+    27478, -- Girdle of the Blasted Reaches
+    24091, -- Tenacious Defender
+    27467, -- Silent-Strider Kneeboots
+    27895, -- Band of Many Prisms
     -- Vazruden the Herald
-
+    24044, -- Hellreaver
+    24155, -- Ursol's Claw
+    29346, -- Feltooth Eviscerator
+    27455, -- Irondrake Faceguard
+    27454, -- Volcanic Pauldrons
+    24150, -- Mok'Nathal Wildercloak
+    27461, -- Chestguard of the Prowler
+    27456, -- Raiments of Nature's Breath
+    27452, -- Light Scribe Bands
+    27459, -- Vambraces of Daring
+    27457, -- Life Bearer's Gauntlets
+    32077, -- Wrath Infused Gauntlets
+    29238, -- Lion's Heart Girdle
+    24063, -- Shifting Sash of Midnight
+    29264, -- Tree-Mender's Belt
+    24046, -- Kilt of Rolling Thunders
+    24083, -- Lifegiver Britches
+    27458, -- Oceansong Kilt
+    24064, -- Ironsole Clompers
+    27453, -- Averinn's Ring of Slaying
+    24045, -- Band of Renewal
+    24151, -- Mok'Nathal Clan Ring
+    27460, -- Reavers' Ring
+    24154, -- Witching Band
     -- Quest Rewards
     25715, -- Jade Warrior Pauldrons
 }

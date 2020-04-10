@@ -10,7 +10,5 @@ AddonTable.loot = {
     25058, -- Anglesite Choker
     25059, -- Fire Opal Collar
 
-    27459, -- Vambraces of Daring
-
     30028, -- Seventh Ring of the Tirisfalen
 }
