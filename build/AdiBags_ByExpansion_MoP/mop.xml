@@ -30,7 +30,7 @@
     <Script file="dungeons\scarlethalls.lua"/>
     <Script file="dungeons\scholomance.lua"/>
     <Script file="dungeons\settingsun.lua"/>
-    <Script file="dungeons\shado-pan.lua"/>
+    <Script file="dungeons\shadopan.lua"/>
     <Script file="dungeons\sm.lua"/>
     <Script file="dungeons\stormstout.lua"/>
 
