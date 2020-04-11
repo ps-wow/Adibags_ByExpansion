@@ -21,7 +21,6 @@ local module = {
         ["deadmines"] = "The Deadmines",
         ["diremaul"] = "Dire Maul",
         ["gnomeregan"] = "Gnomeregan",
-        ["lbrs"] = "Lower Blackrock Spire",
         ["maraudon"] = "Maraudon",
         ["rfc"] = "Ragefire Chasm",
         ["rfd"] = "Razorfen Downs",
