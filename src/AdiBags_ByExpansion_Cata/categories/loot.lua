@@ -19,6 +19,8 @@ AddonTable.loot = {
     55773, -- Mystical Cord
     55772, -- Everstill Cord
 
+    113695, -- Emberspark Plate Helm
+
     -- BoE (Non-Appearence)
     55403, -- Mereldar Amulet
     55404, -- Thondroril Amulet

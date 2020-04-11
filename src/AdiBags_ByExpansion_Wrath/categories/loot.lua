@@ -17,6 +17,7 @@ AddonTable.loot = {
     113684, -- Icecrust Cloak
 
     112346, -- Ice-Encrusted Plate Headguard
+    112361, -- ice-encrusted plate belt
 
     -- Death Knight Starter Gear
     38661,  -- Greathelm of the Scourge Champion

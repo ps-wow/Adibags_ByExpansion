@@ -17,6 +17,7 @@ AddonTable.loot = {
     113684,
 
     112346,
+    112361,
 
     -- Death Knight Starter Gear
     38661,
