@@ -14,13 +14,14 @@
     <Script file="professions\crafting\leatherworking.lua"/>
     <Script file="professions\crafting\tailoring.lua"/>
 
-    <Script file="professions\gathering\herbalism.lua"/>
     <Script file="professions\gathering\cloth.lua"/>
+    <Script file="professions\gathering\herbalism.lua"/>
     <Script file="professions\gathering\mining.lua"/>
     <Script file="professions\gathering\skinning.lua"/>
 
     <Script file="professions\secondary\archaeology.lua"/>
     <Script file="professions\secondary\cooking.lua"/>
+    <Script file="professions\secondary\fishing.lua"/>
 
     <Script file="dungeons\bfd.lua"/>
     <Script file="dungeons\brd.lua"/>
