@@ -9,7 +9,9 @@
     <Script file="professions\crafting\alchemy.lua"/>
     <Script file="professions\crafting\blacksmithing.lua"/>
     <Script file="professions\crafting\enchanting.lua"/>
+    <Script file="professions\crafting\engineering.lua"/>
     <Script file="professions\crafting\inscription.lua"/>
+    <Script file="professions\crafting\jewelcrafting.lua"/>
     <Script file="professions\crafting\leatherworking.lua"/>
     <Script file="professions\crafting\tailoring.lua"/>
 
@@ -18,6 +20,7 @@
     <Script file="professions\gathering\mining.lua"/>
     <Script file="professions\gathering\skinning.lua"/>
 
+    <Script file="professions\secondary\archaeology.lua"/>
     <Script file="professions\secondary\cooking.lua"/>
     <Script file="professions\secondary\fishing.lua"/>
 
