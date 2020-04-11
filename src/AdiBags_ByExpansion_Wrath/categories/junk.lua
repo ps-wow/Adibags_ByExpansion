@@ -1,21 +1,28 @@
 local AddonName, AddonTable = ...
 
 AddonTable.junk = {
+    33363, -- Thread-Bare Cloth Shoulderpads
     33365, -- Frost-Rimed Cloth Belt
     33366, -- Frost-Rimed Cloth Boots
     33367, -- Frost-Rimed Cloth Bracers
     33369, -- Frost-Rimed Cloth Pants
     33370, -- Frost-Rimed Cloth Shoulderpads
     33371, -- Frost-Rimed Cloth Vest
+    33376, -- Fur-Lined Gloves
+    33378, -- Fur-Lined Shoulderpads
     33379, -- Frozen Armor
     33380, -- Frozen Belt
     33381, -- Frozen Boots
+    33391, -- Icy Mail Belt
+    33393, -- Icy Mail Bracers
+    33395, -- Icy Mail Pants
     33397, -- Frigid Mail Armor
     33398, -- Frigid Mail Belt
     33399, -- Frigid Mail Boots
 
     33400, -- Frigid Mail Bracers
     33402, -- Frigid Mail Pants
+    33406, -- Ice-Bound Plate Bracers
     33412, -- Frost-Worn Plate Belt
     33415, -- Frost-Worn Plate Chestpiece
     33416, -- Frost-Worn Plate Gloves
@@ -25,6 +32,7 @@ AddonTable.junk = {
     33424, -- Cracked Iron Staff
     33425, -- Ice-Pitted Blade
     33426, -- Chipped Timber Axe
+    33427, -- Frost-Encrusted Rifle
     33428, -- Dulled Shiv
     33429, -- Ice Cleaver
     33430, -- Abandoned Greatsword
