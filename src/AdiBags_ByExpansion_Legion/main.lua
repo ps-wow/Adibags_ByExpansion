@@ -26,8 +26,9 @@ local module = {
     },
     ["raids"] = {
         ["emeraldnightmare"] = "Emerald Nightmare",
-        ["antorus"] = "Antorus",
-        ["tov"] = "Trial of Valor"
+        ["tov"] = "Trial of Valor",
+        ["tomb"] = "Tomb of Sargeras",
+        ["antorus"] = "Antorus"
     }
 }
 
