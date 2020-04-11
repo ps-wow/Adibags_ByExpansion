@@ -26,6 +26,13 @@
 
     <Script file="dungeons\jadeserpent.lua"/>
     <Script file="dungeons\mogushan.lua"/>
+    <Script file="dungeons\niuzao.lua"/>
+    <Script file="dungeons\scarlethalls.lua"/>
+    <Script file="dungeons\scholomance.lua"/>
+    <Script file="dungeons\settingsun.lua"/>
+    <Script file="dungeons\shado-pan.lua"/>
+    <Script file="dungeons\sm.lua"/>
+    <Script file="dungeons\stormstout.lua"/>
 
     <Script file="raids\soo.lua"/>
     <Script file="raids\tot.lua"/>

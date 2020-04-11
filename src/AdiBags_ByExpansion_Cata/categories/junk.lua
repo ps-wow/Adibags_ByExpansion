@@ -68,6 +68,7 @@ AddonTable.junk = {
     62435, -- Conductive Shards
 
     66945, -- Stormhammer Head
+    66949, -- Wildhammer Book of Verse
 
     67333, -- Oddly Shaped Bone
 

@@ -10,4 +10,7 @@ AddonTable.loot = {
     87626,
     90350,
     -- BoE (Non-Appearence)
+
+    -- Tranquil Satchel of Helpful Goods (Random Dungeon Bonus Loot)
+    113729,
 }

@@ -14,10 +14,10 @@ AddonTable.loot = {
     44404, -- Bauble-Woven Gloves
     44408, -- Cowl of the Vindictive Captain
 
-    113684, -- Icecrust Cloak
-
     112346, -- Ice-Encrusted Plate Headguard
-    112361, -- ice-encrusted plate belt
+    112361, -- Ice-Encrusted plate belt
+    113684, -- Icecrust Cloak
+    113688, -- Obsidian Citadel Necklace
 
     -- Death Knight Starter Gear
     38661,  -- Greathelm of the Scourge Champion

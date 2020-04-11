@@ -12,6 +12,13 @@ local module = {
     ["dungeons"] = {
         ["mogushan"] = "Mogu'shan Palace",
         ["jadeserpent"] = "Temple of the Jade Serpent",
+        ["niuzao"] = "Siege of Niuzao Temple",
+        ["scarlethalls"] = "Scarlet Halls",
+        ["scholomance"] = "Scholomance",
+        ["settingsun"] = "Gate of the Setting Sun",
+        ["shadopan"] = "Shado-Pan Monastery",
+        ["sm"] = "Scarlet Monastery",
+        ["stormstout"] = "Stormstout Brewery"
     },
     ["raids"] = {
         ["soo"] = "Siege of Orgrimmar",

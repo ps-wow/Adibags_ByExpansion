@@ -10,4 +10,7 @@ AddonTable.loot = {
     87626, -- Suna's Shattered Locket
     90350, -- Satin Robe of Eminent Domain
     -- BoE (Non-Appearence)
+
+    -- Tranquil Satchel of Helpful Goods (Random Dungeon Bonus Loot)
+    113729, -- Kyparite Headguard
 }
