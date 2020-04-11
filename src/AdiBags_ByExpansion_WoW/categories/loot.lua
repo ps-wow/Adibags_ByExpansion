@@ -67,7 +67,6 @@ AddonTable.loot = {
     143582, -- Stalwart Belt
     143583, -- Stalwart Grips
 
-    151418, -- Raider Aspirant's Helm
     151430, -- Hematite Tortoise Pendant
 
     157643, -- Helm-Hewer Greataxe (Starter Gear)

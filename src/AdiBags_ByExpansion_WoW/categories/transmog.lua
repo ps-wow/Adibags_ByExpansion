@@ -28,7 +28,9 @@ AddonTable.transmog = {
     9791,  -- Ivycloth Tunic
     9804,  -- Superior Buckler
     9852,  -- Conjurer's Robe
+    9897,  -- Jazeraint Chestguard
 
+    10069, -- Righteous Bracers [Leather][Wrist]
     10083, -- Lord's Crown
     10140, -- High Councillor's Gloves [Cloth][Hands]
     10185, -- Swashbuckler's Cape
@@ -54,6 +56,7 @@ AddonTable.transmog = {
 
     18337, -- Orphic Bracers
 
+    68750, -- Imbued Pioneer Belt
     68754, -- Imbued Disciple's Boots
 
     115348, -- Feathered Cape
