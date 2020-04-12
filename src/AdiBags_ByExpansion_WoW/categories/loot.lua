@@ -34,6 +34,8 @@ AddonTable.loot = {
     51970, -- Enumerated Gloves
     51973, -- Enumerated Handwraps
     51974, -- Enumerated Shoulderpads
+    51981, -- Earthbound Wristguard
+    51982, -- Earthbound Boots
     51984, -- Stalwart Shoulderpads
     51990, -- Stalwart Treads
     51992, -- Tumultuous Ring
@@ -50,11 +52,13 @@ AddonTable.loot = {
     65953, -- Dathrohan's Mace
     65961, -- Cobrahn's Boots
     65962, -- Thaelrid's Greaves
+    65986, -- Shield Against the Evil Presence
     65991, -- Boots of the Noble Path
     65992, -- Pauldrons of the Promise
     65993, -- Warpwood Shield
     65996, -- Belt of Tyrannic Rule
     66003, -- Pythas' Vest
+    66008, -- Shield of Maraudon
 
     82878, -- Fireworm Robes
     82882, -- Dark Ritual Cape
@@ -64,14 +68,19 @@ AddonTable.loot = {
     88265, -- Beastbinder Ring
     88277, -- Pyretic Legguards
 
+    131625, -- Hann Ibal's Chain Dungarees
+    131685, -- Boots of Painful Cost
+
     143582, -- Stalwart Belt
     143583, -- Stalwart Grips
 
     151430, -- Hematite Tortoise Pendant
 
+    157638, -- Lightning-Binder's Claws (Starter Gear)
     157643, -- Helm-Hewer Greataxe (Starter Gear)
     157651, -- Staff of Elemental Shaping
     157652, -- Shadow-Binder's Spire
+    157655, -- Lightning-Binder's Bulwark (Starter Gear)
     157682, -- Spellsculptor's Sandals
     157683, -- Spellsculptor's Handwraps
     157685, -- Spellsculptor's Leggings
@@ -80,6 +89,12 @@ AddonTable.loot = {
     157699, -- Lightsoul Sabatons
     157704, -- Lightsoul Girdle
     157705, -- Lightsoul Vambraces
+    157722, -- Totem-Caller Tunic (Starter Gear)
+    157723, -- Totem-Caller Boots (Starter Gear)
+    157724, -- Totem-Caller Gloves (Starter Gear)
+    157726, -- Totem-Caller Legwraps (Starter Gear)
+    157728, -- Totem-Caller Belt (Starter Gear)
+    157729, -- Totem-Caller Armbands (Starter Gear)
     157730, -- Felburner's Sandals (Starter Gear)
     157731, -- Felburner's Handwraps (Starter Gear)
     157733, -- Felburner's Leggings (Starter Gear)

@@ -52,6 +52,7 @@ AddonTable.junk = {
 
     113530, -- Scaly Skin
 
+    114002, -- Encoded Message
     114003, -- Tazik Hand Attachment
     114004, -- Medal of Patience
     114012, -- Underground Map

@@ -1,6 +1,7 @@
 local AddonName, AddonTable = ...
 
 AddonTable.tailoring = {
+    -- Materials
     2320,
     2604,
     2996,
@@ -10,4 +11,6 @@ AddonTable.tailoring = {
     14341,
     14342,
     14227,
+    -- Recipes
+    4346,
 }

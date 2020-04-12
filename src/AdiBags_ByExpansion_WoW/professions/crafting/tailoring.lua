@@ -1,6 +1,7 @@
 local AddonName, AddonTable = ...
 
 AddonTable.tailoring = {
+    -- Materials
     2320,  -- Coarse Thread
     2604,  -- Red Dye
     2996,  -- Bolt of Linen Cloth
@@ -10,4 +11,6 @@ AddonTable.tailoring = {
     14341, -- Rune Thread (Vendor)
     14342, -- Mooncloth
     14227, -- Ironweb Spider Silk
+    -- Recipes
+    4346, -- Pattern: Heavy Woolen Cloak
 }

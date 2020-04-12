@@ -16,15 +16,19 @@ AddonTable.loot = {
     123959, -- Demon Trophy
     123960, -- Charm of Demonic Fire
 
+    128954, -- Power Handlers Gloves
     128956, -- Fel-Etched Glaive
     128958, -- Leko's Leash
 
     129104, -- Brand of the Banshee Queen
     129172, -- Band of Demonic Guile
+    129995, -- Sablehide Handguards
 
     132243, -- Fel-Etched Glaive
     132963, -- Young Drake's Impulse
 
+    133314, -- Power Handlers Gloves
+    133321, -- Illidari Gloves
     133310, -- The Brood Queen's Veil
     133311, -- Demon-Rend Shoulderblades
     133312, -- Torment Ender's Chestguard

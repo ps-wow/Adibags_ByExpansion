@@ -2,6 +2,7 @@ local AddonName, AddonTable = ...
 
 AddonTable.junk = {
     -- Grey Items (WoW)
+    770,  -- Pointy Crocolisk Tooth
     771,  -- Chipped Boar Tusk
 
     1415, -- Carpenter's Mallet
@@ -13,6 +14,7 @@ AddonTable.junk = {
     1745, -- Laced Mail Vest
     1776, -- Brocade Pants
     1789, -- Patched Leather Bracers
+    1814, -- Battered Mallet
 
     3180, -- Flecked Raptor Scale
     3181, -- Partially Digested Meat
@@ -23,6 +25,7 @@ AddonTable.junk = {
     3402, -- Soft Patch of Fur
     3669, -- Gelatinious Goo
     3670, -- Large Slimy Bone
+    3671, -- Lifeless Skull
     3674, -- Decomposed Boot
     3676, -- Slimy Ichor
     3781, -- Broad Claymore
@@ -76,6 +79,7 @@ AddonTable.junk = {
 
     17057, -- Shiny Fish Scales
     17058, -- Fish Oil
+    18222, -- Thorny Vine
     18285, -- Crystallized Mana Shard
     18286, -- Condensed Mana Fragment
 
@@ -88,9 +92,14 @@ AddonTable.junk = {
     54627, -- Wilted Flower
     54831, -- Shiny Pebble
 
+    55974, -- Inert Elemental Particle
+    55975, -- Inert Elemental Grain
     55978, -- Inert Elemental Flake
+    55981, -- Inert Elemental Fragment
+    55982, -- Inert Elemental Granule
     55984, -- Inert Elemental Shard
 
+    56034, -- Tinted Rock
     56035, -- Colorful Rock
 
     60398, -- Roasted Basilisk Skin

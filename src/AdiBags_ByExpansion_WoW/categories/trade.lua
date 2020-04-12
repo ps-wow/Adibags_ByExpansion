@@ -3,6 +3,8 @@ local AddonName, AddonTable = ...
 AddonTable.trade = {
     -- General
     3857,  -- Coal
+    5498,  -- Small Lustrous Pearl
+    5524,  -- Thick-Shelled Clam
     7075,  -- Core of Earth
     7076,  -- Essence of Earth
     7077,  -- Heart of Fire

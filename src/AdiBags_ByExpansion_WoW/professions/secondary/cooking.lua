@@ -2,9 +2,13 @@ local AddonName, AddonTable = ...
 
 AddonTable.cooking = {
     -- Meat
+    1468,  -- Murloc Fin
+
     2672,  -- Stringy Wolf Meat
     2677,  -- Boar Ribs
     2924,  -- Crocolisk Meat
+
+    3712,  -- Turtle Meat
 
     5465,  -- Small Spider Leg
     5503,  -- Clam Meat

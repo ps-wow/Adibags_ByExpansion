@@ -8,6 +8,7 @@ AddonTable.junk = {
 
     130264, -- Fel-Stained Claw
     130265, -- Sharpened Canine
+    130266, -- Trophy Spine
     130267, -- Extinguished Demon Stone
     130268, -- Bone Toothpick
     130317, -- Fractured Trophy

@@ -3,17 +3,26 @@ local AddonName, AddonTable = ...
 AddonTable.transmog = {
     -- Uncommon (Green)
     866,   -- Monk's Staff
+    937,   -- Black Duskwood Staff
 
     1625,  -- Exquisite Flamberge
 
+    2983,  -- Seer's Boots
+    2984,  -- Seer's Gloves
+
     3184,  -- Hook Dagger
     3193,  -- Oak Mallet
+    3196,  -- Edged Bastard Sword
 
     4567,  -- Merc Sword
     4576,  -- Light Bow
+    4721,  -- Insignia Mantle
     4733,  -- Blackforge Pauldrons
 
+    5207,  -- Opaque Wand
+
     6386,  -- Glimmering Mail Legguards
+    6557,  -- Bard's Boots
     6570, -- Shimmering Sash
     6584,  -- Scouting Tunic
     6595,  -- Battleforge Gauntlets [Mail][Hands]
@@ -25,8 +34,10 @@ AddonTable.transmog = {
     8287,  -- Arcane Gloves
 
     9778,  -- Bandit Buckler
+    9785,  -- Raider's Bracers
     9791,  -- Ivycloth Tunic
     9804,  -- Superior Buckler
+    9824,  -- Durable Shoulders
     9852,  -- Conjurer's Robe
     9897,  -- Jazeraint Chestguard
 
@@ -50,9 +61,11 @@ AddonTable.transmog = {
     14559, -- Prospector's Sash [Leather][Waist]
     14562, -- Prospector's Chestpiece
 
+    15144, -- Ghostwalker Rags
     15241, -- Battle Knife
     15287, -- Crusader Bow
     15374, -- Wolf Rider's Leggings
+    15979, -- Flamecloth Stave
 
     18337, -- Orphic Bracers
 
