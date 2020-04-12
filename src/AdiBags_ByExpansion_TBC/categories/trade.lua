@@ -8,6 +8,7 @@ AddonTable.trade = {
     22578, -- Mote of Water
     22457, -- Primal Mana
     21882, -- Soul Essence
+    23572, -- Primal Nether
     -- Clams
     24476, -- Jaggal Clam
 }
