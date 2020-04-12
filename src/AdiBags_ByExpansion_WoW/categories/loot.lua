@@ -41,6 +41,11 @@ AddonTable.loot = {
     51992, -- Tumultuous Ring
     51994, -- Tumultuous Cloak
     51996, -- Tumultous Necklace (Satchel of Helpful Goods)
+    52942, -- Staff of Earned Tranquility
+    54988, -- Cloak of the Clarion Call
+    54996, -- Rygna-Silk Leggings
+    54999, -- Seryl's Robes
+    55013, -- Seryl's Promise
     57401, -- Jasperlode Chestguard (White Plate Chest)
     58907, -- Crime Scene Tape [Quest: Westfall]
     58909, -- Golden Sunshine Cloak [Quest: Westfall]

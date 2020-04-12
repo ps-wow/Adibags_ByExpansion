@@ -6,6 +6,7 @@ AddonTable.junk = {
     771,  -- Chipped Boar Tusk
 
     1415, -- Carpenter's Mallet
+    1433, -- Patchwork Armor
     1507, -- Warped Leather Pants
     1520, -- Troll Sweat
     1702, -- Intact Basilisk Spine
@@ -16,8 +17,11 @@ AddonTable.junk = {
     1789, -- Patched Leather Bracers
     1814, -- Battered Mallet
 
+    2212, -- Cracked Buckler
+
     3180, -- Flecked Raptor Scale
     3181, -- Partially Digested Meat
+    3189, -- Wood Chopper
     3299, -- Fractured Canine
     3300, -- Rabbit's Foot
     3301, -- Sharp Canine
@@ -30,6 +34,7 @@ AddonTable.junk = {
     3676, -- Slimy Ichor
     3781, -- Broad Claymore
     3783, -- Light Scimitar
+    3801, -- Granny's Mallet
     3931, -- Poisoned Spider Fang
     3949, -- Twill Pants
     3950, -- Twill Shoulderpads
@@ -41,7 +46,10 @@ AddonTable.junk = {
     4460, -- Ripped Wing Webbing
     4555, -- Thick Scaly Tail
     4557, -- Fiery Gland
+    4560, -- Fine Scimitar
     4585, -- Driping Spider Mandible
+    4662, -- Journeyman's Cloak
+    4663, -- Journeyman's Belt
     4784, -- Lifeless Stone
     4787, -- Burning Pitch
     4865, -- Ruined Pelt
@@ -89,9 +97,15 @@ AddonTable.junk = {
     25421, -- Gnarled Claw
     25425, -- Molted Feather
 
+    49406, -- Gilnean Neophyte's Boots
+
     54627, -- Wilted Flower
     54831, -- Shiny Pebble
+    54835, -- Broken Fishbones
+    54979, -- Godfrey's Dagger
 
+    55005, -- Darius' Sash
+    55016, -- Granny's Mallet
     55974, -- Inert Elemental Particle
     55975, -- Inert Elemental Grain
     55978, -- Inert Elemental Flake
@@ -101,6 +115,11 @@ AddonTable.junk = {
 
     56034, -- Tinted Rock
     56035, -- Colorful Rock
+    56151, -- Broken Hoof Piece
+    56156, -- Torn Cartilage
+
+    58216, -- "Flying" Worgen Robes
+    58255, -- Lord Walden's Top Hat
 
     60398, -- Roasted Basilisk Skin
 
