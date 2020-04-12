@@ -1,7 +1,7 @@
 local AddonName, AddonTable = ...
 
 AddonTable.bt = {
-    -- 25 (Normal)
+    -- Normal
 
     -- High Warlord Naj'entus
     122104, -- Leviathan Egg (Leviathan Hatchling) [Battle Pet]
@@ -19,8 +19,20 @@ AddonTable.bt = {
     32245, -- Tide-Stomper's Greaves
     32238, -- Ring of Calming Waves
     32247, -- Ring of Captured Storms
-
     -- Supremus
+    122106, -- Shard of Supremus [Battle Pet]
+    32262,  -- Syphon of the Nathrezim
+    32254,  -- The Brutalizer
+    32253,  -- Legionkiller
+    32255,  -- Felstone Bulwark
+    32260,  -- Choker of Endless Nightmares
+    32250,  -- Pauldrons of Abyssal Fury
+    32252,  -- Nether Shadow Tunic
+    32259,  -- Bands of the Coming Storm
+    32251,  -- Wraps of Precise Flight
+    32258,  -- Naturalist's Preserving Cinch
+    32256,  -- Waistwrap of Infinity
+    32261,  -- Band of the Abyssal Lord
     -- Shade of Akama
     -- Teron Gorefiend
     -- Gurtogg Bloodboil
@@ -29,7 +41,7 @@ AddonTable.bt = {
     -- The Illidari Council
     -- Illidan Stormrage
 
-    -- 25 (Timewalking)
+    -- Timewalking
 
     -- High Warlord Naj'entus
     -- Supremus

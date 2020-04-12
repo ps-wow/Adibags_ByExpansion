@@ -1,7 +1,7 @@
 local AddonName, AddonTable = ...
 
 AddonTable.bt = {
-    -- 25 (Normal)
+    -- Normal
 
     -- High Warlord Naj'entus
     122104,
@@ -19,8 +19,20 @@ AddonTable.bt = {
     32245,
     32238,
     32247,
-
     -- Supremus
+    122106,
+    32262,
+    32254,
+    32253,
+    32255,
+    32260,
+    32250,
+    32252,
+    32259,
+    32251,
+    32258,
+    32256,
+    32261,
     -- Shade of Akama
     -- Teron Gorefiend
     -- Gurtogg Bloodboil
@@ -29,7 +41,7 @@ AddonTable.bt = {
     -- The Illidari Council
     -- Illidan Stormrage
 
-    -- 25 (Timewalking)
+    -- Timewalking
 
     -- High Warlord Naj'entus
     -- Supremus
