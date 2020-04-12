@@ -23,10 +23,11 @@ AddonTable.transmog = {
 
     6386,  -- Glimmering Mail Legguards
     6557,  -- Bard's Boots
-    6570, -- Shimmering Sash
+    6570,  -- Shimmering Sash
     6584,  -- Scouting Tunic
     6595,  -- Battleforge Gauntlets [Mail][Hands]
 
+    7435,  -- Twilight Mantle
     7456,  -- Knight's Headguard
     7481,  -- Ranger Boots
 
@@ -37,6 +38,7 @@ AddonTable.transmog = {
     9785,  -- Raider's Bracers
     9791,  -- Ivycloth Tunic
     9804,  -- Superior Buckler
+    9810,  -- Fortified Boots
     9824,  -- Durable Shoulders
     9852,  -- Conjurer's Robe
     9897,  -- Jazeraint Chestguard
@@ -63,6 +65,7 @@ AddonTable.transmog = {
 
     15144, -- Ghostwalker Rags
     15241, -- Battle Knife
+    15248, -- Gleaming Claymore
     15287, -- Crusader Bow
     15374, -- Wolf Rider's Leggings
     15979, -- Flamecloth Stave

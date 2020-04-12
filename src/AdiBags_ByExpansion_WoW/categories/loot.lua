@@ -43,6 +43,7 @@ AddonTable.loot = {
     51996, -- Tumultous Necklace (Satchel of Helpful Goods)
     52942, -- Staff of Earned Tranquility
     54988, -- Cloak of the Clarion Call
+    54992, -- Laborer's Belt
     54996, -- Rygna-Silk Leggings
     54999, -- Seryl's Robes
     55013, -- Seryl's Promise

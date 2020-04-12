@@ -32,5 +32,6 @@ AddonTable.herbalism = {
     108327, -- Grave Moss Leaf
     108328, -- Fadeleaf Petal
     108329, -- Dargon's Teeth Stem
+    108330, -- Stranglekelp Blade
     108331, -- Goldthorn Bramble
 }

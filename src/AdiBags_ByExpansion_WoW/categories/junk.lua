@@ -15,6 +15,7 @@ AddonTable.junk = {
     1745, -- Laced Mail Vest
     1776, -- Brocade Pants
     1789, -- Patched Leather Bracers
+    1806, -- Tough Cloak
     1814, -- Battered Mallet
 
     2212, -- Cracked Buckler
@@ -106,6 +107,7 @@ AddonTable.junk = {
 
     55005, -- Darius' Sash
     55016, -- Granny's Mallet
+    55020, -- Lorna's Gloves
     55974, -- Inert Elemental Particle
     55975, -- Inert Elemental Grain
     55978, -- Inert Elemental Flake

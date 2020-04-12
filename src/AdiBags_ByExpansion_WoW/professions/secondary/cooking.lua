@@ -16,4 +16,6 @@ AddonTable.cooking = {
 
     12203, -- Red Wolf Meat
     12205, -- White Spider Meat
+
+    67229, -- Stag Flank
 }

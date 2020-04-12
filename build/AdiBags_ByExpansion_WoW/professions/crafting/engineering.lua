@@ -6,4 +6,5 @@ AddonTable.engineering = {
     10647,
     -- Recipe's
     4408,
+    10601,
 }
