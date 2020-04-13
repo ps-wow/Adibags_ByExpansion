@@ -58,4 +58,5 @@ AddonTable.ramparts = {
     24154, -- Witching Band
     -- Quest Rewards
     25715, -- Jade Warrior Pauldrons
+    25718, -- Mantle of Magical Might
 }

@@ -2,9 +2,14 @@ local AddonName, AddonTable = ...
 
 AddonTable.cooking = {
     -- Meat
+    723,
+    769,
     1468,
 
     2672,
+    2673,
+    2674,
+    2675,
     2677,
     2924,
 
@@ -14,8 +19,12 @@ AddonTable.cooking = {
     5503,
     5504,
 
+    10259,
+
+    12037,
     12203,
     12205,
+    12208,
 
     67229,
 }

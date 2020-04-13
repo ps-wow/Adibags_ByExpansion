@@ -9,6 +9,8 @@ AddonTable.consumable = {
     3385,  -- Lesser Mana Potion
     13444, -- Major Mana Potion
     13446, -- Major Healing Potion
+    -- Misc
+    6530,  -- Nightcrawlers
 }
 
 AddonTable.foodDrink = {
@@ -30,4 +32,9 @@ AddonTable.foodDrink = {
     8766, -- Morning Glory Dew
     8952, -- Roasted Quail
     9451, -- Bubbling Water
+}
+
+AddonTable.alcohol = {
+    2723, -- Bottle of Dalaran Noir
+    4600, -- Cherry Grog
 }

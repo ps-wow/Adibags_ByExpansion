@@ -17,4 +17,6 @@ AddonTable.trade = {
     136342, -- Obliterum Ash (BoP)
     124124, -- Blood of Sargeras (BoP)
     151568, -- Primal Sargerite (BoP)
+    -- Misc
+    18365,  -- A Thoroughly Read Copy of "Nat Pagle's Guide to Extreme Anglin'."
 }

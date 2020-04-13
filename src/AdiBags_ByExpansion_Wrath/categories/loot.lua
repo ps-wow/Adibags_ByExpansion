@@ -15,9 +15,13 @@ AddonTable.loot = {
     44408, -- Cowl of the Vindictive Captain
 
     112346, -- Ice-Encrusted Plate Headguard
+    112348, -- Snow-Coated Cloth Cap
     112361, -- Ice-Encrusted plate belt
+    112367, -- Snow-Coated Cloth Belt
     113684, -- Icecrust Cloak
     113688, -- Obsidian Citadel Necklace
+
+    156688, -- Icy Satchel of Helpful Goods
 
     -- Death Knight Starter Gear
     38661,  -- Greathelm of the Scourge Champion

@@ -58,4 +58,5 @@ AddonTable.ramparts = {
     24154,
     -- Quest Rewards
     25715,
+    25718,
 }

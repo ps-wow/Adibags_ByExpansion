@@ -32,6 +32,7 @@ AddonTable.loot = {
     51967, -- Enumerated Sandals
     51968, -- Enumerated Wrap
     51970, -- Enumerated Gloves
+    51972, -- Enumerated Bracers
     51973, -- Enumerated Handwraps
     51974, -- Enumerated Shoulderpads
     51981, -- Earthbound Wristguard
@@ -49,6 +50,7 @@ AddonTable.loot = {
     55013, -- Seryl's Promise
     57401, -- Jasperlode Chestguard (White Plate Chest)
     58907, -- Crime Scene Tape [Quest: Westfall]
+    58903, -- Kobold Candle
     58909, -- Golden Sunshine Cloak [Quest: Westfall]
 
     65911, -- Anacondra's Robe
@@ -62,6 +64,7 @@ AddonTable.loot = {
     65991, -- Boots of the Noble Path
     65992, -- Pauldrons of the Promise
     65993, -- Warpwood Shield
+    65994, -- Staff of Athen'a
     65996, -- Belt of Tyrannic Rule
     66003, -- Pythas' Vest
     66008, -- Shield of Maraudon

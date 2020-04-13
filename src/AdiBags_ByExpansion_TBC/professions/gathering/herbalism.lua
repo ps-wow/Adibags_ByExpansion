@@ -10,5 +10,8 @@ AddonTable.herbalism = {
     22791, -- Netherbloom
     22792, -- Nightmare Vine
     22793, -- Mana Thistle
-    22794, -- Fel Lotus   
+    22794, -- Fel Lotus
+    -- Partial Parts
+    108339, -- Dreamfoil Blade
+    108341, -- Mountain Silversage Stalk
 }

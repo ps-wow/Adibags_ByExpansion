@@ -64,6 +64,7 @@ AddonTable.transmog = {
     14562, -- Prospector's Chestpiece
 
     15144, -- Ghostwalker Rags
+    15227, -- Diamond-Tip Bludgeon
     15241, -- Battle Knife
     15248, -- Gleaming Claymore
     15287, -- Crusader Bow

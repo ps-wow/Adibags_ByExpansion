@@ -6,6 +6,7 @@ AddonTable.transmog = {
     24679, -- Archmage Robe [Cloth][Chest]
     24772, -- Clefthoof Bracers
     24809, -- Unyielding Fists
+    24853, -- Fenclaw Bindings
     24913, -- Netherstorm Gauntlets [Mail][Gloves]
 
     25012, -- Conqueror's Epaulets [Plate][Shoulder]

@@ -56,4 +56,6 @@ AddonTable.underbog = {
     27780,
     27896,
     27770,
+    -- Quest Rewards
+    28109,
 }

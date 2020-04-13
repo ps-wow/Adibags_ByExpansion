@@ -56,4 +56,6 @@ AddonTable.underbog = {
     27780, -- Ring of Fabled Hope
     27896, -- Alembic of Infernal Power
     27770, -- Argussian Compass
+    -- Quest Rewards
+    28109, -- Essence Infused Mushroom
 }
