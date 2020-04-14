@@ -74,9 +74,60 @@ AddonTable.bt = {
     32335, -- Unstoppable Aggressor's Ring
     32501, -- Shadowmoon Insignia
     -- Reliquary of Souls
+    122107, -- Fragment of Anger [Battle Pet]
+    122109, -- Fragment of Desire [Battle Pet]
+    122108, -- Fragment of Suffering [Battle Pet]
+    32332, -- Torch of the Damned
+    32363, -- Naaru-Blessed Life Rod
+    32350, -- Touch of Inspiration
+    32354, -- Crown of Empowered Fate
+    32362, -- Pendant of Titans
+    32349, -- Tanslucent Spellthread Necklace
+    32517, -- The Wavemender's Mantle
+    32351, -- Elunite Empowered Bracers
+    32353, -- Gloves of Unfailing Faith
+    32347, -- Grips of Damnation
+    32346, -- Boneweave Girdle
+    32345, -- Dreadboots of the Legion
+    32352, -- Naturewarden's Treads
     -- Mother Shahraz
+    31101, -- Pauldrons of the Forgotten Conqueror
+    31103, -- Pauldrons of the Forgotten Protector
+    31102, -- Pauldrons of the Forgotten Vanquisher
+    122110, -- Sultry Grimoire [Battle Pet] (Sister of Temptation)
+    32369, -- Blade of Savagery
+    32370, -- Nadina's Pendant of Purity
+    32365, -- Heartshatter Breastplate
+    32367, -- Leggings of Devastation
+    32366, -- Shadowmaster's Boots
     -- The Illidari Council
+    31098, -- Leggings of the Forgotten Conqueror
+    31100, -- Leggings of the Forgotten Protector
+    31099, -- Leggings of the Forgotten Vanquisher
+    32376, -- Forest Prowler's Helm
+    32373, -- Helm of the Illidari Shatterer
+    32518, -- Veil of Turning Leaves
+    32331, -- Cloak of the Illidari Council
+    32519, -- Belt of Divine Guidance
+    32505, -- Madness of the Betrayer
     -- Illidan Stormrage
+    31089, -- Chestguard of the Forgotten Conqueror
+    31091, -- Chestguard of the Forgotten Protector
+    31090, -- Chestguard of the Forgotten Vanquisher
+    32374, -- Zhar'doom, Greatstaff of the Devourer
+    32837, -- Warglaive of Azzinoth
+    32838, -- Warglaive of Azzinoth
+    32500, -- Crystal Spire of Karabor
+    32471, -- Shard of Azzinoth
+    32336, -- Black Bow of the Betrayer
+    32375, -- Bulwark of Azzinoth
+    32525, -- Cowl of the Illidari High Lord
+    32235, -- Cursed Vision of Sargeras
+    32521, -- Faceplate of the Impenetrable
+    32524, -- Shroud of the Highborne
+    32497, -- Stormrage Signet Ring
+    32496, -- Memento of Tyrande
+    32483, -- The Skull of Gul'dan
 
     -- Timewalking
 
