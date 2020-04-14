@@ -42,6 +42,17 @@ Notes:
 
  - Cloth isn't a gathering profession, but you do collect cloth in your adventures and it doesn't fit strictly in any other category
 
+## I would like to contribute, how do I?
+
+In order to add items to their categories we need to know the item id, there's multiple ways of getting this the main 2 being:
+
+1. you can install an addon that shows the id on the tooltip (I am currently using [idTip](https://www.curseforge.com/wow/addons/idtip))
+2. search for the item on wowhead and the item id will be in the url.
+
+Then we just need to find an appropriate file to add the id into (under the src folder).
+
+If you need any more information on how to contribute I am more than happy to discuss, feel free to raise a [Pull Request](https://github.com/ps-wow/Adibags_ByExpansion/pulls) on Github :)
+
 ## Building the Addon
 
 The addon has several PHP scripts in the scripts folder which can be used to check that there are no duplicate items (across any module) and also to compile the module files into a minified version (this removes comments and empty lines to save disk space (although this is only a minor saving it should still reduce load which is always a good thing)).
