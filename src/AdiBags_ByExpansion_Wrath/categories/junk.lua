@@ -38,8 +38,11 @@ AddonTable.junk = {
     33430, -- Abandoned Greatsword
     33435, -- Frost-Worn Plate Helmet
     33436, -- Frost-Rimed Cloth Hat
+    33561, -- Hardened Flipper
     33631, -- Frosted Claw
     33632, -- Icicle Fang
+
+    36817, -- Banded Stone
 
     39209, -- Scintillating Stone Shard
     39210, -- Shattered Stone
@@ -53,6 +56,7 @@ AddonTable.junk = {
     43851, -- Fur Clothing Scraps
     43852, -- Thick Fur Clothing Scraps
 
+    44770, -- Rent Carapace
     44776, -- Translucent Scale
 
     52019, -- Precious' Ribbon [Shirt]

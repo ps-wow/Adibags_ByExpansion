@@ -47,4 +47,7 @@ AddonTable.hol = {
     36992,  -- Leather-Braced Chain Leggings
     37854,  -- Woven Bracae Leggings
     36993,  -- Seal of the Pantheon
+    -- Quest Rewards
+    43193, -- Lightning Infused Mantle
+    42844, -- Robes of Lightning
 }

@@ -3,6 +3,7 @@ local AddonName, AddonTable = ...
 AddonTable.loot = {
     3914,  -- Journeyman's Backpack
 
+    35683, -- Palladium Ring [BoE Ring]
     36173, -- Geist Tunic
     36385, -- Golem Pauldrons
     36458, -- Frozen Shield
@@ -14,12 +15,16 @@ AddonTable.loot = {
     44404, -- Bauble-Woven Gloves
     44408, -- Cowl of the Vindictive Captain
 
+    44683, -- King's Eyesocket [BoE Ring]
+
     112346, -- Ice-Encrusted Plate Headguard
     112348, -- Snow-Coated Cloth Cap
+    112355, -- Snow-Coated Cloth Leggings
     112361, -- Ice-Encrusted plate belt
     112367, -- Snow-Coated Cloth Belt
     113684, -- Icecrust Cloak
     113688, -- Obsidian Citadel Necklace
+    113758, -- Snow-Coated Cloth Gloves
 
     156688, -- Icy Satchel of Helpful Goods
 

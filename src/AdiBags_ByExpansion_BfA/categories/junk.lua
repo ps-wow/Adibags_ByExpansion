@@ -37,6 +37,7 @@ AddonTable.junk = {
     154796, -- Crumbling Chain Sabatons
     154797, -- Crumbling Chain Leggings
     154798, -- Crumbling Chain Hauberk
+    154799, -- Crumbling Chain Gloves
     154800, -- Crumbling Chain Coif
     154801, -- Crumbling Chain Belt
     154802, -- Notched Handaxe
@@ -224,7 +225,15 @@ AddonTable.junk = {
     168787, -- Empty Birdcage
     168795, -- Old Boot
 
+    169123, -- Functional Fiddleswitch
+    169124, -- Decorational Whirlycog
+    169128, -- Chilled Heating Block
+    169130, -- Bent Cogwheel
+    169138, -- Fractured Personality Module
     169984, -- Shattered Dragonscale
+
+    170017, -- Cracked Titan Disc
+    170087, -- Chromatic "Vigegar"
 
     173908, -- Crumbling Stone Slab
     173937, -- Severed Oculus [Openable]

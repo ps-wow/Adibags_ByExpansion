@@ -29,6 +29,7 @@ AddonTable.transmog = {
     159171, -- Freehold Cowl
     159173, -- Freehold Shoulderpads
     159174, -- Freehold Belt
+    159184, -- Foxhollow Circlet
     159188, -- Foxhollow Sandals
     159189, -- Foxhollow Amice
     159191, -- Brineworks Breastplate
@@ -156,7 +157,15 @@ AddonTable.transmog = {
     164522, -- Voodoo Stalker's Chestguard
     164550, -- Whirling Dervish Gloves
 
+    169402, -- Deeptide Amice
+    169403, -- Deeptide Cinch
+    169413, -- Reefwalker Hauberk
     169433, -- Wavecrash Greatcloak
 
+    170115, -- Massive Viridian Claw
+    170116, -- Darkened Slicer
+    170118, -- Centurion's Shortsword
     170119, -- Slithershell Warglaive
+    170120, -- Handmaiden's Longstaff
+    170201, -- Deeptide Scroll
 }

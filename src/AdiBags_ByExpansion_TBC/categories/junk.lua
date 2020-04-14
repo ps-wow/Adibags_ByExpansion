@@ -13,6 +13,7 @@ AddonTable.junk = {
     25369, -- Eroded Mail Circlet
     25371, -- Eroded Mail Pants
     25379, -- Corroded Mail Pants
+    25381, -- Tarnished Plate Belt
     25384, -- Tarnished Plate Chestpiece
     25386, -- Tarnished Plate Helmet
     25387, -- Tarnished Plate Pants
@@ -30,6 +31,8 @@ AddonTable.junk = {
     25456, -- Glowing Spores
 
     25813, -- Small Mushroom
+
+    31944, -- Demonic Capacitor
 
     33547, -- Hardened Claw
 

@@ -47,4 +47,7 @@ AddonTable.hol = {
     36992,
     37854,
     36993,
+    -- Quest Rewards
+    43193,
+    42844,
 }
