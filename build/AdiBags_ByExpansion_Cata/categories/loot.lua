@@ -18,6 +18,8 @@ AddonTable.loot = {
     55773,
     55772,
 
+    56300,
+
     113695,
 
     -- BoE (Non-Appearence)

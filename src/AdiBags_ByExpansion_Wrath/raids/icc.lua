@@ -1,5 +1,7 @@
 local AddonName, AddonTable = ...
 
+-- Icecrown Citadel
+-- 10/25 Man Difficulties have different loot.
 AddonTable.icc = {
     -- Shared Boss Loot
     49908, -- Primordial Saronite
@@ -9,11 +11,11 @@ AddonTable.icc = {
 
 AddonTable.icc10 = {
     -- Lord Marrowgar (10 Man)
+    50761, -- Citadel Enforcer's Claymore
     50759, -- Bone Warden's Splitter
     50760, -- Bonebreaker Scepter
     50771, -- Frost Needle
     50339, -- Sliver of Pure Ice
-    50761, -- Citadel Enforcer's Claymore
     50762, -- Linked Scourge Vertebrae
     50763, -- Marrowgar's Scratching Choker
     50764, -- Shawl of Nerubian Silk
@@ -22,6 +24,17 @@ AddonTable.icc10 = {
     50774, -- Coldwraith Bracers
     50775, -- Corrupted Silverplate Legging
     51936, -- Citadel Enforcer's Claymore
+    -- Lady Deathwhisper (10 Man)
+    -- Icecrown Gunship Battle (10 Man)
+    -- Deathbringer Saurfang (10 Man)
+    -- Festergut (10 Man)
+    -- Rotface (10 Man)
+    -- Professor Putricide (10 Man)
+    -- Blood Prince Council (10 Man)
+    -- Blood-Queen Lana'thel (10 Man)
+    -- Valithria Dreamwalker (10 Man)
+    -- Sindragosa (10 Man)
+    -- The Lich King (10 Man)
 }
 
 AddonTable.icc25 = {

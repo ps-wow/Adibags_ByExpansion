@@ -18,6 +18,8 @@ AddonTable.loot = {
     55773, -- Mystical Cord
     55772, -- Everstill Cord
 
+    56300, -- Quicksilver Amulet
+
     113695, -- Emberspark Plate Helm
 
     -- BoE (Non-Appearence)

@@ -25,6 +25,7 @@ AddonTable.loot = {
     129995, -- Sablehide Handguards
 
     132243, -- Fel-Etched Glaive
+    132906, -- Leywalker Cord
     132963, -- Young Drake's Impulse
 
     133314, -- Power Handlers Gloves

@@ -33,6 +33,7 @@ AddonTable.transmog = {
     55458, -- Bladefist Sword
     55459, -- Irontree Sword
     55467, -- Bladefist Greatsword
+    55480, -- Swamplight Wand
     55484, -- Mereldar Wand
     55485, -- Thondroril Wand
     55493, -- Ravencrest Vambraces

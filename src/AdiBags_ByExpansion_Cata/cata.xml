@@ -24,6 +24,21 @@
     <Script file="professions\secondary\cooking.lua"/>
     <Script file="professions\secondary\fishing.lua"/>
 
+    <Script file="dungeons\blackrock.lua"/>
+    <Script file="dungeons\deadmines.lua"/>
+    <Script file="dungeons\endtime.lua"/>
+    <Script file="dungeons\grimbatol.lua"/>
+    <Script file="dungeons\hoo.lua"/>
+    <Script file="dungeons\hot.lua"/>
+    <Script file="dungeons\sfk.lua"/>
+    <Script file="dungeons\stonecore.lua"/>
+    <Script file="dungeons\throne.lua"/>
+    <Script file="dungeons\tolvir.lua"/>
+    <Script file="dungeons\vortex.lua"/>
+    <Script file="dungeons\well.lua"/>
+    <Script file="dungeons\zulaman.lua"/>
+    <Script file="dungeons\zulgurub.lua"/>
+
     <Script file="raids\bot.lua"/>
     <Script file="raids\bwd.lua"/>
     <Script file="raids\ds.lua"/>

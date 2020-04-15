@@ -1,5 +1,7 @@
 local AddonName, AddonTable = ...
 
+-- Icecrown Citadel
+-- 10/25 Man Difficulties have different loot.
 AddonTable.icc = {
     -- Shared Boss Loot
     49908,
@@ -9,11 +11,11 @@ AddonTable.icc = {
 
 AddonTable.icc10 = {
     -- Lord Marrowgar (10 Man)
+    50761,
     50759,
     50760,
     50771,
     50339,
-    50761,
     50762,
     50763,
     50764,
@@ -22,6 +24,17 @@ AddonTable.icc10 = {
     50774,
     50775,
     51936,
+    -- Lady Deathwhisper (10 Man)
+    -- Icecrown Gunship Battle (10 Man)
+    -- Deathbringer Saurfang (10 Man)
+    -- Festergut (10 Man)
+    -- Rotface (10 Man)
+    -- Professor Putricide (10 Man)
+    -- Blood Prince Council (10 Man)
+    -- Blood-Queen Lana'thel (10 Man)
+    -- Valithria Dreamwalker (10 Man)
+    -- Sindragosa (10 Man)
+    -- The Lich King (10 Man)
 }
 
 AddonTable.icc25 = {

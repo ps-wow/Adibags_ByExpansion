@@ -2,6 +2,7 @@ local AddonName, AddonTable = ...
 
 AddonTable.transmog = {
     -- Green
+    106407, -- Lunarglow Cord
     106410, -- Lunarglow Leggings
     106426, -- Rimeplate Helm
     106502, -- Steamscar Hood
@@ -21,6 +22,7 @@ AddonTable.transmog = {
     106733, -- Meadowstomper Hood [Leather][Helm]
     106735, -- Meadowstomper Shoulders [Leather][Shoulder]
     106736, -- Meadowstomper Waistband [Leather][Waist]
+    106740, -- Dark Star Leggings
     106742, -- Dark Star Sandals
     106743, -- Dark Star Shoulderpads [Cloth][Shoulder]
     106744, -- Dark Star Wristwraps
@@ -33,6 +35,7 @@ AddonTable.transmog = {
     116616, -- Gorian Knuckles
     116618, -- Gorian Mace
     116626, -- Ancestral Wand [Wand]
+    116627, -- Howling Axe
     116631, -- Howling Dagger
     116633, -- Howling Knuckles
     116635, -- Howling Mace
