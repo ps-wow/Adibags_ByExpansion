@@ -68,6 +68,7 @@ end
 function Core:GetProfile()
     return {
         TradeMaterials = true,
+        Professions = true,
         DungeonEquipment = true,
         RaidEquipment = true,
         Junk = true,
@@ -96,6 +97,15 @@ function Core:DefaultFilter(slotData, module, expFilter)
                             if expTable[tableName][abbr] then
                                 if expTable[tableName][abbr][slotData.itemId] then
                                     return prefix .. "Equipment (" .. raid .. ")"
+                                end
+                            end
+                        end
+                    elseif tableName == "Professions" then
+                        for _,prof in pairs(Core:GetProfessions()) do
+                            if expTable[tableName][prof] then
+                                if expTable[tableName][prof][slotData.itemId] then
+                                    local profDisplayName = prof:sub(1,1):upper()..prof:sub(2)
+                                    return prefix .. " " .. profDisplayName
                                 end
                             end
                         end
@@ -165,6 +175,7 @@ function Core:GetDefaultCategories()
         ["TradeMaterials"] = "Trade Materials", -- Tradable trade goods (eg. professions)
         ["DungeonEquipment"] = "Dungeon Armour/Weapons", -- Dungeon equipment (soulbound)
         ["RaidEquipment"] = "Raid Armour/Weapons", -- Raid equipment (Soulbound)
+        ["Professions"] = "Crafting Items",
         ["Junk"] = "Junk", -- Grey quality items.
         ["Consumable"] = "Consumables", -- Flasks/Potions/Runes
         ["Loot"] = "Other", -- Green or higher (soulbound), BoE non-appearences.
@@ -245,6 +256,24 @@ function Core:AddRaidItems(items, raid, module)
     end
 end
 
+function Core:AddProfessionItems(items, profession, module)
+    if not items then
+        return
+    end
+    if not AddonTable.ItemTables[module.name]["Professions"] then
+        AddonTable.ItemTables[module.name]["Professions"] = {}
+    end
+    local professionTable = AddonTable.ItemTables[module.name]["Professions"]
+
+    if not professionTable[profession] then
+        professionTable[profession] = {}
+    end
+
+    for i,itemId in pairs(items) do
+        professionTable[profession][itemId] = true
+    end
+end
+
 --- Load all the categories.
 -- @param table
 -- @param module
@@ -272,7 +301,8 @@ function Core:LoadCategories(table, module)
     local professions = Core:GetProfessions()
     for _,prof in pairs(professions) do
         if table[prof] then
-            Core:AddCategoryItems(table[prof], "TradeMaterials", module)
+            -- Core:AddCategoryItems(table[prof], "Profession", module)
+            Core:AddProfessionItems(table[prof], prof, module)
         end
     end
 
