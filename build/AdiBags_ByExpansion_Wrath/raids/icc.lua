@@ -2,6 +2,7 @@ local AddonName, AddonTable = ...
 
 -- Icecrown Citadel
 -- 10/25 Man Difficulties have different loot.
+-- Normal and Heroic are also different loot ids.
 AddonTable.icc = {
     -- Shared Boss Loot
     49908,

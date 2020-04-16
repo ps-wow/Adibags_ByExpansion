@@ -51,10 +51,17 @@ AddonTable.transmog = {
     10246, -- Master's Vest [Cloth][Chest]
     10250, -- Master's Hat [Cloth][Head]
     10255, -- Master's Belt
+    10259, -- Adventurer's Belt
     10275, -- Emerald Breastplate [Plate][Chest]
 
     10379, -- Commander's Helm
     10384, -- Hyperion Armor [Plate][Chest]
+
+    13072, -- Stonegrip Gauntlets
+    13073, -- Mugthol's Helm
+    13123, -- Dreamwalker Armor [Mail][Chest] (Nefarian)
+    13113, -- Feathermoon Headdress (Nefarian)
+    13144, -- Serenity Belt
 
     14124, -- Ritual Gloves
     14200, -- Thistlefur Cap
@@ -77,10 +84,4 @@ AddonTable.transmog = {
     68754, -- Imbued Disciple's Boots
 
     115348, -- Feathered Cape
-
-    -- Rare (Blue)
-    13073, -- Mugthol's Helm [Plate][Head] (Nefarian)
-    13123, -- Dreamwalker Armor [Mail][Chest] (Nefarian)
-    13113, -- Feathermoon Headdress (Nefarian)
-    13144, -- Serenity Belt
 }

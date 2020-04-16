@@ -22,6 +22,8 @@ AddonTable.junk = {
     2212, -- Cracked Buckler
     2295, -- Large Boar Tusk
 
+    3170, -- Large Bear Tooth
+    3171, -- Broken Boar Tusk
     3180, -- Flecked Raptor Scale
     3181, -- Partially Digested Meat
     3189, -- Wood Chopper
@@ -73,6 +75,7 @@ AddonTable.junk = {
     6445, -- Brittle Molting
 
     7073, -- Broken Fang
+    7074, -- Chipped Claw
     7098, -- Splintered Tusk
     7100, -- Sticky Ichor
 
