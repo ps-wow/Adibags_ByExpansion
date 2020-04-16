@@ -49,13 +49,17 @@ AddonTable.transmog = {
     10185, -- Swashbuckler's Cape
     10217, -- Elegant Leggings [Cloth][Legs]
     10246, -- Master's Vest [Cloth][Chest]
+    10247, -- Master's Boots
     10250, -- Master's Hat [Cloth][Head]
     10255, -- Master's Belt
+    10257, -- Adventurer's Boots
     10259, -- Adventurer's Belt
+    10264, -- Adventurer's Tunic
     10275, -- Emerald Breastplate [Plate][Chest]
 
     10379, -- Commander's Helm
     10384, -- Hyperion Armor [Plate][Chest]
+    10389, -- Hyperion Legplates
 
     13072, -- Stonegrip Gauntlets
     13073, -- Mugthol's Helm

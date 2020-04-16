@@ -17,6 +17,7 @@ AddonTable.loot = {
 
     10775, -- Carapace of Tuten'kash
 
+    11302, -- Uther's Strenth (BoE Trinket)
     11935, -- Magmus Stone
 
     12048, -- Prismatic Pendant (BoE Neck)
