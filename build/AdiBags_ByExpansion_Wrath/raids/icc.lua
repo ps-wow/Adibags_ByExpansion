@@ -121,6 +121,18 @@ AddonTable.icc10 = {
     51019,
     51018,
     -- Blood Prince Council
+    51381,
+    51326,
+    51022,
+    51025,
+    51325,
+    51024,
+    51023,
+    51382,
+    51380,
+    51021,
+    51383,
+    51379,
     -- Blood-Queen Lana'thel
     -- Valithria Dreamwalker
     -- Sindragosa
@@ -221,6 +233,18 @@ AddonTable.icc10 = {
     51861,
     51860,
     -- Blood Prince Council
+    51849,
+    51852,
+    51857,
+    51854,
+    51853,
+    51856,
+    51855,
+    51858,
+    51848,
+    51850,
+    51847,
+    51851,
     -- Blood-Queen Lana'thel
     -- Valithria Dreamwalker
     -- Sindragosa
@@ -328,6 +352,21 @@ AddonTable.icc25 = {
     50068,
     50069,
     -- Blood Prince Council
+    50170,
+    50173,
+    49919,
+    50184,
+    50174,
+    50074,
+    50071,
+    50175,
+    50177,
+    50171,
+    50075,
+    50073,
+    50176,
+    50172,
+    50072,
     -- Blood-Queen Lana'thel
     -- Valithria Dreamwalker
     -- Sindragosa

@@ -121,6 +121,18 @@ AddonTable.icc10 = {
     51019, -- rippling-flesh-kilt
     51018, -- chestplate-of-septic-stitches
     -- Blood Prince Council
+    51381, -- cerise-coiled-ring
+    51326, -- wand-of-ruby-claret
+    51022, -- hersirs-greatspear
+    51025, -- battle-maidens-legguards
+    51325, -- blood-drinkers-girdle
+    51024, -- thrice-fanged-signet
+    51023, -- taldarams-soft-slippers
+    51382, -- heartsick-menders-cape
+    51380, -- pale-corpse-boots
+    51021, -- soulbreaker
+    51383, -- spaulders-of-the-blood-princes
+    51379, -- bloodsoul-raiment
     -- Blood-Queen Lana'thel
     -- Valithria Dreamwalker
     -- Sindragosa
@@ -221,6 +233,18 @@ AddonTable.icc10 = {
     51861, -- chestplate-of-septic-stitches
     51860, -- rippling-flesh-kilt
     -- Blood Prince Council
+    51849, -- cerise-coiled-ring
+    51852, -- wand-of-ruby-claret
+    51857, -- hersirs-greatspear
+    51854, -- battle-maidens-legguards
+    51853, -- blood-drinkers-girdle
+    51856, -- taldarams-soft-slippers
+    51855, -- thrice-fanged-signet
+    51858, -- soulbreaker
+    51848, -- heartsick-menders-cape
+    51850, -- pale-corpse-boots
+    51847, -- spaulders-of-the-blood-princes
+    51851, -- bloodsoul-raiment
     -- Blood-Queen Lana'thel
     -- Valithria Dreamwalker
     -- Sindragosa
@@ -328,6 +352,21 @@ AddonTable.icc25 = {
     50068, -- rigormortis
     50069, -- professors-bloodied-smock
     -- Blood Prince Council
+    50170, -- valanars-other-signet-ring
+    50173, -- shadow-silk-spindle
+    49919, -- cryptmaker
+    50184, -- keleseths-seducer
+    50174, -- incarnadine-band-of-mending
+    50074, -- royal-crimson-cloak
+    50071, -- treads-of-the-wasteland
+    50175, -- crypt-keepers-bracers
+    50177, -- mail-of-crimson-coins
+    50171, -- shoulders-of-frost-tipped-thorns
+    50075, -- taldarams-plated-fists
+    50073, -- geistlords-punishment-sack
+    50176, -- sanlayn-ritualist-gloves
+    50172, -- sanguine-silk-robes
+    50072, -- landsouls-horned-greathelm
     -- Blood-Queen Lana'thel
     -- Valithria Dreamwalker
     -- Sindragosa
