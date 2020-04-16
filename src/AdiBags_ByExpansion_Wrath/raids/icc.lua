@@ -8,16 +8,21 @@ local AddonName, AddonTable = ...
 AddonTable.icc = {
     -- Shared Boss Loot
     49908, -- Primordial Saronite
+
     50274, -- Shadowfrost Shard
+
     52025, -- Vanquisher's Mark of Sanctification
     52026, -- Protector's Mark of Sanctification
     52027, -- Conqueror's Mark of Sanctification
     52028, -- Vanquisher's Mark of Sanctification (Heroic)
     52029, -- Protector's Mark of Sanctification (Heroic)
     52030, -- Conqueror's Mark of Sanctification (Heroic)
-    -- Lord Marrowgar
+
     142094, -- Fragment of Frozen Bone (Boneshard) [Battle Pet]
     142095, -- Remains of a Blood Beast (Blood Boil) [Battle Pet]
+    142096, -- Putricide's Alchemy Supplies (Blightbreath) [Battle Pet]
+    142097, -- Skull of a Frozen Whelp (Soulbroken Whelping) [Battle Pet]
+    142099, -- Call of the Frozen Blade (Wicked Soul) [Battle Pet]
 }
 
 AddonTable.icc10 = {
@@ -103,6 +108,18 @@ AddonTable.icc10 = {
     51005, -- gloves-of-broken-fingers
     51006, -- shuffling-shoes
     -- Professor Putricide
+    51016, -- pendant-of-split-veins
+    51017, -- cauterized-cord
+    51013, -- discarded-bag-of-entrails
+    51020, -- shoulders-of-ruinous-senility
+    51012, -- infected-choker
+    51015, -- shoulderpads-of-the-morbid-ritual
+    51010, -- the-facelifter
+    50341, -- unidentifiable-organ
+    51014, -- scalpel-sharpening-shoulderguards
+    51011, -- flesh-carving-scalpel
+    51019, -- rippling-flesh-kilt
+    51018, -- chestplate-of-septic-stitches
     -- Blood Prince Council
     -- Blood-Queen Lana'thel
     -- Valithria Dreamwalker
@@ -191,6 +208,18 @@ AddonTable.icc10 = {
     51874, -- gloves-of-broken-fingers
     51873, -- shuffling-shoes
     -- Professor Putricide
+    51862, -- cauterized-cord
+    51863, -- pendant-of-split-veins
+    51864, -- shoulderpads-of-the-morbid-ritual
+    51869, -- the-facelifter
+    51859, -- shoulders-of-ruinous-senility
+    50344, -- unidentifiable-organ
+    51868, -- flesh-carving-scalpel
+    51867, -- infected-choker
+    51866, -- discarded-bag-of-entrails
+    51865, -- scalpel-sharpening-shoulderguards
+    51861, -- chestplate-of-septic-stitches
+    51860, -- rippling-flesh-kilt
     -- Blood Prince Council
     -- Blood-Queen Lana'thel
     -- Valithria Dreamwalker
@@ -202,14 +231,6 @@ AddonTable.icc25 = {
     ---------------
     -- 25 NORMAL --
     ---------------
-
-    -- Shared Boss Loot
-    -- Vanquisher's Mark of Sanctification
-    -- Vanquisher's Mark of Sanctification (Heroic)
-    -- Conqueror's Mark of Sanctification (Heroic)
-    -- Conqueror's Mark of Sanctification
-    -- Protector's Mark of Sanctification (Heroic)
-    -- Protector's Mark of Sanctification
 
     -- Lord Marrowgar
     49968, -- frozen-bonespike
@@ -301,6 +322,11 @@ AddonTable.icc25 = {
     50027, -- rot-resistant-breastplate
     50231, -- rotfaces-acidic-blood
     -- Professor Putricide
+    50351, -- tiny-abomination-in-a-jar
+    50067, -- astrylians-sutured-cinch
+    50179, -- last-word
+    50068, -- rigormortis
+    50069, -- professors-bloodied-smock
     -- Blood Prince Council
     -- Blood-Queen Lana'thel
     -- Valithria Dreamwalker
@@ -399,7 +425,6 @@ AddonTable.icc25 = {
     50686, -- Death Surgeon's Sleeves
     50687, -- Bloodsunder's Bracers
     -- Professor Putricide
-    142096, -- Putricide's Alchemy Supplies (Blightbreath) [Battle Pet]
     50708, -- Last Word
     50704, -- Rigormortis
     50707, -- Astrylian's Sutured Cinch
@@ -446,14 +471,12 @@ AddonTable.icc25 = {
     50622, -- Devium's Eternally Cold Ring
     50618, -- Frostblood Sapphire Ring
     -- Sindragosa
-    142097, -- Skull of a Frozen Whelp (Soulbroken Whelping) [Battle Pet]
     50635, -- Sundial of Eternal Dusk
     50633, -- Singragosa's Cruel Claw
     50636, -- Memory of Malygos
     50365, -- Phylactery of the Nameless Lich
     50364, -- Sindragosa's Flawless Fang
     -- The Lich King
-    142099, -- Call of the Frozen Blade (Wicked Soul) [Battle Pet]
     138955, -- Illusion: Rune of Razorice
     50818, -- Invincible's Reins
     50731, -- Archus, Greatstaff of Antonidas

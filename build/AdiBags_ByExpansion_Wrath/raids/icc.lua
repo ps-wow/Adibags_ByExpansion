@@ -8,16 +8,21 @@ local AddonName, AddonTable = ...
 AddonTable.icc = {
     -- Shared Boss Loot
     49908,
+
     50274,
+
     52025,
     52026,
     52027,
     52028,
     52029,
     52030,
-    -- Lord Marrowgar
+
     142094,
     142095,
+    142096,
+    142097,
+    142099,
 }
 
 AddonTable.icc10 = {
@@ -103,6 +108,18 @@ AddonTable.icc10 = {
     51005,
     51006,
     -- Professor Putricide
+    51016,
+    51017,
+    51013,
+    51020,
+    51012,
+    51015,
+    51010,
+    50341,
+    51014,
+    51011,
+    51019,
+    51018,
     -- Blood Prince Council
     -- Blood-Queen Lana'thel
     -- Valithria Dreamwalker
@@ -191,6 +208,18 @@ AddonTable.icc10 = {
     51874,
     51873,
     -- Professor Putricide
+    51862,
+    51863,
+    51864,
+    51869,
+    51859,
+    50344,
+    51868,
+    51867,
+    51866,
+    51865,
+    51861,
+    51860,
     -- Blood Prince Council
     -- Blood-Queen Lana'thel
     -- Valithria Dreamwalker
@@ -202,14 +231,6 @@ AddonTable.icc25 = {
     ---------------
     -- 25 NORMAL --
     ---------------
-
-    -- Shared Boss Loot
-    -- Vanquisher's Mark of Sanctification
-    -- Vanquisher's Mark of Sanctification (Heroic)
-    -- Conqueror's Mark of Sanctification (Heroic)
-    -- Conqueror's Mark of Sanctification
-    -- Protector's Mark of Sanctification (Heroic)
-    -- Protector's Mark of Sanctification
 
     -- Lord Marrowgar
     49968,
@@ -301,6 +322,11 @@ AddonTable.icc25 = {
     50027,
     50231,
     -- Professor Putricide
+    50351,
+    50067,
+    50179,
+    50068,
+    50069,
     -- Blood Prince Council
     -- Blood-Queen Lana'thel
     -- Valithria Dreamwalker
@@ -399,7 +425,6 @@ AddonTable.icc25 = {
     50686,
     50687,
     -- Professor Putricide
-    142096,
     50708,
     50704,
     50707,
@@ -446,14 +471,12 @@ AddonTable.icc25 = {
     50622,
     50618,
     -- Sindragosa
-    142097,
     50635,
     50633,
     50636,
     50365,
     50364,
     -- The Lich King
-    142099,
     138955,
     50818,
     50731,
