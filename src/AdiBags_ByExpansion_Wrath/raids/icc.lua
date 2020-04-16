@@ -18,12 +18,16 @@ AddonTable.icc = {
     52029, -- Protector's Mark of Sanctification (Heroic)
     52030, -- Conqueror's Mark of Sanctification (Heroic)
 
+    122229, -- Music Roll: Invincible
+
     138832, -- Illusion: Earthliving
+    138955, -- Illusion: Rune of Razorice
 
     142094, -- Fragment of Frozen Bone (Boneshard) [Battle Pet]
     142095, -- Remains of a Blood Beast (Blood Boil) [Battle Pet]
     142096, -- Putricide's Alchemy Supplies (Blightbreath) [Battle Pet]
     142097, -- Skull of a Frozen Whelp (Soulbroken Whelping) [Battle Pet]
+    142098, -- Drudge Remains (Drudge Ghoul) [Battle Pet]
     142099, -- Call of the Frozen Blade (Wicked Soul) [Battle Pet]
 }
 
@@ -175,6 +179,15 @@ AddonTable.icc10 = {
     51789, -- icicle-shapers
     51787, -- scourge-fanged-stompers
     -- The Lich King
+    51796, -- warmace-of-menethil
+    51799, -- halion-staff-of-forgotten-love
+    51798, -- valius-gavel-of-the-lightbringer
+    51802, -- windrunners-heartseeker
+    51797, -- tainted-twig-of-nordrassil
+    51803, -- telthas-dagger-of-the-blood-king
+    51795, -- troggbane-axe-of-the-frostborne-king
+    51801, -- pugius-fist-of-defiance
+    51800, -- stormfury-black-blade-of-the-betrayer
 
     ---------------
     -- 10 HEROIC --
@@ -322,6 +335,15 @@ AddonTable.icc10 = {
     51816, -- scourge-fanged-stompers
     51811, -- shoulderguards-of-crystalline-bone
     -- The Lich King
+    51946, -- warmace-of-menethil
+    51940, -- windrunners-heartseeker
+    51944, -- valius-gavel-of-the-lightbringer
+    51939, -- telthas-dagger-of-the-blood-king
+    51942, -- stormfury-black-blade-of-the-betrayer
+    51943, -- halion-staff-of-forgotten-love
+    51945, -- tainted-twig-of-nordrassil
+    51941, -- pugius-fist-of-defiance
+    51947, -- troggbane-axe-of-the-frostborne-king
 }
 
 AddonTable.icc25 = {
@@ -470,6 +492,15 @@ AddonTable.icc25 = {
     50424, -- memory-of-malygos
     50423, -- sundial-of-eternal-dusk
     -- The Lich King
+    50070, -- glorenzelg-high-blade-of-the-silver-hand
+    50012, -- havocs-call-blade-of-lordaeron-kings
+    50428, -- royal-scepter-of-terenas-ii
+    50429, -- archus-greatstaff-of-antonidas
+    50425, -- oathbinder-charge-of-the-ranger-general
+    49981, -- falinrush-defender-of-quelthalas
+    50426, -- heavens-fall-kryss-of-a-thousand-lies
+    49997, -- mithrios-bronzebeards-legacy
+    50427, -- bloodsurge-kelthuzads-blade-of-agony
 
     ---------------
     -- 25 HEROIC --
@@ -614,7 +645,6 @@ AddonTable.icc25 = {
     50365, -- Phylactery of the Nameless Lich
     50364, -- Sindragosa's Flawless Fang
     -- The Lich King
-    138955, -- Illusion: Rune of Razorice
     50818, -- Invincible's Reins
     50731, -- Archus, Greatstaff of Antonidas
     50730, -- Glorenzelg, High-Blade of the Silver Hand
