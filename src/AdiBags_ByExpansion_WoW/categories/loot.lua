@@ -61,8 +61,9 @@ AddonTable.loot = {
     65953, -- Dathrohan's Mace
     65961, -- Cobrahn's Boots
     65962, -- Thaelrid's Greaves
+    65975, -- Chestguard of Redemption
     65986, -- Shield Against the Evil Presence
-    65991, -- Boots of the Noble Path
+    65991, -- Boots of the Noble Path'''''''''''''''''''
     65992, -- Pauldrons of the Promise
     65993, -- Warpwood Shield
     65994, -- Staff of Athen'a
