@@ -1,19 +1,19 @@
 local AddonName, AddonTable = ...
 
 AddonTable.archavon = {
-    -- Archavon the Stone Watcher (10)
+    -- Archavon the Stone Watcher (10) - https://www.wowhead.com/npc=31125/archavon-the-stone-watcher#drops:mode=n10
 
-    -- Archavon the Stone Watcher (25)
+    -- Archavon the Stone Watcher (25) - https://www.wowhead.com/npc=31125/archavon-the-stone-watcher#drops:mode=n25
 
-    -- Emalon the Storm Watcher (10)
+    -- Emalon the Storm Watcher (10) - https://www.wowhead.com/npc=33993/emalon-the-storm-watcher#drops:mode=n10
 
-    -- Emalon the Storm Watcher (25)
+    -- Emalon the Storm Watcher (25) - https://www.wowhead.com/npc=33993/emalon-the-storm-watcher#drops:mode=n25
 
-    -- Koralon the Flame Watcher (10)
+    -- Koralon the Flame Watcher (10) - https://www.wowhead.com/npc=35013/koralon-the-flame-watcher#drops:mode=n10
 
-    -- Koralon the Flame Watcher (25)
+    -- Koralon the Flame Watcher (25) - https://www.wowhead.com/npc=35013/koralon-the-flame-watcher#drops:mode=n25
 
-    -- Toravon the Ice Watcher (10)
+    -- Toravon the Ice Watcher (10) - https://www.wowhead.com/npc=38433/toravon-the-ice-watcher#drops:mode=n10:100+17-20+1
 
     -- Toravon the Ice Watcher (25)
     51154,
