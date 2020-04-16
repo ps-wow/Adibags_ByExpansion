@@ -9,8 +9,15 @@ AddonTable.icc = {
     -- Shared Boss Loot
     49908,
     50274,
+    52025,
+    52026,
+    52027,
+    52028,
+    52029,
+    52030,
     -- Lord Marrowgar
     142094,
+    142095,
 }
 
 AddonTable.icc10 = {
@@ -58,6 +65,18 @@ AddonTable.icc10 = {
     50797,
     50790,
     -- Deathbringer Saurfang
+    50805,
+    50798,
+    50803,
+    50809,
+    50804,
+    50801,
+    50799,
+    50800,
+    50806,
+    50808,
+    50807,
+    50802,
     -- Festergut
     -- Rotface
     -- Professor Putricide
@@ -111,6 +130,18 @@ AddonTable.icc10 = {
     51909,
     51911,
     -- Deathbringer Saurfang
+    51905,
+    51898,
+    51894,
+    51897,
+    51902,
+    51903,
+    51900,
+    51899,
+    51904,
+    51901,
+    51895,
+    51896,
     -- Festergut
     -- Rotface
     -- Professor Putricide
@@ -183,6 +214,11 @@ AddonTable.icc25 = {
     50003,
     50010,
     -- Deathbringer Saurfang
+    50362,
+    50412,
+    50014,
+    50333,
+    50015,
     -- Festergut
     -- Rotface
     -- Professor Putricide
@@ -196,13 +232,6 @@ AddonTable.icc25 = {
     -- 25 HEROIC --
     ---------------
 
-    -- Shared Boss Loot
-    52025,
-    52028,
-    52030,
-    52027,
-    52029,
-    52026,
     -- Lord Marrowgar
     50604,
     50605,
@@ -252,7 +281,6 @@ AddonTable.icc25 = {
     50366,
     50349,
     -- Deathbringer Saurfang
-    142095,
     50672,
     50668,
     50670,

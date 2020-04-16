@@ -9,8 +9,15 @@ AddonTable.icc = {
     -- Shared Boss Loot
     49908, -- Primordial Saronite
     50274, -- Shadowfrost Shard
+    52025, -- Vanquisher's Mark of Sanctification
+    52026, -- Protector's Mark of Sanctification
+    52027, -- Conqueror's Mark of Sanctification
+    52028, -- Vanquisher's Mark of Sanctification (Heroic)
+    52029, -- Protector's Mark of Sanctification (Heroic)
+    52030, -- Conqueror's Mark of Sanctification (Heroic)
     -- Lord Marrowgar
     142094, -- Fragment of Frozen Bone (Boneshard) [Battle Pet]
+    142095, -- Remains of a Blood Beast (Blood Boil) [Battle Pet]
 }
 
 AddonTable.icc10 = {
@@ -58,6 +65,18 @@ AddonTable.icc10 = {
     50797, -- ice-reinforced-vrykul-helm
     50790, -- abominations-bloody-ring
     -- Deathbringer Saurfang
+    50805, -- maghari-chieftains-staff
+    50798, -- ramaladnis-blade-of-culling
+    50803, -- saurfangs-cold-forged-band
+    50809, -- soulcleave-pendant
+    50804, -- icecrown-spire-sandals
+    50801, -- blade-scored-carapace
+    50799, -- scourge-stranglers
+    50800, -- hauberk-of-a-thousand-cuts
+    50806, -- leggings-of-unrelenting-blood
+    50808, -- deathforged-legplates
+    50807, -- thaumaturges-crackling-cowl
+    50802, -- gargoyle-spit-bracers
     -- Festergut
     -- Rotface
     -- Professor Putricide
@@ -111,6 +130,18 @@ AddonTable.icc10 = {
     51909, -- neverending-winter
     51911, -- pauldrons-of-lost-hope
     -- Deathbringer Saurfang
+    51905, -- ramaladnis-blade-of-culling
+    51898, -- maghari-chieftains-staff
+    51894, -- soulcleave-pendant
+    51897, -- leggings-of-unrelenting-blood
+    51902, -- blade-scored-carapace
+    51903, -- hauberk-of-a-thousand-cuts
+    51900, -- saurfangs-cold-forged-band
+    51899, -- icecrown-spire-sandals
+    51904, -- scourge-stranglers
+    51901, -- gargoyle-spit-bracers
+    51895, -- deathforged-legplates
+    51896, -- thaumaturges-crackling-cowl
     -- Festergut
     -- Rotface
     -- Professor Putricide
@@ -183,6 +214,11 @@ AddonTable.icc25 = {
     50003, -- boneguard-commanders-pauldrons
     50010, -- waistband-of-righteous-fury
     -- Deathbringer Saurfang
+    50362, -- deathbringers-will
+    50412, -- bloodvenom-blade
+    50014, -- greatcloak-of-the-turned-champion
+    50333, -- toskks-maximized-wristguards
+    50015, -- belt-of-the-blood-nova
     -- Festergut
     -- Rotface
     -- Professor Putricide
@@ -196,13 +232,6 @@ AddonTable.icc25 = {
     -- 25 HEROIC --
     ---------------
 
-    -- Shared Boss Loot
-    52025, -- Vanquisher's Mark of Sanctification
-    52028, -- Vanquisher's Mark of Sanctification (Heroic)
-    52030, -- Conqueror's Mark of Sanctification (Heroic)
-    52027, -- Conqueror's Mark of Sanctification
-    52029, -- Protector's Mark of Sanctification (Heroic)
-    52026, -- Protector's Mark of Sanctification
     -- Lord Marrowgar
     50604, -- Band of the Bone Colossus
     50605, -- Snowserpent Mail Helm
@@ -252,7 +281,6 @@ AddonTable.icc25 = {
     50366, -- Althor's Abacus
     50349, -- Corpse Tongue Coin
     -- Deathbringer Saurfang
-    142095, -- Remains of a Blood Beast (Blood Boil) [Battle Bet]
     50672, -- Bloodvenom Blade
     50668, -- Greatcloak of the Turned Champion
     50670, -- Toskk's Maximized Wristguard
