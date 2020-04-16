@@ -134,6 +134,18 @@ AddonTable.icc10 = {
     51383, -- spaulders-of-the-blood-princes
     51379, -- bloodsoul-raiment
     -- Blood-Queen Lana'thel
+    51385, -- stakethrower
+    51554, -- cowl-of-malefic-repose
+    51553, -- lanathels-bloody-nail
+    51387, -- seal-of-the-twilight-queen
+    51386, -- throatrender-handguards
+    51548, -- collar-of-haughty-disdain
+    51552, -- shoulderpads-of-the-searing-kiss
+    51550, -- ivory-inlaid-leggings
+    51556, -- veincrusher-gauntlets
+    51384, -- bloodsipper
+    51551, -- chestguard-of-siphoned-elements
+    51555, -- tightening-waistband
     -- Valithria Dreamwalker
     -- Sindragosa
     -- The Lich King
@@ -246,6 +258,18 @@ AddonTable.icc10 = {
     51847, -- spaulders-of-the-blood-princes
     51851, -- bloodsoul-raiment
     -- Blood-Queen Lana'thel
+    51845, -- stakethrower
+    51837, -- cowl-of-malefic-repose
+    51843, -- seal-of-the-twilight-queen
+    51846, -- bloodsipper
+    51841, -- ivory-inlaid-leggings
+    51838, -- lanathels-bloody-nail
+    51839, -- shoulderpads-of-the-searing-kiss
+    51840, -- chestguard-of-siphoned-elements
+    51842, -- collar-of-haughty-disdain
+    51836, -- tightening-waistband
+    51835, -- veincrusher-gauntlets
+    51844, -- throatrender-handguards
     -- Valithria Dreamwalker
     -- Sindragosa
     -- The Lich King
@@ -368,6 +392,12 @@ AddonTable.icc25 = {
     50172, -- sanguine-silk-robes
     50072, -- landsouls-horned-greathelm
     -- Blood-Queen Lana'thel
+    50182, -- blood-queens-crimson-choker
+    50178, -- bloodfall
+    50181, -- dying-light
+    50180, -- lanathels-chain-of-flagellation
+    50354, -- bauble-of-true-blood
+    50065, -- icecrown-glacial-wall
     -- Valithria Dreamwalker
     -- Sindragosa
     -- The Lich King

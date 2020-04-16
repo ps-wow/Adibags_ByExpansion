@@ -134,6 +134,18 @@ AddonTable.icc10 = {
     51383,
     51379,
     -- Blood-Queen Lana'thel
+    51385,
+    51554,
+    51553,
+    51387,
+    51386,
+    51548,
+    51552,
+    51550,
+    51556,
+    51384,
+    51551,
+    51555,
     -- Valithria Dreamwalker
     -- Sindragosa
     -- The Lich King
@@ -246,6 +258,18 @@ AddonTable.icc10 = {
     51847,
     51851,
     -- Blood-Queen Lana'thel
+    51845,
+    51837,
+    51843,
+    51846,
+    51841,
+    51838,
+    51839,
+    51840,
+    51842,
+    51836,
+    51835,
+    51844,
     -- Valithria Dreamwalker
     -- Sindragosa
     -- The Lich King
@@ -368,6 +392,12 @@ AddonTable.icc25 = {
     50172,
     50072,
     -- Blood-Queen Lana'thel
+    50182,
+    50178,
+    50181,
+    50180,
+    50354,
+    50065,
     -- Valithria Dreamwalker
     -- Sindragosa
     -- The Lich King
