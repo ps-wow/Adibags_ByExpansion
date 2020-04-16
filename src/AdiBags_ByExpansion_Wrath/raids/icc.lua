@@ -162,6 +162,18 @@ AddonTable.icc10 = {
     51564, -- ironrope-belt-of-ymirjar
     51777, -- leggings-of-the-refracted-mind
     -- Sindragosa
+    51788, -- bleak-coldarra-carver
+    51779, -- rimetooth-pendant
+    51786, -- legplates-of-aetheric-strife
+    51790, -- robes-of-azure-downfall
+    51792, -- shoulderguards-of-crystalline-bone
+    51784, -- splintershard
+    51791, -- lost-pavise-of-the-blue-flight
+    51785, -- wyrmwing-treads
+    51783, -- vambraces-of-the-frost-wyrm-queen
+    51782, -- etched-dragonbone-girdle
+    51789, -- icicle-shapers
+    51787, -- scourge-fanged-stompers
     -- The Lich King
 
     ---------------
@@ -298,6 +310,17 @@ AddonTable.icc10 = {
     51824, -- emerald-saints-spaulders
     51831, -- ironrope-belt-of-ymirjar
     -- Sindragosa
+    51821, -- etched-dragonbone-girdle
+    51822, -- rimetooth-pendant
+    51819, -- splintershard
+    51814, -- icicle-shapers
+    51817, -- legplates-of-aetheric-strife
+    51813, -- robes-of-azure-downfall
+    51820, -- vambraces-of-the-frost-wyrm-queen
+    51818, -- wyrmwing-treads
+    51812, -- lost-pavise-of-the-blue-flight
+    51816, -- scourge-fanged-stompers
+    51811, -- shoulderguards-of-crystalline-bone
     -- The Lich King
 }
 
@@ -441,6 +464,11 @@ AddonTable.icc25 = {
     50185, -- deviums-eternally-cold-ring
     50417, -- bracers-of-eternal-dreaming
     -- Sindragosa
+    50360, -- phylactery-of-the-nameless-lich
+    50421, -- sindragosas-cruel-claw
+    50361, -- sindragosas-flawless-fang
+    50424, -- memory-of-malygos
+    50423, -- sundial-of-eternal-dusk
     -- The Lich King
 
     ---------------
