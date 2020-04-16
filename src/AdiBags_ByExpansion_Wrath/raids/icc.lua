@@ -78,6 +78,18 @@ AddonTable.icc10 = {
     50807, -- thaumaturges-crackling-cowl
     50802, -- gargoyle-spit-bracers
     -- Festergut
+    50966, -- abracadaver
+    50810, -- gutbuster
+    50852, -- precious-putrid-collar
+    50990, -- kilt-of-untreated-wounds
+    50812, -- taldrons-long-neglected-boots
+    50858, -- plague-soaked-leather-leggings
+    50811, -- festering-fingerguards
+    50988, -- bloodstained-surgeons-shoulderguards
+    50967, -- festerguts-gaseous-gloves
+    50986, -- signet-of-putrefaction
+    50985, -- wrists-of-septic-shock
+    50859, -- cloak-of-many-skins
     -- Rotface
     -- Professor Putricide
     -- Blood Prince Council
@@ -143,6 +155,18 @@ AddonTable.icc10 = {
     51895, -- deathforged-legplates
     51896, -- thaumaturges-crackling-cowl
     -- Festergut
+    51887, -- abracadaver
+    51882, -- kilt-of-untreated-wounds
+    51890, -- precious-putrid-collar
+    51893, -- gutbuster
+    51892, -- festering-fingerguards
+    51889, -- plague-soaked-leather-leggings
+    51883, -- bloodstained-surgeons-shoulderguards
+    51891, -- taldrons-long-neglected-boots
+    51886, -- festerguts-gaseous-gloves
+    51885, -- wrists-of-septic-shock
+    51884, -- signet-of-putrefaction
+    51888, -- cloak-of-many-skins
     -- Rotface
     -- Professor Putricide
     -- Blood Prince Council
@@ -220,6 +244,23 @@ AddonTable.icc25 = {
     50333, -- toskks-maximized-wristguards
     50015, -- belt-of-the-blood-nova
     -- Festergut
+    50040, -- distant-land
+    50063, -- lingering-illness
+    50062, -- plague-scientists-boots
+    50038, -- carapace-of-forgotten-kings
+    50036, -- belt-of-broken-bones
+    50041, -- leather-of-stitched-scourge-parts
+    50037, -- fleshrending-gauntlets
+    50042, -- gangrenous-leggings
+    50061, -- holidays-grace
+    50056, -- plaguebringers-stained-pants
+    50413, -- nerubar-stalkers-cord
+    50035, -- black-bruise
+    50064, -- unclean-surgical-gloves
+    50060, -- faceplate-of-the-forgotten
+    50414, -- might-of-blight
+    50226, -- festerguts-acidic-blood
+    50059, -- horrific-flesh-epaulets
     -- Rotface
     -- Professor Putricide
     -- Blood Prince Council

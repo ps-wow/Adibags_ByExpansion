@@ -78,6 +78,18 @@ AddonTable.icc10 = {
     50807,
     50802,
     -- Festergut
+    50966,
+    50810,
+    50852,
+    50990,
+    50812,
+    50858,
+    50811,
+    50988,
+    50967,
+    50986,
+    50985,
+    50859,
     -- Rotface
     -- Professor Putricide
     -- Blood Prince Council
@@ -143,6 +155,18 @@ AddonTable.icc10 = {
     51895,
     51896,
     -- Festergut
+    51887,
+    51882,
+    51890,
+    51893,
+    51892,
+    51889,
+    51883,
+    51891,
+    51886,
+    51885,
+    51884,
+    51888,
     -- Rotface
     -- Professor Putricide
     -- Blood Prince Council
@@ -220,6 +244,23 @@ AddonTable.icc25 = {
     50333,
     50015,
     -- Festergut
+    50040,
+    50063,
+    50062,
+    50038,
+    50036,
+    50041,
+    50037,
+    50042,
+    50061,
+    50056,
+    50413,
+    50035,
+    50064,
+    50060,
+    50414,
+    50226,
+    50059,
     -- Rotface
     -- Professor Putricide
     -- Blood Prince Council
