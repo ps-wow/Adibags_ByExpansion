@@ -73,6 +73,18 @@ AddonTable.icc10 = {
     51935, -- linked-scourge-vertebrae
     51934, -- marrowgars-scratching-choker
     -- Lady Deathwhisper
+    51922, -- scourgelords-baton
+    50343, -- whispering-fanged-skull
+    51918, -- bracers-of-dark-blessings
+    51927, -- njorndar-bone-bow
+    51921, -- sisters-handshrouds
+    51925, -- soulthiefs-braided-belt
+    51920, -- boots-of-the-frozen-seed
+    51917, -- ghoul-commanders-cuirass
+    51926, -- handgrips-of-frost-and-sleet
+    51924, -- deathspeaker-zealots-helm
+    51923, -- chestguard-of-the-frigid-noose
+    51919, -- deathspeaker-disciples-belt
     -- Icecrown Gunship Battle
     -- Deathbringer Saurfang
     -- Festergut
@@ -115,6 +127,21 @@ AddonTable.icc25 = {
     49950, -- frostbitten-fur-boots
     49980, -- rusted-bonespike-pauldrons
     -- Lady Deathwhisper
+    49992, -- nibelung
+    50034, -- zods-repeating-longbow
+    49987, -- cultists-bloodsoaked-spaulders
+    49994, -- the-ladys-brittle-bracers
+    49983, -- blood-soaked-saronite-stompers
+    49985, -- juggernaut-band
+    49989, -- ahnkahar-onyx-neckguard
+    49988, -- leggings-of-northern-lights
+    49993, -- necrophotic-greaves
+    49990, -- ring-of-maddening-whispers
+    49991, -- shoulders-of-mercy-killing
+    49996, -- deathwhisper-raiment
+    49982, -- heartpierce
+    49986, -- broken-ram-skull-helm
+    49995, -- fallen-lords-handguards
     -- Icecrown Gunship Battle
     -- Deathbringer Saurfang
     -- Festergut
@@ -125,7 +152,6 @@ AddonTable.icc25 = {
     -- Valithria Dreamwalker
     -- Sindragosa
     -- The Lich King
-
 
     ---------------
     -- 25 HEROIC --
@@ -138,7 +164,6 @@ AddonTable.icc25 = {
     52027, -- Conqueror's Mark of Sanctification
     52029, -- Protector's Mark of Sanctification (Heroic)
     52026, -- Protector's Mark of Sanctification
-
     -- Lord Marrowgar
     50604, -- Band of the Bone Colossus
     50605, -- Snowserpent Mail Helm
@@ -155,7 +180,6 @@ AddonTable.icc25 = {
     50616, -- Bulwark of Smouldering Steel
     50617, -- Rusted Bonespike Pauldrons
     50709, -- Bryntroll, the Bone Arbiter
-
     -- Lady Deathwhisper
     50648, -- Nibelung
     50641, -- Heartpierce
@@ -172,7 +196,6 @@ AddonTable.icc25 = {
     50652, -- Necrophotic Greaces
     50642, -- Juggernaut Band
     50644, -- Ring of Maddening Whispers
-
     -- Icecrown Gunship Battle
     50654, -- Scourgeborne Waraxe
     50661, -- Corp'rethar Ceremonial Crown
@@ -189,7 +212,6 @@ AddonTable.icc25 = {
     50657, -- Skeleton Lord's Circle
     50366, -- Althor's Abacus
     50349, -- Corpse Tongue Coin
-
     -- Deathbringer Saurfang
     142095, -- Remains of a Blood Beast (Blood Boil) [Battle Bet]
     50672, -- Bloodvenom Blade
@@ -197,7 +219,6 @@ AddonTable.icc25 = {
     50670, -- Toskk's Maximized Wristguard
     50671, -- Belt of the Blood Nova
     50363, -- Deathbringer's Will
-
     -- Festergut
     50695, -- Distant Land
     50692, -- Black Bruise
@@ -215,7 +236,6 @@ AddonTable.icc25 = {
     50694, -- Plaguebringer's Stained Pants
     50699, -- Plague Scientist's Boots
     50693, -- Might of Blight
-
     -- Rotface
     50348, -- Dislodged Foreign Object
     50673, -- Dual-Bladed Pauldrons
@@ -232,7 +252,6 @@ AddonTable.icc25 = {
     50685, -- Trauma
     50686, -- Death Surgeon's Sleeves
     50687, -- Bloodsunder's Bracers
-
     -- Professor Putricide
     142096, -- Putricide's Alchemy Supplies (Blightbreath) [Battle Pet]
     50708, -- Last Word
@@ -240,7 +259,6 @@ AddonTable.icc25 = {
     50707, -- Astrylian's Sutured Cinch
     50705, -- Professor's Bloodied Smock
     50706, -- Tiny Abomination in a Jar
-
     -- Blood Prince Council
     50603, -- Cryptmaker
     50710, -- Keleseth's Seducer
@@ -257,7 +275,6 @@ AddonTable.icc25 = {
     50711, -- Treads of the Wasteland
     50720, -- Incarnadine Band of Mending
     50714, -- Valanar's Other Signet Ring
-
     -- Blood-Queen Lana'thel
     50727, -- Bloodfall
     50725, -- Dying Light
@@ -265,7 +282,6 @@ AddonTable.icc25 = {
     50724, -- Blood Queen's Crimson Choker
     50728, -- Lana'thel's Chain of Flagellation
     50726, -- Bauble of True Blood
-
     -- Valithria Dreamwalker
     138832, -- Illusion: Earthliving
     50621, -- Lungbreaker
@@ -283,7 +299,6 @@ AddonTable.icc25 = {
     50625, -- Grinning Skull Greatboots
     50622, -- Devium's Eternally Cold Ring
     50618, -- Frostblood Sapphire Ring
-
     -- Sindragosa
     142097, -- Skull of a Frozen Whelp (Soulbroken Whelping) [Battle Pet]
     50635, -- Sundial of Eternal Dusk
@@ -291,7 +306,6 @@ AddonTable.icc25 = {
     50636, -- Memory of Malygos
     50365, -- Phylactery of the Nameless Lich
     50364, -- Sindragosa's Flawless Fang
-
     -- The Lich King
     142099, -- Call of the Frozen Blade (Wicked Soul) [Battle Pet]
     138955, -- Illusion: Rune of Razorice
