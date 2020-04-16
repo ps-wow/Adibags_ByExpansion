@@ -9,6 +9,7 @@ AddonTable.loot = {
     112457, -- Illidari Boots
     112459, -- Illidari Ring
     112460, -- Illidari Band
+    112461, -- Illidari Chain
     112462, -- Illidari Drape
 
     121106, -- Hagfeather Leggings
@@ -16,9 +17,17 @@ AddonTable.loot = {
     123959, -- Demon Trophy
     123960, -- Charm of Demonic Fire
 
+    128946, -- Mardum Lord Signet
+    128948, -- Nefarious Ring
+    128949, -- Infernal Firecord Sash
+    128950, -- Demon-Rend Shoulderblades
+    128951, -- Leggings of Sacrifice
+    128952, -- Torment Ender's Chestguard
     128954, -- Power Handlers Gloves
+    128955, -- The Brood Queen's Veil
     128956, -- Fel-Etched Glaive
     128958, -- Leko's Leash
+    128959, -- Seal of House Wrynn
 
     129104, -- Brand of the Banshee Queen
     129172, -- Band of Demonic Guile
@@ -28,13 +37,18 @@ AddonTable.loot = {
     132906, -- Leywalker Cord
     132963, -- Young Drake's Impulse
 
-    133314, -- Power Handlers Gloves
-    133321, -- Illidari Gloves
     133310, -- The Brood Queen's Veil
     133311, -- Demon-Rend Shoulderblades
     133312, -- Torment Ender's Chestguard
+    133314, -- Power Handlers Gloves
     133315, -- Infernal Firecord Sash
     133316, -- Leggings of Sacrifice
+    133318, -- Illidari Shoulders
+    133319, -- Illidari Leggings
+    133320, -- Illidari Blindfold
+    133321, -- Illidari Gloves
+    133322, -- Illidari Robe
+    133324, -- Illidari Boots
     133620, -- Amice of the Enlightened
 
     134179, -- Skoldiir Breastplate
@@ -43,6 +57,8 @@ AddonTable.loot = {
 
     137329, -- Figurehead of the Naglfar
     137497, -- Footpads of the Swift Balestra
+
+    138970, -- Helm of Reaffirmed Purpose
 
     139089, -- Night Dreamer Robe
     139897, -- Cloak of the White Prowler
