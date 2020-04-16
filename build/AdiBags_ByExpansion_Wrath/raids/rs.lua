@@ -1,6 +1,7 @@
 local AddonName, AddonTable = ...
 
 -- The Ruby Sanctum
+-- https://www.wowhead.com/the-ruby-sanctum
 AddonTable.rs = {
     -- Normal (10)
     53103,
