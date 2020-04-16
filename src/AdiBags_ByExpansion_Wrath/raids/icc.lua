@@ -18,6 +18,8 @@ AddonTable.icc = {
     52029, -- Protector's Mark of Sanctification (Heroic)
     52030, -- Conqueror's Mark of Sanctification (Heroic)
 
+    138832, -- Illusion: Earthliving
+
     142094, -- Fragment of Frozen Bone (Boneshard) [Battle Pet]
     142095, -- Remains of a Blood Beast (Blood Boil) [Battle Pet]
     142096, -- Putricide's Alchemy Supplies (Blightbreath) [Battle Pet]
@@ -147,6 +149,18 @@ AddonTable.icc10 = {
     51551, -- chestguard-of-siphoned-elements
     51555, -- tightening-waistband
     -- Valithria Dreamwalker
+    51562, -- oxheart
+    51582, -- sister-svalnas-aether-staff
+    51584, -- lich-wrappings
+    51563, -- taiga-bindings
+    51566, -- legguards-of-the-twisted-dream
+    51561, -- dreamhunters-carbine
+    51565, -- skinned-whelp-shoulders
+    51586, -- emerald-saints-spaulders
+    51583, -- stormbringer-gloves
+    51585, -- sister-svalnas-spangenhelm
+    51564, -- ironrope-belt-of-ymirjar
+    51777, -- leggings-of-the-refracted-mind
     -- Sindragosa
     -- The Lich King
 
@@ -271,6 +285,18 @@ AddonTable.icc10 = {
     51835, -- veincrusher-gauntlets
     51844, -- throatrender-handguards
     -- Valithria Dreamwalker
+    51833, -- oxheart
+    51828, -- sister-svalnas-aether-staff
+    51826, -- lich-wrappings
+    51832, -- taiga-bindings
+    51834, -- dreamhunters-carbine
+    51829, -- legguards-of-the-twisted-dream
+    51830, -- skinned-whelp-shoulders
+    51827, -- stormbringer-gloves
+    51823, -- leggings-of-the-refracted-mind
+    51825, -- sister-svalnas-spangenhelm
+    51824, -- emerald-saints-spaulders
+    51831, -- ironrope-belt-of-ymirjar
     -- Sindragosa
     -- The Lich King
 }
@@ -399,6 +425,21 @@ AddonTable.icc25 = {
     50354, -- bauble-of-true-blood
     50065, -- icecrown-glacial-wall
     -- Valithria Dreamwalker
+    50205, -- frostbinders-shredded-cape
+    50192, -- scourge-reavers-legplates
+    50187, -- coldwraith-links
+    50186, -- frostbrood-sapphire-ring
+    50183, -- lungbreaker
+    50195, -- noose-of-malachite
+    50418, -- robe-of-the-waking-nightmare
+    50472, -- nightmare-ender
+    50202, -- snowstorm-helm
+    50188, -- anubar-stalkers-gloves
+    50190, -- grinning-skull-greatboots
+    50199, -- leggings-of-dying-candles
+    50416, -- boots-of-the-funeral-march
+    50185, -- deviums-eternally-cold-ring
+    50417, -- bracers-of-eternal-dreaming
     -- Sindragosa
     -- The Lich King
 
@@ -523,7 +564,6 @@ AddonTable.icc25 = {
     50728, -- Lana'thel's Chain of Flagellation
     50726, -- Bauble of True Blood
     -- Valithria Dreamwalker
-    138832, -- Illusion: Earthliving
     50621, -- Lungbreaker
     50631, -- Nightmare Ender
     50626, -- Snowstorm Helm
