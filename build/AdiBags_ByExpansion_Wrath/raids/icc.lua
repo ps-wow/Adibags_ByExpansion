@@ -45,6 +45,18 @@ AddonTable.icc10 = {
     50786,
     50777,
     -- Icecrown Gunship Battle
+    50340,
+    50793,
+    50787,
+    50789,
+    50794,
+    50788,
+    50792,
+    50791,
+    50796,
+    50795,
+    50797,
+    50790,
     -- Deathbringer Saurfang
     -- Festergut
     -- Rotface
@@ -86,6 +98,18 @@ AddonTable.icc10 = {
     51923,
     51919,
     -- Icecrown Gunship Battle
+    50345,
+    51910,
+    51915,
+    51916,
+    51912,
+    51908,
+    51906,
+    51914,
+    51907,
+    51913,
+    51909,
+    51911,
     -- Deathbringer Saurfang
     -- Festergut
     -- Rotface
@@ -143,6 +167,21 @@ AddonTable.icc25 = {
     49986,
     49995,
     -- Icecrown Gunship Battle
+    50352,
+    50008,
+    50005,
+    50359,
+    50001,
+    50011,
+    49998,
+    50411,
+    50002,
+    50009,
+    50000,
+    49999,
+    50006,
+    50003,
+    50010,
     -- Deathbringer Saurfang
     -- Festergut
     -- Rotface

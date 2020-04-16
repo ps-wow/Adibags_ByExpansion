@@ -45,6 +45,18 @@ AddonTable.icc10 = {
     50786, -- ghoul-commanders-cuirass
     50777, -- handgrips-of-frost-and-sleet
     -- Icecrown Gunship Battle
+    50340, -- muradins-spyglass
+    50793, -- midnight-sun
+    50787, -- frost-giants-cleaver
+    50789, -- icecrown-rampart-bracers
+    50794, -- neverending-winter
+    50788, -- bone-drakes-enameled-boots
+    50792, -- pauldrons-of-lost-hope
+    50791, -- saronite-gargoyle-cloak
+    50796, -- bracers-of-pale-illumination
+    50795, -- cord-of-dark-suffering
+    50797, -- ice-reinforced-vrykul-helm
+    50790, -- abominations-bloody-ring
     -- Deathbringer Saurfang
     -- Festergut
     -- Rotface
@@ -86,6 +98,18 @@ AddonTable.icc10 = {
     51923, -- chestguard-of-the-frigid-noose
     51919, -- deathspeaker-disciples-belt
     -- Icecrown Gunship Battle
+    50345, -- muradins-spyglass
+    51910, -- midnight-sun
+    51915, -- bone-drakes-enameled-boots
+    51916, -- frost-giants-cleaver
+    51912, -- saronite-gargoyle-cloak
+    51908, -- cord-of-dark-suffering
+    51906, -- ice-reinforced-vrykul-helm
+    51914, -- icecrown-rampart-bracers
+    51907, -- bracers-of-pale-illumination
+    51913, -- abominations-bloody-ring
+    51909, -- neverending-winter
+    51911, -- pauldrons-of-lost-hope
     -- Deathbringer Saurfang
     -- Festergut
     -- Rotface
@@ -143,6 +167,21 @@ AddonTable.icc25 = {
     49986, -- broken-ram-skull-helm
     49995, -- fallen-lords-handguards
     -- Icecrown Gunship Battle
+    50352, -- corpse-tongue-coin
+    50008, -- ring-of-rapid-ascent
+    50005, -- amulet-of-the-silent-eulogy
+    50359, -- althors-abacus
+    50001, -- ikfirus-sack-of-wonder
+    50011, -- gunship-captains-mittens
+    49998, -- shadowvault-slayers-cloak
+    50411, -- scourgeborne-waraxe
+    50002, -- polar-bear-claw-bracers
+    50009, -- boots-of-unnatural-growth
+    50000, -- scourge-hunters-vambraces
+    49999, -- skeleton-lords-circle
+    50006, -- corprethar-ceremonial-crown
+    50003, -- boneguard-commanders-pauldrons
+    50010, -- waistband-of-righteous-fury
     -- Deathbringer Saurfang
     -- Festergut
     -- Rotface
