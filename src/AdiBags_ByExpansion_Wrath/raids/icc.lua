@@ -3,15 +3,22 @@ local AddonName, AddonTable = ...
 -- Icecrown Citadel
 -- 10/25 Man Difficulties have different loot.
 -- Normal and Heroic are also different loot ids.
+-- This means a total of 4 pages of loot per boss.
+
 AddonTable.icc = {
     -- Shared Boss Loot
     49908, -- Primordial Saronite
+    50274, -- Shadowfrost Shard
     -- Lord Marrowgar
     142094, -- Fragment of Frozen Bone (Boneshard) [Battle Pet]
 }
 
 AddonTable.icc10 = {
-    -- Lord Marrowgar (10 Man)
+    ---------------
+    -- 10 NORMAL --
+    ---------------
+
+    -- Lord Marrowgar
     50761, -- Citadel Enforcer's Claymore
     50759, -- Bone Warden's Splitter
     50760, -- Bonebreaker Scepter
@@ -24,22 +31,107 @@ AddonTable.icc10 = {
     50773, -- Cord of the Patronizing Practitioner
     50774, -- Coldwraith Bracers
     50775, -- Corrupted Silverplate Legging
+    -- Lady Deathwhisper
+    50781, -- scourgelords-baton
+    50776, -- njorndar-bone-bow
+    50782, -- sisters-handshrouds
+    50342, -- whispering-fanged-skull
+    50780, -- chestguard-of-the-frigid-noose
+    50784, -- deathspeaker-disciples-belt
+    50779, -- deathspeaker-zealots-helm
+    50778, -- soulthiefs-braided-belt
+    50783, -- boots-of-the-frozen-seed
+    50785, -- bracers-of-dark-blessings
+    50786, -- ghoul-commanders-cuirass
+    50777, -- handgrips-of-frost-and-sleet
+    -- Icecrown Gunship Battle
+    -- Deathbringer Saurfang
+    -- Festergut
+    -- Rotface
+    -- Professor Putricide
+    -- Blood Prince Council
+    -- Blood-Queen Lana'thel
+    -- Valithria Dreamwalker
+    -- Sindragosa
+    -- The Lich King
+
+    ---------------
+    -- 10 HEROIC --
+    ---------------
+
+    -- Lord Marrowgar
     51936, -- Citadel Enforcer's Claymore
-    -- Lady Deathwhisper (10 Man)
-    -- Icecrown Gunship Battle (10 Man)
-    -- Deathbringer Saurfang (10 Man)
-    -- Festergut (10 Man)
-    -- Rotface (10 Man)
-    -- Professor Putricide (10 Man)
-    -- Blood Prince Council (10 Man)
-    -- Blood-Queen Lana'thel (10 Man)
-    -- Valithria Dreamwalker (10 Man)
-    -- Sindragosa (10 Man)
-    -- The Lich King (10 Man)
+    50346, -- sliver-of-pure-ice
+    51932, -- frost-needle
+    51930, -- cord-of-the-patronizing-practitioner
+    51933, -- shawl-of-nerubian-silk
+    51931, -- ancient-skeletal-boots
+    51938, -- bone-wardens-splitter
+    51937, -- bonebreaker-scepter
+    51929, -- coldwraith-bracers
+    51928, -- corrupted-silverplate-leggings
+    51935, -- linked-scourge-vertebrae
+    51934, -- marrowgars-scratching-choker
+    -- Lady Deathwhisper
+    -- Icecrown Gunship Battle
+    -- Deathbringer Saurfang
+    -- Festergut
+    -- Rotface
+    -- Professor Putricide
+    -- Blood Prince Council
+    -- Blood-Queen Lana'thel
+    -- Valithria Dreamwalker
+    -- Sindragosa
+    -- The Lich King
 }
 
 AddonTable.icc25 = {
-    -- Shared Boss Loot (25 Man)
+    ---------------
+    -- 25 NORMAL --
+    ---------------
+
+    -- Shared Boss Loot
+    -- Vanquisher's Mark of Sanctification
+    -- Vanquisher's Mark of Sanctification (Heroic)
+    -- Conqueror's Mark of Sanctification (Heroic)
+    -- Conqueror's Mark of Sanctification
+    -- Protector's Mark of Sanctification (Heroic)
+    -- Protector's Mark of Sanctification
+
+    -- Lord Marrowgar
+    49968, -- frozen-bonespike
+    50415, -- bryntroll-the-bone-arbiter
+    49977, -- loop-of-the-endless-labyrinth
+    49978, -- crushing-coldwraith-belt
+    49949, -- band-of-the-bone-colossus
+    49975, -- bone-sentinels-amulet
+    49951, -- gendarmes-cuirass
+    49976, -- bulwark-of-smouldering-steel
+    49979, -- handguards-of-winters-respite
+    49964, -- legguards-of-lost-hope
+    49967, -- marrowgars-frigid-eye
+    49952, -- snowserpent-mail-helm
+    49960, -- bracers-of-dark-reckoning
+    49950, -- frostbitten-fur-boots
+    49980, -- rusted-bonespike-pauldrons
+    -- Lady Deathwhisper
+    -- Icecrown Gunship Battle
+    -- Deathbringer Saurfang
+    -- Festergut
+    -- Rotface
+    -- Professor Putricide
+    -- Blood Prince Council
+    -- Blood-Queen Lana'thel
+    -- Valithria Dreamwalker
+    -- Sindragosa
+    -- The Lich King
+
+
+    ---------------
+    -- 25 HEROIC --
+    ---------------
+
+    -- Shared Boss Loot
     52025, -- Vanquisher's Mark of Sanctification
     52028, -- Vanquisher's Mark of Sanctification (Heroic)
     52030, -- Conqueror's Mark of Sanctification (Heroic)
@@ -47,7 +139,7 @@ AddonTable.icc25 = {
     52029, -- Protector's Mark of Sanctification (Heroic)
     52026, -- Protector's Mark of Sanctification
 
-    -- Lord Marrowgar (25 Man)
+    -- Lord Marrowgar
     50604, -- Band of the Bone Colossus
     50605, -- Snowserpent Mail Helm
     50606, -- Gendarme's Curiass
@@ -64,7 +156,7 @@ AddonTable.icc25 = {
     50617, -- Rusted Bonespike Pauldrons
     50709, -- Bryntroll, the Bone Arbiter
 
-    -- Lady Deathwhisper (25 Man)
+    -- Lady Deathwhisper
     50648, -- Nibelung
     50641, -- Heartpierce
     50638, -- Zod's Repeating Longbow
@@ -81,7 +173,7 @@ AddonTable.icc25 = {
     50642, -- Juggernaut Band
     50644, -- Ring of Maddening Whispers
 
-    -- Icecrown Gunship Battle (25 Man)
+    -- Icecrown Gunship Battle
     50654, -- Scourgeborne Waraxe
     50661, -- Corp'rethar Ceremonial Crown
     50658, -- Amulet of the Silent Eulogy
@@ -98,7 +190,7 @@ AddonTable.icc25 = {
     50366, -- Althor's Abacus
     50349, -- Corpse Tongue Coin
 
-    -- Deathbringer Saurfang (25 Man)
+    -- Deathbringer Saurfang
     142095, -- Remains of a Blood Beast (Blood Boil) [Battle Bet]
     50672, -- Bloodvenom Blade
     50668, -- Greatcloak of the Turned Champion
@@ -106,7 +198,7 @@ AddonTable.icc25 = {
     50671, -- Belt of the Blood Nova
     50363, -- Deathbringer's Will
 
-    -- Festergut (25 Man)
+    -- Festergut
     50695, -- Distant Land
     50692, -- Black Bruise
     50701, -- Faceplate of the Forgotten
@@ -124,7 +216,7 @@ AddonTable.icc25 = {
     50699, -- Plague Scientist's Boots
     50693, -- Might of Blight
 
-    -- Rotface (25 Man)
+    -- Rotface
     50348, -- Dislodged Foreign Object
     50673, -- Dual-Bladed Pauldrons
     50674, -- Raging Behemoth's Shoulderpads
@@ -141,7 +233,7 @@ AddonTable.icc25 = {
     50686, -- Death Surgeon's Sleeves
     50687, -- Bloodsunder's Bracers
 
-    -- Professor Putricide (25 Man)
+    -- Professor Putricide
     142096, -- Putricide's Alchemy Supplies (Blightbreath) [Battle Pet]
     50708, -- Last Word
     50704, -- Rigormortis
@@ -149,7 +241,7 @@ AddonTable.icc25 = {
     50705, -- Professor's Bloodied Smock
     50706, -- Tiny Abomination in a Jar
 
-    -- Blood Prince Council (25 Man)
+    -- Blood Prince Council
     50603, -- Cryptmaker
     50710, -- Keleseth's Seducer
     50719, -- Shadow Silk Spindle
@@ -166,7 +258,7 @@ AddonTable.icc25 = {
     50720, -- Incarnadine Band of Mending
     50714, -- Valanar's Other Signet Ring
 
-    -- Blood-Queen Lana'thel (25 Man)
+    -- Blood-Queen Lana'thel
     50727, -- Bloodfall
     50725, -- Dying Light
     50729, -- Icecrown Glacial Wall
@@ -174,7 +266,7 @@ AddonTable.icc25 = {
     50728, -- Lana'thel's Chain of Flagellation
     50726, -- Bauble of True Blood
 
-    -- Valithria Dreamwalker (25 Man)
+    -- Valithria Dreamwalker
     138832, -- Illusion: Earthliving
     50621, -- Lungbreaker
     50631, -- Nightmare Ender
@@ -192,7 +284,7 @@ AddonTable.icc25 = {
     50622, -- Devium's Eternally Cold Ring
     50618, -- Frostblood Sapphire Ring
 
-    -- Sindragosa (25 Man)
+    -- Sindragosa
     142097, -- Skull of a Frozen Whelp (Soulbroken Whelping) [Battle Pet]
     50635, -- Sundial of Eternal Dusk
     50633, -- Singragosa's Cruel Claw
@@ -200,7 +292,7 @@ AddonTable.icc25 = {
     50365, -- Phylactery of the Nameless Lich
     50364, -- Sindragosa's Flawless Fang
 
-    -- The Lich King (25 Man)
+    -- The Lich King
     142099, -- Call of the Frozen Blade (Wicked Soul) [Battle Pet]
     138955, -- Illusion: Rune of Razorice
     50818, -- Invincible's Reins
