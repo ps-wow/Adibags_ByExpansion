@@ -91,6 +91,17 @@ AddonTable.icc10 = {
     50985,
     50859,
     -- Rotface
+    51004,
+    50998,
+    51007,
+    51003,
+    51001,
+    51002,
+    51000,
+    51009,
+    51008,
+    51005,
+    51006,
     -- Professor Putricide
     -- Blood Prince Council
     -- Blood-Queen Lana'thel
@@ -168,6 +179,17 @@ AddonTable.icc10 = {
     51884,
     51888,
     -- Rotface
+    51875,
+    51881,
+    51877,
+    51876,
+    51872,
+    51879,
+    51871,
+    51878,
+    51870,
+    51874,
+    51873,
     -- Professor Putricide
     -- Blood Prince Council
     -- Blood-Queen Lana'thel
@@ -262,6 +284,22 @@ AddonTable.icc25 = {
     50226,
     50059,
     -- Rotface
+    50025,
+    50033,
+    50353,
+    50028,
+    50020,
+    50026,
+    50023,
+    50022,
+    50019,
+    50021,
+    50016,
+    50024,
+    50030,
+    50032,
+    50027,
+    50231,
     -- Professor Putricide
     -- Blood Prince Council
     -- Blood-Queen Lana'thel

@@ -91,6 +91,17 @@ AddonTable.icc10 = {
     50985, -- wrists-of-septic-shock
     50859, -- cloak-of-many-skins
     -- Rotface
+    51004, -- lockjaw
+    50998, -- shaft-of-glacial-ice
+    51007, -- ether-soaked-bracers
+    51003, -- abomination-knuckles
+    51001, -- rotfaces-rupturing-ring
+    51002, -- taldrons-short-sighted-helm
+    51000, -- flesh-shapers-gurney-strap
+    51009, -- chestguard-of-the-failed-experiment
+    51008, -- choker-of-filthy-diamonds
+    51005, -- gloves-of-broken-fingers
+    51006, -- shuffling-shoes
     -- Professor Putricide
     -- Blood Prince Council
     -- Blood-Queen Lana'thel
@@ -168,6 +179,17 @@ AddonTable.icc10 = {
     51884, -- signet-of-putrefaction
     51888, -- cloak-of-many-skins
     -- Rotface
+    51875, -- lockjaw
+    51881, -- shaft-of-glacial-ice
+    51877, -- taldrons-short-sighted-helm
+    51876, -- abomination-knuckles
+    51872, -- ether-soaked-bracers
+    51879, -- flesh-shapers-gurney-strap
+    51871, -- choker-of-filthy-diamonds
+    51878, -- rotfaces-rupturing-ring
+    51870, -- chestguard-of-the-failed-experiment
+    51874, -- gloves-of-broken-fingers
+    51873, -- shuffling-shoes
     -- Professor Putricide
     -- Blood Prince Council
     -- Blood-Queen Lana'thel
@@ -262,6 +284,22 @@ AddonTable.icc25 = {
     50226, -- festerguts-acidic-blood
     50059, -- horrific-flesh-epaulets
     -- Rotface
+    50025, -- seal-of-many-mouths
+    50033, -- corpse-impaling-spike
+    50353, -- dislodged-foreign-object
+    50028, -- trauma
+    50020, -- raging-behemoths-shoulderplates
+    50026, -- helm-of-the-elder-moon
+    50023, -- bile-encrusted-medallion
+    50022, -- dual-bladed-pauldrons
+    50019, -- winding-sheet
+    50021, -- aldrianas-gloves-of-secrecy
+    50016, -- rib-spreader
+    50024, -- blightborne-warplate
+    50030, -- bloodsunders-bracers
+    50032, -- death-surgeons-sleeves
+    50027, -- rot-resistant-breastplate
+    50231, -- rotfaces-acidic-blood
     -- Professor Putricide
     -- Blood Prince Council
     -- Blood-Queen Lana'thel
