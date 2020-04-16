@@ -30,4 +30,20 @@ AddonTable.pinnacle = {
     37056,  -- Harpooner's Striders
     157560, -- Skadi's Scaled Boots
     -- King Ymiron
+    37060, -- Jeweled Coronation Sword
+    37401, -- Red Sword of Courage
+    37065, -- Ymiron's Blade
+    37061, -- Tor's Crest
+    37062, -- Crown of Forgotten Kings
+    37397, -- Gold Amulet of Kings
+    37067, -- Ceremonial Pyre Mantle
+    37398, -- Mantle of Discarded Ways
+    37395, -- Ornamented Plate Regalia
+    37409, -- Gilt-Edged Leather Gauntlets
+    37408, -- Girdle of Bane
+    37407, -- Sovereign's Belt
+    37066, -- Ancient Royal Legguards
+    37058, -- Signet of Ranulf
+    37390, -- Meteorite Whetstone
+    37064, -- Vestige of Haldor
 }
