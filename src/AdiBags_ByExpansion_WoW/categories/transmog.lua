@@ -77,6 +77,7 @@ AddonTable.transmog = {
     15144, -- Ghostwalker Rags
     15227, -- Diamond-Tip Bludgeon
     15241, -- Battle Knife
+    15245, -- Vorpal Dagger
     15248, -- Gleaming Claymore
     15287, -- Crusader Bow
     15374, -- Wolf Rider's Leggings

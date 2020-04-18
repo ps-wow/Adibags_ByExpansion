@@ -22,6 +22,7 @@ AddonTable.junk = {
     2212, -- Cracked Buckler
     2295, -- Large Boar Tusk
 
+    3167, -- Thick Spider Hair
     3170, -- Large Bear Tooth
     3171, -- Broken Boar Tusk
     3180, -- Flecked Raptor Scale
@@ -35,11 +36,14 @@ AddonTable.junk = {
     3669, -- Gelatinious Goo
     3670, -- Large Slimy Bone
     3671, -- Lifeless Skull
+    3673, -- Broken Arrow
     3674, -- Decomposed Boot
     3676, -- Slimy Ichor
     3781, -- Broad Claymore
     3783, -- Light Scimitar
+    3793, -- Interlaced Boots
     3801, -- Granny's Mallet
+    3817, -- Reinforced Buckler
     3931, -- Poisoned Spider Fang
     3949, -- Twill Pants
     3950, -- Twill Shoulderpads
@@ -47,6 +51,7 @@ AddonTable.junk = {
     3966, -- Thick Leather Pants
     3994, -- Laminated Scale Bracers
 
+    4018, -- Whetted Claymore
     4093, -- Large Basilisk Tail
     4428, -- Spider Palp
     4460, -- Ripped Wing Webbing
@@ -78,6 +83,7 @@ AddonTable.junk = {
     7074, -- Chipped Claw
     7098, -- Splintered Tusk
     7100, -- Sticky Ichor
+    7296, -- Extinguished Torch
 
     8146, -- Wicked Claw
     8151, -- Flask of Mojo
@@ -103,11 +109,13 @@ AddonTable.junk = {
     18222, -- Thorny Vine
     18285, -- Crystallized Mana Shard
     18286, -- Condensed Mana Fragment
+    19937, -- Small Scorpid Claw
 
     22525, -- Crypt Fiend Parts
     22526, -- Bone Fragments
     22527, -- Core of Elements
     22528, -- Dark Iron Scraps
+    23988, -- Mutated Vine
     25421, -- Gnarled Claw
     25425, -- Molted Feather
     25441, -- Gnarled Boar Tusk

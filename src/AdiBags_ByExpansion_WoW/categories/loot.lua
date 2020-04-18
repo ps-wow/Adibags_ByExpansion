@@ -82,6 +82,7 @@ AddonTable.loot = {
     131625, -- Hann Ibal's Chain Dungarees
     131685, -- Boots of Painful Cost
 
+    143581, -- Earthbound Grips
     143582, -- Stalwart Belt
     143583, -- Stalwart Grips
 

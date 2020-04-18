@@ -2,6 +2,7 @@ local AddonName, AddonTable = ...
 
 AddonTable.transmog = {
     -- Greens
+    36006,
     36037,
     36045,
     36053,

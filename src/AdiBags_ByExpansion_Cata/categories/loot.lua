@@ -35,4 +35,7 @@ AddonTable.loot = {
     70929, -- Firebound Gorget
     71367, -- Theck's Emberseal
     76156, -- Bindings of the End Times [Dungeon: End Time]
+
+    -- Scorched Satchel of Helpful Goods
+    113713, -- Emberspark Chestplate
 }

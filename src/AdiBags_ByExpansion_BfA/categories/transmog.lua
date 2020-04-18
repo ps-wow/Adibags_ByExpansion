@@ -24,6 +24,7 @@ AddonTable.transmog = {
     154844, -- Corlain Greaves
 
     159158, -- Ashvane Company Chestplate
+    159161, -- Ashvane Company Greathelm
     159166, -- Foxhollow Drape
     159168, -- Freehold Boots
     159171, -- Freehold Cowl

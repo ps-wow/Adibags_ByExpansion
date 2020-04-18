@@ -1,6 +1,7 @@
 local AddonName, AddonTable = ...
 
 AddonTable.junk = {
+    60486, -- Shimmering Shards
     62063, -- Shattered War Mace
     62064, -- Warped Greatsword
     62065, -- Melted Cleaver
@@ -23,6 +24,7 @@ AddonTable.junk = {
     62085, -- Pockmarked Cloth Boots
     62086, -- Dirt-Caked Gloves
     62087, -- Dirt-Caked Bracers
+    62089, -- Dirt-Caked Belt
     62090, -- Perforated Plate Belt
     62091, -- Pockmarked Cloth Vest
     62092, -- Pockmarked Cloth Shoulderpads

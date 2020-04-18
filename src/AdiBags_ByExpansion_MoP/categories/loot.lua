@@ -13,4 +13,6 @@ AddonTable.loot = {
 
     -- Tranquil Satchel of Helpful Goods (Random Dungeon Bonus Loot)
     113729, -- Kyparite Headguard
+    113738, -- Kyparite Chestguard
+    113750, -- Kyparite Shoulderguards
 }

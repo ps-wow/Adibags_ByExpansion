@@ -7,15 +7,19 @@ AddonTable.loot = {
     106149, -- Frostwolf Stalwart Girdle
     106152, -- Frostwolf Stalwart Shoulders
     106154, -- Frostwolf Stalwart Warboots
+    108902, -- Armored Elekk Tusk
+    108945, -- Void-Boiled Squirrel
     108957, -- Venomshade Skin Boots
     109805, -- Frost-Touched Legwraps
     109970, -- Hood of Arcane Mystery
     109973, -- Lightbinder Cover
 
     112440, -- Slavebreaker Robes
+    112663, -- Voidgazer Headguard
     112664, -- Voidgazer Cap
     112670, -- Quarrier's Mantle
 
+    113553, -- Windfang Sabre
     113735, -- Drifting Cloud Necklace
     113762, -- Smoldercloth Robe
     113767, -- Blossoming Mantle
@@ -27,6 +31,7 @@ AddonTable.loot = {
     116806, -- Soul Fang
     116807, -- Flinthide's Impenetrable Crest
     116832, -- Blademasters Honor
+    116875, -- Rusty Iron Band
 
     118223, -- Sunclaw
     118253, -- Trophy Band of Telaar
@@ -35,6 +40,8 @@ AddonTable.loot = {
     118687, -- Grizzled Wolfskin Cloak
 
     119230, -- Unpopped Pustule Pendant
+    119457, -- Handaxe of Trials (Proving Grounds)
+    119458, -- Greataxe of Trials (Proving Grounds)
 
     -- BoE but not appearence slot
     116724, -- Oshu'gun Basin

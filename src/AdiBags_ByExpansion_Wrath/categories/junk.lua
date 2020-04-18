@@ -42,6 +42,7 @@ AddonTable.junk = {
     33631, -- Frosted Claw
     33632, -- Icicle Fang
 
+    36810, -- Primordial Infusion
     36817, -- Banded Stone
 
     39209, -- Scintillating Stone Shard
@@ -58,6 +59,9 @@ AddonTable.junk = {
 
     44770, -- Rent Carapace
     44776, -- Translucent Scale
+    44781, -- Sparkly Raptor War Feather
+
+    45999, -- Worthless Piece of White Glass
 
     52019, -- Precious' Ribbon [Shirt]
 }

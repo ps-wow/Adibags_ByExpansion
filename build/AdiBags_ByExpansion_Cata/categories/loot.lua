@@ -35,4 +35,7 @@ AddonTable.loot = {
     70929,
     71367,
     76156,
+
+    -- Scorched Satchel of Helpful Goods
+    113713,
 }

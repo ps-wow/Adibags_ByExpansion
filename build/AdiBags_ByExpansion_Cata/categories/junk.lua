@@ -1,6 +1,7 @@
 local AddonName, AddonTable = ...
 
 AddonTable.junk = {
+    60486,
     62063,
     62064,
     62065,
@@ -23,6 +24,7 @@ AddonTable.junk = {
     62085,
     62086,
     62087,
+    62089,
     62090,
     62091,
     62092,

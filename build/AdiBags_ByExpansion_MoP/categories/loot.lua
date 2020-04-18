@@ -13,4 +13,6 @@ AddonTable.loot = {
 
     -- Tranquil Satchel of Helpful Goods (Random Dungeon Bonus Loot)
     113729,
+    113738,
+    113750,
 }
