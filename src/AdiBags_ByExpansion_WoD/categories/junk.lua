@@ -5,16 +5,19 @@ AddonTable.junk = {
 
     83156, -- Trembling Stone Shard
 
+    106289, -- Sun-Baked Bracers
     106294, -- Acid Scarred Plate Pants
     106299, -- Ripped Mail Boots
 
     106300, -- Acid Scarred Plate Boots
+    106302, -- Acid-Scarred Plate-gloves
     106305, -- Acid Scarred Plate Helmet
     106309, -- Sun-Baked Armor
     106311, -- Ripped Mail Armor
     106313, -- Sun-Baked Boots
     106315, -- Jammed Pocketknife
     106320, -- Narrcho's Rifle of Unreadiness
+    106324, -- Robbles Staff of Herding
     106327, -- Gronncloth Belt
     106336, -- Punctured Plate Pauldrons
 

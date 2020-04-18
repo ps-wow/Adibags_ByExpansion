@@ -2,8 +2,10 @@ local AddonName, AddonTable = ...
 
 AddonTable.junk = {
     121363, -- Warped-Plate Helmet
+    121366, -- Rust-Encrusted Hauberk
     121368, -- Sunbleached Shirt
     121372, -- Sunbleached Sandals
+    121387, -- Leather Pistol Holster
     121414, -- The Dreamweavers Ignorance
 
     130264, -- Fel-Stained Claw
@@ -35,6 +37,7 @@ AddonTable.junk = {
     132223, -- Elemental Droplet
     132231, -- Won Hooked Claw
     132233, -- Lingering Essence
+    132237, -- Large Leg Bone
     132239, -- Bone Splinters
 
     138247, -- Damaged Harp

@@ -8,6 +8,8 @@ AddonTable.transmog = {
     121103, -- Hagfeather Cord
     121113, -- Valarsmidd Girdle
     121131, -- Haustvelt Hood
-    121157, -- Valisdall Vest
+    121154, -- Valdisdall Helm
+    121157, -- Valdisdall Vest
+    121164, -- Hrydshal Shoulderpads
     121205, -- Dreadroot Linked Belt
 }

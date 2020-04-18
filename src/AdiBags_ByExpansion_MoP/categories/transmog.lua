@@ -1,7 +1,7 @@
 local AddonName, AddonTable = ...
 
 AddonTable.transmog = {
-    -- Greens
+    82027, -- Steppe Spaulders
     82029, -- Reed Cord [Cloth][Belt]
     82070, -- Brick Helm
     82204, -- Thresher Britches [Leather][Legs]
@@ -10,6 +10,5 @@ AddonTable.transmog = {
     82253, -- Waterfall Robe
     82289, -- Temple Girdle
 
-    -- Epic
     90574, -- Etoshia's Elegant Gloves
 }

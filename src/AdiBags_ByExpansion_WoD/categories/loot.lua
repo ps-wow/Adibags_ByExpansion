@@ -15,6 +15,7 @@ AddonTable.loot = {
     109973, -- Lightbinder Cover
 
     112440, -- Slavebreaker Robes
+    112443, -- Slavebreaker Chestguard
     112663, -- Voidgazer Headguard
     112664, -- Voidgazer Cap
     112670, -- Quarrier's Mantle

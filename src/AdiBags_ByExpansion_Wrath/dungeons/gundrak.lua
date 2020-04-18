@@ -39,4 +39,11 @@ AddonTable.gundrak = {
     43306,  -- Gal'darahh's Signet
     37642,  -- Hemorrhaging Circle
     37638,  -- Offering of Sacrifice
+    -- Quest Rewards
+    --- One of a Kind (29838)
+    43171,  -- Fur-Lined Moccasins
+    43172,  -- Rhino Hide Kneeboots
+    43173,  -- Scaled Boots of Fallen Hope
+    43176,  -- Slippers of the Mojo Dojo
+    43174,  -- trollkickers
 }

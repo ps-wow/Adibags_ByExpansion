@@ -45,14 +45,18 @@ AddonTable.junk = {
     36810, -- Primordial Infusion
     36817, -- Banded Stone
 
+    38303, -- Enduring Mojo (Quest Item)
+
     39209, -- Scintillating Stone Shard
     39210, -- Shattered Stone
     39211, -- Serrated Fang
     39212, -- Indurate Claw
+    39219, -- Sawtooth Talon
     39220, -- Geodesic Fragments
     39512, -- Hoary Crystals
     39516, -- Frosty Mushroom
     39567, -- Rubicund Scale
+    39568, -- Hollow Fang
 
     43851, -- Fur Clothing Scraps
     43852, -- Thick Fur Clothing Scraps

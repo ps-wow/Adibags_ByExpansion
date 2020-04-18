@@ -30,4 +30,10 @@ AddonTable.uk = {
     37193,
     37192,
     37186,
+    -- Quest Rewards
+    --- Disarmament (29764)
+    44374,
+    44375,
+    44376,
+    44377,
 }

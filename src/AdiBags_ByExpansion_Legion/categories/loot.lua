@@ -13,6 +13,7 @@ AddonTable.loot = {
     112462, -- Illidari Drape
 
     121106, -- Hagfeather Leggings
+    121761, -- Skyfire Marin'e Vambraces
 
     123959, -- Demon Trophy
     123960, -- Charm of Demonic Fire
@@ -31,6 +32,8 @@ AddonTable.loot = {
 
     129104, -- Brand of the Banshee Queen
     129172, -- Band of Demonic Guile
+    129236, -- Tinkmaster's Cog Stompers
+    129313, -- Tinkermaster's Mindvault
     129995, -- Sablehide Handguards
 
     132243, -- Fel-Etched Glaive
@@ -54,6 +57,8 @@ AddonTable.loot = {
     134179, -- Skoldiir Breastplate
     134245, -- Nazjatar Manapearl Ring
     134291, -- Nightborne's Hunting Horn
+    134557, -- Dreadsworn Gauntlets
+    134561, -- Dreadsword Chestguard
 
     137329, -- Figurehead of the Naglfar
     137497, -- Footpads of the Swift Balestra

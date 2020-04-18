@@ -2,7 +2,8 @@ local AddonName, AddonTable = ...
 
 AddonTable.blacksmithing = {
     -- Crafted Items
-    2851,  -- Copper Chain Belt
+    2851,  -- Copper Plate Belt
+    2852,  -- Copper Plate Pants
     2853,  -- Copper Bracers
     2862,  -- Rough Sharpening Stone
     -- Recipe's

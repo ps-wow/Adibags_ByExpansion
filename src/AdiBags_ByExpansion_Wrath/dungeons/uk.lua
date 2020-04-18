@@ -30,4 +30,10 @@ AddonTable.uk = {
     37193,  -- Staggering Legplates
     37192,  -- Annhylde's Ring
     37186,  -- Unsmashable Heavy Band
+    -- Quest Rewards
+    --- Disarmament (29764)
+    44374,  -- Amulet of the Tranquil Mind
+    44375,  -- Razor-Blade Pendant
+    44376,  -- Necklace of Fragmented Light
+    44377,  -- Woven Steel Necklace
 }

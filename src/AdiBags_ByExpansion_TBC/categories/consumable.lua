@@ -2,6 +2,7 @@ local AddonName, AddonTable = ...
 
 AddonTable.consumable = {
     -- Potions
+    22829, -- Super Healing Potion
 }
 
 AddonTable.foodDrink = {
