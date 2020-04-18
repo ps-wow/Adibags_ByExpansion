@@ -38,5 +38,7 @@ AddonTable.uldaman = {
     9413,   -- The Rockpounder
     11118,  -- Archaedic Stone
     -- Quest Rewards
-    65971, -- Band of Uldaman
+    65971, -- Band of Uldaman ( 2280: The Platinum Discs )
+    65947, -- Platinum Sword ( 2280: The Platinum Discs )
+    65921, -- Durdin's Hammer ( 2280: The Platinum Discs )
 }

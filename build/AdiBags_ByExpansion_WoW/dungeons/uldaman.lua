@@ -39,4 +39,6 @@ AddonTable.uldaman = {
     11118,
     -- Quest Rewards
     65971,
+    65947,
+    65921,
 }
