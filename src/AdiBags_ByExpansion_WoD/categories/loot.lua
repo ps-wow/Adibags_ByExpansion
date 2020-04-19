@@ -1,6 +1,6 @@
 local AddonName, AddonTable = ...
 
--- Loot (Soulbound Green or Higher)
+-- Loot (Soulbound Green or Higher or BoE Non-Set Pieces)
 
 AddonTable.loot = {
     106148, -- Frostwolf Stalwart Gauntlets
@@ -8,18 +8,21 @@ AddonTable.loot = {
     106152, -- Frostwolf Stalwart Shoulders
     106154, -- Frostwolf Stalwart Warboots
     108902, -- Armored Elekk Tusk
+    108912, -- Karabor Greatsword
     108945, -- Void-Boiled Squirrel
     108957, -- Venomshade Skin Boots
     109805, -- Frost-Touched Legwraps
     109970, -- Hood of Arcane Mystery
     109973, -- Lightbinder Cover
 
+    112393, -- Iron Horde Waraxe
     112440, -- Slavebreaker Robes
     112443, -- Slavebreaker Chestguard
     112663, -- Voidgazer Headguard
     112664, -- Voidgazer Cap
-    112670, -- Quarrier's Mantle
 
+    113082, -- Precious Bloodthorn Loop
+    113145, -- Karabor Guardian Gorget
     113553, -- Windfang Sabre
     113735, -- Drifting Cloud Necklace
     113762, -- Smoldercloth Robe
@@ -52,4 +55,10 @@ AddonTable.loot = {
     -- Baleful Tokens
     127784, -- Baleful Cloth Girdle (BoA)
     127792, -- Baleful Leather Treads (BoA)
+
+    -- Prepare for Battle (Dark Portal intro quest chain)
+    112668, -- Quarriers Spaulders
+    112669, -- Quarriers Shoulderplates
+    112670, -- Quarriers Mantle
+    112671, -- Quarriers Pauldrons
 }

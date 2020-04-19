@@ -1,7 +1,6 @@
 local AddonName, AddonTable = ...
 
 AddonTable.transmog = {
-    -- Green
     106392, -- Bladespire Girdle
     106407, -- Lunarglow Cord
     106410, -- Lunarglow Leggings
@@ -33,6 +32,7 @@ AddonTable.transmog = {
     106751, -- Packrunner Spaulders
     106752, -- Packrunner Vest
 
+    116493, -- Vinewrapped Bow
     116612, -- Gorian Bow
     116616, -- Gorian Knuckles
     116618, -- Gorian Mace

@@ -46,4 +46,9 @@ AddonTable.gundrak = {
     43173,  -- Scaled Boots of Fallen Hope
     43176,  -- Slippers of the Mojo Dojo
     43174,  -- trollkickers
+    --- For Posterity (29844)
+    43180, -- Lion's Head Ring
+    43178, -- Ring of Foul Mojo
+    43179, -- Solid Platinum Band
+    43177, -- Voodoo Signet
 }

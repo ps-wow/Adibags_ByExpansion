@@ -76,6 +76,7 @@ AddonTable.loot = {
     155457, -- Devoted Defender's Cloak
     155510, -- Loa Speaker's Robes
     155522, -- Ritual Flayer's Wristwraps
+    155524, -- Cursestone Lumberjack's Axe
     155570, -- Ravenfeather Drape
 
     157871, -- Fen Spirit Footwraps
@@ -213,6 +214,7 @@ AddonTable.loot = {
     159763, -- Idol of Vol'jamba
     159764, -- Enraged Diemetradon Fin
     159820, -- Ironcrest Lantern [Off-Hand]
+    159901, -- Breastplate of the Champion [A]
     159904, -- Robes of the Champion [A]
     159908, -- Robes of the Champion [H]
     159977, -- Vindictive Golem Core
@@ -307,6 +309,7 @@ AddonTable.loot = {
     163458, -- Honorbound Centurion's Gauntlets
     163459, -- Honorbound Centurion's Breastplate
     163461, -- Honorbound Centurion's Greatbelt
+    163542, -- Footman's Warmace
     163657, -- 7th Legionnaire's Tunic
     163666, -- Honorbound Artificer's Mantle
     163668, -- Honorbound Outrider's Mantle
@@ -330,6 +333,8 @@ AddonTable.loot = {
     167754, -- Shirakess Headdress
     167756, -- Shirakess Mantle
     167779, -- Shirakess Wraps
+
+    168750, -- Omnipurpose Refined Logic Board
 
     169790, -- Shirakess Gloves (Benethic)
 

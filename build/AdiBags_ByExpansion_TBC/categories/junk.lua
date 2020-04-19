@@ -2,6 +2,8 @@ local AddonName, AddonTable = ...
 
 -- TBC Junk
 AddonTable.junk = {
+    23938,
+
     24508,
     24576,
 

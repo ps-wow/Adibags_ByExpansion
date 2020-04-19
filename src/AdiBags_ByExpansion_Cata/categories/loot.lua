@@ -19,6 +19,7 @@ AddonTable.loot = {
     55772, -- Everstill Cord
 
     56300, -- Quicksilver Amulet
+    56421, -- Seedling Pod
 
     113695, -- Emberspark Plate Helm
 

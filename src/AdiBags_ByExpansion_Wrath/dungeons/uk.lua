@@ -36,4 +36,8 @@ AddonTable.uk = {
     44375,  -- Razor-Blade Pendant
     44376,  -- Necklace of Fragmented Light
     44377,  -- Woven Steel Necklace
+    --- Invagar Must Die [H] (11262) / Stealing Their Thunder [A] (29763)
+    38218, -- Executioner's Band
+    38219, -- Ring of Decimation
+    38220, -- Signet of Swift Judgment
 }

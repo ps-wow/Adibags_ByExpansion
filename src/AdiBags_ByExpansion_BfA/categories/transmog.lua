@@ -36,6 +36,7 @@ AddonTable.transmog = {
     159191, -- Brineworks Breastplate
     159192, -- Brineworks Gauntlets
     159193, -- Brineworks Girdle
+    159199, -- Sagehold Cloak
     159206, -- Briarback Shoulderpads
     159212, -- Eventide Coif
     159214, -- Eventide Pauldrons
@@ -87,6 +88,7 @@ AddonTable.transmog = {
     159557, -- Zem'lan Headsmasher
     159558, -- Bleached Bone Skullcracker
     159560, -- Dockyard Pike
+    159564, -- Stagheart Staff
     159568, -- Wintersail Staff
     159569, -- Wavecaller Spire
     159573, -- Bleached Bone Staff
@@ -152,11 +154,13 @@ AddonTable.transmog = {
     163957, -- Carmodius Crystalline Stylus
 
     164342, -- Plundered Geode Gavel
+    164345, -- Plundered Petrified Kelp Blade
     164446, -- Spiritbough Grasps
     164447, -- Mrrglurggl Girdle
     164469, -- Mrrglurggl Grips
     164522, -- Voodoo Stalker's Chestguard
     164550, -- Whirling Dervish Gloves
+    164570, -- Miststalker's Belt
 
     169402, -- Deeptide Amice
     169403, -- Deeptide Cinch

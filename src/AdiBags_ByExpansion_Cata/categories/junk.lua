@@ -1,6 +1,7 @@
 local AddonName, AddonTable = ...
 
 AddonTable.junk = {
+    60485, -- Crackling Crystals
     60486, -- Shimmering Shards
     62063, -- Shattered War Mace
     62064, -- Warped Greatsword

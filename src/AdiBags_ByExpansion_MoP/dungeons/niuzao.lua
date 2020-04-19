@@ -31,4 +31,11 @@ AddonTable.niuzao = {
     144173, -- Belt of Totemic Binding
     144000, -- Airbender Sandals
     143997, -- Anchoring Sabatons
+    -- Quest Rewards
+    --- Take Down the Wing Leader (31366)
+    87356, -- badge-of-the-amber-siege
+    87357, -- bridge-breaker-medallion
+    87358, -- hardened-resin-pendant
+    87359, -- mantid-eye-amulet
+    87360, -- saboteurs-locket
 }

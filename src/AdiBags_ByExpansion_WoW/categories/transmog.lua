@@ -22,6 +22,7 @@ AddonTable.transmog = {
     5207,  -- Opaque Wand
 
     6386,  -- Glimmering Mail Legguards
+    6542,  -- Willow Cape
     6557,  -- Bard's Boots
     6570,  -- Shimmering Sash
     6584,  -- Scouting Tunic

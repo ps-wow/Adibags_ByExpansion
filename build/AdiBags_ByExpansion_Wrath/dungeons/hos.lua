@@ -1,5 +1,6 @@
 local AddonName, AddonTable = ...
 
+-- Halls of Stone
 AddonTable.hos = {
     -- Krystallus
     37649,
@@ -38,4 +39,10 @@ AddonTable.hos = {
     37666,
     37660,
     37657,
+    -- Quest Rewards
+    --- Halls of Stone (13207)
+    44370,
+    44371,
+    44372,
+    44373,
 }

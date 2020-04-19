@@ -23,6 +23,7 @@ AddonTable.junk = {
 
     106824, -- Ruffled Plumage
     106825, -- Razor Talon
+    106826, -- Trophy Plumage
     106867, -- Dulled Claw
     106870, -- Mangy Pelt
     106873, -- Luxurious Pelt
@@ -35,10 +36,12 @@ AddonTable.junk = {
 
     107393, -- Piston Rod
     107462, -- Trembling Darkstone
+    107463, -- Void Lens
     107469, -- Depleted Elemental Shard
     107471, -- Latent Elemental Core
     107472, -- Igneous Elemental Chunk (BrF)
     107517, -- Giant Mandible
+    107518, -- Depleted Toxin Reservoir
     107532, -- Intact Vocal Sac
     107603, -- Eroded Tusk
     107604, -- Pristine Ivory Tusk

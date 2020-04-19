@@ -39,4 +39,10 @@ AddonTable.nexus = {
     37167,  -- Dragon Slayer's Sabatons
     35597,  -- Band of Glittering Permafrost
     37166,  -- Sphere of Red Dragon's Blood
+    -- Quest Rewards
+    --- Have They No Shame? (13094 [A] / 13095 [H])
+    43184, -- Tundra Pauldrons
+    43181, -- Shoulders of the Northern Lights
+    43182, -- Cured Mammoth Hide Mantle
+    43183, -- Tundra Trackers Shoulderguards
 }

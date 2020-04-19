@@ -43,6 +43,7 @@ AddonTable.junk = {
     33632, -- Icicle Fang
 
     36810, -- Primordial Infusion
+    36816, -- Prismatic Stone Chip
     36817, -- Banded Stone
 
     38303, -- Enduring Mojo (Quest Item)

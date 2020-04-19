@@ -46,4 +46,10 @@ AddonTable.oculus = {
     37292,  -- Ley-Guardian's Legguards
     36961,  -- Dragonflight Great-Ring
     36972,  -- Tome of Arcane Phenomena
+    -- Quest Rewards
+    --- The Struggle Persists (13124)
+    44334, -- Ring of Temerity
+    44336, -- Flourishing Band
+    44335, -- Band of Motivation
+    44337, -- Staunch Signet
 }

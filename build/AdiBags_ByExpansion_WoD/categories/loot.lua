@@ -1,6 +1,6 @@
 local AddonName, AddonTable = ...
 
--- Loot (Soulbound Green or Higher)
+-- Loot (Soulbound Green or Higher or BoE Non-Set Pieces)
 
 AddonTable.loot = {
     106148,
@@ -8,18 +8,21 @@ AddonTable.loot = {
     106152,
     106154,
     108902,
+    108912,
     108945,
     108957,
     109805,
     109970,
     109973,
 
+    112393,
     112440,
     112443,
     112663,
     112664,
-    112670,
 
+    113082,
+    113145,
     113553,
     113735,
     113762,
@@ -52,4 +55,10 @@ AddonTable.loot = {
     -- Baleful Tokens
     127784,
     127792,
+
+    -- Prepare for Battle (Dark Portal intro quest chain)
+    112668,
+    112669,
+    112670,
+    112671,
 }

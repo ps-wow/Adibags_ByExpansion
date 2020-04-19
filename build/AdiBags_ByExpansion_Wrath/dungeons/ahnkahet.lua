@@ -38,4 +38,10 @@ AddonTable.ahnkahet = {
     37622,
     37618,
     35614,
+    -- Quest Rewards
+    --- The Faceless Ones (13187)
+    44350,
+    44351,
+    44352,
+    44353,
 }

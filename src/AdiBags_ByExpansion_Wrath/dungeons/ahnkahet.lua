@@ -38,4 +38,10 @@ AddonTable.ahnkahet = {
     37622, -- Skirt of the Old Kingdom
     37618, -- Greaves of Ancient Evil
     35614, -- Volazj's Sabatons
+    -- Quest Rewards
+    --- The Faceless Ones (13187)
+    44350, -- mantle-of-thwarted-evil
+    44351, -- shoulderpads-of-abhorrence
+    44352, -- shoulderplates-of-the-abolished
+    44353, -- epaulets-of-the-faceless-ones
 }

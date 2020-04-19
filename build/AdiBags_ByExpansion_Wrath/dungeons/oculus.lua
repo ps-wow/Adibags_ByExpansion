@@ -46,4 +46,10 @@ AddonTable.oculus = {
     37292,
     36961,
     36972,
+    -- Quest Rewards
+    --- The Struggle Persists (13124)
+    44334,
+    44336,
+    44335,
+    44337,
 }

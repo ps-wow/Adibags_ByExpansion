@@ -1,7 +1,6 @@
 local AddonName, AddonTable = ...
 
 AddonTable.transmog = {
-    -- Green
     106392,
     106407,
     106410,
@@ -33,6 +32,7 @@ AddonTable.transmog = {
     106751,
     106752,
 
+    116493,
     116612,
     116616,
     116618,

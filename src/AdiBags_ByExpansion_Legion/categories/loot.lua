@@ -13,6 +13,7 @@ AddonTable.loot = {
     112462, -- Illidari Drape
 
     121106, -- Hagfeather Leggings
+    121577, -- Rooksguard Warboots
     121761, -- Skyfire Marin'e Vambraces
 
     123959, -- Demon Trophy
@@ -30,6 +31,7 @@ AddonTable.loot = {
     128958, -- Leko's Leash
     128959, -- Seal of House Wrynn
 
+    129101, -- Alpha's Paw
     129104, -- Brand of the Banshee Queen
     129172, -- Band of Demonic Guile
     129236, -- Tinkmaster's Cog Stompers
@@ -57,6 +59,7 @@ AddonTable.loot = {
     134179, -- Skoldiir Breastplate
     134245, -- Nazjatar Manapearl Ring
     134291, -- Nightborne's Hunting Horn
+    134497, -- Stormcharged Choker
     134557, -- Dreadsworn Gauntlets
     134561, -- Dreadsword Chestguard
 
@@ -69,6 +72,7 @@ AddonTable.loot = {
     139897, -- Cloak of the White Prowler
     139926, -- Subject 12's ID Bracelets
 
+    141286, -- Rite of the Val'kyr
     141628, -- Soul-Stealer's Leggings
     141650, -- Helm of Reaffirmed Purpose
 
@@ -77,6 +81,7 @@ AddonTable.loot = {
 
     151311, -- Band of the Triumvirate
 
+    157595, -- Fractured Earthstone Necklace
     157597, -- Troggstitched Drape
 
     -- Dauntless

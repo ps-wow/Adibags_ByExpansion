@@ -1,13 +1,19 @@
 local AddonName, AddonTable = ...
 
 AddonTable.junk = {
+    121350, -- Rust-Encrusted Leggings
     121363, -- Warped-Plate Helmet
     121366, -- Rust-Encrusted Hauberk
     121368, -- Sunbleached Shirt
+    121369, -- Weatherworn Vest
     121372, -- Sunbleached Sandals
+    121385, -- Deteriorated Hearthstone Desk
     121387, -- Leather Pistol Holster
+    121402, -- Old Bloodsoaked Gauntlets
     121414, -- The Dreamweavers Ignorance
 
+    130152, -- Condensed Light of Elune
+    130205, -- Aggravating Note
     130264, -- Fel-Stained Claw
     130265, -- Sharpened Canine
     130266, -- Trophy Spine
@@ -15,6 +21,7 @@ AddonTable.junk = {
     130268, -- Bone Toothpick
     130317, -- Fractured Trophy
 
+    131751, -- Fractured Portal Shard
     131795, -- Nar'thalasian Corsage
 
     132183, -- Razor Tooth
@@ -40,7 +47,11 @@ AddonTable.junk = {
     132237, -- Large Leg Bone
     132239, -- Bone Splinters
 
+    138242, -- Waterstained Tarot Deck
+    138245, -- Spoiled Azsharan Wineskin
     138247, -- Damaged Harp
+    138249, -- Ruined Spellbook
+    138250, -- Statue of Queen Azshara
     138251, -- Calcified Dragon Egg
 
     -- Old AP items

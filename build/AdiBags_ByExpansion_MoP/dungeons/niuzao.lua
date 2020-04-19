@@ -31,4 +31,11 @@ AddonTable.niuzao = {
     144173,
     144000,
     143997,
+    -- Quest Rewards
+    --- Take Down the Wing Leader (31366)
+    87356,
+    87357,
+    87358,
+    87359,
+    87360,
 }

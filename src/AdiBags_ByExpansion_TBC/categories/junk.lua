@@ -2,6 +2,8 @@ local AddonName, AddonTable = ...
 
 -- TBC Junk
 AddonTable.junk = {
+    23938, -- Pristine Ravager Carapace
+
     24508, -- Elemental Fragment
     24576, -- Loosely Threaded Belt
 

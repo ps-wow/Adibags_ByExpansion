@@ -1,5 +1,6 @@
 local AddonName, AddonTable = ...
 
+-- Halls of Stone
 AddonTable.hos = {
     -- Krystallus
     37649, -- Quarry Chisel
@@ -38,4 +39,10 @@ AddonTable.hos = {
     37666, -- Boots of the Whirling Mist
     37660, -- Forge Ember
     37657, -- Spark of Life
+    -- Quest Rewards
+    --- Halls of Stone (13207)
+    44370, -- Mantle of the Intrepid Explorer
+    44371, -- Shoulderpads of the Adventurer
+    44372, -- Spaulders of Lost Secrets
+    44373, -- Pauldrons of Reconnaissance
 }

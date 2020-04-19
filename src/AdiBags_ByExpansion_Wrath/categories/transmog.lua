@@ -1,7 +1,6 @@
 local AddonName, AddonTable = ...
 
 AddonTable.transmog = {
-    -- Greens
     36006, -- Icemist Gloves
     36037, -- Condor Robe
     36045, -- Crystalsong Robe
@@ -15,5 +14,11 @@ AddonTable.transmog = {
     36262, -- Cormorant Gloves
     36270, -- Ulduar Gauntlets
     36372, -- Kraken Greaves
+    36404, -- Suede Cloak
+    36460, -- Northern Star
+    36469, -- Lidless Orb
     36526, -- Sleeted Longsword
+    36594, -- Fracturing Battleaxe
+    36601, -- Patient Harpoon
+    36684, -- Ambrosial Hammer
 }

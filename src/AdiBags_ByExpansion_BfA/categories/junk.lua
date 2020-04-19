@@ -119,6 +119,7 @@ AddonTable.junk = {
     158851, -- Bottled Squall
     158855, -- Grim Skull Fetish
     158856, -- Giant Frog Leg
+    158857, -- Untainted Wicker
     158858, -- Adder's Fork
     158859, -- Jagged Fang
     158860, -- Grindstone Molar

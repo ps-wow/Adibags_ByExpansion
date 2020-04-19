@@ -36,4 +36,8 @@ AddonTable.uk = {
     44375,
     44376,
     44377,
+    --- Invagar Must Die [H] (11262) / Stealing Their Thunder [A] (29763)
+    38218,
+    38219,
+    38220,
 }

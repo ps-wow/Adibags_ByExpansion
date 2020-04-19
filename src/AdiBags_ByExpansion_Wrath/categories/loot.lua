@@ -10,8 +10,11 @@ AddonTable.loot = {
 
     37505, -- Battle Leader's Breastplate
 
-    43180, -- Lion's Head Ring
+    38221, -- Shroud of Fluid Strikes
 
+    42767, -- Invigorating Sabatons
+
+    44361, -- Greaves of the Traitor
     44404, -- Bauble-Woven Gloves
     44408, -- Cowl of the Vindictive Captain
 

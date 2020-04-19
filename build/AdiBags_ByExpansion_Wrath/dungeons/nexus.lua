@@ -39,4 +39,10 @@ AddonTable.nexus = {
     37167,
     35597,
     37166,
+    -- Quest Rewards
+    --- Have They No Shame? (13094 [A] / 13095 [H])
+    43184,
+    43181,
+    43182,
+    43183,
 }

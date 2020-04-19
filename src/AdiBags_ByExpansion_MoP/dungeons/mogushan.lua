@@ -25,4 +25,15 @@ AddonTable.mogushan = {
     143993, -- Boots of Plummeting Death
     143994, -- Soulbinde Treads
     144152, -- Blade Trap Signet
+    -- Quest Rewards
+    --- Relics of the Four Kings (31375)
+    87342, -- Subjugation Bracers
+    87343, -- bracers-of-swift-wrath
+    87344, -- cuffs-of-the-endless-shadow
+    87345, -- bindings-of-impeccable-strategy
+    87346, -- armbands-of-the-reawakened
+    87347, -- lost-heritage-bracers
+    87349, -- armplates-of-martial-artistry
+    87348, -- bracers-of-inner-knowledge
+    87350, -- poet-kings-vambraces
 }
