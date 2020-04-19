@@ -226,7 +226,7 @@ AddonTable.junk = {
     163850, -- Bloody Gamekeeper's Arm
     163855, -- Duplicate Pilgrimage Scroll
 
-    168778, -- Toy Soldier Weapons
+    168788, -- Toy Soldier Weapons
     168787, -- Empty Birdcage
     168795, -- Old Boot
 
