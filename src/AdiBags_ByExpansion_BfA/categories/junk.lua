@@ -68,11 +68,13 @@ AddonTable.junk = {
     157842, -- Rusty Gear
     157844, -- Iridescent Speck
 
+    158078, -- Cracked Overlords Scepter
     158178, -- Mangled Tortollan Scroll
     158210, -- Fearsome Claw
     158653, -- Bloodsiege Drape
     158740, -- Pearly Incisor
     158743, -- Conductive Antennae
+    158744, -- Spectral Veil
     158745, -- Luminous Scale
     158747, -- Thorny Prickle
     158750, -- Bonebreaker Beak
@@ -205,11 +207,13 @@ AddonTable.junk = {
     163323, -- Julie's Cracked Dish
     163325, -- Ofer's Bound Journal
     163326, -- Skye's Pet Rock
+    163327, -- Julien's Left Boot
     163328, -- Navarro's Flask
     163329, -- Zach's Canteen
     163372, -- Damarcus' Backpack
     163374, -- Josh's Fang Necklace
     163376, -- Kurt's Ornate Key
+    163580, -- Delicate Cathedral of Light Replica
     163587, -- Discarded Zandalari Brooch
     163590, -- Careworn Loa Statue
     163592, -- Ceremonial Nose Ring
@@ -222,18 +226,33 @@ AddonTable.junk = {
     163850, -- Bloody Gamekeeper's Arm
     163855, -- Duplicate Pilgrimage Scroll
 
+    168778, -- Toy Soldier Weapons
     168787, -- Empty Birdcage
     168795, -- Old Boot
 
+    169010, -- Corroded Evaporator Coil
+    169122, -- Gibraltian Monkey Wrench
     169123, -- Functional Fiddleswitch
     169124, -- Decorational Whirlycog
+    169125, -- Sonic Drive Screw
+    169126, -- Supercharged Graphics Cog
+    169127, -- Tastefully Scented Grease
     169128, -- Chilled Heating Block
+    169129, -- Lovingly Worn Wrench
     169130, -- Bent Cogwheel
+    169132, -- Cracked Gyroscope
+    169135, -- Warped Shock Absorber
     169138, -- Fractured Personality Module
+    169139, -- Clogged Webbing Fabricator
+    169143, -- Seized Sparksaw
+    169145, -- Rused Precision Gripper
+    169149, -- Dulled Micro-Serrated Incisor
     169984, -- Shattered Dragonscale
 
     170017, -- Cracked Titan Disc
     170087, -- Chromatic "Vigegar"
+    170097, -- Discarded Quel'dorei Tome
+    170098, -- Rusted Girandole Earring
 
     173908, -- Crumbling Stone Slab
     173937, -- Severed Oculus [Openable]
