@@ -42,4 +42,9 @@ AddonTable.bloodfurnace = {
     29239, -- Eaglecrest Warboots
     29245, -- Wave-Crest Striders
     28121, -- Icon of Unyielding Courage
+    -- Quest Rewards
+    --- Heart of Rage (29539 [A] / 29536 [H])
+    25713, -- Holy Healing Band
+    25714, -- Crimson Pendant of Clarity
+    25712, -- Perfectly Balanced Cape
 }

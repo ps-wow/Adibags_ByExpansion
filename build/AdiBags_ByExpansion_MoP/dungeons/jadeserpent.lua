@@ -65,4 +65,15 @@ AddonTable.jadeserpent = {
     81063,
     81069,
     87544,
+    -- Quest Rewards
+    --- Deep Doubts, Deep Wisdom (31356)
+    87283,
+    87284,
+    87285,
+    87286,
+    87287,
+    87288,
+    87289,
+    87290,
+    87291,
 }

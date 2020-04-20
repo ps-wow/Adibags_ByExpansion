@@ -33,6 +33,7 @@ AddonTable.junk = {
     3301, -- Sharp Canine
     3401, -- Rough Crocolisk Scale
     3402, -- Soft Patch of Fur
+    3403, -- Ivory Boar Tusk
     3669, -- Gelatinious Goo
     3670, -- Large Slimy Bone
     3671, -- Lifeless Skull

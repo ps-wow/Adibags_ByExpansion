@@ -1,6 +1,7 @@
 local AddonName, AddonTable = ...
 
 AddonTable.transmog = {
+    82021, -- Steppe Belt
     82027, -- Steppe Spaulders
     82029, -- Reed Cord [Cloth][Belt]
     82070, -- Brick Helm

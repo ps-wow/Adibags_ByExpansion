@@ -94,6 +94,7 @@ AddonTable.transmog = {
     55746, -- Mystral Cowl
     55747, -- Bluefen Cowl
     55754, -- Everstill Leggings
+    55755, -- Mystral Leggings
     55756, -- Bluefen Leggings
     55763, -- Everstill Shoulderpads
     55764, -- Mystral Shoulderpads

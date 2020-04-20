@@ -36,4 +36,14 @@ AddonTable.mogushan = {
     87349, -- armplates-of-martial-artistry
     87348, -- bracers-of-inner-knowledge
     87350, -- poet-kings-vambraces
+    --- A New Lesson for the Master (31360)
+    87333, -- watchful-dreamers-trousers
+    87334, -- dreamers-vigil-leggings
+    87335, -- leggings-of-clever-entrapment
+    87336, -- legplates-of-the-scattered-tribes
+    87337, -- deposers-leggings
+    87338, -- leggings-of-the-empty-throne
+    87339, -- leggings-of-forceful-instruction
+    87340, -- mogu-warlord-legguards
+    87341, -- weaponmasters-legplates
 }

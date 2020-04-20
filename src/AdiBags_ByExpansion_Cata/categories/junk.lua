@@ -72,6 +72,7 @@ AddonTable.junk = {
 
     66945, -- Stormhammer Head
     66949, -- Wildhammer Book of Verse
+    66950, -- The Big Big Book o' Beards
 
     67333, -- Oddly Shaped Bone
 

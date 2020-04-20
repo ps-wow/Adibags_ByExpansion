@@ -158,7 +158,9 @@ AddonTable.loot = {
     158159, -- Boralus Sailor's Cloak
     158160, -- Smuggler's Cove Ring
     158161, -- Speakfisher's Band
+    158246, -- Sea Raider's Chausses
     158258, -- Freebooter Handwraps
+    158277, -- Sea Raider's Wristguard
     158387, -- Rastari Footguards
     158411, -- Jambani Girdle
     158423, -- Jambani Gloves
@@ -324,6 +326,7 @@ AddonTable.loot = {
     163870, -- Honorbound Bonebreaker
     163874, -- Honorbound Decapitator
     163876, -- Honorbound Focus
+    163890, -- 7th Legionnaire's Claymore
     163892, -- 7th Legionnaire's Censer
 
     165443, -- Darkwood Sentinel's Cowl

@@ -57,4 +57,11 @@ AddonTable.stormstout = {
     143976, -- sudsy-legplates
     144089, -- yan-zhus-pressure-valve
     144217, -- inelava-spirit-of-inebriation
+    -- Quest Rewards
+    --- Family Secrets (31324)
+    87310, -- Stormstout Drink Napkin
+    87314, -- Blackened Chain Cloak
+    87312, -- Aunties Cooking Apron
+    87313, -- Tasting Room Tablecloth
+    87311, -- Used Bar Rag
 }

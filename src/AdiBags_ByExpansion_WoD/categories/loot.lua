@@ -7,10 +7,13 @@ AddonTable.loot = {
     106149, -- Frostwolf Stalwart Girdle
     106152, -- Frostwolf Stalwart Shoulders
     106154, -- Frostwolf Stalwart Warboots
+    108900, -- Cragsman Gloves
     108902, -- Armored Elekk Tusk
     108912, -- Karabor Greatsword
     108945, -- Void-Boiled Squirrel
     108957, -- Venomshade Skin Boots
+    109075, -- Abberant's Paw
+    109078, -- Killmaw's Canine
     109805, -- Frost-Touched Legwraps
     109970, -- Hood of Arcane Mystery
     109973, -- Lightbinder Cover
@@ -24,7 +27,6 @@ AddonTable.loot = {
     113082, -- Precious Bloodthorn Loop
     113145, -- Karabor Guardian Gorget
     113553, -- Windfang Sabre
-    113735, -- Drifting Cloud Necklace
     113762, -- Smoldercloth Robe
     113767, -- Blossoming Mantle
 

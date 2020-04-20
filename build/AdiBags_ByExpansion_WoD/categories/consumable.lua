@@ -5,6 +5,7 @@ AddonTable.consumable = {
     118897,
     118903,
     -- Potions
+    107640,
     113585,
 }
 

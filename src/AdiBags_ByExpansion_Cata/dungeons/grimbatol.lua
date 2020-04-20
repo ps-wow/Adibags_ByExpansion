@@ -3,5 +3,108 @@ local AddonName, AddonTable = ...
 -- Grim Batol
 -- https://www.wowhead.com/grim-batol
 AddonTable.grimbatol = {
-    56460, -- Crown of Enfeebled Bodies
+    -- General Umbriss
+    56116,  -- modguds-blade
+    56115,  -- skardyns-grace
+    56112,  -- wildhammer-riding-helm
+    56113,  -- cursed-skardyn-vest
+    56114,  -- umbriss-band
+    56440,  -- skardyns-grace
+    56441,  -- modguds-blade
+    56444,  -- umbriss-band
+    56442,  -- cursed-skardyn-vest
+    56443,  -- wildhammer-riding-helm
+    133286, -- umbriss-band
+    133307, -- abandoned-dark-iron-ring
+    133306, -- bracers-of-umbral-mending
+    133283, -- modguds-blade
+    133282, -- skardyns-grace
+    133284, -- cursed-skardyn-vest
+    133285, -- wildhammer-riding-helm
+    157596, -- glimmerthread-pantaloons
+    157612, -- dragonkin-ward
+    -- Forgemaster Throngus
+    56120,  -- ring-of-dun-algaz
+    56118,  -- belt-of-the-forgemaster
+    56121,  -- thronguss-finger
+    56122,  -- wand-of-untainted-power
+    56119,  -- dark-iron-chain-boots
+    56445,  -- ring-of-dun-algaz
+    157597, -- troggstitched-drape
+    56447,  -- belt-of-the-forgemaster
+    157613, -- geomancy-slicer
+    56449,  -- thronguss-finger
+    56446,  -- wand-of-untainted-power
+    56448,  -- dark-iron-chain-boots
+    133289, -- belt-of-the-forgemaster
+    133304, -- gale-of-shadows
+    133287, -- ring-of-dun-algaz
+    133353, -- troggbone-cinch
+    133290, -- dark-iron-chain-boots
+    133288, -- wand-of-untainted-power
+    133308, -- curse-tainted-leggings
+    133291, -- thronguss-finger
+    -- Drahga Shadowburner
+    56126,  -- azureborne-cloak
+    56127,  -- windwalker-blade
+    56123,  -- red-scale-boots
+    56125,  -- crimsonborne-bracers
+    56124,  -- earthshape-pauldrons
+    56453,  -- crimsonborne-bracers
+    56450,  -- azureborne-cloak
+    157598, -- couriers-dragonriding-spaulders
+    56452,  -- earthshape-pauldrons
+    56451,  -- red-scale-boots
+    157614, -- flame-invokers-treads
+    56454,  -- windwalker-blade
+    133363, -- troggstitched-drape
+    133292, -- azureborne-cloak
+    133294, -- earthshape-pauldrons
+    133354, -- glimmerthread-pantaloons
+    133293, -- red-scale-boots
+    133296, -- windwalker-blade
+    133295, -- crimsonborne-bracers
+    -- Erudax
+    56137,  -- staff-of-siphoned-essences
+    56131,  -- wild-hammer
+    56138,  -- gale-of-shadows
+    56132,  -- mark-of-khardros
+    56136,  -- corrupted-egg-shell
+    56138,  -- gale-of-shadows
+    56133,  -- crown-of-enfeebled-bodies
+    56129,  -- circle-of-bone
+    56130,  -- mace-of-transformed-bone
+    56128,  -- vest-of-misshapen-hides
+    56135,  -- bracers-of-umbral-mending
+    56463,  -- corrupted-egg-shell
+    56461,  -- staff-of-siphoned-essences
+    56462,  -- gale-of-shadows
+    56458,  -- mark-of-khardros
+    56457,  -- circle-of-bone
+    157615, -- flamescale-chain-leggings
+    56459,  -- mace-of-transformed-bone
+    56455,  -- vest-of-misshapen-hides
+    56456,  -- wild-hammer
+    56464,  -- bracers-of-umbral-mending
+    56460,  -- Crown of Enfeebled Bodies
+    133309, -- shroud-of-dark-memories
+    133297, -- vest-of-misshapen-hides
+    133374, -- couriers-dragonriding-spaulders
+    133303, -- staff-of-siphoned-essences
+    133302, -- crown-of-enfeebled-bodies
+    133299, -- circle-of-bone
+    133301, -- mace-of-transformed-bone
+    133298, -- wild-hammer
+    133305, -- corrupted-egg-shell
+    133300, -- mark-of-khardros
+
+    -- Quest Rewards
+    --- Kill the Courier (28853)
+    66937, -- sandals-of-the-courier
+    66936, -- helm-of-secret-knowledge
+    66938, -- tooranus-spaulders
+    --- Closing a Dark Chapter (28854)
+    66934, -- gloves-of-baleflame
+    66935, -- eradicators-bracers
+    66933, -- breastplate-of-the-witness
 }

@@ -42,4 +42,9 @@ AddonTable.bloodfurnace = {
     29239,
     29245,
     28121,
+    -- Quest Rewards
+    --- Heart of Rage (29539 [A] / 29536 [H])
+    25713,
+    25714,
+    25712,
 }

@@ -47,6 +47,7 @@ AddonTable.junk = {
     36817, -- Banded Stone
 
     38303, -- Enduring Mojo (Quest Item)
+    38585, -- Scored Carapace
 
     39209, -- Scintillating Stone Shard
     39210, -- Shattered Stone
@@ -56,6 +57,7 @@ AddonTable.junk = {
     39220, -- Geodesic Fragments
     39512, -- Hoary Crystals
     39516, -- Frosty Mushroom
+    39524, -- Sericeous Down
     39567, -- Rubicund Scale
     39568, -- Hollow Fang
 
@@ -63,7 +65,14 @@ AddonTable.junk = {
     43852, -- Thick Fur Clothing Scraps
 
     44770, -- Rent Carapace
+    44771, -- Spiked Leg
+    44772, -- Stinking Fur
+    44773, -- Pearly Horn
+    44774, -- Ice-Piercing Thorn
+    44775, -- Revolting Flower
     44776, -- Translucent Scale
+    44777, -- Spiral Fang
+    44778, -- Hefty Barrel
     44781, -- Sparkly Raptor War Feather
 
     45999, -- Worthless Piece of White Glass

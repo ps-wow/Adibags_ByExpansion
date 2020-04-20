@@ -57,4 +57,11 @@ AddonTable.stormstout = {
     143976,
     144089,
     144217,
+    -- Quest Rewards
+    --- Family Secrets (31324)
+    87310,
+    87314,
+    87312,
+    87313,
+    87311,
 }

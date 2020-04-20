@@ -3,8 +3,10 @@ local AddonName, AddonTable = ...
 -- Soulbound Items (Green or higher)
 
 AddonTable.loot = {
-    -- Uncommon (Green)
     55314,
+    55403,
+    55404,
+    55405,
     55421,
     55422,
     55423,
@@ -14,29 +16,31 @@ AddonTable.loot = {
     55639,
     55693,
     55702,
-    55755,
     55773,
     55772,
 
     56300,
     56421,
 
-    113695,
+    57283,
+    57292,
 
-    -- BoE (Non-Appearence)
-    55403,
-    55404,
-    55405,
     59520,
-    66934,
-    66936,
+
     66974,
     68915,
     68972,
+
     70929,
+
     71367,
+
     76156,
+
+    113695,
 
     -- Scorched Satchel of Helpful Goods
     113713,
+    113786,
+    156689,
 }

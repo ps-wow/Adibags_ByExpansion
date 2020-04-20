@@ -32,6 +32,7 @@ AddonTable.loot = {
 
     51967, -- Enumerated Sandals
     51968, -- Enumerated Wrap
+    51969, -- Enumerated Shoulders
     51970, -- Enumerated Gloves
     51972, -- Enumerated Bracers
     51973, -- Enumerated Handwraps
@@ -43,6 +44,7 @@ AddonTable.loot = {
     51992, -- Tumultuous Ring
     51994, -- Tumultuous Cloak
     51996, -- Tumultous Necklace (Satchel of Helpful Goods)
+    52000, -- Satchel of Helpful Goods (WoW Random Dungeon Bonus Bag)
     52942, -- Staff of Earned Tranquility
     54988, -- Cloak of the Clarion Call
     54992, -- Laborer's Belt

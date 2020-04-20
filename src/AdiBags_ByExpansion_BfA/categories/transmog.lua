@@ -37,6 +37,7 @@ AddonTable.transmog = {
     159192, -- Brineworks Gauntlets
     159193, -- Brineworks Girdle
     159199, -- Sagehold Cloak
+    159204, -- Briarback Hood
     159206, -- Briarback Shoulderpads
     159212, -- Eventide Coif
     159214, -- Eventide Pauldrons
@@ -93,6 +94,7 @@ AddonTable.transmog = {
     159569, -- Wavecaller Spire
     159573, -- Bleached Bone Staff
     159576, -- Golden Fleet Warstaff
+    159577, -- Zocali Longstaff
     159578, -- Loa-Blessed Stave
     159584, -- Coldscale Saber
     159590, -- Shipwrecker Blade
@@ -128,7 +130,9 @@ AddonTable.transmog = {
     160133, -- Brutohide Vest
     160135, -- Brutohide Belt
     160136, -- Golden City Signet
+    160138, -- Ravascale Bracers
     160142, -- Ravascale Legguards
+    160147, -- Saurifeather Gloves
     160148, -- Saurifeather Pants
     160150, -- Saurifeather Treads
     160151, -- Saurifeather Mantle

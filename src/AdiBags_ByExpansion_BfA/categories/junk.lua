@@ -91,6 +91,8 @@ AddonTable.junk = {
     158773, -- Wriggling Goop
     158775, -- Thick Hivewax
     158778, -- Mucose Tendril
+    158779, -- Robust Horn
+    158788, -- Sleek Quill
     158789, -- Webbed Frill
     158790, -- Charnel Ash
     158792, -- Digestive Acid

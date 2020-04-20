@@ -81,9 +81,6 @@ AddonTable.loot = {
 
     151311, -- Band of the Triumvirate
 
-    157595, -- Fractured Earthstone Necklace
-    157597, -- Troggstitched Drape
-
     -- Dauntless
     147255, -- Galvanized Stormscale Belt
     147276, -- Spellbinder's Seal

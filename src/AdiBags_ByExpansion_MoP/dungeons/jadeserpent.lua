@@ -65,4 +65,15 @@ AddonTable.jadeserpent = {
     81063,  -- dubious-handaxe
     81069,  -- neverdare-shoulders
     87544,  -- jelyu-spirit-of-the-serpent
+    -- Quest Rewards
+    --- Deep Doubts, Deep Wisdom (31356)
+    87283, -- windstrong-leggings
+    87284, -- leggings-of-the-fifth-sun
+    87285, -- legguards-of-the-tides
+    87286, -- legplates-of-absolute-clarity
+    87287, -- leggings-of-inner-peace
+    87288, -- luis-leggings
+    87289, -- equilibrium-legwraps
+    87290, -- legguards-of-ironclad-confidence
+    87291, -- legplates-of-pure-purpose
 }

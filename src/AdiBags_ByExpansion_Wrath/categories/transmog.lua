@@ -1,11 +1,15 @@
 local AddonName, AddonTable = ...
 
 AddonTable.transmog = {
+    35993, -- Bristlepine Shoulderpads
+
     36006, -- Icemist Gloves
     36037, -- Condor Robe
+    36041, -- Condor Shoulderpads
     36045, -- Crystalsong Robe
     36053, -- Vizier Robe
     36057, -- Vizier Mantle
+    36150, -- Pygmy Gloves
     36153, -- Pygmy Shoulders
     36160, -- Wendigo Legguards
     36161, -- Wendigo Pauldrons
