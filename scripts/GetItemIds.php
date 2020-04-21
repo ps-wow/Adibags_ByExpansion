@@ -22,7 +22,6 @@ class GetItemIds
                 $isItemLine = preg_match($pattern, $line);
 
                 // Remove the comments
-                $commentPos = strpos($line, '--');
                 $commaPos = strpos($line, ',');
                 if ($isItemLine) {
                     $itemId = (int)substr($line, 0, $commaPos);
