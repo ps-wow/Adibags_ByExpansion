@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 AddonTable.toc = {
     -- Shared Loot
     47213,

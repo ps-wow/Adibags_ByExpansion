@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 AddonTable.mining = {
     72092,
     72103,

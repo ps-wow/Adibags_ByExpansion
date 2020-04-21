@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 AddonTable.transmog = {
     106392,
     106407,
@@ -31,7 +30,6 @@ AddonTable.transmog = {
     106750,
     106751,
     106752,
-
     116493,
     116612,
     116616,
@@ -43,11 +41,9 @@ AddonTable.transmog = {
     116635,
     116638,
     116721,
-
     -- Rare (Blue)
     111475,
     118803,
-
     -- Epic (Purple)
     119331,
     119335,

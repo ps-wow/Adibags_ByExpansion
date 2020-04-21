@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 -- Siege of Orgrimmar
 AddonTable.soo = {
     -- Immerseus
@@ -25,7 +24,6 @@ AddonTable.soo = {
     112448,
     112427,
     112426,
-
     -- The Fallen Protectors
     112477,
     112478,
@@ -48,7 +46,6 @@ AddonTable.soo = {
     112490,
     112484,
     112476,
-
     -- Norushen
     112547,
     112546,
@@ -72,7 +69,6 @@ AddonTable.soo = {
     112561,
     112553,
     112503,
-
     -- Sha of Pride
     99715,
     99716,
@@ -91,7 +87,6 @@ AddonTable.soo = {
     112953,
     112947,
     112948,
-
     -- Galakras
     112723,
     112710,
@@ -115,7 +110,6 @@ AddonTable.soo = {
     112714,
     112709,
     112703,
-
     -- Iron Juggernaut
     112736,
     112748,
@@ -139,7 +133,6 @@ AddonTable.soo = {
     112750,
     112747,
     112729,
-
     -- Kor'kron Dark Shaman
     112759,
     112769,
@@ -162,14 +155,12 @@ AddonTable.soo = {
     112758,
     112754,
     112768,
-
     -- General Nazgrim
     -- Malkorok
     -- Spoils of Pandaria
     -- Thok the Bloodthirsty
     -- Siegecrafter Blackfuse
     -- Paragons of the Klaxxi
-
     -- Garrosh Hellscream
     105864,
     105863,

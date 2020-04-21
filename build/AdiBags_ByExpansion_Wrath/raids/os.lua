@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 -- The Obsidian Sanctum
 -- https://www.wowhead.com/the-obsidian-sanctum
 AddonTable.os = {

@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 -- End Time
 AddonTable.endtime = {
     -- Shared Loot

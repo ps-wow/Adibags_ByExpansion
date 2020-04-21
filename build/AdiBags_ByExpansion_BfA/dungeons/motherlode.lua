@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 AddonTable.motherlode = {
     -- Coin-Operated Crowd Pummeler
     159638,

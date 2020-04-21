@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 AddonTable.stormstout = {
     -- Ook-Ook
     80892,

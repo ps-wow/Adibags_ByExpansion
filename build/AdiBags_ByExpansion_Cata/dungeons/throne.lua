@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 -- Throne of the Tides
 AddonTable.throne = {
     -- Lady Naz'jar (N/HC)

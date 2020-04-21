@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 -- The Vortex Pinnacle
 AddonTable.vortex = {
     -- Grand Vizier Ertan

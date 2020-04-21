@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 AddonTable.herbalism = {
     22785,
     22786,

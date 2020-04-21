@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 AddonTable.diremaul = {
     -- Zevrim Thornhoof
     18323,

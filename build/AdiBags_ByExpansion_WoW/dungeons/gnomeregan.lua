@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 AddonTable.gnomeregan = {
     -- Grubbis
     151080,

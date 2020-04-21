@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 AddonTable.tailoring = {
     21842,
     21844,

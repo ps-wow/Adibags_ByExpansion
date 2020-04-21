@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 AddonTable.morass = {
     -- Chrono Lord Deja
     27987,

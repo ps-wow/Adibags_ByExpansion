@@ -1,9 +1,7 @@
 local AddonName, AddonTable = ...
-
 AddonTable.bot = {
     -- Trash Mobs
     60202,
-
     -- Halfus Wyrmbreaker
     65133,
     65134,
@@ -21,7 +19,6 @@ AddonTable.bot = {
     67424,
     67425,
     65224,
-
     -- Theralion and Valiona
     152969,
     65091,
@@ -36,7 +33,6 @@ AddonTable.bot = {
     65106,
     65105,
     65109,
-
     -- Ascendant Council
     152970,
     65111,
@@ -51,7 +47,6 @@ AddonTable.bot = {
     65116,
     65118,
     65110,
-
     -- Cho'gall
     152972,
     65145,
@@ -68,7 +63,6 @@ AddonTable.bot = {
     65123,
     65124,
     65228,
-
     -- Sinestra
     60237,
     60227,
@@ -83,34 +77,26 @@ AddonTable.bot = {
     60229,
     60226,
     60233,
-
     -- Set Pieces (Death Knight)
     65188,
-
     -- Set Pieces (Druid)
     65197,
     65198,
-
     -- Set Pieces (Hunter)
     65204,
     65208,
-
     -- Set Pieces (Paladin)
     65218,
-
     -- Set Pieces (Priest)
     65232,
     65233,
-
     -- Set Pieces (Shaman)
     65249,
     65253,
-
     -- Set Pieces (Warlock)
     65261,
     65262,
     65263,
-
     -- Set Pieces (Warrior)
     65267,
 }

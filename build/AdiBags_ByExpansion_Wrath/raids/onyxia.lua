@@ -1,11 +1,9 @@
 local AddonName, AddonTable = ...
-
 AddonTable.onyxia = {
     49295,
     49636,
     49643,
     49644,
-
     -- Onyxia (10)
     39299,
     49322,

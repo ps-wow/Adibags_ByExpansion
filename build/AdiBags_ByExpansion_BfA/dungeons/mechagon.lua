@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 AddonTable.mechagon = {
     -- King Gobbamak
     169050,

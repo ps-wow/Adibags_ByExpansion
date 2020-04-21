@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 AddonTable.ahnkahet = {
     -- Elder Nadox
     35606,

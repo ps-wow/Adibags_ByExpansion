@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 AddonTable.sethraliss = {
     -- Adderis and Aspix
     159636,

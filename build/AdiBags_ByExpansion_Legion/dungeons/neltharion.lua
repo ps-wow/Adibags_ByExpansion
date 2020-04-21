@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 AddonTable.neltharion = {
     -- Rokmora
     137340,

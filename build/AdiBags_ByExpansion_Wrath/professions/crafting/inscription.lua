@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 AddonTable.inscription = {
     -- Pigments
     39343,

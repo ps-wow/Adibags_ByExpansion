@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 AddonTable.azjolnerub = {
     -- Krik'thir the Gatewatcher
     35655,

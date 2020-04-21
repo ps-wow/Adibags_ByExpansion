@@ -1,9 +1,7 @@
 local AddonName, AddonTable = ...
-
 -- Throne of Thunder
 AddonTable.tot = {
     -- 10/25 Normal
-
     -- Jin'rokh the Breaker
     -- Horridon
     -- Council of Elders
@@ -17,9 +15,7 @@ AddonTable.tot = {
     -- Twin Consorts
     -- Lei Shen
     -- Ra-den
-
     -- 10/25 Heroic
-
     -- Jin'rokh the Breaker
     96384,
     96376,
@@ -41,7 +37,6 @@ AddonTable.tot = {
     96377,
     96368,
     96369,
-
     -- Horridon
     -- Council of Elders
     -- Tortos

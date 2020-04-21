@@ -1,8 +1,6 @@
 local AddonName, AddonTable = ...
-
 AddonTable.crucible = {
     -- Note: all item id's are the same regardless of difficulty.
-
     -- The Restless Cabal
     167863,
     167841,
@@ -13,7 +11,6 @@ AddonTable.crucible = {
     167842,
     167838,
     167218,
-
     -- Uu'nat, Harbinger of the Void
     167864,
     167839,

@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 -- Raid: Sunwell Plateau (25 Normal)
 AddonTable.sp = {
     -- Shared Boss Loot
@@ -13,7 +12,6 @@ AddonTable.sp = {
     34856,
     34857,
     34858,
-
     -- Kalecgos
     34164,
     34165,
@@ -22,7 +20,6 @@ AddonTable.sp = {
     34170,
     34168,
     34166,
-
     -- Brutallus
     122113,
     34176,
@@ -31,7 +28,6 @@ AddonTable.sp = {
     34178,
     34180,
     34181,
-
     -- Felmyst
     34182,
     34185,
@@ -39,7 +35,6 @@ AddonTable.sp = {
     35352,
     34186,
     34188,
-
     -- The Eredar Twins
     122115,
     34198,
@@ -63,7 +58,6 @@ AddonTable.sp = {
     34190,
     34205,
     34189,
-
     -- M'uru
     122114,
     34214,
@@ -87,7 +81,6 @@ AddonTable.sp = {
     34430,
     34429,
     34428,
-
     -- Kil'jaeden
     34247,
     34337,

@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 -- [Raid] Gruul's Lair: 25 Normal
 AddonTable.gl = {
     -- High King Maulgar
@@ -12,7 +11,6 @@ AddonTable.gl = {
     28797,
     28795,
     28799,
-
     -- Gruul the Dragonkiller
     29766,
     29767,

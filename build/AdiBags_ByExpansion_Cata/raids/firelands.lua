@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 AddonTable.firelands = {
     -- Shared Boss Loot
     71617,
@@ -10,7 +9,6 @@ AddonTable.firelands = {
     71777,
     71784,
     71783,
-
     -- Beth'tilac
     152976,
     71409,
@@ -27,7 +25,6 @@ AddonTable.firelands = {
     71404,
     71401,
     69138,
-
     -- Lord Rhyolith
     71422,
     71414,
@@ -42,7 +39,6 @@ AddonTable.firelands = {
     71419,
     71426,
     71420,
-
     -- Alysrazor
     71679,
     71686,
@@ -62,7 +58,6 @@ AddonTable.firelands = {
     71436,
     71433,
     69149,
-
     -- Shannox
     71678,
     71685,
@@ -82,7 +77,6 @@ AddonTable.firelands = {
     71447,
     71451,
     71449,
-
     -- Baleroc, the Gatekeeper
     71676,
     71683,
@@ -101,7 +95,6 @@ AddonTable.firelands = {
     71458,
     71457,
     69139,
-
     -- Majordomo Staghelm
     152978,
     71680,
@@ -119,7 +112,6 @@ AddonTable.firelands = {
     71475,
     69111,
     69112,
-
     -- Ragnaros
     69150,
     69110,
@@ -137,11 +129,9 @@ AddonTable.firelands = {
     71612,
     71614,
     71613,
-
     -- Set Piece (Death Knight)
     71482,
     71483,
-
     -- Set Piece (Druid)
     71486,
     71488,
@@ -149,19 +139,16 @@ AddonTable.firelands = {
     71493,
     71494,
     71495,
-
     -- Set Piece (Hunter)
     71501,
     71502,
     71504,
-
     -- Set Piece (Paladin)
     71522,
     71523,
     71524,
     71525,
     71526,
-
     -- Set Piece (Priest)
     71527,
     71528,
@@ -173,19 +160,16 @@ AddonTable.firelands = {
     71534,
     71535,
     71536,
-
     -- Set Piece (Shaman)
     71547,
     71549,
     71550,
     71551,
-
     -- Set Piece (Warlock)
     71594,
     71595,
     71597,
     71598,
-
     -- Set Piece (Warrior)
     71599,
     71600,

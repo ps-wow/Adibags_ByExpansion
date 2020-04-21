@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 -- Halls of Origination
 AddonTable.hoo = {
     -- Temple Guardian Anhuur

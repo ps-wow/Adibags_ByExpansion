@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 AddonTable.shadowlab = {
     -- Ambassador Hellmaw
     27885,

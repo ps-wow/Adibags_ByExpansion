@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 AddonTable.ataldazar = {
     -- Priestess Alun'za
     158321,

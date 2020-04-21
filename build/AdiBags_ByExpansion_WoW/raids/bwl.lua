@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 AddonTable.bwl = {
     -- Shared Boss Loot
     16899,
@@ -18,7 +17,6 @@ AddonTable.bwl = {
     19396,
     19397,
     19406,
-
     -- Razorgore the Untamed
     93036,
     19334,
@@ -36,7 +34,6 @@ AddonTable.bwl = {
     19369,
     19336,
     19337,
-
     -- Vaelastrasz the Corrupt
     16903,
     16910,
@@ -53,7 +50,6 @@ AddonTable.bwl = {
     19348,
     19372,
     19371,
-
     -- Broodlord Lashlayer
     93037,
     19351,
@@ -71,7 +67,6 @@ AddonTable.bwl = {
     16898,
     19341,
     19342,
-
     -- Firemaw
     19365,
     19398,
@@ -81,14 +76,12 @@ AddonTable.bwl = {
     19401,
     19344,
     19343,
-
     -- Ebonroc
     19368,
     19405,
     19407,
     19403,
     19345,
-
     -- Flamegor
     19357,
     19367,
@@ -96,7 +89,6 @@ AddonTable.bwl = {
     19433,
     19432,
     19431,
-
     -- Chromaggus
     16832,
     16902,
@@ -118,7 +110,6 @@ AddonTable.bwl = {
     19385,
     19387,
     93038,
-
     -- Nefarian
     16897,
     16900,
@@ -150,12 +141,10 @@ AddonTable.bwl = {
     19380,
     19381,
     19382,
-
     -- Quests
     19366,
     19383,
     19384,
-
     -- Misc
     19354,
 }

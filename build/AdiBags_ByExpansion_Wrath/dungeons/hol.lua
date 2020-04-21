@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 -- Halls of Lightning
 AddonTable.hol = {
     -- General Bjarngrim

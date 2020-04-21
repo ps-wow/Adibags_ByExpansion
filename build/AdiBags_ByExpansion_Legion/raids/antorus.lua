@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 AddonTable.antorus = {
     -- Garothi Worldbreaker
     152031,
@@ -9,13 +8,10 @@ AddonTable.antorus = {
     151937,
     151943,
     151988,
-
     -- Kin'garoth
     151963,
-
     -- The Coven of Shivarra
     152046,
-
     -- Aggramar
     152026,
     152038,
@@ -43,7 +39,6 @@ AddonTable.antorus = {
     151940,
     151978,
     152093,
-
     -- Argus, the unmaker
     155853,
     155848,

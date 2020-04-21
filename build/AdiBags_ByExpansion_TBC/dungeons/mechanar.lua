@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 AddonTable.mechanar = {
     -- Mechano-Lord Capacitus
     28253,

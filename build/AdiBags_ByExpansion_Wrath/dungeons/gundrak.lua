@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 AddonTable.gundrak = {
     -- Slad'ran
     35583,

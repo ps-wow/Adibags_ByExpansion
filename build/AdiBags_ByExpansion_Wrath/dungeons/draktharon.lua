@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 AddonTable.draktharon = {
     -- Trollgore
     35618,
@@ -39,7 +38,6 @@ AddonTable.draktharon = {
     37784,
     37732,
     37734,
-
     -- Quests
     44369,
 }

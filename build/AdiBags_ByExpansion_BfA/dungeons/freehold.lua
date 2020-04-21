@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 AddonTable.freehold = {
     -- Skycap'n Kragg
     159633,

@@ -1,6 +1,5 @@
 -- Molten Core
 local AddonName, AddonTable = ...
-
 AddonTable.mc = {
     -- Shared Boss Loot
     17077,
@@ -21,7 +20,6 @@ AddonTable.mc = {
     19145,
     19146,
     19147,
-
     -- Lucifron
     17109,
     16805,
@@ -30,7 +28,6 @@ AddonTable.mc = {
     16829,
     16837,
     16859,
-
     -- Magmadar
     93034,
     17073,
@@ -49,7 +46,6 @@ AddonTable.mc = {
     16814,
     18821,
     18820,
-
     -- Gehennas
     16839,
     16812,
@@ -57,7 +53,6 @@ AddonTable.mc = {
     16826,
     16849,
     16862,
-
     -- Garr
     18564,
     17105,
@@ -73,7 +68,6 @@ AddonTable.mc = {
     16866,
     16854,
     16821,
-
     -- Shazzrah
     16801,
     16831,
@@ -81,7 +75,6 @@ AddonTable.mc = {
     16811,
     16803,
     16824,
-
     -- Baron Geddon
     18563,
     16797,
@@ -90,7 +83,6 @@ AddonTable.mc = {
     16807,
     16856,
     17110,
-
     -- Sulfuron Harbinger
     93033,
     17074,
@@ -98,7 +90,6 @@ AddonTable.mc = {
     16816,
     16823,
     16868,
-
     -- Golemagg the Incinerator
     93035,
     17103,
@@ -114,7 +105,6 @@ AddonTable.mc = {
     16853,
     16820,
     16815,
-
     -- Majordomo Executus
     18803,
     18805,
@@ -126,10 +116,8 @@ AddonTable.mc = {
     18812,
     19139,
     19140,
-
     -- Ragnaros
     138833,
-
     17204,
     17076,
     17104,

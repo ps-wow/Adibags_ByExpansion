@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 -- Scarlet Monestary
 AddonTable.sm = {
     -- Thalnos the Soulrender

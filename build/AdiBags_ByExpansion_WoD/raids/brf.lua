@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 AddonTable.brf = {
     -- Oregorger
     119448,
@@ -15,7 +14,6 @@ AddonTable.brf = {
     113875,
     113877,
     119194,
-
     -- Hans'gar and Franzok
     113904,
     113897,
@@ -30,7 +28,6 @@ AddonTable.brf = {
     113908,
     113901,
     113905,
-
     -- Beastlord Darmac
     113939,
     113946,
@@ -47,7 +44,6 @@ AddonTable.brf = {
     113940,
     113948,
     119192,
-
     -- Gruul
     113869,
     113862,
@@ -63,7 +59,6 @@ AddonTable.brf = {
     113864,
     113866,
     118114,
-
     -- Flamebender Ka'graz
     119305,
     119318,
@@ -94,7 +89,6 @@ AddonTable.brf = {
     113917,
     113922,
     119193,
-
     -- Operator Thogar
     119309,
     119322,
@@ -121,7 +115,6 @@ AddonTable.brf = {
     113954,
     113957,
     113963,
-
     -- The Blast Furnace
     119307,
     119320,
@@ -149,7 +142,6 @@ AddonTable.brf = {
     113888,
     113893,
     113889,
-
     -- Kromog
     119308,
     119321,
@@ -178,7 +170,6 @@ AddonTable.brf = {
     113936,
     113938,
     113931,
-
     -- The Iron Maidens
     119306,
     119319,
@@ -208,7 +199,6 @@ AddonTable.brf = {
     113974,
     113975,
     113969,
-
     -- Blackhand
     116393,
     119310,

@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 -- The Eye (25 Normal)
 AddonTable.eye = {
     -- Al'ar
@@ -17,7 +16,6 @@ AddonTable.eye = {
     29920,
     30448,
     30447,
-
     -- Void Reaver
     30248,
     30249,
@@ -30,7 +28,6 @@ AddonTable.eye = {
     29985,
     30619,
     30450,
-
     -- High Astromancer Solarian
     97556,
     29981,
@@ -46,7 +43,6 @@ AddonTable.eye = {
     29951,
     30446,
     30449,
-
     -- Kael'thas Sunstrider
     32458,
     30236,

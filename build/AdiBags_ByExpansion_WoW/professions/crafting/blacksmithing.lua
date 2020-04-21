@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 AddonTable.blacksmithing = {
     -- Crafted Items
     2851,

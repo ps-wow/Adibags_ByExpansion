@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 AddonTable.consumable = {
     -- Potions (Alchemy)
     127834,
@@ -27,7 +26,6 @@ AddonTable.consumable = {
     129192,
     129210,
 }
-
 AddonTable.foodDrink = {
     133557,
     133561,

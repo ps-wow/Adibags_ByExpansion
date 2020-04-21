@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 AddonTable.rfc = {
     -- Adarogg
     82880,

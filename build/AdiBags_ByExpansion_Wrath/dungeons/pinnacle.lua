@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 AddonTable.pinnacle = {
     -- Svala Sorrowgrave
     37037,

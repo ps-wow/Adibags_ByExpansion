@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 AddonTable.strat = {
     -- Meathook
     37079,

@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 -- Serpentshrine Cavern (25 Normal)
 AddonTable.ssc = {
     -- Hydross the Unstable
@@ -18,7 +17,6 @@ AddonTable.ssc = {
     30052,
     30664,
     30629,
-
     -- The Lurker Below
     30058,
     30059,
@@ -32,7 +30,6 @@ AddonTable.ssc = {
     30061,
     33054,
     30665,
-
     -- Leotheras the Blind
     30239,
     30240,
@@ -43,7 +40,6 @@ AddonTable.ssc = {
     30096,
     30092,
     30627,
-
     -- Fathom-Lord Karathress
     30245,
     30246,
@@ -54,7 +50,6 @@ AddonTable.ssc = {
     30100,
     30663,
     30626,
-
     -- Morogrim Tidewalker
     97552,
     30082,
@@ -70,7 +65,6 @@ AddonTable.ssc = {
     33058,
     30083,
     30720,
-
     -- Lady Vashj
     97554,
     30242,

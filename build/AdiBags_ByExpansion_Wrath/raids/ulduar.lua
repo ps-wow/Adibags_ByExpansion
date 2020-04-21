@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 AddonTable.ulduar = {
     -- NORMAL
     -- Shared
@@ -43,7 +42,6 @@ AddonTable.ulduar = {
     45112,
     45292,
     45286,
-
     -- Ignis the Furnace Master
     142086,
     45171,
@@ -70,7 +68,6 @@ AddonTable.ulduar = {
     45168,
     45313,
     45158,
-
     -- Razorscale
     142087,
     45147,
@@ -96,7 +93,6 @@ AddonTable.ulduar = {
     45303,
     45308,
     45148,
-
     -- XT-002 Deconstructor
     45868,
     45256,
@@ -131,7 +127,6 @@ AddonTable.ulduar = {
     45675,
     45871,
     45247,
-
     -- The Assembly of Iron
     142088,
     45234,
@@ -169,7 +164,6 @@ AddonTable.ulduar = {
     45418,
     45456,
     45235,
-
     -- Kologarn
     45695,
     45266,
@@ -195,7 +189,6 @@ AddonTable.ulduar = {
     45702,
     45703,
     45263,
-
     -- Auriaya
     142089,
     45437,
@@ -222,7 +215,6 @@ AddonTable.ulduar = {
     45326,
     45438,
     45866,
-
     -- Hodir
     45632,
     45633,
@@ -251,7 +243,6 @@ AddonTable.ulduar = {
     45452,
     45451,
     45874,
-
     -- Thorim
     45638,
     45639,
@@ -279,7 +270,6 @@ AddonTable.ulduar = {
     45931,
     45466,
     45929,
-
     -- Freya
     45644,
     45645,
@@ -307,7 +297,6 @@ AddonTable.ulduar = {
     45936,
     45483,
     45946,
-
     -- Mimiron
     45641,
     45642,
@@ -336,7 +325,6 @@ AddonTable.ulduar = {
     45989,
     45495,
     45490,
-
     -- General Vezax
     45996,
     45498,
@@ -371,7 +359,6 @@ AddonTable.ulduar = {
     45515,
     45518,
     45507,
-
     -- Yogg-Saron
     138801,
     45635,
@@ -413,7 +400,6 @@ AddonTable.ulduar = {
     46021,
     45535,
     46312,
-
     -- Algalon the Observer
     45587,
     45617,
@@ -441,9 +427,7 @@ AddonTable.ulduar = {
     45609,
     46038,
     46051,
-
     -- TIMEWALKING
-
     -- Flame Leviathan
     -- Ignis the Furnace Master
     -- Razorscale

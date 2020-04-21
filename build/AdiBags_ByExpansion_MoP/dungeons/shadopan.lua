@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 AddonTable.shadopan = {
     -- Gu Cloudstrike
     80909,
@@ -72,7 +71,6 @@ AddonTable.shadopan = {
     81096,
     81107,
     87543,
-
     -- Quest Rewards
     --- Lord of the Shado-Pan
     87315,

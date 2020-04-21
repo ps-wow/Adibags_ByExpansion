@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 -- Hour of Twilight (Heroic)
 AddonTable.hot = {
     -- Arcurion

@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 AddonTable.rfd = {
     -- Aarux
     10776,

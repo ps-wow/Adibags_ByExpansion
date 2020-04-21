@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 AddonTable.oculus = {
     -- Drakos the Interrogator
     157562,

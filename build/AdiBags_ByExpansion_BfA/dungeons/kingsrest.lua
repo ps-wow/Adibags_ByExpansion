@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 AddonTable.kingsrest = {
     -- The Golden Serpent
     159137,

@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 AddonTable.nexus = {
     -- Grand Magus Telestra
     35617,

@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 -- The Ruby Sanctum
 -- https://www.wowhead.com/the-ruby-sanctum
 AddonTable.rs = {

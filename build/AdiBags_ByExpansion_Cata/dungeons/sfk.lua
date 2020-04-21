@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 -- Shadowfang Keep (Heroic)
 AddonTable.sfk = {
     -- Baron Ashbury

@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 AddonTable.steamvault = {
     -- Hydromancer Thespia
     27789,

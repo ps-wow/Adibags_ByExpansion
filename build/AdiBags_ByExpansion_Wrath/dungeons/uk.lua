@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 AddonTable.uk = {
     -- Prince Keleseth
     37179,

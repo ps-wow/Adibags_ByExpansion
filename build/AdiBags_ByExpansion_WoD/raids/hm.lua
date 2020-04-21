@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 AddonTable.hm = {
     -- Kargath Bladefist (M)
     138807,
@@ -15,7 +14,6 @@ AddonTable.hm = {
     113595,
     113599,
     113604,
-
     -- The Butcher (M)
     113606,
     113607,
@@ -30,7 +28,6 @@ AddonTable.hm = {
     113611,
     113638,
     113612,
-
     -- Tectus (M)
     138835,
     113640,
@@ -46,7 +43,6 @@ AddonTable.hm = {
     113651,
     113650,
     113645,
-
     -- Brackenspore (M)
     113652,
     113653,
@@ -60,7 +56,6 @@ AddonTable.hm = {
     113660,
     113664,
     113658,
-
     -- Twin Ogron (M)
     113667,
     113666,
@@ -74,7 +69,6 @@ AddonTable.hm = {
     113829,
     113834,
     113835,
-
     -- Ko'ragh (M)
     113838,
     113836,
@@ -88,7 +82,6 @@ AddonTable.hm = {
     113846,
     113843,
     113842,
-
     -- Imperator Mar'gok (M)
     113848,
     113857,

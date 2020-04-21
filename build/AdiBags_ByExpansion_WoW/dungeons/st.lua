@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 AddonTable.st = {
     -- Avatar of Hakkar
     10844,

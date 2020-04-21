@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 AddonTable.arcatraz = {
     -- Multiple Bosses
     28384,

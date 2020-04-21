@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 -- Scarlet Halls
 AddonTable.sh = {
     -- Houndmaster Braun

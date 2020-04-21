@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 AddonTable.botanica = {
     -- Commander Sarannis
     28311,

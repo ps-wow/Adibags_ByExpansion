@@ -52,14 +52,17 @@ class Utility
             foreach ($files as $file) {
                 $data = file_get_contents($file);
 
+                // Remove lua comments from item lines
                 $search = "/([0-9]{0,7},)([ ]+-- .+)/";
                 $replace = '$1';
-
                 $data = preg_replace(
                     $search,
                     $replace,
                     $data
                 );
+
+                // Remove empty lines
+                $data = preg_replace('/^[ \t]*[\r\n]+/m', '', $data);
 
                 file_put_contents($file, $data);
             }

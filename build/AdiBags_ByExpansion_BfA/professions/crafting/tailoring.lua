@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 AddonTable.tailoring = {
     -- Cloth Armour
     154685,
@@ -10,7 +9,6 @@ AddonTable.tailoring = {
     154691,
     154692,
     154697,
-
     161978,
     161979,
     161981,

@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 AddonTable.throne = {
     -- The Conclave of Wind
     65367,
@@ -13,7 +12,6 @@ AddonTable.throne = {
     65375,
     65376,
     65377,
-
     -- Al'Akir
     66998,
     63041,
@@ -37,7 +35,6 @@ AddonTable.throne = {
     65380,
     65381,
     65382,
-
     138836,
     152973,
 }

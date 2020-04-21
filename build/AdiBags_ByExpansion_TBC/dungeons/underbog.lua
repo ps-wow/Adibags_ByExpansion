@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 AddonTable.underbog = {
     -- Hungarfen
     27747,

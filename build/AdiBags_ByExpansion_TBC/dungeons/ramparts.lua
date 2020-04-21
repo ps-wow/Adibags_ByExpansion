@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 AddonTable.ramparts = {
     -- Watchkeeper Gargolmar
     24020,

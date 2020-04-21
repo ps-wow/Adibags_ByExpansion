@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 AddonTable.sfk = {
     -- Baron Ashbury
     6323,

@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 AddonTable.zf = {
     -- Gahz'rilla
     9467,

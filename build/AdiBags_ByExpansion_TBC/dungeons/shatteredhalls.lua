@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 AddonTable.shatteredhalls = {
     -- Grand Warlock Nethekurse
     27534,

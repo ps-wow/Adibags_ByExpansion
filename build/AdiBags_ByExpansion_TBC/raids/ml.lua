@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 -- [Raid] Magtheridon's Lair: 25 Normal
 AddonTable.ml = {
     29754,

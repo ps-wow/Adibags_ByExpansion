@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 -- The Battle for Mount Hyjal (25 Normal)
 AddonTable.hyjal = {
     -- Rage Winterchill
@@ -15,7 +14,6 @@ AddonTable.hyjal = {
     30869,
     30868,
     30873,
-
     -- Anetheron
     122111,
     30883,
@@ -30,7 +28,6 @@ AddonTable.hyjal = {
     30885,
     30886,
     30880,
-
     -- Kaz'rogal
     30918,
     30889,
@@ -44,7 +41,6 @@ AddonTable.hyjal = {
     30893,
     30891,
     30894,
-
     -- Azgalor
     31092,
     31094,
@@ -56,7 +52,6 @@ AddonTable.hyjal = {
     30897,
     30900,
     30898,
-
     -- Archimonde
     31097,
     31095,

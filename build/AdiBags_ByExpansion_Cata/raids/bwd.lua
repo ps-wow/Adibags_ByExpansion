@@ -1,9 +1,7 @@
 local AddonName, AddonTable = ...
-
 AddonTable.bwd = {
     -- Trash Mobs
     59461,
-
     -- Omnotron Defense System
     65081,
     65077,
@@ -17,7 +15,6 @@ AddonTable.bwd = {
     65080,
     65082,
     65076,
-
     -- Magmaw
     67429,
     67430,
@@ -35,7 +32,6 @@ AddonTable.bwd = {
     65051,
     65048,
     65259,
-
     -- Atramedes
     65058,
     65052,
@@ -49,7 +45,6 @@ AddonTable.bwd = {
     65061,
     65063,
     65053,
-
     -- Chimaeron
     65064,
     65067,
@@ -63,7 +58,6 @@ AddonTable.bwd = {
     65075,
     65070,
     65072,
-
     -- Maloriak
     152967,
     67428,
@@ -81,7 +75,6 @@ AddonTable.bwd = {
     65032,
     65033,
     65029,
-
     -- Nefarion's End
     122195,
     138802,
@@ -99,11 +92,9 @@ AddonTable.bwd = {
     65022,
     65057,
     65026,
-
     -- Set Pieces (Hunter)
     65205,
     65207,
-
     -- Set Pieces (Paladin)
     65216,
     65217,
@@ -111,18 +102,14 @@ AddonTable.bwd = {
     65225,
     65227,
     65226,
-
     -- Set Pieces (Priest)
     65231,
-
     -- Set Pieces (Shaman)
     65250,
     65252,
     65251,
-
     -- Set Pieces (Warrior)
     65266,
-
     -- Battle Pet
     152966,
 }

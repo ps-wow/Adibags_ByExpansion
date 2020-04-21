@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 -- [Raid] Karazhan: 10 Normal
 AddonTable.kara = {
     -- Servant's Quarters
@@ -15,7 +14,6 @@ AddonTable.kara = {
     30680,
     30683,
     30682,
-
     -- Attumen the Huntsman
     30480,
     28504,
@@ -30,7 +28,6 @@ AddonTable.kara = {
     28508,
     28507,
     28510,
-
     -- Moroes
     22559,
     138797,
@@ -45,7 +42,6 @@ AddonTable.kara = {
     28569,
     28545,
     28528,
-
     -- Maiden of Virtue
     28522,
     28516,
@@ -58,7 +54,6 @@ AddonTable.kara = {
     28518,
     28521,
     28517,
-
     -- Opera Hall
     97548,
     28573,
@@ -78,7 +73,6 @@ AddonTable.kara = {
     28585,
     28590,
     28579,
-
     -- The Curator
     29757,
     29758,
@@ -90,7 +84,6 @@ AddonTable.kara = {
     28612,
     28621,
     28649,
-
     -- Shade of Aran
     22560,
     138798,
@@ -106,7 +99,6 @@ AddonTable.kara = {
     28669,
     28675,
     28727,
-
     -- Terestian Illhoof
     22561,
     138799,
@@ -122,7 +114,6 @@ AddonTable.kara = {
     28654,
     28661,
     28785,
-
     -- Netherspite
     28729,
     28734,
@@ -136,7 +127,6 @@ AddonTable.kara = {
     28740,
     28741,
     28730,
-
     -- Chess Event
     28749,
     28754,
@@ -150,7 +140,6 @@ AddonTable.kara = {
     28746,
     28752,
     28753,
-
     -- Prince Malchezaar
     29760,
     29761,

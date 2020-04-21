@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 AddonTable.shrine = {
     -- Aqu'sirr
     159321,

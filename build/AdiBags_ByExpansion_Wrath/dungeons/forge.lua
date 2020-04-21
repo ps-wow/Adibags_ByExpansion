@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 AddonTable.forge = {
     -- Bronjahm
     50316,

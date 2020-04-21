@@ -1,8 +1,6 @@
 local AddonName, AddonTable = ...
-
 AddonTable.bt = {
     -- Normal
-
     -- High Warlord Naj'entus
     122104,
     32248,
@@ -128,9 +126,7 @@ AddonTable.bt = {
     32497,
     32496,
     32483,
-
     -- Timewalking
-
     -- High Warlord Naj'entus
     -- Supremus
     -- Shade of Akama

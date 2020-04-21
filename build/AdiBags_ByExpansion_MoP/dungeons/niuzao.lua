@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 AddonTable.niuzao = {
     -- Vizier Jin'bak
     144022,

@@ -1,8 +1,6 @@
 local AddonName, AddonTable = ...
-
 AddonTable.uldir = {
     -- Note: all item id's are the same regardless of difficulty.
-
     -- Taloc
     160679,
     160680,
@@ -15,7 +13,6 @@ AddonTable.uldir = {
     160714,
     160652,
     160651,
-
     -- MOTHER
     160681,
     160683,
@@ -28,7 +25,6 @@ AddonTable.uldir = {
     160615,
     160625,
     160645,
-
     -- Fetid Devourer
     160689,
     160685,
@@ -38,7 +34,6 @@ AddonTable.uldir = {
     160635,
     160628,
     160648,
-
     -- Zek-voz, Herald of N'zoth
     160688,
     160687,
@@ -52,7 +47,6 @@ AddonTable.uldir = {
     160640,
     160647,
     160650,
-
     -- Vectis
     160678,
     160698,
@@ -65,7 +59,6 @@ AddonTable.uldir = {
     160716,
     160649,
     160655,
-
     -- Zul, Reborn
     160684,
     160691,
@@ -77,7 +70,6 @@ AddonTable.uldir = {
     160720,
     160723,
     160724,
-
     -- Mythrax the Unraveler
     160686,
     160692,
@@ -90,7 +82,6 @@ AddonTable.uldir = {
     160646,
     160656,
     160653,
-
     -- G'huun
     160690,
     160693,

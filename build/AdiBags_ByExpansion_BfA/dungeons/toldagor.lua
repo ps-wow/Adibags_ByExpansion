@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 AddonTable.toldagor = {
     -- The Sand Queen
     159656,

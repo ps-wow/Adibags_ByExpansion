@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 AddonTable.scholomance = {
     -- Instructor Chillheart
     88339,

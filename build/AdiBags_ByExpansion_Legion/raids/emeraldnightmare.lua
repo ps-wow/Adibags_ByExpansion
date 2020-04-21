@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 AddonTable.emeraldnightmare = {
     -- Nythendra
     139251,

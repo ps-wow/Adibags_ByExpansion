@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 -- Blackrock Caverns
 AddonTable.blackrock = {
     -- Rom'ogg Bonecrusher

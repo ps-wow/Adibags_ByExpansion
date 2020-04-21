@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 AddonTable.waycrest = {
     -- Heartsbane Triad
     159133,

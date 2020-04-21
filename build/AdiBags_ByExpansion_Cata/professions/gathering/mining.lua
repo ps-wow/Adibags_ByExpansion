@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 AddonTable.mining = {
     -- Ore
     53038,

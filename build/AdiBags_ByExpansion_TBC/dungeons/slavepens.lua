@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 AddonTable.slavepens = {
     -- Mennu the Betrayer
     24361,

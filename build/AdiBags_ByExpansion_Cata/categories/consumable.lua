@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 AddonTable.foodDrink = {
     58268,
     58256,

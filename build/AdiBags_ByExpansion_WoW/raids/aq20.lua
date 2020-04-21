@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 AddonTable.aq20 = {
     -- Shared Boss Loot
     20884,
@@ -9,7 +8,6 @@ AddonTable.aq20 = {
     20889,
     20890,
     21479,
-
     -- Kurinaxx
     21498,
     21499,
@@ -17,7 +15,6 @@ AddonTable.aq20 = {
     21501,
     21502,
     21503,
-
     -- General Rajaxx
     21492,
     21493,
@@ -25,7 +22,6 @@ AddonTable.aq20 = {
     21495,
     21496,
     21497,
-
     -- Moam
     21455,
     21467,
@@ -39,7 +35,6 @@ AddonTable.aq20 = {
     21475,
     21476,
     21477,
-
     -- Buru the Gorger
     21485,
     21486,
@@ -48,7 +43,6 @@ AddonTable.aq20 = {
     21489,
     21490,
     21491,
-
     -- Ayamiss the Hunter
     21466,
     21478,
@@ -56,7 +50,6 @@ AddonTable.aq20 = {
     21481,
     21483,
     21484,
-
     -- Ossirian the Unscarred
     21452,
     21453,

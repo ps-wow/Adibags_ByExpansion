@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 AddonTable.pit = {
     -- Forgemaster Garfrost
     50234,

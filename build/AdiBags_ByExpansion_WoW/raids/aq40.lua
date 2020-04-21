@@ -1,12 +1,10 @@
 local AddonName, AddonTable = ...
-
 AddonTable.aq40 = {
     -- Shared Boss Loot
     20928,
     20932,
     21232,
     21237,
-
     -- The Prophet Skeram
     21128,
     21698,
@@ -23,7 +21,6 @@ AddonTable.aq40 = {
     21814,
     22222,
     93041,
-
     -- Silithid Royalty
     21603,
     21680,
@@ -44,7 +41,6 @@ AddonTable.aq40 = {
     21695,
     21696,
     21697,
-
     -- Battleguard Sartura
     21666,
     21668,
@@ -59,7 +55,6 @@ AddonTable.aq40 = {
     21667,
     21678,
     21648,
-
     -- Fankriss the Unyielding
     21627,
     21635,
@@ -72,7 +67,6 @@ AddonTable.aq40 = {
     21663,
     21664,
     21665,
-
     -- Viscidus
     21622,
     21623,
@@ -81,7 +75,6 @@ AddonTable.aq40 = {
     21626,
     21677,
     93039,
-
     -- Princess Huhuran
     21616,
     21617,
@@ -89,7 +82,6 @@ AddonTable.aq40 = {
     21619,
     21620,
     21621,
-
     -- The Twin Emperors
     20726,
     20735,
@@ -109,7 +101,6 @@ AddonTable.aq40 = {
     21609,
     21679,
     93040,
-
     -- Ouro
     20927,
     20931,
@@ -119,7 +110,6 @@ AddonTable.aq40 = {
     23557,
     23558,
     23570,
-
     -- C'thun
     20929,
     20933,

@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 -- Halls of Stone
 AddonTable.hos = {
     -- Krystallus

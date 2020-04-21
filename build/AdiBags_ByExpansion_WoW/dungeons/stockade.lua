@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 AddonTable.stockade = {
     -- Hogger
     1959,

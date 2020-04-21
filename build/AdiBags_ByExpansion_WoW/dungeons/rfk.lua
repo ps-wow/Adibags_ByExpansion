@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 AddonTable.rfk = {
     -- Hunter Bonetusk
     6689,

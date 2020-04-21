@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 AddonTable.stratholme = {
     -- Hearthsinger Forresten
     13379,
@@ -100,7 +99,6 @@ AddonTable.stratholme = {
     13344,
     22410,
     13345,
-
     -- Other
     65973,
 }

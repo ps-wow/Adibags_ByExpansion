@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 AddonTable.hillsbrad = {
     -- Lieutenant Drake
     28210,

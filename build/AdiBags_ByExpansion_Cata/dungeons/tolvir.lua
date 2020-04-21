@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 AddonTable.tolvir = {
     -- General Husam
     55856,

@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 -- Auchenai Crypts
 AddonTable.crypts = {
     -- Shirrak the Dead Watcher

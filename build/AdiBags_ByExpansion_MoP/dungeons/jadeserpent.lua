@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 -- Temple of the Jade Serpent
 AddonTable.jadeserpent = {
     -- Wise Mari

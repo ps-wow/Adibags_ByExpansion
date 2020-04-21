@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 AddonTable.trade = {
     52325,
     52326,

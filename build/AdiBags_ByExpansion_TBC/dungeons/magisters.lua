@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 -- Magisters' Terrace
 AddonTable.magisters = {
     -- Selin Fireheart

@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 AddonTable.wailingcaverns = {
     -- Lady Anacondra
     6446,

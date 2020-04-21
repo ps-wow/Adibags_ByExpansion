@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 -- Well of Eternity (Heroic)
 AddonTable.well = {
     -- Peroth'arn

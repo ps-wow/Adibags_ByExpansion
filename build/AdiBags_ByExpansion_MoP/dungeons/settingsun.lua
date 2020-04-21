@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 AddonTable.settingsun = {
     -- Saboteur Kip'tilak
     80920,

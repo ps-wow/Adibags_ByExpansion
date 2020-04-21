@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 AddonTable.bfd = {
     -- Ghamoo-Ra
     151433,

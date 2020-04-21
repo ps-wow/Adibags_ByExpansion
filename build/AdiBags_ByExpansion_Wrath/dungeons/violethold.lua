@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 AddonTable.violethold = {
     -- Erekem
     43375,

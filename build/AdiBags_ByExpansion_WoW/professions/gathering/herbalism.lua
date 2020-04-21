@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 AddonTable.herbalism = {
     765,
     785,
@@ -27,7 +26,6 @@ AddonTable.herbalism = {
     13466,
     13467,
     13468,
-
     -- Partial Parts
     108327,
     108328,

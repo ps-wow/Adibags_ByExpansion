@@ -1,10 +1,8 @@
 local AddonName, AddonTable = ...
-
 AddonTable.eye = {
     -- Malygos (10/25 Normal)
     43952,
     43953,
-
     -- Malygos (10 Normal)
     40497,
     40489,
@@ -16,7 +14,6 @@ AddonTable.eye = {
     40526,
     40519,
     40474,
-
     -- Malygos (25 Normal)
     40543,
     40562,

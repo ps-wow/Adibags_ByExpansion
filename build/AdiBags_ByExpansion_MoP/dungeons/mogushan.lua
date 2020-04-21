@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 AddonTable.mogushan = {
     -- Trial of the King
     144020,

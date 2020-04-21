@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 AddonTable.garrison = {
     116053,
     115508,

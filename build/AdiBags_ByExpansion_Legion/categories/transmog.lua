@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 AddonTable.transmog = {
     121008,
     121044,

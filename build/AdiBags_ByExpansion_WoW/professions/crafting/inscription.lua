@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 AddonTable.inscription = {
     39334,
     39341,

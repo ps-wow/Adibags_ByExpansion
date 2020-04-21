@@ -1,28 +1,21 @@
 local AddonName, AddonTable = ...
-
 -- Icecrown Citadel
 -- 10/25 Man Difficulties have different loot.
 -- Normal and Heroic are also different loot ids.
 -- This means a total of 4 pages of loot per boss.
-
 AddonTable.icc = {
     -- Shared Boss Loot
     49908,
-
     50274,
-
     52025,
     52026,
     52027,
     52028,
     52029,
     52030,
-
     122229,
-
     138832,
     138955,
-
     142094,
     142095,
     142096,
@@ -30,12 +23,10 @@ AddonTable.icc = {
     142098,
     142099,
 }
-
 AddonTable.icc10 = {
     ---------------
     -- 10 NORMAL --
     ---------------
-
     -- Lord Marrowgar
     50761,
     50759,
@@ -188,11 +179,9 @@ AddonTable.icc10 = {
     51795,
     51801,
     51800,
-
     ---------------
     -- 10 HEROIC --
     ---------------
-
     -- Lord Marrowgar
     51936,
     50346,
@@ -345,12 +334,10 @@ AddonTable.icc10 = {
     51941,
     51947,
 }
-
 AddonTable.icc25 = {
     ---------------
     -- 25 NORMAL --
     ---------------
-
     -- Lord Marrowgar
     49968,
     50415,
@@ -501,11 +488,9 @@ AddonTable.icc25 = {
     50426,
     49997,
     50427,
-
     ---------------
     -- 25 HEROIC --
     ---------------
-
     -- Lord Marrowgar
     50604,
     50605,

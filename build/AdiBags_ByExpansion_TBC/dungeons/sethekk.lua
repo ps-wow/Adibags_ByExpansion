@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 AddonTable.sethekk = {
     -- Darkweaver Syth
     27918,

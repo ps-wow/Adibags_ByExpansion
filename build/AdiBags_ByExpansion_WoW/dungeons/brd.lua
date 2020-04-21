@@ -1,5 +1,4 @@
 local AddonName, AddonTable = ...
-
 -- Blackrock Depths
 AddonTable.brd = {
     -- High Interrogator Gerstahn
