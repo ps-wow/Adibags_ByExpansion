@@ -16,10 +16,15 @@ class GetItemIds
                 if ($line == '') {
                     continue;
                 }
+
+                // Line is item?
+                $pattern = "/([0-9]{0,7},)([ ]+-- .+)/";
+                $isItemLine = preg_match($pattern, $line);
+
                 // Remove the comments
-                $hasComment = strpos($line, '--');
+                $commentPos = strpos($line, '--');
                 $commaPos = strpos($line, ',');
-                if ($hasComment !== false) {
+                if ($isItemLine) {
                     $itemId = (int)substr($line, 0, $commaPos);
                     if (array_key_exists($itemId, $this->itemIds)) {
                         $this->duplicates[$itemId] = [
