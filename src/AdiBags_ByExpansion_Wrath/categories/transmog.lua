@@ -1,6 +1,7 @@
 local AddonName, AddonTable = ...
 
 AddonTable.transmog = {
+    35579, -- Vrykul Shackles [Utgarde Keep]
     35993, -- Bristlepine Shoulderpads
 
     36006, -- Icemist Gloves
@@ -9,6 +10,7 @@ AddonTable.transmog = {
     36045, -- Crystalsong Robe
     36053, -- Vizier Robe
     36057, -- Vizier Mantle
+    36076, -- Winterfin Boots
     36150, -- Pygmy Gloves
     36153, -- Pygmy Shoulders
     36160, -- Wendigo Legguards

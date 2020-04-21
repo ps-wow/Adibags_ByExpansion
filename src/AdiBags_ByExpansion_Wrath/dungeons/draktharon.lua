@@ -39,7 +39,15 @@ AddonTable.draktharon = {
     37784,  -- Keystone Great-Ring
     37732,  -- Spectral Seal of the Prophet
     37734,  -- Talisman of Troll Divinity
-
     -- Quests
-    44369, -- Disavowed Bracers
+    --- Head Games (13129)
+    44369,  -- Disavowed Bracers
+    44367,  -- Scorned Bands
+    44366,  -- Shameful Cuffs
+    44368,  -- Accused Wristguards
+    --- Cleansing Drak'Tharon (30120 / 12238)
+    40758,  -- shroud-of-temptation
+    40755,  -- enticing-sabatons
+    40757,  -- shackles-of-dark-whispers
+    40756,  -- shoulders-of-the-seducer
 }

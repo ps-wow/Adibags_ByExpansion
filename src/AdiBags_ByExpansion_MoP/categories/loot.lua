@@ -15,10 +15,12 @@ AddonTable.loot = {
     113729, -- Kyparite Headguard
     113735, -- Drifting Cloud Necklace
     113738, -- Kyparite Chestguard
+    113744, -- Kyparite Gauntlets
     113750, -- Kyparite Shoulderguards
     113764, -- Blossoming Cap
     113765, -- Blossoming Robe
     113766, -- Blossoming Gloves
+    113783, -- Kyparite Stompers
     113787, -- Blossoming Slippers
     114669, -- Tranquil Satchel of Helpful Goods
     156698, -- Tranquil Satchel of Helpful Goods

@@ -29,7 +29,9 @@ AddonTable.loot = {
     113684, -- Icecrust Cloak
     113685, -- Coldblood Longcloak
     113688, -- Obsidian Citadel Necklace
+    113692, -- Ice-Encrusted Gauntlets
     113758, -- Snow-Coated Cloth Gloves
+    114641, -- Icy Satchel of Helpful Goods
 
     156688, -- Icy Satchel of Helpful Goods
 

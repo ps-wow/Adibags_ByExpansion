@@ -45,4 +45,9 @@ AddonTable.nexus = {
     43181, -- Shoulders of the Northern Lights
     43182, -- Cured Mammoth Hide Mantle
     43183, -- Tundra Trackers Shoulderguards
+    --- Postponing the Inevitable (11905)
+    42758, -- time-twisted-wraps
+    42761, -- time-stop-gloves
+    42763, -- bindings-of-sabotage
+    42765, -- gauntlets-of-the-disturbed-giant
 }

@@ -49,7 +49,6 @@ AddonTable.junk = {
     138250,
     138251,
     -- Old AP items
-    134404,
     138781,
     138783,
     138839,
@@ -57,6 +56,7 @@ AddonTable.junk = {
     140310,
     140517,
     141384,
+    141404,
     153164,
     -- Sentinax Consumables
     146907,

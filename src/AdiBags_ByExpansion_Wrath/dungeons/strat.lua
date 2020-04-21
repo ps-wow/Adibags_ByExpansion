@@ -1,5 +1,6 @@
 local AddonName, AddonTable = ...
 
+-- The Culling of Stratholme
 AddonTable.strat = {
     -- Meathook
     37079, -- enchanted-wire-stitching
@@ -47,4 +48,10 @@ AddonTable.strat = {
     37696,  -- plague-infected-bracers
     43085,  -- royal-crest-of-lordaeron
     37111,  -- soul-preserver
+    -- Quest Rewards
+    --- A Royal Escort (13151)
+    44396,  -- gloves-of-the-time-guardian
+    44397,  -- handwraps-of-preserved-history
+    44398,  -- grips-of-chronological-events
+    44399,  -- gauntlets-of-the-culling
 }

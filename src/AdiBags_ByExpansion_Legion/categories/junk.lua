@@ -55,7 +55,6 @@ AddonTable.junk = {
     138251, -- Calcified Dragon Egg
 
     -- Old AP items
-    134404, -- Insignia of the Second Command
     138781, -- Brief History of the Aeons
     138783, -- Glittering Memento
     138839, -- Valiant's Glory
@@ -63,6 +62,7 @@ AddonTable.junk = {
     140310, -- Crude Statuette
     140517, -- Glory of the Order
     141384, -- Emblem of the Dark Covenant
+    141404, -- Insignia of the Second Command
     153164, -- Otherworldy Trophy
 
     -- Sentinax Consumables

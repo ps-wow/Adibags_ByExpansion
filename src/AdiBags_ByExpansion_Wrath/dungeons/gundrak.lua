@@ -51,4 +51,9 @@ AddonTable.gundrak = {
     43178, -- Ring of Foul Mojo
     43179, -- Solid Platinum Band
     43177, -- Voodoo Signet
+    --- Gal'darah Must Pay (29834)
+    43164, -- sly-mojo-sash
+    43165, -- strange-voodoo-belt
+    43167, -- rangers-belt-of-the-fallen-empire
+    43168, -- clasp-of-the-fallen-demi-god
 }

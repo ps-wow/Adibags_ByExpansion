@@ -44,4 +44,9 @@ AddonTable.nexus = {
     43181,
     43182,
     43183,
+    --- Postponing the Inevitable (11905)
+    42758,
+    42761,
+    42763,
+    42765,
 }

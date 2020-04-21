@@ -1,6 +1,10 @@
 local AddonName, AddonTable = ...
 
 AddonTable.loot = {
+    112431, -- Hollowheart Legguards
+    112432, -- Hollowheart Chain Leggings
+    112433, -- Hollowheart Trousers
+    112434, -- Hollowheart Pantaloons
     112450, -- Illidari Blindfold
     112451, -- Illidari Leggings
     112454, -- Illidari Robe
@@ -13,6 +17,7 @@ AddonTable.loot = {
     112462, -- Illidari Drape
 
     121106, -- Hagfeather Leggings
+    121480, -- Felblaze Chain
     121577, -- Rooksguard Warboots
     121761, -- Skyfire Marin'e Vambraces
 
@@ -33,8 +38,10 @@ AddonTable.loot = {
 
     129101, -- Alpha's Paw
     129104, -- Brand of the Banshee Queen
+    129171, -- Band of Ingression
     129172, -- Band of Demonic Guile
     129236, -- Tinkmaster's Cog Stompers
+    129291, -- Stormslayer Champion Belt
     129313, -- Tinkermaster's Mindvault
     129995, -- Sablehide Handguards
 
@@ -57,6 +64,7 @@ AddonTable.loot = {
     133620, -- Amice of the Enlightened
 
     134179, -- Skoldiir Breastplate
+    134230, -- Coralplate Wristguard
     134245, -- Nazjatar Manapearl Ring
     134291, -- Nightborne's Hunting Horn
     134497, -- Stormcharged Choker

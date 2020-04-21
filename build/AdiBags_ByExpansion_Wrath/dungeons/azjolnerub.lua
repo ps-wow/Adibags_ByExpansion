@@ -30,4 +30,10 @@ AddonTable.azjolnerub = {
     35662,
     37232,
     35661,
+    -- Quest Rewards
+    --- Don't Forget the Eggs! (29808)
+    44362,
+    44363,
+    44364,
+    44365,
 }

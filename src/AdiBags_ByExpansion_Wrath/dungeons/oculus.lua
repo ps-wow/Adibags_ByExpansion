@@ -52,4 +52,9 @@ AddonTable.oculus = {
     44336, -- Flourishing Band
     44335, -- Band of Motivation
     44337, -- Staunch Signet
+    --- A Wing and a Prayer (13128)
+    44338, -- cuffs-of-gratitude
+    44339, -- soaring-wristwraps
+    44340, -- bindings-of-raelorasz
+    44341, -- bracers-of-reverence
 }

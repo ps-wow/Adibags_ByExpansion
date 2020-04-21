@@ -40,4 +40,9 @@ AddonTable.uk = {
     38218, -- Executioner's Band
     38219, -- Ring of Decimation
     38220, -- Signet of Swift Judgment
+    --- A Score to Settle [H] (11272 / 30112) / Ears of the Lich King [A] (29803)
+    39676, -- wraps-of-the-sanlayn
+    39678, -- vendetta-bindings
+    39679, -- runecasters-bracers
+    39680, -- vambraces-of-the-vengeance-bringer
 }

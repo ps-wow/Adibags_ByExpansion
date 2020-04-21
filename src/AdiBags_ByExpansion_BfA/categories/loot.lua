@@ -165,6 +165,7 @@ AddonTable.loot = {
     158411, -- Jambani Girdle
     158423, -- Jambani Gloves
     158581, -- Shimmering Quicksilver Drape
+    158583, -- Quillstitch Greatcloak
     158585, -- Banisher Walkers
     158679, -- Maokka's Carving
     158680, -- Rikal's Ritual Beads

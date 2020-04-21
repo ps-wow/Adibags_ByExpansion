@@ -2,6 +2,7 @@ local AddonName, AddonTable = ...
 
 AddonTable.transmog = {
     121008, -- Rhut'van Vambraces
+    121024, -- Llothien Waistband
     121044, -- Faronaar Chain Helm
     121047, -- Faronaar Chain Vest
     121049, -- Temporal Scholar's Cowl

@@ -39,4 +39,9 @@ AddonTable.uk = {
     38218,
     38219,
     38220,
+    --- A Score to Settle [H] (11272 / 30112) / Ears of the Lich King [A] (29803)
+    39676,
+    39678,
+    39679,
+    39680,
 }

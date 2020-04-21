@@ -66,6 +66,16 @@ AddonTable.jadeserpent = {
     81069,  -- neverdare-shoulders
     87544,  -- jelyu-spirit-of-the-serpent
     -- Quest Rewards
+    --- Restoring Jade's Purity (31355)
+    87292, -- flameheart-wristguards
+    87293, -- defiant-archers-bracers
+    87294, -- scrollkeepers-cuffs
+    87295, -- summerpetal-cuffs
+    87296, -- coiled-serpent-armband
+    87297, -- wise-maris-bracers
+    87298, -- bracers-of-ancient-tales
+    87299, -- eversight-armplates
+    87300, -- armplates-of-the-jade-idol
     --- Deep Doubts, Deep Wisdom (31356)
     87283, -- windstrong-leggings
     87284, -- leggings-of-the-fifth-sun

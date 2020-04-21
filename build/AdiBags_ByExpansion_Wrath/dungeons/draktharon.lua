@@ -39,5 +39,14 @@ AddonTable.draktharon = {
     37732,
     37734,
     -- Quests
+    --- Head Games (13129)
     44369,
+    44367,
+    44366,
+    44368,
+    --- Cleansing Drak'Tharon (30120 / 12238)
+    40758,
+    40755,
+    40757,
+    40756,
 }

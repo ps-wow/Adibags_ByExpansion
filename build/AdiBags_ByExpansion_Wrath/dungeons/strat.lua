@@ -1,4 +1,5 @@
 local AddonName, AddonTable = ...
+-- The Culling of Stratholme
 AddonTable.strat = {
     -- Meathook
     37079,
@@ -46,4 +47,10 @@ AddonTable.strat = {
     37696,
     43085,
     37111,
+    -- Quest Rewards
+    --- A Royal Escort (13151)
+    44396,
+    44397,
+    44398,
+    44399,
 }

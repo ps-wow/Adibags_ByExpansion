@@ -60,8 +60,18 @@ AddonTable.stormstout = {
     -- Quest Rewards
     --- Family Secrets (31324)
     87310, -- Stormstout Drink Napkin
-    87314, -- Blackened Chain Cloak
+    87311, -- Used Bar Rag
     87312, -- Aunties Cooking Apron
     87313, -- Tasting Room Tablecloth
-    87311, -- Used Bar Rag
+    87314, -- Blackened Chain Cloak
+    --- Trouble Brewing (31327)
+    87301, -- master-brewers-gloves
+    87302, -- barrel-stackers-mitts
+    87303, -- wine-tasting-gloves
+    87304, -- uncorking-gloves
+    87305, -- barrel-aged-gloves
+    87306, -- virmen-exterminator-gloves
+    87307, -- vegetable-chopping-handguards
+    87308, -- partycrashers-gauntlets
+    87309, -- handguards-of-sturdy-constitution
 }

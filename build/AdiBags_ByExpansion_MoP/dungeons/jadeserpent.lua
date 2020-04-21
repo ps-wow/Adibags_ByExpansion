@@ -65,6 +65,16 @@ AddonTable.jadeserpent = {
     81069,
     87544,
     -- Quest Rewards
+    --- Restoring Jade's Purity (31355)
+    87292,
+    87293,
+    87294,
+    87295,
+    87296,
+    87297,
+    87298,
+    87299,
+    87300,
     --- Deep Doubts, Deep Wisdom (31356)
     87283,
     87284,

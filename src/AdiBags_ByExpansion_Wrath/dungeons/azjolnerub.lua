@@ -31,4 +31,10 @@ AddonTable.azjolnerub = {
     35662,  -- Wing Cover Girdle
     37232,  -- Ring of the Traitor King
     35661,  -- Signet of Arachnathid Command
+    -- Quest Rewards
+    --- Don't Forget the Eggs! (29808)
+    44362,  -- expelling-gauntlets
+    44363,  -- purging-handguards
+    44364,  -- wraps-of-quelled-bane
+    44365,  -- gloves-of-banished-infliction
 }
