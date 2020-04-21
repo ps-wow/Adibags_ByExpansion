@@ -1,4 +1,63 @@
 local AddonName, AddonTable = ...
 
 AddonTable.scholomance = {
+    -- Shared
+    144015, -- vigorsteel-spaulders
+    -- Instructor Chillheart
+    143967, -- breastplate-of-wracking-souls
+    144180, -- anarchists-pendant
+    144200, -- shadow-puppet-bracers
+    144201, -- gravetouch-greatsword
+    144202, -- icewrath-belt
+    -- Jandice Barov
+    82847,  -- metanoia-shield
+    82848,  -- barovian-ritual-hood
+    82850,  -- phantasmal-drape
+    82851,  -- ghostwoven-legguards
+    82852,  -- wraithplate-treads
+    144012, -- ghostwoven-legguards
+    144013, -- wraithplate-treads
+    144029, -- barovian-ritual-hood
+    144207, -- metanoia-shield
+    144208, -- phantasmal-drape
+    -- Rattlegore
+    82824,  -- goresoaked-headreaper
+    82825,  -- deadwalker-bracers
+    82826,  -- necromantic-wand
+    82827,  -- rattling-gloves
+    82828,  -- bone-golem-boots
+    144011, -- bone-golem-boots
+    144203, -- goresoaked-headreaper
+    144204, -- deadwalker-bracers
+    144205, -- necromantic-wand
+    144206, -- rattling-gloves
+    -- Lilian Voss
+    81567,  -- necklace-of-the-dark-blaze
+    82853,  -- soulburner-crown
+    82854,  -- leggings-of-unleashed-anguish
+    82855,  -- shivbreaker-vest
+    82856,  -- dark-blaze-gauntlets
+    143968, -- shivbreaker-vest
+    144014, -- leggings-of-unleashed-anguish
+    144030, -- soulburner-crown
+    144181, -- necklace-of-the-dark-blaze
+    144209, -- dark-blaze-gauntlets
+    -- Darkmaster Gandling
+    81266,  -- price-of-progress
+    81267,  -- searing-words
+    81268,  -- lessons-of-the-darkmaster
+    82857,  -- vigorsteel-spaulders
+    82858,  -- tombstone-gauntlets
+    82859,  -- headmasters-will
+    82860,  -- gloves-of-explosive-pain
+    82861,  -- incineration-belt
+    82862,  -- shoulderguards-of-painful-lessons
+    144016, -- shoulderguards-of-painful-lessons
+    144159, -- price-of-progress
+    144160, -- searing-words
+    144161, -- lessons-of-the-darkmaster
+    144210, -- tombstone-gauntlets
+    144211, -- headmasters-will
+    144212, -- gloves-of-explosive-pain
+    144213, -- incineration-belt
 }
