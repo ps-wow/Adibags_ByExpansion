@@ -12,5 +12,7 @@ AddonTable.transmog = {
     82253, -- Waterfall Robe
     82289, -- Temple Girdle
 
+    87451, -- Helm of Elemental Binding
+
     90574, -- Etoshia's Elegant Gloves
 }

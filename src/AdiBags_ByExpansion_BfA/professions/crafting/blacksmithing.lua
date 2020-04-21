@@ -11,6 +11,8 @@ AddonTable.blacksmithing = {
     152808, -- Monel-Hardened Waistguard
     152809, -- Monel-Hardened Armguards
     152818, -- Monel-Hardened Shield
+    161882, -- Monel-Hardened Gauntlets
+    161887, -- Monel-Hardened Amrguards
     -- Weapons
     152828, -- Monel-Hardened Claymore
     152827, -- Monel-Hardened Cutlass
