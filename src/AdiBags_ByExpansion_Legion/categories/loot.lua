@@ -19,12 +19,14 @@ AddonTable.loot = {
     121106, -- Hagfeather Leggings
     121480, -- Felblaze Chain
     121577, -- Rooksguard Warboots
+    121580, -- Sablehide Boots
     121761, -- Skyfire Marin'e Vambraces
 
     123959, -- Demon Trophy
     123960, -- Charm of Demonic Fire
 
     128946, -- Mardum Lord Signet
+    128947, -- Pit Lord's Cuffs
     128948, -- Nefarious Ring
     128949, -- Infernal Firecord Sash
     128950, -- Demon-Rend Shoulderblades
@@ -60,13 +62,16 @@ AddonTable.loot = {
     133320, -- Illidari Blindfold
     133321, -- Illidari Gloves
     133322, -- Illidari Robe
+    133323, -- Illidari Bracers
     133324, -- Illidari Boots
+    133325, -- Illidari Belt
     133620, -- Amice of the Enlightened
 
     134179, -- Skoldiir Breastplate
     134230, -- Coralplate Wristguard
     134245, -- Nazjatar Manapearl Ring
     134291, -- Nightborne's Hunting Horn
+    134429, -- Grove Darkener's Treads
     134497, -- Stormcharged Choker
     134557, -- Dreadsworn Gauntlets
     134561, -- Dreadsword Chestguard
@@ -77,6 +82,7 @@ AddonTable.loot = {
     138970, -- Helm of Reaffirmed Purpose
 
     139089, -- Night Dreamer Robe
+    139718, -- Helm of the Shattered Abyss
     139897, -- Cloak of the White Prowler
     139926, -- Subject 12's ID Bracelets
 

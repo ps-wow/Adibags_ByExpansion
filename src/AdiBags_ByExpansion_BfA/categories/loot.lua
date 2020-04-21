@@ -218,6 +218,7 @@ AddonTable.loot = {
     159764, -- Enraged Diemetradon Fin
     159820, -- Ironcrest Lantern [Off-Hand]
     159901, -- Breastplate of the Champion [A]
+    159902, -- Vest of the Champion [A]
     159904, -- Robes of the Champion [A]
     159908, -- Robes of the Champion [H]
     159977, -- Vindictive Golem Core
