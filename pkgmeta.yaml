@@ -11,6 +11,7 @@ move-folders:
 ignore:
   - src # Ignore the source (src) folder
   - scripts # Ignore the tests folder
+  - .editorconfig
   - .gitignore
   - .github
   - .travis.yml
