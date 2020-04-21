@@ -17,9 +17,10 @@ class GetItemIds
                     continue;
                 }
                 // Remove the comments
-                $hasComment = strpos($line, ', --');
+                $hasComment = strpos($line, '--');
+                $commaPos = strpos($line, ',');
                 if ($hasComment !== false) {
-                    $itemId = (int)substr($line, 0, $hasComment);
+                    $itemId = (int)substr($line, 0, $commaPos);
                     if (array_key_exists($itemId, $this->itemIds)) {
                         $this->duplicates[$itemId] = [
                             'existing' => $this->itemIds[$itemId],
