@@ -3,63 +3,63 @@ local AddonName, AddonTable = ...
 AddonTable.settingsun = {
     -- Saboteur Kip'tilak
     80920,  -- fallout-filter
-    80934,  -- pendant-of-precise-timing
     80921,  -- saboteurs-stabilizing-bracers
+    80934,  -- pendant-of-precise-timing
+    81090,  -- saboteurs-stabilizing-bracers
     81095,  -- pendant-of-precise-timing
     81104,  -- fallout-filtering-hood
     81190,  -- grenadiers-belt
     81191,  -- pulled-grenade-pin
-    81090,  -- saboteurs-stabilizing-bracers
     144018, -- fallout-filtering-hood
     144100, -- saboteurs-stabilizing-bracers
     144102, -- pendant-of-precise-timing
     144134, -- grenadiers-belt
     144135, -- pulled-grenade-pin
     -- Striker Ga'dok
-    80924,  -- acid-scarred-spaulders
     80922,  -- airstream-treads
     80923,  -- impalers-girdle
-    81111,  -- airstream-treads
+    80924,  -- acid-scarred-spaulders
     81085,  -- impalers-girdle
-    81192,  -- vision-of-the-predator
     81098,  -- acid-scarred-spaulders
+    81111,  -- airstream-treads
+    81192,  -- vision-of-the-predator
     81229,  -- bombers-precision-gloves
     143980, -- acid-scarred-spaulders
+    143983, -- airstream-treads
     144095, -- impalers-girdle
     144136, -- vision-of-the-predator
-    143983, -- airstream-treads
     144137, -- bombers-precision-gloves
     -- Commander Ri'mok
     80925,  -- swarmcall-helm
     80926,  -- leggings-of-the-frenzy
     80933,  -- mantid-trochanter
-    81232,  -- viscous-ring
-    81106,  -- leggings-of-the-frenzy
     81088,  -- mantid-trochanter
-    81230,  -- rimoks-shattered-scale
     81105,  -- swarmcall-helm
+    81106,  -- leggings-of-the-frenzy
+    81230,  -- rimoks-shattered-scale
+    81232,  -- viscous-ring
     143982, -- leggings-of-the-frenzy
-    144139, -- viscous-ring
     144019, -- swarmcall-helm
-    144138, -- rimoks-shattered-scale
     144098, -- mantid-trochanter
+    144138, -- rimoks-shattered-scale
+    144139, -- viscous-ring
     -- Raigonn
-    80930,  -- swarmbringer-chestguard
-    80928,  -- treads-of-fixation
-    80932,  -- carapace-breaker
     80927,  -- hive-protectors-gauntlets
+    80928,  -- treads-of-fixation
     80929,  -- wall-breaker-legguards
+    80930,  -- swarmbringer-chestguard
     80931,  -- shield-of-the-protectorate
-    144141, -- drape-of-the-screeching-swarm
-    143984, -- treads-of-fixation
-    144105, -- hive-protectors-gauntlets
-    144104, -- shield-of-the-protectorate
-    143991, -- shoulders-of-engulfing-winds
+    80932,  -- carapace-breaker
     143955, -- swarmbringer-chestguard
     143977, -- wall-breaker-legguards
-    144142, -- frenzyswarm-bracers
+    143984, -- treads-of-fixation
+    143991, -- shoulders-of-engulfing-winds
     144101, -- carapace-breaker
+    144104, -- shield-of-the-protectorate
+    144105, -- hive-protectors-gauntlets
     144140, -- impervious-carapace
+    144141, -- drape-of-the-screeching-swarm
+    144142, -- frenzyswarm-bracers
     144218, -- klatith-fangs-of-the-swarm
     -- Quest Rewards
     --- That's a Big Bug! (31364)
