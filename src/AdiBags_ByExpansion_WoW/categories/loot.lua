@@ -2,33 +2,20 @@ local AddonName, AddonTable = ...
 
 -- Loot (Soulbound Green or Higher)
 AddonTable.loot = {
-    5404, -- Serpent's Shoulders
-
-    6460, -- Cobrahn's Grasp
     6601, -- Dervish Boots
-    6695, -- Stygian Bone Amulet
-    6908, -- Ghamoo-Ra's Band
 
     7489, -- Captain's Gauntlets
 
-    9470, -- Bad Mojo Mask
     9743, -- Simple Shoes
     9797, -- Ivycloth Pants
 
-    10775, -- Carapace of Tuten'kash
-
     11302, -- Uther's Strenth (BoE Trinket)
-    11935, -- Magmus Stone
 
     12048, -- Prismatic Pendant (BoE Neck)
-
-    13384, -- Rainbow Girdle
 
     14168, -- Buccaneer's Gloves
 
     14951, -- Bloodforged Sabatons
-
-    17943, -- Fist of Stone
 
     51967, -- Enumerated Sandals
     51968, -- Enumerated Wrap
@@ -52,8 +39,8 @@ AddonTable.loot = {
     54999, -- Seryl's Robes
     55013, -- Seryl's Promise
     57401, -- Jasperlode Chestguard (White Plate Chest)
-    58907, -- Crime Scene Tape [Quest: Westfall]
     58903, -- Kobold Candle
+    58907, -- Crime Scene Tape [Quest: Westfall]
     58909, -- Golden Sunshine Cloak [Quest: Westfall]
 
     65911, -- Anacondra's Robe
@@ -73,13 +60,8 @@ AddonTable.loot = {
     66003, -- Pythas' Vest
     66008, -- Shield of Maraudon
 
-    82878, -- Fireworm Robes
-    82882, -- Dark Ritual Cape
-    82885, -- Flameseared Carapace
     82891, -- Robes of the Doomed Ritual
     82895, -- Searing Belt
-    88265, -- Beastbinder Ring
-    88277, -- Pyretic Legguards
 
     131625, -- Hann Ibal's Chain Dungarees
     131685, -- Boots of Painful Cost
@@ -119,7 +101,4 @@ AddonTable.loot = {
     157742, -- Warsinger's Legplates (Starter Gear)
 
     160608, -- Tumultous Neckalce
-
-    -- Toys
-    13379, -- Piccolo of the Flaming Fire
 }

@@ -19,9 +19,6 @@ AddonTable.loot = {
     55773, -- Mystical Cord
     55772, -- Everstill Cord
 
-    56300, -- Quicksilver Amulet
-    56421, -- Seedling Pod
-
     57283, -- Rockbreaker Robes
     57292, -- Repurposed Twilight Stave
 

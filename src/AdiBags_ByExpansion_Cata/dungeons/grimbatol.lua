@@ -24,80 +24,78 @@ AddonTable.grimbatol = {
     157596, -- glimmerthread-pantaloons
     157612, -- dragonkin-ward
     -- Forgemaster Throngus
-    56120,  -- ring-of-dun-algaz
     56118,  -- belt-of-the-forgemaster
+    56119,  -- dark-iron-chain-boots
+    56120,  -- ring-of-dun-algaz
     56121,  -- thronguss-finger
     56122,  -- wand-of-untainted-power
-    56119,  -- dark-iron-chain-boots
     56445,  -- ring-of-dun-algaz
-    157597, -- troggstitched-drape
-    56447,  -- belt-of-the-forgemaster
-    157613, -- geomancy-slicer
-    56449,  -- thronguss-finger
     56446,  -- wand-of-untainted-power
+    56447,  -- belt-of-the-forgemaster
     56448,  -- dark-iron-chain-boots
-    133289, -- belt-of-the-forgemaster
-    133304, -- gale-of-shadows
+    56449,  -- thronguss-finger
     133287, -- ring-of-dun-algaz
-    133353, -- troggbone-cinch
-    133290, -- dark-iron-chain-boots
     133288, -- wand-of-untainted-power
-    133308, -- curse-tainted-leggings
+    133289, -- belt-of-the-forgemaster
+    133290, -- dark-iron-chain-boots
     133291, -- thronguss-finger
+    133304, -- gale-of-shadows
+    133308, -- curse-tainted-leggings
+    133353, -- troggbone-cinch
+    157597, -- troggstitched-drape
+    157613, -- geomancy-slicer
     -- Drahga Shadowburner
+    56123,  -- red-scale-boots
+    56124,  -- earthshape-pauldrons
+    56125,  -- crimsonborne-bracers
     56126,  -- azureborne-cloak
     56127,  -- windwalker-blade
-    56123,  -- red-scale-boots
-    56125,  -- crimsonborne-bracers
-    56124,  -- earthshape-pauldrons
-    56453,  -- crimsonborne-bracers
     56450,  -- azureborne-cloak
-    157598, -- couriers-dragonriding-spaulders
-    56452,  -- earthshape-pauldrons
     56451,  -- red-scale-boots
-    157614, -- flame-invokers-treads
+    56452,  -- earthshape-pauldrons
+    56453,  -- crimsonborne-bracers
     56454,  -- windwalker-blade
-    133363, -- troggstitched-drape
     133292, -- azureborne-cloak
-    133294, -- earthshape-pauldrons
-    133354, -- glimmerthread-pantaloons
     133293, -- red-scale-boots
-    133296, -- windwalker-blade
+    133294, -- earthshape-pauldrons
     133295, -- crimsonborne-bracers
+    133296, -- windwalker-blade
+    133354, -- glimmerthread-pantaloons
+    133363, -- troggstitched-drape
+    157598, -- couriers-dragonriding-spaulders
+    157614, -- flame-invokers-treads
     -- Erudax
-    56137,  -- staff-of-siphoned-essences
-    56131,  -- wild-hammer
-    56138,  -- gale-of-shadows
-    56132,  -- mark-of-khardros
-    56136,  -- corrupted-egg-shell
-    56138,  -- gale-of-shadows
-    56133,  -- crown-of-enfeebled-bodies
+    56128,  -- vest-of-misshapen-hides
     56129,  -- circle-of-bone
     56130,  -- mace-of-transformed-bone
-    56128,  -- vest-of-misshapen-hides
+    56131,  -- wild-hammer
+    56132,  -- mark-of-khardros
+    56133,  -- crown-of-enfeebled-bodies
     56135,  -- bracers-of-umbral-mending
-    56463,  -- corrupted-egg-shell
-    56461,  -- staff-of-siphoned-essences
-    56462,  -- gale-of-shadows
-    56458,  -- mark-of-khardros
-    56457,  -- circle-of-bone
-    157615, -- flamescale-chain-leggings
-    56459,  -- mace-of-transformed-bone
+    56136,  -- corrupted-egg-shell
+    56137,  -- staff-of-siphoned-essences
+    56138,  -- gale-of-shadows
     56455,  -- vest-of-misshapen-hides
     56456,  -- wild-hammer
-    56464,  -- bracers-of-umbral-mending
+    56457,  -- circle-of-bone
+    56458,  -- mark-of-khardros
+    56459,  -- mace-of-transformed-bone
     56460,  -- Crown of Enfeebled Bodies
-    133309, -- shroud-of-dark-memories
+    56461,  -- staff-of-siphoned-essences
+    56462,  -- gale-of-shadows
+    56463,  -- corrupted-egg-shell
+    56464,  -- bracers-of-umbral-mending
     133297, -- vest-of-misshapen-hides
-    133374, -- couriers-dragonriding-spaulders
-    133303, -- staff-of-siphoned-essences
-    133302, -- crown-of-enfeebled-bodies
-    133299, -- circle-of-bone
-    133301, -- mace-of-transformed-bone
     133298, -- wild-hammer
-    133305, -- corrupted-egg-shell
+    133299, -- circle-of-bone
     133300, -- mark-of-khardros
-
+    133301, -- mace-of-transformed-bone
+    133302, -- crown-of-enfeebled-bodies
+    133303, -- staff-of-siphoned-essences
+    133305, -- corrupted-egg-shell
+    133309, -- shroud-of-dark-memories
+    133374, -- couriers-dragonriding-spaulders
+    157615, -- flamescale-chain-leggings
     -- Quest Rewards
     --- Kill the Courier (28853)
     66937, -- sandals-of-the-courier

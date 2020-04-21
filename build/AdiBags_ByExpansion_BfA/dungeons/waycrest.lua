@@ -1,7 +1,6 @@
 local AddonName, AddonTable = ...
 
 AddonTable.waycrest = {
-
     -- Heartsbane Triad
     159133,
     159669,
@@ -12,7 +11,6 @@ AddonTable.waycrest = {
     159345,
     159400,
     159404,
-
     -- Soulbound Goliath
     159659,
     159282,
@@ -21,7 +19,6 @@ AddonTable.waycrest = {
     159456,
     162548,
     159630,
-
     -- Raal the Gluttonous
     159660,
     159294,
@@ -30,7 +27,6 @@ AddonTable.waycrest = {
     159285,
     159452,
     159616,
-
     -- Lord and Lady Waycrest
     159661,
     159457,
@@ -39,7 +35,6 @@ AddonTable.waycrest = {
     159347,
     158362,
     159631,
-
     -- Gorak Tul
     159662,
     159279,
