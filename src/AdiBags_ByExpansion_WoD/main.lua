@@ -9,10 +9,21 @@ local module = {
     ["namespace"] = "WoD",
     ["prefix"] = "06. WoD - ",
     ["description"] = "Warlords of Draenor Items",
+    ["dungeons"] = {
+        ["auchindoun"] = "Auchindoun",
+        ["bloodmaul"] = "Bloodmaul Slag Mines",
+        ["everbloom"] = "The Everbloom",
+        ["grimrail"] = "Grimrail Depot",
+        ["irondocks"] = "The Iron Docks",
+        ["shadowmoon"] = "Shadowmoon Burial Grounds",
+        ["skyreach"] = "Skyreach",
+        ["ubrs"] = "Upper Blackrock Spire",
+        ["multi"] = "Multiple"
+    },
     ["raids"] = {
         ["hm"]  = "Highmaul",
         ["brf"] = "Blackrock Foundry",
-        ["hfc"] = "Hellfire Citadel",
+        ["hfc"] = "Hellfire Citadel"
     }
 }
 

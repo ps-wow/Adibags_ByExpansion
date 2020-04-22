@@ -20,6 +20,14 @@
     <Script file="professions\secondary\fishing.lua"/>
 
     <Script file="dungeons\auchindoun.lua"/>
+    <Script file="dungeons\bloodmaul.lua"/>
+    <Script file="dungeons\everbloom.lua"/>
+    <Script file="dungeons\grimrail.lua"/>
+    <Script file="dungeons\irondocks.lua"/>
+    <Script file="dungeons\multi.lua"/>
+    <Script file="dungeons\shadowmoon.lua"/>
+    <Script file="dungeons\skyreach.lua"/>
+    <Script file="dungeons\ubrs.lua"/>
 
     <Script file="raids\brf.lua"/>
     <Script file="raids\hfc.lua"/>
