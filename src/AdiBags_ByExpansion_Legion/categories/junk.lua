@@ -1,11 +1,15 @@
 local AddonName, AddonTable = ...
 
 AddonTable.junk = {
+    121333, -- Weighted Blackjack
+    121345, -- Weatherworn Belt
     121350, -- Rust-Encrusted Leggings
     121363, -- Warped-Plate Helmet
+    121365, -- Warped-Plate Leggings
     121366, -- Rust-Encrusted Hauberk
     121368, -- Sunbleached Shirt
     121369, -- Weatherworn Vest
+    121370, -- Warped-Plate Stompers
     121372, -- Sunbleached Sandals
     121385, -- Deteriorated Hearthstone Desk
     121387, -- Leather Pistol Holster

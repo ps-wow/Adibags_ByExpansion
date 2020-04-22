@@ -29,8 +29,6 @@ AddonTable.loot = {
     109078, -- Killmaw's Canine
     109081, -- Ronokk's Greatcloak
     109739, -- Star Chart [Toy]
-    109970, -- Hood of Arcane Mystery
-    109973, -- Lightbinder Cover
 
     112393, -- Iron Horde Waraxe
     112440, -- Slavebreaker Robes

@@ -6,8 +6,10 @@
     <Script file="categories\trade.lua"/>
     <Script file="categories\transmog.lua"/>
 
+    <Script file="professions\crafting\blacksmithing.lua"/>
     <Script file="professions\crafting\enchanting.lua"/>
     <Script file="professions\crafting\inscription.lua"/>
+    <Script file="professions\crafting\tailoring.lua"/>
 
     <Script file="professions\gathering\cloth.lua"/>
     <Script file="professions\gathering\garrison.lua"/>
@@ -20,6 +22,14 @@
     <Script file="professions\secondary\fishing.lua"/>
 
     <Script file="dungeons\auchindoun.lua"/>
+    <Script file="dungeons\bloodmaul.lua"/>
+    <Script file="dungeons\everbloom.lua"/>
+    <Script file="dungeons\grimrail.lua"/>
+    <Script file="dungeons\irondocks.lua"/>
+    <Script file="dungeons\multi.lua"/>
+    <Script file="dungeons\shadowmoon.lua"/>
+    <Script file="dungeons\skyreach.lua"/>
+    <Script file="dungeons\ubrs.lua"/>
 
     <Script file="raids\brf.lua"/>
     <Script file="raids\hfc.lua"/>

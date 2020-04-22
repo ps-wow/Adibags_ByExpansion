@@ -50,6 +50,7 @@ AddonTable.junk = {
     3950, -- Twill Shoulderpads
     3962, -- Thick Leather Boots
     3966, -- Thick Leather Pants
+    3992, -- Laminated Scale Belt
     3994, -- Laminated Scale Bracers
 
     4018, -- Whetted Claymore
@@ -95,13 +96,16 @@ AddonTable.junk = {
     9308, -- Grime-Encrusted Object (Gnomeregen Quest Item)
 
     11385, -- Basilisk Scale
+    11387, -- Basilisk Heart
     11391, -- Spined Bat Wing
     11392, -- Severed Bat Claw
     11393, -- Small Bat Skull
     11394, -- Bat Heart
     11414, -- Grizzled Mane
     12735, -- Frayed Abomination Stitching
+    13816, -- Fine Longsword
     13817, -- Tapered Greatsword
+    13821, -- Bulky Maul
     13825, -- Primed Musket
 
     17056, -- Light Feather
@@ -144,6 +148,7 @@ AddonTable.junk = {
     56035, -- Colorful Rock
     56151, -- Broken Hoof Piece
     56156, -- Torn Cartilage
+    56203, -- Salivary Gland Pair
     56204, -- Nameless Vestigial Organ
 
     57063, -- Small Dingbat

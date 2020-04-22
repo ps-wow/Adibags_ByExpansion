@@ -35,6 +35,7 @@ AddonTable.transmog = {
     8111,  -- Hibernal Mantle
     8287,  -- Arcane Gloves
 
+    9774,  -- Greenweave Vest
     9778,  -- Bandit Buckler
     9785,  -- Raider's Bracers
     9791,  -- Ivycloth Tunic
@@ -74,6 +75,7 @@ AddonTable.transmog = {
     14431, -- Windchaser Handguards
     14559, -- Prospector's Sash [Leather][Waist]
     14562, -- Prospector's Chestpiece
+    14788, -- Protector Armguards
 
     15144, -- Ghostwalker Rags
     15227, -- Diamond-Tip Bludgeon

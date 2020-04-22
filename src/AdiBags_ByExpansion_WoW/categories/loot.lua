@@ -100,5 +100,6 @@ AddonTable.loot = {
     157738, -- Warsinger's Breastplate (Starter Gear)
     157742, -- Warsinger's Legplates (Starter Gear)
 
+    160602, -- Tumultous Ring
     160608, -- Tumultous Neckalce
 }

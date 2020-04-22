@@ -18,7 +18,7 @@ local module = {
         ["shadowmoon"] = "Shadowmoon Burial Grounds",
         ["skyreach"] = "Skyreach",
         ["ubrs"] = "Upper Blackrock Spire",
-        ["multi"] = "Multiple"
+        ["multi"] = "Multi Dungeon" -- A lot of loot drops in all/most dungeons
     },
     ["raids"] = {
         ["hm"]  = "Highmaul",

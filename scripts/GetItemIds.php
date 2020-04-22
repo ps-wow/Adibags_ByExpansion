@@ -37,7 +37,10 @@ class GetItemIds
             }
         }
         if (!empty($this->duplicates)) {
-            var_dump($this->duplicates);
+            foreach($this->duplicates as $itemId => $locations) {
+                echo $itemId . ' ';
+                var_dump($locations);
+            }
             exit(1);
         }
         return $this->itemIds;

@@ -71,6 +71,10 @@ AddonTable.junk = {
     114003, -- Tazik Hand Attachment
     114004, -- Medal of Patience
     114012, -- Underground Map
+    114198, -- Burial Urn (Archaeology: Arakkoa)
+    114202, -- Talonpriest Mask (Archaeology: Arakkoa)
+    114203, -- Outcast Dreamcatcher (Archaeology: Arakkoa)
+    114205, -- Apexis Heiroglyph (Archaeology: Arakkoa)
 
     116128, -- Tiny Naaru Statue
     116919, -- Fractured Sunstone

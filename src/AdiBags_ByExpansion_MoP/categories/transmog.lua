@@ -10,6 +10,7 @@ AddonTable.transmog = {
     82231, -- Bejeweled Wand [Wand]
     82249, -- Waterfall Cord
     82253, -- Waterfall Robe
+    82257, -- Vine Bindings
     82289, -- Temple Girdle
 
     87451, -- Helm of Elemental Binding

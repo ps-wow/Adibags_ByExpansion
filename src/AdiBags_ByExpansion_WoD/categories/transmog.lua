@@ -44,6 +44,7 @@ AddonTable.transmog = {
     116475, -- Lunarglow Broadaxe
     116493, -- Vinewrapped Bow
     116593, -- Bloodmane Axe
+    116610, -- Gorian Axe
     116612, -- Gorian Bow
     116616, -- Gorian Knuckles
     116618, -- Gorian Mace

@@ -49,6 +49,7 @@ AddonTable.loot = {
 
     132243, -- Fel-Etched Glaive
     132906, -- Leywalker Cord
+    132951, -- Leywalker Shoes
     132963, -- Young Drake's Impulse
 
     133310, -- The Brood Queen's Veil

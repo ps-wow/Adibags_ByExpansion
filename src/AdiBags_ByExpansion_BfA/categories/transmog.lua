@@ -31,6 +31,7 @@ AddonTable.transmog = {
     159173, -- Freehold Shoulderpads
     159174, -- Freehold Belt
     159184, -- Foxhollow Circlet
+    159185, -- Foxhollow Handwraps
     159188, -- Foxhollow Sandals
     159189, -- Foxhollow Amice
     159191, -- Brineworks Breastplate

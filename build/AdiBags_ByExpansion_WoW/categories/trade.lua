@@ -3,6 +3,7 @@ AddonTable.trade = {
     -- General
     3857,
     5498,
+    5523,
     5524,
     7068,
     7075,

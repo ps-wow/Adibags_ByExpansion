@@ -4,6 +4,7 @@ AddonTable.trade = {
     -- General
     3857,  -- Coal
     5498,  -- Small Lustrous Pearl
+    5523,  -- Small Barnacled Clam
     5524,  -- Thick-Shelled Clam
     7068,  -- Elemental Fire
     7075,  -- Core of Earth

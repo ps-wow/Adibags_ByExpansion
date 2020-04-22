@@ -6,4 +6,5 @@ AddonTable.inscription = {
     113111,
     -- Other
     112377,
+    113992,
 }
