@@ -69,8 +69,6 @@ AddonTable.violethold = {
     137463, -- fealty-of-nerub
     -- Sael'orn
     134357, -- portalguard-waistplate
-    134371, -- felbat-leather-gloves
-    134390, -- mardum-chain-vest
     134393, -- netherwhisper-gloves
     134436, -- armbands-of-slaughter
     134482, -- cinch-of-frozen-fear

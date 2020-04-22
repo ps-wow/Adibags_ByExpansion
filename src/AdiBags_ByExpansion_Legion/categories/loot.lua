@@ -72,6 +72,8 @@ AddonTable.loot = {
     134230, -- Coralplate Wristguard
     134245, -- Nazjatar Manapearl Ring
     134291, -- Nightborne's Hunting Horn
+    134371, -- felbat-leather-gloves
+    134390, -- mardum-chain-vest
     134429, -- Grove Darkener's Treads
     134497, -- Stormcharged Choker
     134557, -- Dreadsworn Gauntlets
