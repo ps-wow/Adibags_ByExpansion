@@ -9,5 +9,6 @@ AddonTable.herbalism = {
     109128, -- Nagrand Arrowbloom
     109129, -- Talador Orchid
     -- Herbs (Partial)
+    109624, -- Broken Frostweed Stem
     109628, -- Nagrand Arrowbloom Petal
 }

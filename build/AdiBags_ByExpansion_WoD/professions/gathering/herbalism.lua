@@ -8,5 +8,6 @@ AddonTable.herbalism = {
     109128,
     109129,
     -- Herbs (Partial)
+    109624,
     109628,
 }

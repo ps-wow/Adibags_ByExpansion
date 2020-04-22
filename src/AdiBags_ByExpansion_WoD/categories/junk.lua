@@ -16,15 +16,19 @@ AddonTable.junk = {
     106311, -- Ripped Mail Armor
     106313, -- Sun-Baked Boots
     106315, -- Jammed Pocketknife
+    106318, -- Blunt Logging Axe
+    106319, -- Knog's Bow of Surrender
     106320, -- Narrcho's Rifle of Unreadiness
     106324, -- Robbles Staff of Herding
     106327, -- Gronncloth Belt
     106336, -- Punctured Plate Pauldrons
+    106350, -- Punctured Plate Chestpiece
 
     106824, -- Ruffled Plumage
     106825, -- Razor Talon
     106826, -- Trophy Plumage
     106867, -- Dulled Claw
+    106868, -- Venomous Claw
     106870, -- Mangy Pelt
     106873, -- Luxurious Pelt
     106875, -- Worn Flat Tooth
@@ -42,6 +46,8 @@ AddonTable.junk = {
     107472, -- Igneous Elemental Chunk (BrF)
     107517, -- Giant Mandible
     107518, -- Depleted Toxin Reservoir
+    107526, -- Unblemished Carapace
+    107528, -- Tough Leathery Skin
     107532, -- Intact Vocal Sac
     107603, -- Eroded Tusk
     107604, -- Pristine Ivory Tusk
@@ -53,9 +59,12 @@ AddonTable.junk = {
     108980, -- Crushed Bone Fragments
 
     111484, -- Cold Tusk
+    111636, -- The Crystal Blade of Torvath
 
     112463, -- Battered Armor Fragments
 
+    113215, -- Empty Paint Jar
+    113373, -- Battered Wolfskull Helm
     113530, -- Scaly Skin
 
     114002, -- Encoded Message
@@ -64,13 +73,21 @@ AddonTable.junk = {
     114012, -- Underground Map
 
     116128, -- Tiny Naaru Statue
+    116919, -- Fractured Sunstone
+    116921, -- Dwarf Beard Rings
+    116922, -- Burglar's Vest
     116923, -- Goop Globules
     116924, -- Humerus Bone
 
     118227, -- Glossy Brochure
     118233, -- Enormous Nagrand Pearl
     118234, -- Smoldering Offerings
+    118280, -- Succulent Offshoot
     118678, -- Ceremonial Warsong Spear
+    118691, -- Iron Horde Explosives
+    118692, -- Sethekk Idol
+    118693, -- Rukhmar's Image
+    118694, -- Statue of Anzu
     118715, -- Cracked Femur
     118898, -- Rusted Canary Cage
     118899, -- Crumbled Gem Shards
@@ -78,6 +95,8 @@ AddonTable.junk = {
     118902, -- Weathered Mining Journal
 
     112684, -- Damaged Weaponry
+
+    127870, -- A Tiny Pirate Hat (Pepe)
 }
 
 AddonTable.soulbound = {

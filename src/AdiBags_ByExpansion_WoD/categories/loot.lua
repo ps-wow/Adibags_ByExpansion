@@ -13,13 +13,22 @@ AddonTable.loot = {
     107318, -- Karabor Sage Cord
 
     108900, -- Cragsman Gloves
+    108901, -- Moonwillow Wand
     108902, -- Armored Elekk Tusk
+    108903, -- Tiny Iron Star
+    108906, -- Sporebat Larval Pod
+    108907, -- Mushroom of Destiny
     108912, -- Karabor Greatsword
+    108918, -- Karabor Arcanist Rod
     108945, -- Void-Boiled Squirrel
     108957, -- Venomshade Skin Boots
 
+    109060, -- Rylak-Scale Vest
+    109061, -- Ku'targ's Merciless Grips
     109075, -- Abberant's Paw
     109078, -- Killmaw's Canine
+    109081, -- Ronokk's Greatcloak
+    109739, -- Star Chart [Toy]
     109970, -- Hood of Arcane Mystery
     109973, -- Lightbinder Cover
 
@@ -28,13 +37,31 @@ AddonTable.loot = {
     112443, -- Slavebreaker Chestguard
     112663, -- Voidgazer Headguard
     112664, -- Voidgazer Cap
+    112798, -- Mindsworn Band
+    112810, -- Windowhanger Wraps (From: 114053)
 
     113082, -- Precious Bloodthorn Loop
     113145, -- Karabor Guardian Gorget
+    113160, -- Moonstone Luck Token
+    113378, -- Rovo's Dagger
+    113408, -- Greka's Dentures
+    113531, -- Ashes of A'kumbo
+    113546, -- Uzko's Dusty Boots
+    113547, -- Bouquet of Dried Flowers
     113553, -- Windfang Sabre
+    113560, -- Ancestral Shadowmoon Greataxe
+    113561, -- Staff of the Mad Bramble King
+    113563, -- Shadowmoon Sacrificial Dagger
+    113571, -- Boots of the Shadowborn
     113762, -- Smoldercloth Robe
     113767, -- Blossoming Mantle
     113959, -- Thogar's Serrated Chain (BoE) [Neck]
+
+    114052, -- Gleaming Ring
+    114053, -- Shimmering Gauntlets
+    114101, -- Tormented Girdle
+    114338, -- Mantidsweave Cord
+    114984, -- Mysterious Satchel (Quest Item)
 
     116724, -- Oshu'gun Basin
     116725, -- Oshu'gun Ring
@@ -45,22 +72,38 @@ AddonTable.loot = {
     116806, -- Soul Fang
     116807, -- Flinthide's Impenetrable Crest
     116832, -- Blademasters Honor
+    116835, -- Assassin's Spear
     116875, -- Rusty Iron Band
+    116911, -- Outcast Decoder Ring
+    116913, -- Peon's Mining Pick
+    116914, -- Ephial's Grimoire
+    116920, -- True Steel Lockbox
 
     117497, -- Moonchain Boots
     117498, -- Moonsole Slippers
     117499, -- Lunarlight Plate Stompers
     117500, -- Lunartanned Boots
 
+    118203, -- Moultingskin Tunic
     118223, -- Sunclaw
+    118237, -- Anzu's Malice
+    118239, -- Anzu's Stoicism
+    118240, -- Anzu's Scything Talon
+    118241, -- Anzu's Piercing Talon
+    118242, -- Anzu's Scorn
     118253, -- Trophy Band of Telaar
     118254, -- Trophy Signet of the Sabermaw
     118255, -- Trophy Ring of Gordal
+    118279, -- Hermit's Hood
     118687, -- Grizzled Wolfskin Cloak
+    118734, -- Sneevel's Loincloth
+    118735, -- Bloodbathed Outcast Robes
 
     119230, -- Unpopped Pustule Pendant
     119457, -- Handaxe of Trials (Proving Grounds)
     119458, -- Greataxe of Trials (Proving Grounds)
+
+    120337, -- Novice Rylak Hunter's Horn
 
     -- Baleful Tokens
     127784, -- Baleful Cloth Girdle (BoA)
@@ -68,7 +111,7 @@ AddonTable.loot = {
 
     -- Prepare for Battle (Dark Portal intro quest chain)
     112668, -- Quarriers Spaulders
-    112669, -- Quarriers Shoulderplates
+    1126649, -- Quarriers Shoulderplates
     112670, -- Quarriers Mantle
     112671, -- Quarriers Pauldrons
 }

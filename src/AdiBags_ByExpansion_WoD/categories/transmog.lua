@@ -6,8 +6,14 @@ AddonTable.transmog = {
     106410, -- Lunarglow Leggings
     106426, -- Rimeplate Helm
     106457, -- Rockspine Gauntlets
+    106468, -- Tailthrasher Gloves
+    106483, -- Tangleheart Gauntlets
+    106484, -- Tangleheart Greaves
+    106488, -- Tangleheart Vest
     106502, -- Steamscar Hood
     106520, -- Highland Spaulders
+    106671, -- Windswept Cord
+    106679, -- Snarlthorn Belt
     106699, -- Sabermaw Gloves
     106702, -- Sabermaw Shoulders
     106705, -- Voidwrap Cowl
@@ -32,7 +38,12 @@ AddonTable.transmog = {
     106751, -- Packrunner Spaulders
     106752, -- Packrunner Vest
 
+    111475, -- Beater's Beat Stick
+
+    116464, -- Frostbitten Gun
+    116475, -- Lunarglow Broadaxe
     116493, -- Vinewrapped Bow
+    116593, -- Bloodmane Axe
     116612, -- Gorian Bow
     116616, -- Gorian Knuckles
     116618, -- Gorian Mace
@@ -44,11 +55,8 @@ AddonTable.transmog = {
     116638, -- Howling Spear
     116721, -- Ancestral Branch [OffHand]
 
-    -- Rare (Blue)
-    111475, -- Beater's Beat Stick
     118803, -- Kihrawr's Scratching Post
 
-    -- Epic (Purple)
     119331, -- Bracers of Visceral Force [Plate][Wrist] BrF
     119335, -- Eyeripper Girdle [Leather][Belt] (HM)
     119338, -- Belt of Inebriated Sorrows [Mail][Belt] (HM)
