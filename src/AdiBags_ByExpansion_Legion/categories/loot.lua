@@ -79,7 +79,6 @@ AddonTable.loot = {
     134371, -- felbat-leather-gloves
     134390, -- Mardum Chain Vest
     134429, -- Grove Darkener's Treads
-    134497, -- Stormcharged Choker
     134557, -- Dreadsworn Gauntlets
     134561, -- Dreadsword Chestguard
 

@@ -4,4 +4,6 @@ AddonTable.tailoring = {
     127681,
     -- Quest Items
     146680,
+    -- Recipe's
+    138010,
 }
