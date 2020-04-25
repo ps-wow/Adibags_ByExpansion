@@ -2,74 +2,253 @@ local AddonName, AddonTable = ...
 
 AddonTable.antorus = {
     -- Garothi Worldbreaker
-    152031, -- Doomfire Dynamo
-    152036, -- Hellfire Ignition Switch
-    152028, -- Spurting Reaver Heart
-    152039, -- Viscous Reaver-Coolant
-    151937, -- Cloak of the Burning Vanguard
-    151943, -- Crown of Relentless Annihilation
-    151988, -- Shoulderpads of the Demonic Blitz
-
+    152002, -- battalion-shattering-leggings
+    151987, -- breach-blocker-legguards
+    151937, -- cloak-of-the-burning-vanguard
+    151943, -- crown-of-relentless-annihilation
+    152031, -- doomfire-dynamo
+    152009, -- doomwalker-warboots
+    151951, -- enhanced-worldscorcher-cinch
+    151956, -- garothi-feedback-conduit
+    151998, -- heedless-eradication-gauntlets
+    152036, -- hellfire-ignition-switch
+    151962, -- prototype-personnel-decimator
+    151988, -- shoulderpads-of-the-demonic-blitz
+    152017, -- soul-tempered-chestplate
+    152028, -- spurting-reaver-heart
+    152039, -- viscous-reaver-coolant
+    -- Felhounds of Sargeras
+    152816, -- antoran-charhound
+    151973, -- collar-of-null-flame
+    152056, -- corrupting-dewclaw
+    153544, -- eye-of-fharg
+    152645, -- eye-of-shatug
+    152021, -- flamelicked-girdle
+    152291, -- fraternal-fervor
+    152027, -- gravitational-condensate
+    151980, -- harness-of-oppressing-dark
+    152012, -- molten-bite-handguards
+    152004, -- pauldrons-of-the-soulburner
+    151968, -- shadow-singed-fang
+    152000, -- shadowfused-chain-coif
+    151949, -- soul-siphon-mantle
+    151947, -- vestments-of-enflamed-blight
+    151983, -- vicious-flamepaws
+    152059, -- whistling-ulna
+    -- Antoran High Command
+    151969, -- terminus-signaling-beacon
+    152131, -- serpentstalker-drape
+    151957, -- ishkars-felshield-emitter
+    152295, -- sviraxs-grim-trophy
+    152172, -- grim-inquisitors-cloak
+    152149, -- lights-vanguard-greatcloak
+    151992, -- fiendish-logisticians-wristwraps
+    152136, -- runebound-cape
+    152143, -- cloak-of-chiji
+    152011, -- eredar-warcouncil-sabatons
+    152006, -- depraved-tacticians-waistguard
+    152167, -- drape-of-venerated-spirits
+    152125, -- bearmantle-cloak
+    151953, -- manari-pyromancer-cuffs
+    152424, -- legwraps-of-the-seasoned-exterminator
+    152043, -- lightshield-amplifier
+    152119, -- felreaper-drape
+    152161, -- cloak-of-the-dashing-scoundrel
+    152113, -- dreadwake-greatcloak
+    152293, -- fasces-of-the-endless-legions
+    152019, -- pauldrons-of-the-eternal-offensive
+    152154, -- gilded-seraphs-drape
+    151994, -- fleet-commanders-hauberk
+    152032, -- twisted-engineers-fel-infuser
+    152179, -- juggernaut-cloak
+    151985, -- general-erodus-tricorne
+    -- Portal Keeper Hasabel
+    151941, -- aranasi-shadow-weavers-gloves
+    152035, -- blazing-dreadsteed-horseshoe
+    152057, -- crepuscular-skitterer-egg
+    152049, -- fel-engraved-handbell
+    152086, -- grips-of-hungering-shadows
+    151945, -- lady-dacidions-silk-slippers
+    152020, -- nathrezim-battle-girdle
+    152001, -- nexus-conductors-headgear
+    151990, -- portal-keepers-cincture
+    152008, -- reality-splitting-wristguards
+    151976, -- riftworld-codex
+    152063, -- seal-of-the-portalmaster
+    152041, -- sublimating-portal-frost
+    151958, -- tarratus-keystone
+    151965, -- vulcanarcore-pendant
+    -- Eonar the Life-Binder
+    152124, -- bearmantle-harness
+    151952, -- cord-of-blossoming-petals
+    152112, -- dreadwake-bonecage
+    152061, -- droplets-of-the-cleansing-storm
+    152118, -- felreaper-vest
+    152158, -- gilded-seraphs-robes
+    152176, -- grim-inquisitors-robes
+    152681, -- headdress-of-living-brambles
+    152013, -- helmet-of-the-hidden-sanctuary
+    152047, -- ironvine-thorn
+    152178, -- juggernaut-breastplate
+    151981, -- life-bearing-footpads
+    152148, -- lights-vanguard-breastplate
+    152688, -- loop-of-the-life-binder
+    152166, -- robes-of-venerated-spirits
+    152140, -- runebound-tunic
+    152007, -- sash-of-the-gilded-rose
+    152130, -- serpentstalker-tunic
+    152044, -- spark-of-everburning-light
+    152142, -- tunic-of-chiji
+    152054, -- unwavering-soul-essence
+    152023, -- vambraces-of-lifes-assurance
+    152160, -- vest-of-the-dashing-scoundrel
+    151970, -- vitality-resonator
+    -- Imonar the Soulhunter
+    152128, -- bearmantle-legguards
+    151996, -- deft-soulhunters-sabatons
+    151938, -- drape-of-the-spirited-hunt
+    152116, -- dreadwake-legplates
+    152024, -- fallen-magis-seerstone
+    152122, -- felreaper-leggings
+    152157, -- gilded-seraphs-leggings
+    152175, -- grim-inquisitors-leggings
+    152042, -- hoarfrost-beast-talon
+    152687, -- imonars-demi-gauntlets
+    152182, -- juggernaut-legplates
+    152146, -- leggings-of-chiji
+    152170, -- leggings-of-venerated-spirits
+    152152, -- lights-vanguard-legplates
+    152050, -- mysterious-petrified-egg
+    152164, -- pants-of-the-dashing-scoundrel
+    151999, -- preysnare-vicegrips
+    152139, -- runebound-leggings
+    152134, -- serpentstalker-legguards
+    152416, -- shoulderguards-of-indomitable-purpose
+    151944, -- soulhunters-cowl
+    151989, -- spaulders-of-the-relentless-tracker
+    152045, -- venerated-puresoul-idol
+    151939, -- whisperstep-runners
     -- Kin'garoth
-    151963, -- Forgefiend's Fabricator
-
-    -- The Coven of Shivarra
-    152046, -- Coven Payer Bead
-
+    151955, -- acrid-catalyst-injector
+    151975, -- apocalypse-drive
+    152064, -- band-of-the-sargerite-smith
+    152126, -- bearmantle-paws
+    152048, -- decimator-crankshaft
+    152412, -- depraved-machinists-footpads
+    152114, -- dreadwake-gauntlets
+    152051, -- eidolon-of-life
+    152120, -- felreaper-gloves
+    151963, -- forgefiends-fabricator
+    152155, -- gilded-seraphs-handwraps
+    152162, -- gloves-of-the-dashing-scoundrel
+    152168, -- gloves-of-venerated-spirits
+    152173, -- grim-inquisitors-gloves
+    152144, -- grips-of-chiji
+    152180, -- juggernaut-gauntlets
+    152055, -- kingaroths-oil-sump
+    152150, -- lights-vanguard-gauntlets
+    151948, -- magma-spattered-smock
+    152034, -- obliterator-propellant
+    152137, -- runebound-gloves
+    152280, -- scalding-shatterguards
+    152132, -- serpentstalker-grips
+    152014, -- titan-subjugators-visage
+    -- Varimathras
+    151991, -- belt-of-fractured-sanity
+    151954, -- blood-drenched-bindings
+    151960, -- carafe-of-searing-light
+    151942, -- cord-of-surging-hysteria
+    152015, -- greaves-of-mercurial-allegiance
+    152092, -- nathrezim-incisor
+    151997, -- nathrezim-shade-walkers
+    152060, -- neuroshock-electrode
+    151966, -- riveted-choker-of-delirium
+    151995, -- robes-of-the-forsaken-dreadlord
+    151964, -- seeping-scourgewing
+    152025, -- thurayan-lash
+    152037, -- tormentors-brand
+    152281, -- varimathras-shattered-manacles
+    151979, -- vest-of-unfathomable-anguish
+    -- Coven of Shivarra
+    152129, -- bearmantle-shoulders
+    152414, -- bracers-of-wanton-morality
+    152010, -- burning-coven-sabatons
+    152046, -- coven-prayer-bead
+    151977, -- diimas-glacial-aegis
+    152117, -- dreadwake-pauldrons
+    152123, -- felreaper-spaulders
+    151946, -- fervent-twilight-legwraps
+    152040, -- frigid-gloomstone
+    152159, -- gilded-seraphs-amice
+    152177, -- grim-inquisitors-shoulderguards
+    152289, -- highfathers-machination
+    152183, -- juggernaut-pauldrons
+    152003, -- legguards-of-numbing-gloom
+    152153, -- lights-vanguard-shoulderplates
+    151984, -- lurid-grips-of-the-obscene
+    152147, -- meditation-spheres-of-chiji
+    152171, -- pauldrons-of-venerated-spirits
+    152141, -- runebound-mantle
+    152135, -- serpentstalker-mantle
+    151971, -- sheath-of-asara
+    152029, -- shivarran-cachabon
+    152165, -- shoulderpads-of-the-dashing-scoundrel
+    152058, -- stormcallers-fury
+    152284, -- zealous-tormentors-ring
     -- Aggramar
-    152026, -- Prototype Titan-Disc
-    152038, -- Pyretic Bronze Clasp
-    152033, -- Sliver of Corruption
-    152052, -- Sporemound Seedling
-    152127, -- Bearmantle Headdress (Druid)
-    152163, -- Cavalier Hat of the Dashing Scoundrel (Rogue)
-    152145, -- Douli of Chi'Ji (Monk)
-    152115, -- Dreadwake Helm (Death Knight)
-    152121, -- Felreaper Hood (Demon Hunter)
-    152156, -- Gilded Seraph's Crown (Priest)
-    152176, -- Grim Inquisitor's Death Mask (Warlock)
-    152169, -- Headdress of Venerated Spirits (Shaman)
-    152181, -- Juggernaut Helm (Warrior)
-    152151, -- Light's Vanguard Helm (Paladin)
-    152138, -- Runebound Collar (Mage)
-    152133, -- Serpentstalker Helmet (Hunter)
-    151950, -- Fallen Avenger's Amice
-    152062, -- Greatcloak of the Dark Pantheon
-    152018, -- Breastplate of Molten Rebirth
-    152022, -- Grond-Father Girdle
-    152683, -- World-Ravager Waistguard
-    152282, -- Caustic Titanspite Legguards
-    152684, -- Greatboots of the Searing Tempest
-    151940, -- Sandals of the Reborn Colossus
-    151978, -- Smoldering Titanguard
-    152093, -- Gorshalach's Legacy
-
-    -- Argus, the unmaker
-    155853, -- Conch of the Thunderer
-    155848, -- Condensed Blight Orb
-    155847, -- Cruor of the Avenger
-    155849, -- Flickering Ember of Rage
-    155846, -- Miniaturized Cosmic Beacon
-    155855, -- Mote of the Forgemaster
-    155831, -- Pantheon's Blessing
-    155851, -- Reorigination Spark
-    155850, -- Rime of the Spirit Realm
-    155854, -- Root of the Lifebinder
-    155852, -- Volatile Soul Fragment
-    152423, -- Helm of the Awakened Soul
-    152283, -- Chain of the Unmaker
-    152005, -- Pauldrons of Colossal Burden
-    152679, -- Gambeson of Sargeras' Corruption
-    151982, -- Vest of Waning Life
-    152680, -- Handwraps of Inevitable Doom
-    152686, -- Nascent Deathbringer's Clutches
-    151986, -- Death-Enveloping Cincture
-    152016, -- Cosmos-Culling Legplates
-    151972, -- Sullied Seal of the Pantheon
-    154173, -- Aggramar's Conviction
-    154172, -- Aman'Thul's Vision
-    154175, -- Eonar's Compassion
-    154174, -- Golganneth's Vitality
-    154176, -- Khaz'goroth's Courage
-    154177, -- Norgannon's Prowess
+    152127, -- bearmantle-headdress
+    152018, -- breastplate-of-molten-rebirth
+    152282, -- caustic-titanspite-legguards
+    152163, -- cavalier-hat-of-the-dashing-scoundrel
+    152145, -- douli-of-chiji
+    152115, -- dreadwake-helm
+    151950, -- fallen-avengers-amice
+    152121, -- felreaper-hood
+    152156, -- gilded-seraphs-crown
+    152093, -- gorshalachs-legacy
+    152684, -- greatboots-of-the-searing-tempest
+    152062, -- greatcloak-of-the-dark-pantheon
+    152174, -- grim-inquisitors-death-mask
+    152022, -- grond-father-girdle
+    152169, -- headdress-of-venerated-spirits
+    152181, -- juggernaut-helm
+    152151, -- lights-vanguard-helm
+    152026, -- prototype-titan-disc
+    152038, -- pyretic-bronze-clasp
+    152138, -- runebound-collar
+    151940, -- sandals-of-the-reborn-colossus
+    152133, -- serpentstalker-helmet
+    152033, -- sliver-of-corruption
+    151978, -- smoldering-titanguard
+    152052, -- sporemound-seedling
+    152683, -- world-ravager-waistguard
+    -- Argus the Unmaker
+    154173, -- aggramars-conviction
+    154172, -- amanthuls-vision
+    152283, -- chain-of-the-unmaker
+    155853, -- conch-of-the-thunderer
+    155848, -- condensed-blight-orb
+    152016, -- cosmos-culling-legplates
+    155847, -- cruor-of-the-avenger
+    151986, -- death-enveloping-cincture
+    154175, -- eonars-compassion
+    155849, -- flickering-ember-of-rage
+    152679, -- gambeson-of-sargeras-corruption
+    154174, -- golganneths-vitality
+    152680, -- handwraps-of-inevitable-doom
+    152423, -- helm-of-the-awakened-soul
+    154176, -- khazgoroths-courage
+    155846, -- miniaturized-cosmic-beacon
+    155855, -- mote-of-the-forgemaster
+    152686, -- nascent-deathbringers-clutches
+    154177, -- norgannons-prowess
+    155831, -- pantheons-blessing
+    152005, -- pauldrons-of-colossal-burden
+    155851, -- reorigination-spark
+    155850, -- rime-of-the-spirit-realm
+    155854, -- root-of-the-lifebinder
+    152789, -- shackled-urzul
+    151972, -- sullied-seal-of-the-pantheon
+    151982, -- vest-of-waning-life
+    155852, -- volatile-soul-fragment
 }
