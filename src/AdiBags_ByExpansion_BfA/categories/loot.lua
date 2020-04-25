@@ -145,6 +145,7 @@ AddonTable.loot = {
     158093, -- Stagheart Gavel
     158095, -- Gnarlwood Hammer
     158096, -- Wavecaller Greatmace
+    158107, -- Deepwarden Baton
     158124, -- Dinobone Cracker
     158127, -- Razorbone Spear
     158133, -- Zandalari Machete
@@ -158,6 +159,8 @@ AddonTable.loot = {
     158159, -- Boralus Sailor's Cloak
     158160, -- Smuggler's Cove Ring
     158161, -- Speakfisher's Band
+    158162, -- Pearl Diver's Compass
+    158218, -- Dadalea's Wing
     158246, -- Sea Raider's Chausses
     158258, -- Freebooter Handwraps
     158277, -- Sea Raider's Wristguard
@@ -334,13 +337,16 @@ AddonTable.loot = {
     165443, -- Darkwood Sentinel's Cowl
     165444, -- Darkwood Sentinel's Breeches
     165628, -- Sentinel's Branch [Staff]
+    165679, -- Ornate Elun'dris Ring
 
+    167555, -- Pocket-Sized Computation Device
     167754, -- Shirakess Headdress
     167756, -- Shirakess Mantle
     167779, -- Shirakess Wraps
 
     168750, -- Omnipurpose Refined Logic Board
 
+    169317, -- Enthraller's Bindstone
     169790, -- Shirakess Gloves (Benethic)
 
     170133, -- Shirakess Grips
@@ -349,8 +355,11 @@ AddonTable.loot = {
     170521, -- 7th Legionnaire's Leather Mantle
     170537, -- Honorbound Centurion's Breastplate
 
-    173815, -- Girdle of the Insatiable Maw
     173439, -- Footpads of the Insatiable Maw
+    173572, -- Staff of Swelling Agony
+    173669, -- Dull Onyx Band
+    173815, -- Girdle of the Insatiable Maw
 
+    174953, -- Vile Manipulator's Wristwraps
     174954, -- Wristwraps of the Insatiable Maw
 }

@@ -26,6 +26,7 @@ AddonTable.transmog = {
     159158, -- Ashvane Company Chestplate
     159161, -- Ashvane Company Greathelm
     159166, -- Foxhollow Drape
+    159167, -- Freehold Bracers
     159168, -- Freehold Boots
     159171, -- Freehold Cowl
     159173, -- Freehold Shoulderpads
@@ -62,6 +63,7 @@ AddonTable.transmog = {
     159488, -- Zem'lan Cleaver
     159490, -- Rivermarsh Composite
     159491, -- Warport Short Bow
+    159496, -- Gol Osigr Crossbow
     159497, -- Deepwarden Flintlock
     159505, -- Zocali Warglaive
     159506, -- Loa-Blessed Crescent
@@ -90,6 +92,7 @@ AddonTable.transmog = {
     159557, -- Zem'lan Headsmasher
     159558, -- Bleached Bone Skullcracker
     159560, -- Dockyard Pike
+    159563, -- Loa-Blessed Longspear
     159564, -- Stagheart Staff
     159568, -- Wintersail Staff
     159569, -- Wavecaller Spire
@@ -167,9 +170,13 @@ AddonTable.transmog = {
     164550, -- Whirling Dervish Gloves
     164570, -- Miststalker's Belt
 
+    169399, -- Deeptide Gloves
     169402, -- Deeptide Amice
     169403, -- Deeptide Cinch
     169413, -- Reefwalker Hauberk
+    169420, -- Reefwalker Coils
+    169423, -- Wavecrash Crushers
+    169429, -- Wavecrash Wristguards
     169433, -- Wavecrash Greatcloak
 
     170115, -- Massive Viridian Claw
