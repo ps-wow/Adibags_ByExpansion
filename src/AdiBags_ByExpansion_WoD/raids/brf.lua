@@ -1,4 +1,6 @@
 local AddonName, AddonTable = ...
+-- LFR is different loot to the other difficulties.
+-- N/HC/M all share loot id's however.
 
 AddonTable.brf = {
     -- Oregorger
@@ -15,7 +17,17 @@ AddonTable.brf = {
     113875, -- Corrosion-Proof Legguards
     113877, -- Unexploded Explosive Shard
     119194, -- Goren Soul Repository
-
+    116007, -- bracers-of-unending-consumption
+    116240, -- waistplate-of-caustic-spittle
+    116310, -- slag-coated-cabochon
+    116021, -- chasmwalker-sandals
+    116215, -- barrage-blaster-belt
+    116257, -- acid-munched-greathelm
+    116046, -- bracers-of-satiation
+    116033, -- roilgut-gauntlets
+    116380, -- oregorgers-venomous-canine
+    116308, -- greatcloak-of-insatiable-hunger
+    116381, -- oregorgers-blackrock-shanker
     -- Hans'gar and Franzok
     113904, -- Franzok's Headsmasher
     113897, -- Hans'gar's Forgehammer
@@ -30,7 +42,14 @@ AddonTable.brf = {
     113908, -- Razoredge Blade Ring
     113901, -- Six-Eyed Band
     113905, -- Tablet of Turnbuckle Teamwork
-
+    116034, -- drop-kickers
+    116256, -- elbow-drop-spaulders
+    116238, -- heel-protectors
+    116305, -- scorchburn-cloak
+    116012, -- fresh-face-hood
+    116227, -- blood-binder-chestguard
+    116217, -- brawler-brothers-bracers
+    116311, -- choker-of-infinite-durability
     -- Beastlord Darmac
     113939, -- Tal'rak, Bloody Skull of the Thunderlords
     113946, -- Heart of the Clefthoof
@@ -47,7 +66,16 @@ AddonTable.brf = {
     113940, -- Seal of the Savage Howl
     113948, -- Darmac's Unstable Talisman
     119192, -- Ironspike Chew Toy
-
+    116019, -- treads-of-the-flaming-maw
+    116213, -- black-iron-spurs
+    116048, -- rylakk-riders-legguards
+    116016, -- robes-of-brutal-tantrums
+    116255, -- heartsmasher-chestplate
+    116262, -- waistplate-of-soothed-beasts
+    116038, -- beastmasters-iron-bracers
+    116306, -- dreaded-wing
+    116302, -- thunderlord-trainers-insignia
+    116223, -- legguards-of-the-unstoppable-charge
     -- Gruul
     113869, -- Inferno-Flame Staff
     113862, -- Taner's Terrible Spine
@@ -63,7 +91,15 @@ AddonTable.brf = {
     113864, -- Cavedweller's Climbers
     113866, -- Phosphorescent Seal
     118114, -- Meaty Dragonspine Trophy
-
+    116242, -- gruuls-smallest-shackles
+    116009, -- rockfall-girdle
+    116307, -- cloak-of-unfulfilled-potential
+    116018, -- cave-smasher-leggings
+    116039, -- delvers-belt
+    116229, -- gaze-of-the-gronn-killer
+    116216, -- grips-of-shackled-power
+    116299, -- eye-of-the-gronn
+    116045, -- spelunkers-chestguard
     -- Flamebender Ka'graz
     119305, -- Chest of the Iron Conqueror
     119318, -- Chest of the Iron Protector
@@ -94,7 +130,21 @@ AddonTable.brf = {
     113917, -- Cinderwolf Signet
     113922, -- Seal of Unquenchable Flame
     119193, -- Horn of Screaming Spirits
-
+    120375, -- ebonflame-robes
+    120393, -- blacksteel-chestplate
+    120380, -- sootfur-harness
+    120389, -- ashlink-hauberk
+    116011, -- fixated-treads
+    116316, -- captured-flickerspark
+    116253, -- lava-crushing-grips
+    116040, -- magma-mauled-leggings
+    116047, -- bloodsteel-warbelt
+    116264, -- cinderhide-belt
+    116245, -- maw-of-charring-breath
+    116226, -- scorched-gauntlet-liners
+    116385, -- magma-monsoon-mace
+    116313, -- choker-of-oozing-wounds
+    116384, -- steelbringers-polished-shield
     -- Operator Thogar
     119309, -- Shoulders of the Iron Conqueror
     119322, -- Shoulders of the Iron Protector
@@ -121,7 +171,20 @@ AddonTable.brf = {
     113954, -- Railwalker's Ratcheted Boots
     113957, -- Firemender's Smoldering Signet
     113963, -- Siege Bomber's Band
-
+    120395, -- blacksteel-shoulderplates
+    120381, -- sootfur-shoulderguards
+    120388, -- ashlink-pauldrons
+    120376, -- ebonflame-spaulders
+    116239, -- gunnery-sergeants-legplates
+    116252, -- waistplate-of-obliteration
+    116304, -- deadshot-longcloak
+    116389, -- thogars-imperialistic-spire
+    116013, -- spaulders-of-soothing-flame
+    116265, -- snipers-ammo-belt
+    116049, -- raiders-spikeholder-belt
+    116388, -- crack-shot-longrifle
+    116014, -- grips-of-cauterization
+    116301, -- lava-shock-seal
     -- The Blast Furnace
     119307, -- Leggings of the Iron Conqueror
     119320, -- Leggings of the Iron Protector
@@ -149,7 +212,21 @@ AddonTable.brf = {
     113888, -- Slagstomper Treads
     113893, -- Blast Furnace Door
     113889, -- Elementalist's Shielding Talisman
-
+    120385, -- ashlink-legguards
+    120391, -- blacksteel-legplates
+    116015, -- bracers-of-searing-heat
+    116037, -- chest-of-heaving-bellows
+    120377, -- ebonflame-leggings
+    116303, -- firecallers-scorched-seal
+    116379, -- flickering-lantern-wisp
+    116315, -- furyheart-talisman
+    116241, -- gauntlets-of-electrocution
+    116041, -- grips-of-the-ruptured-furnace
+    116004, -- pyroclastic-hood
+    116214, -- raging-pyroclasm-leggings
+    120379, -- sootfur-legwraps
+    116228, -- spaulders-of-tempered-fury
+    116382, -- spire-of-pyroclastic-flame
     -- Kromog
     119308, -- Helm of the Iron Conqueror
     119321, -- Helm of the Iron Protector
@@ -178,7 +255,22 @@ AddonTable.brf = {
     113936, -- Sabatons of Fractal Earth
     113938, -- Stonefist Band
     113931, -- Beating Heart of the Mountain
-
+    120387, -- ashlink-treads
+    116387, -- axe-of-the-stone-geyser
+    120394, -- blacksteel-greatboots
+    116218, -- chestguard-of-allegorical-shadows
+    116243, -- chestplate-of-runed-earth
+    116386, -- earthbound-shield
+    120378, -- ebonflame-sandals
+    116044, -- erupting-mantle
+    116254, -- reverberating-bracers
+    116300, -- ring-of-shattered-faults
+    116008, -- robes-of-living-earth
+    116035, -- rockbreaker-warcap
+    116222, -- slam-jammers
+    120383, -- sootfur-stompers
+    116318, -- stoneheart-idol
+    116006, -- thundersmash-gloves
     -- The Iron Maidens
     119306, -- Gauntlets of the Iron Conqueror
     119319, -- Gauntlets of the Iron Protector
@@ -208,7 +300,21 @@ AddonTable.brf = {
     113974, -- Treads of the Dark Hunt
     113975, -- Uk'urogg's Corrupted Seal
     113969, -- Vial of Convulsive Shadows
-
+    120374, -- ebonflame-grips
+    120392, -- blacksteel-gauntlets
+    120386, -- ashlink-gloves
+    120384, -- sootfur-gauntlets
+    116263, -- vortex-plate-helm
+    116017, -- deckhands-cord
+    116050, -- bombardeers-targeting-helm
+    116220, -- grapeshot-hood
+    116051, -- roggs-earthen-legguards
+    116390, -- battle-medics-wand
+    116225, -- gauntlets-of-flickering-blades
+    116314, -- blackheart-enforcers-medallion
+    116010, -- incendiary-leggings
+    116250, -- impalers-greatboots
+    116312, -- sorkas-ear-collection
     -- Blackhand
     116393, -- Dagger of the Shattered Crucible
     119310, -- Essence of the Iron Conqueror
@@ -229,4 +335,19 @@ AddonTable.brf = {
     113984, -- Blackiron Micro Crucible
     113983, -- Forgemaster's Insignia
     113985, -- Humming Blackiron Trigger
+    120396, -- blacksteel-casque
+    120390, -- ashlink-coif
+    120382, -- sootfur-cap
+    120373, -- ebonflame-hood
+    116219, -- spaulders-of-erupting-iron
+    116251, -- ironshatter-legplates
+    116244, -- spaulders-of-the-iron-crucible
+    116022, -- flamestoker-wraps
+    116042, -- ram-carriers-treads
+    116005, -- forgestokers-shoulderpads
+    116224, -- bomb-carriers-harness
+    116036, -- deathmark-shoulderguards
+    116309, -- spiked-foundry-collar
+    116391, -- blackhand-forgehammer
+    116317, -- storage-house-key
 }
