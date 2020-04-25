@@ -1,6 +1,6 @@
-Local Addonname, Addontable = ...
+local Addonname, Addontable = ...
 -- Maw of Souls
-Addontable.Maw = {
+Addontable.maw = {
     -- Ymiron, the Fallen King
     133637,
     133644,
