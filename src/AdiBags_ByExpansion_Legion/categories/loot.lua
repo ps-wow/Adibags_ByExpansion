@@ -66,8 +66,12 @@ AddonTable.loot = {
     133323, -- Illidari Bracers
     133324, -- Illidari Boots
     133325, -- Illidari Belt
-    133620, -- Amice of the Enlightened
 
+    134179, -- Skoldiir Breastplate
+    134182, -- Skoldiir Helm
+    134193, -- Biornskin Moccasins
+    134212, -- Tideskorn Leggings
+    134222, -- Bonespeaker Bracers
     134230, -- Coralplate Wristguard
     134245, -- Nazjatar Manapearl Ring
     134291, -- Nightborne's Hunting Horn
@@ -87,6 +91,8 @@ AddonTable.loot = {
     139718, -- Helm of the Shattered Abyss
     139897, -- Cloak of the White Prowler
     139926, -- Subject 12's ID Bracelets
+
+    140660, -- Haft of the God-King
 
     141286, -- Rite of the Val'kyr
     141628, -- Soul-Stealer's Leggings

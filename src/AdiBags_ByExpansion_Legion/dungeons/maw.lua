@@ -12,7 +12,6 @@ Addontable.Maw = {
     133614, -- Frost Stricken Cuffs
     133625, -- Shoulderguards of Bane
     134199, -- Biornskin Belt
-    134179, -- Skoldiir Breastplate
     134217, -- Bonespeaker Gloves
     134210, -- Tideskorn Sabatons
     -- Harbaron
