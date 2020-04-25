@@ -78,16 +78,13 @@ AddonTable.loot = {
     134362, -- portalguard-wristguard
     134371, -- felbat-leather-gloves
     134390, -- Mardum Chain Vest
-    134429, -- Grove Darkener's Treads
     134557, -- Dreadsworn Gauntlets
     134561, -- Dreadsword Chestguard
 
-    137319, -- Paranoid Sprinters
     137497, -- Footpads of the Swift Balestra
 
     138970, -- Helm of Reaffirmed Purpose
 
-    139089, -- Night Dreamer Robe
     139718, -- Helm of the Shattered Abyss
     139897, -- Cloak of the White Prowler
     139926, -- Subject 12's ID Bracelets
