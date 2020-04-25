@@ -312,6 +312,7 @@ AddonTable.loot = {
     163458, -- Honorbound Centurion's Gauntlets
     163459, -- Honorbound Centurion's Breastplate
     163461, -- Honorbound Centurion's Greatbelt
+    163527, -- Headhunter's Spear
     163542, -- Footman's Warmace
     163657, -- 7th Legionnaire's Tunic
     163666, -- Honorbound Artificer's Mantle

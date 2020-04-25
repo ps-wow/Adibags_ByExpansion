@@ -5,6 +5,7 @@ AddonTable.junk = {
     121345, -- Weatherworn Belt
     121350, -- Rust-Encrusted Leggings
     121363, -- Warped-Plate Helmet
+    121364, -- Sunbleached Cowl
     121365, -- Warped-Plate Leggings
     121366, -- Rust-Encrusted Hauberk
     121368, -- Sunbleached Shirt
@@ -57,6 +58,7 @@ AddonTable.junk = {
     138249, -- Ruined Spellbook
     138250, -- Statue of Queen Azshara
     138251, -- Calcified Dragon Egg
+    138480, -- Black Harvest Tome
 
     -- Old AP items
     138781, -- Brief History of the Aeons

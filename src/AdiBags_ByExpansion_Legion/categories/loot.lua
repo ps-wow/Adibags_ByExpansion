@@ -79,6 +79,7 @@ AddonTable.loot = {
     134557, -- Dreadsworn Gauntlets
     134561, -- Dreadsword Chestguard
 
+    137319, -- Paranoid Sprinters
     137329, -- Figurehead of the Naglfar
     137497, -- Footpads of the Swift Balestra
 

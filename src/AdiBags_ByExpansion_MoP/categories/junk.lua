@@ -15,6 +15,7 @@ AddonTable.junk = {
 
     83157, -- Shattered Bone Fragment
 
+    89512, -- Unpolished Amber Fragment
     89739, -- Stripped Gear (SoO)
 
     90746, -- Inferior Mail Belt

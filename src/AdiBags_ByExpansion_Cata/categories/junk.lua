@@ -67,6 +67,7 @@ AddonTable.junk = {
     62134, -- Bleached Plate Helmet
     62135, -- Singed Leather Helmet
     62136, -- Sooty Mail Circlet
+    62413, -- Rigid Spinneret
     62421, -- Scintillating Crystals
     62435, -- Conductive Shards
 
