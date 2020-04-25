@@ -68,7 +68,6 @@ AddonTable.loot = {
     133325, -- Illidari Belt
     133620, -- Amice of the Enlightened
 
-    134179, -- Skoldiir Breastplate
     134230, -- Coralplate Wristguard
     134245, -- Nazjatar Manapearl Ring
     134291, -- Nightborne's Hunting Horn
@@ -80,7 +79,6 @@ AddonTable.loot = {
     134561, -- Dreadsword Chestguard
 
     137319, -- Paranoid Sprinters
-    137329, -- Figurehead of the Naglfar
     137497, -- Footpads of the Swift Balestra
 
     138970, -- Helm of Reaffirmed Purpose
