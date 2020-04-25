@@ -41,6 +41,7 @@ class GetItemIds
                 echo $itemId . ' ';
                 var_dump($locations);
             }
+            echo(count($this->duplicates));
             exit(1);
         }
         return $this->itemIds;
