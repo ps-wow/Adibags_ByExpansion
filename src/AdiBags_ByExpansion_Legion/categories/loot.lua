@@ -99,8 +99,6 @@ AddonTable.loot = {
     141628, -- Soul-Stealer's Leggings
     141650, -- Helm of Reaffirmed Purpose
 
-    151311, -- Band of the Triumvirate
-
     -- Dauntless
     147255, -- Galvanized Stormscale Belt
     147276, -- Spellbinder's Seal
