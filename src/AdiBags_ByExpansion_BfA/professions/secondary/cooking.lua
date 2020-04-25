@@ -9,4 +9,7 @@ AddonTable.cooking = {
     174353, -- Questionable Meat
     -- Materials
     160711, -- Aromatic Fish Oil
+    -- Recipe's
+    170211, -- Recipe: Famine Evaluator And Snack Table (Rank 3)
+    170212, -- Recipe: Mecha-Bytes
 }

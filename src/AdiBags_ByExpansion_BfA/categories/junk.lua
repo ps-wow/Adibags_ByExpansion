@@ -229,6 +229,10 @@ AddonTable.junk = {
     163850, -- Bloody Gamekeeper's Arm
     163855, -- Duplicate Pilgrimage Scroll
 
+    165280, -- Fading Treasure Map
+    165281, -- Yellowed Treasure Map
+    165284, -- Singed Treasure Map
+
     168788, -- Toy Soldier Weapons
     168787, -- Empty Birdcage
     168795, -- Old Boot
@@ -252,6 +256,8 @@ AddonTable.junk = {
     169149, -- Dulled Micro-Serrated Incisor
     169984, -- Shattered Dragonscale
 
+    170001, -- Seized Engine
+    170005, -- Fractured Pearl
     170017, -- Cracked Titan Disc
     170087, -- Chromatic "Vigegar"
     170097, -- Discarded Quel'dorei Tome
