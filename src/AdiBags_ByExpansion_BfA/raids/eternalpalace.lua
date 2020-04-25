@@ -1,5 +1,129 @@
 local AddonName, AddonTable = ...
 
 AddonTable.eternalpalace = {
-    -- Note: all item id's are the same regardless of difficulty.
+    -- Abyssal Commander Sivara
+    168359, -- abyssal-commanders-mantle
+    168276, -- claw-of-the-myrmidon
+    168386, -- gauntlets-of-overflowing-chill
+    168345, -- helm-of-the-inexorable-tide
+    168361, -- naga-centaurs-shellplate
+    168387, -- palace-sentinel-vambraces
+    168901, -- royal-scaleguards-battleaxe
+    168390, -- sabatons-of-the-stalwart
+    168903, -- scepter-of-the-azshari
+    168371, -- seawrath-legwraps
+    168273, -- shiver-venom-crossbow
+    168306, -- shiver-venom-lance
+    168905, -- shiver-venom-relic
+    168341, -- siren-mystics-vestments
+    168818, -- sivaras-slitherblade
+    168477, -- tidebinders-driftglobe
+    168377, -- tideblood-bracers
+    168384, -- wavespine-clutch
+    -- Blackwater Behemoth
+    168376, -- anglerfish-feelers
+    168343, -- blackwater-shimmerscale-vest
+    168900, -- divers-folly
+    168373, -- eelskin-flippers
+    168397, -- fang-of-the-behemoth
+    168342, -- fathom-feeders-mantle
+    168389, -- fleetwreckers-greaves
+    168353, -- hood-of-lightless-depths
+    169304, -- leviathans-lure
+    169312, -- luminous-jellyweed
+    168383, -- pelagos-predators-legguards
+    168379, -- ship-swallowers-belt
+    168385, -- slipstreamers-saltwalkers
+    168362, -- trench-tyrants-shoulderplates
+    168885, -- undercove-crushers
+    169360, -- Mindlost Bloodfrenzy [Battle Pet]
+    -- Radiance of Azshara
+    168355, -- servitors-heartguard
+    168382, -- arcanamental-bindings
+    168378, -- leggings-of-the-stormborn
+    169313, -- phial-of-the-arcane-tempest
+    168360, -- warhelm-of-dread-waters
+    168380, -- ancient-tempest-striders
+    168374, -- belt-of-blind-devotion
+    168475, -- bulwark-of-the-seaborn-avatar
+    168375, -- gloves-of-unshackled-arcana
+    168381, -- grips-of-the-scaled-arcanist
+    168336, -- handmaidens-cowl-of-sacrifice
+    168478, -- monstrositys-shipbreaker
+    168372, -- sea-sculptors-cuffs
+    168348, -- shoulderpads-of-frothing-rage
+    168388, -- storm-tempered-girdle
+    -- Lady Ashvane
+    169305, -- aquipotent-nautilus
+    169311, -- ashvanes-razor-coral
+    168367, -- barnacle-crusted-breastplate
+    169310, -- bloodthirsty-urchin
+    168889, -- boralus-nobles-seal
+    168877, -- coralshell-warboots
+    168883, -- cultured-pearl-armbands
+    168904, -- current-weavers-gavel
+    168347, -- helm-of-hideous-transformation
+    168876, -- priscillas-fishnets
+    168335, -- robes-of-sunken-nobility
+    168354, -- shoulderguards-of-crushing-depths
+    168870, -- tanglekelp-waistwrap
+    169358, -- Lightless Ambusher [Battle Pet]
+    -- Orgozoa
+    168604, -- drape-of-the-hatcher
+    169319, -- dribbling-inkpod
+    168339, -- incubators-bellcap
+    168872, -- cephalopods-sash
+    168875, -- formcrafters-pants
+    168346, -- tidal-drifters-shoulders
+    168897, -- tentacle-crusher
+    168352, -- scalemail-of-unnatural-selection
+    168365, -- greathelm-of-the-tender
+    169309, -- zoatroid-egg-sac
+    168476, -- great-reef-barrier
+    168893, -- hatchery-scraper
+    168894, -- squidhunter-speargun
+    168274, -- aqua-pulse-trident
+    168899, -- orgozoas-paralytic-barb
+    -- The Queen's Court
+    168338, -- amice-of-the-reef-witch
+    168879, -- ardent-worshippers-boots
+    168892, -- court-dagger-of-sentencing
+    169316, -- deferred-sentence
+    169315, -- edicts-of-the-faithless
+    168886, -- hands-of-the-fanatic
+    168881, -- naga-executors-armguards
+    168898, -- pashmars-finial
+    168364, -- pauldrons-of-fanatical-might
+    168890, -- ring-of-the-highborne-courtier
+    168357, -- silivazs-skullguard
+    168896, -- stormtamers-orb
+    168350, -- tunic-of-the-sycophant
+    -- Za'qul, Harbinger of Ny'alotha
+    168391, -- cloak-of-ill-tidings
+    169306, -- zaquls-portal-key
+    169307, -- vision-of-demise
+    168349, -- shroud-of-unmooring-whispers
+    168363, -- dark-passengers-breastplate
+    168884, -- bindings-of-the-herald
+    168337, -- vestments-of-creeping-terror
+    168882, -- shackles-of-dissonance
+    169588, -- gardbrace-of-fractured-reality
+    169308, -- chain-of-suffering
+    168301, -- sever-edge-of-madness
+    168902, -- dreams-end
+    169362, -- nameless-octopode [Battle Pet]
+    -- Queen Azshara
+    168275, -- anu-azshara-staff-of-the-eternal
+    169694, -- aqueous-reliquary
+    169314, -- azsharas-font-of-power
+    168871, -- beloved-monarchs-waistwrap
+    168874, -- cherished-empresss-leggings
+    168891, -- cursed-lovers-ring
+    168869, -- eternity-keepers-greatbelt
+    168887, -- gloves-of-incomparable-beauty
+    168888, -- handguards-of-the-highest-born
+    168880, -- slippers-of-the-sorceress-queen
+    168873, -- tide-goddesss-wargreaves
+    168878, -- vethans-icewalkers
+    169348, -- zanjir-poker [Battle Pet]
 }
