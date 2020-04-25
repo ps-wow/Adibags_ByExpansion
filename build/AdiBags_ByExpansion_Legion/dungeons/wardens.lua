@@ -11,7 +11,6 @@ AddonTable.wardens = {
     137502,
     137517,
     134369,
-    134362,
     134398,
     -- Inquisitor Tormentorum
     137530,

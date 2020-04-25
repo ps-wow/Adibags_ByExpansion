@@ -75,8 +75,9 @@ AddonTable.loot = {
     134230, -- Coralplate Wristguard
     134245, -- Nazjatar Manapearl Ring
     134291, -- Nightborne's Hunting Horn
+    134362, -- portalguard-wristguard
     134371, -- felbat-leather-gloves
-    134390, -- mardum-chain-vest
+    134390, -- Mardum Chain Vest
     134429, -- Grove Darkener's Treads
     134497, -- Stormcharged Choker
     134557, -- Dreadsworn Gauntlets
@@ -97,9 +98,6 @@ AddonTable.loot = {
     141286, -- Rite of the Val'kyr
     141628, -- Soul-Stealer's Leggings
     141650, -- Helm of Reaffirmed Purpose
-
-    144485, -- Mo'arg Heavyweight's Wristwraps
-    144488, -- Feaster Hide Gloves
 
     151311, -- Band of the Triumvirate
 

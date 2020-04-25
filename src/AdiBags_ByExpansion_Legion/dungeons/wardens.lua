@@ -12,7 +12,6 @@ AddonTable.wardens = {
     137502, -- hood-of-indignation
     137517, -- striders-of-furious-flight
     134369, -- felbat-leather-boots
-    134362, -- portalguard-wristguard
     134398, -- netherwhisper-wristguard
     -- Inquisitor Tormentorum
     137530, -- drape-of-vile-misfortune
