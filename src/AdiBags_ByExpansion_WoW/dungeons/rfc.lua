@@ -23,4 +23,13 @@ AddonTable.rfc = {
     151425, -- Gordoth's Crushers
     151424, -- Belt of Boundless Fury
     82886,  -- Gorewalker Treads
+    -- Quest Rewards
+    --- The Dark Shaman (30996)
+    82891,  -- robes-of-the-doomed-ritual
+    82892,  -- ragefire-leggings
+    82893,  -- hide-vest-of-the-shaman
+    82894,  -- stone-guard-greaves
+    82895,  -- searing-belt
+    131712, -- scaled-vest-of-the-shaman
+
 }

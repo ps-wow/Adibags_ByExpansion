@@ -54,6 +54,7 @@ AddonTable.transmog = {
     116633, -- Howling Knuckles
     116635, -- Howling Mace
     116638, -- Howling Spear
+    116641, -- Howling Sword
     116721, -- Ancestral Branch [OffHand]
 
     118803, -- Kihrawr's Scratching Post

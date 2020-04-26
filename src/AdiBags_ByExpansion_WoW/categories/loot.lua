@@ -13,6 +13,8 @@ AddonTable.loot = {
 
     12048, -- Prismatic Pendant (BoE Neck)
 
+    11994, -- Coral Band (BoE Ring)
+
     14168, -- Buccaneer's Gloves
 
     14951, -- Bloodforged Sabatons
@@ -24,6 +26,7 @@ AddonTable.loot = {
     51972, -- Enumerated Bracers
     51973, -- Enumerated Handwraps
     51974, -- Enumerated Shoulderpads
+    51976, -- Earthbound Shoulderguards
     51981, -- Earthbound Wristguard
     51982, -- Earthbound Boots
     51984, -- Stalwart Shoulderpads
@@ -43,26 +46,18 @@ AddonTable.loot = {
     58907, -- Crime Scene Tape [Quest: Westfall]
     58909, -- Golden Sunshine Cloak [Quest: Westfall]
 
-    65911, -- Anacondra's Robe
-    65912, -- Robe of Kelris
     65913, -- Hann Ibal's Epaulets
     65922, -- Warpwood Leaf Mantle
     65953, -- Dathrohan's Mace
-    65961, -- Cobrahn's Boots
-    65962, -- Thaelrid's Greaves
     65975, -- Chestguard of Redemption
-    65986, -- Shield Against the Evil Presence
-    65991, -- Boots of the Noble Path'''''''''''''''''''
+    65991, -- Boots of the Noble Path
     65992, -- Pauldrons of the Promise
     65993, -- Warpwood Shield
     65994, -- Staff of Athen'a
     65996, -- Belt of Tyrannic Rule
-    66003, -- Pythas' Vest
     66008, -- Shield of Maraudon
 
-    82891, -- Robes of the Doomed Ritual
-    82895, -- Searing Belt
-
+    131564, -- Night Watch Hauberk
     131625, -- Hann Ibal's Chain Dungarees
     131685, -- Boots of Painful Cost
 
@@ -72,11 +67,18 @@ AddonTable.loot = {
 
     151430, -- Hematite Tortoise Pendant
 
+    157622, -- Silverscope Longrifle (Starter Gear)
     157638, -- Lightning-Binder's Claws (Starter Gear)
     157643, -- Helm-Hewer Greataxe (Starter Gear)
     157651, -- Staff of Elemental Shaping
     157652, -- Shadow-Binder's Spire
     157655, -- Lightning-Binder's Bulwark (Starter Gear)
+    157674, -- Heartbonded Vest (Starter Gear)
+    157675, -- Heartbonded Greaves (Starter Gear)
+    157676, -- Heartbonded Gauntlets (Starter Gear)
+    157678, -- Heartbonded Legguards (Starter Gear)
+    157680, -- Heartbonded Belt (Starter Gear)
+    157681, -- Heartbonded Bracers (Starter Gear)
     157682, -- Spellsculptor's Sandals
     157683, -- Spellsculptor's Handwraps
     157685, -- Spellsculptor's Leggings
@@ -100,6 +102,7 @@ AddonTable.loot = {
     157738, -- Warsinger's Breastplate (Starter Gear)
     157742, -- Warsinger's Legplates (Starter Gear)
 
-    160602, -- Tumultous Ring
-    160608, -- Tumultous Neckalce
+    160601, -- Tumultuous Ring
+    160602, -- Tumultuous Ring
+    160608, -- Tumultuous Neckalce
 }

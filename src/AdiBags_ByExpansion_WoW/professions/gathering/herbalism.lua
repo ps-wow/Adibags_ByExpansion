@@ -29,6 +29,8 @@ AddonTable.herbalism = {
     13468, -- Black Lotus
 
     -- Partial Parts
+    108324, -- Kingsblood Petal
+    108325, -- Liferoot Stem
     108327, -- Grave Moss Leaf
     108328, -- Fadeleaf Petal
     108329, -- Dargon's Teeth Stem

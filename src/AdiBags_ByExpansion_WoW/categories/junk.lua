@@ -7,6 +7,7 @@ AddonTable.junk = {
 
     1074, -- Hard Spider Leg Tip
     1415, -- Carpenter's Mallet
+    1429, -- Patchwork Cloak
     1433, -- Patchwork Armor
     1507, -- Warped Leather Pants
     1520, -- Troll Sweat

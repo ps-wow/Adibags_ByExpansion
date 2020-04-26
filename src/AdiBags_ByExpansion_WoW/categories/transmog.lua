@@ -7,6 +7,7 @@ AddonTable.transmog = {
 
     1625,  -- Exquisite Flamberge
 
+    2078,  -- Northern Shortsword
     2983,  -- Seer's Boots
     2984,  -- Seer's Gloves
 
@@ -16,6 +17,7 @@ AddonTable.transmog = {
 
     4567,  -- Merc Sword
     4576,  -- Light Bow
+    4577,  -- Compact Shotgun
     4721,  -- Insignia Mantle
     4733,  -- Blackforge Pauldrons
 
@@ -24,8 +26,10 @@ AddonTable.transmog = {
     6386,  -- Glimmering Mail Legguards
     6542,  -- Willow Cape
     6557,  -- Bard's Boots
+    6565,  -- Shimmering Gloves
     6570,  -- Shimmering Sash
     6584,  -- Scouting Tunic
+    6586,  -- Scouting Gloves
     6595,  -- Battleforge Gauntlets [Mail][Hands]
 
     7435,  -- Twilight Mantle
@@ -42,6 +46,7 @@ AddonTable.transmog = {
     9804,  -- Superior Buckler
     9810,  -- Fortified Boots
     9824,  -- Durable Shoulders
+    9835,  -- Scaled Leather Tunic
     9852,  -- Conjurer's Robe
     9897,  -- Jazeraint Chestguard
 
@@ -84,6 +89,8 @@ AddonTable.transmog = {
     15248, -- Gleaming Claymore
     15287, -- Crusader Bow
     15374, -- Wolf Rider's Leggings
+    15489, -- Bloodspattered Sabatons
+    15492, -- Bloodspattered Sash
     15979, -- Flamecloth Stave
 
     18337, -- Orphic Bracers

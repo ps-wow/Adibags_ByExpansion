@@ -77,6 +77,7 @@ AddonTable.loot = {
     155510, -- Loa Speaker's Robes
     155522, -- Ritual Flayer's Wristwraps
     155524, -- Cursestone Lumberjack's Axe
+    155545, -- Drustwrought Spellstaff
     155570, -- Ravenfeather Drape
 
     157871, -- Fen Spirit Footwraps
@@ -170,6 +171,7 @@ AddonTable.loot = {
     158581, -- Shimmering Quicksilver Drape
     158583, -- Quillstitch Greatcloak
     158585, -- Banisher Walkers
+    158598, -- Band of Seething Manifest
     158679, -- Maokka's Carving
     158680, -- Rikal's Ritual Beads
     158681, -- Lightning Tether
@@ -316,6 +318,7 @@ AddonTable.loot = {
     163459, -- Honorbound Centurion's Breastplate
     163461, -- Honorbound Centurion's Greatbelt
     163527, -- Headhunter's Spear
+    163536, -- Warmage's Spire
     163542, -- Footman's Warmace
     163657, -- 7th Legionnaire's Tunic
     163666, -- Honorbound Artificer's Mantle

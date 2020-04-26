@@ -50,6 +50,7 @@ AddonTable.transmog = {
     159265, -- Brineworks Drape
     159280, -- Crimsonwood Drape
     159284, -- Corlain Cape
+    159473, -- Dockyard Axe
     159474, -- Tideguard Handaxe
     159475, -- Shipwrecker Axe
     159476, -- Golden Fleet Waraxe

@@ -172,7 +172,9 @@ AddonTable.junk = {
     161204, -- Oily Glass Eyeball
     161205, -- Wooden Horse Carving
     161206, -- Faded Treasure Map
+    161207, -- Admiral's Black Rum
     161209, -- Coven Dream Catcher
+    161210, -- Homemade Child's Doll
     161211, -- Ship in a Bottle
     161437, -- Shipping Contract
 
@@ -202,10 +204,12 @@ AddonTable.junk = {
     163078, -- Glittering Earring
     163079, -- Chipped Trophy Tusk
     163084, -- Solid Gold Cutlass
+    163085, -- Onion Garland'
     163087, -- Satchel of Blood Oranges
     163091, -- Jeweled Spyglass
     163092, -- Embroidered Falconry Hood
     163095, -- Golden Troll Berserker
+    163111, -- Blackstone Cat Statue
     163322, -- Ian's Empty Bottle
     163323, -- Julie's Cracked Dish
     163325, -- Ofer's Bound Journal

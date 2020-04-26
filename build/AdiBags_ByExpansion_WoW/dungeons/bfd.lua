@@ -41,4 +41,11 @@ AddonTable.bfd = {
     6911,
     6910,
     151441,
+    -- Quest Rewards
+    --- The Rise of Aku'mai (34672)
+    65986,
+    65962,
+    65938,
+    65912,
+    131713,
 }

@@ -40,4 +40,13 @@ AddonTable.wailingcaverns = {
     6461,
     6627,
     6463,
+    -- Quest Rewards
+    --- Cleansing the Caverns (26870)
+    65985,
+    65937,
+    65961,
+    66003,
+    65911,
+    131615,
+    131616,
 }

@@ -42,4 +42,11 @@ AddonTable.bfd = {
     6911,   -- Moss Cinch
     6910,   -- Leech Pants
     151441, -- Aku'mai Worshipper's Greatboots
+    -- Quest Rewards
+    --- The Rise of Aku'mai (34672)
+    65986,  -- shield-against-the-evil-presence
+    65962,  -- thaelrids-greaves
+    65938,  -- blackfathom-leggings
+    65912,  -- robe-of-kelris
+    131713, -- scales-of-akumai
 }

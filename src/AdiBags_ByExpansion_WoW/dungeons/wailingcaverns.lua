@@ -41,4 +41,13 @@ AddonTable.wailingcaverns = {
     6461,   -- Slime-Encrusted Pads
     6627,   -- Mutant Breastplate
     6463,   -- Deep Fathom Ring
+    -- Quest Rewards
+    --- Cleansing the Caverns (26870)
+    65985,  -- cleansed-pauldrons
+    65937,  -- serpentis-gloves
+    65961,  -- cobrahns-boots
+    66003,  -- pythas-vest
+    65911,  -- anacondras-robe
+    131615, -- cobrahns-scale-gloves
+    131616, -- pythas-chain-boots
 }
