@@ -6,8 +6,25 @@ AddonTable.loot = {
     82283, -- Immaculate Ring [BoE Ring]
     83738, -- Sigil of Grace
 
+    85973, -- Ancient Pandaren Fishing Charm
+
+    86124, -- Pandaren Fishing Spear [BoA]
+    86196, -- Ancient Jinyu Staff [BoA]
+    86198, -- Hammer of Ten Thunders [BoA]
+    86199, -- Jade Infused Blade [BoA]
+    86218, -- Staff of the Hidden Master [BoA]
+    86519, -- Wind-Reaver's Dagger of Quick Strikes [BoA]
+    86521, -- Lucid Amulet of the Agile Mind [BoA]
+    86522, -- Blade of the Prime [BoA]
+    86523, -- Swarming Cleaver of Ka'roz [BoA]
+    86524, -- Dissector's Staff of Mutation [BoA]
+    86525, -- Bloodsoaked Chitin Fragment
+    86527, -- Blade of the Poisoned Mind [BoA]
+    86529, -- Manipulator's Talisman [BoA]
+
     87624, -- Yaungol Mist-Shaman's Amulet
     87626, -- Suna's Shattered Locket
+    87636, -- Cloak of the Forgotten Emporer
 
     90350, -- Satin Robe of Eminent Domain
 

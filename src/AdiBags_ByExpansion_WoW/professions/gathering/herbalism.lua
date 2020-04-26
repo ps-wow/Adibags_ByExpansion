@@ -27,7 +27,6 @@ AddonTable.herbalism = {
     13466, -- Sorrowmoss
     13467, -- Icecap
     13468, -- Black Lotus
-
     -- Partial Parts
     108324, -- Kingsblood Petal
     108325, -- Liferoot Stem
@@ -36,4 +35,6 @@ AddonTable.herbalism = {
     108329, -- Dargon's Teeth Stem
     108330, -- Stranglekelp Blade
     108331, -- Goldthorn Bramble
+    108339, -- Dreamfoil Blade
+    108341, -- Mountain Silversage Stalk
 }

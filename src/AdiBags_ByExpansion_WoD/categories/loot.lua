@@ -83,6 +83,7 @@ AddonTable.loot = {
     117500, -- Lunartanned Boots
 
     118203, -- Moultingskin Tunic
+    118212, -- Char's Smoldering Fist
     118223, -- Sunclaw
     118237, -- Anzu's Malice
     118239, -- Anzu's Stoicism

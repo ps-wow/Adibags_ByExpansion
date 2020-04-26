@@ -15,6 +15,16 @@ AddonTable.junk = {
 
     83157, -- Shattered Bone Fragment
 
+    85780, -- Ancient Pandaren Tea Pot
+    85781, -- Lucky Pandaren Coin
+
+    86079, -- Ancient Pandaren Woodcutter
+    86216, -- Pandaren Ritual Stone
+    86220, -- Saurok Stone Tablet
+
+    87524, -- Boat-Building Instructions
+    87798, -- Stack of Papers
+
     89512, -- Unpolished Amber Fragment
     89739, -- Stripped Gear (SoO)
 

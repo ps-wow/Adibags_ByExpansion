@@ -25,6 +25,7 @@ AddonTable.transmog = {
 
     159158, -- Ashvane Company Chestplate
     159161, -- Ashvane Company Greathelm
+    159164, -- Ashvane Company Gloves
     159166, -- Foxhollow Drape
     159167, -- Freehold Bracers
     159168, -- Freehold Boots
