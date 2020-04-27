@@ -4,9 +4,10 @@ AddonTable.consumable = {
     -- Potions (Alchemy)
     -- Augments
     -- Misc
-    85582, -- Shao-Tien Cage Key
-    87216, -- Thermal Anvil
-    87779, -- Ancient Guo-Lai Cache Key
+    85582,  -- Shao-Tien Cage Key
+    87216,  -- Thermal Anvil
+    87779,  -- Ancient Guo-Lai Cache Key
+    89640,  -- Life Spirit
     104111, -- Elixir of Wandering Spirits
 }
 

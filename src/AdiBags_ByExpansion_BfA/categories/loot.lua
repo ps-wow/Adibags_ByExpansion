@@ -162,8 +162,11 @@ AddonTable.loot = {
     158161, -- Speakfisher's Band
     158162, -- Pearl Diver's Compass
     158218, -- Dadalea's Wing
+    158219, -- Petula's Locket
     158246, -- Sea Raider's Chausses
+    158256, -- Navigator's Mitts
     158258, -- Freebooter Handwraps
+    158276, -- Navigator's Bindings
     158277, -- Sea Raider's Wristguard
     158387, -- Rastari Footguards
     158411, -- Jambani Girdle

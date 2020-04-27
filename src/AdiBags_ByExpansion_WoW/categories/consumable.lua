@@ -10,6 +10,9 @@ AddonTable.consumable = {
     13444, -- Major Mana Potion
     13446, -- Major Healing Potion
     -- Misc
+    1477,  -- Scroll of Agility II
+    2289,  -- Scroll of Strength II
+    2290,  -- Scroll of Intellect II
     6530,  -- Nightcrawlers
 }
 
