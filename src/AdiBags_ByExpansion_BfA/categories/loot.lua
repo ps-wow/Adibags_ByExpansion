@@ -102,6 +102,7 @@ AddonTable.loot = {
     157910, -- Gonk Outrunner Vest
     157926, -- Breastplate of Rezan's Bladeguard
     157929, -- Greathelm of Rezan's Bladeguard
+    157930, -- Shadra Silk Robes
     157932, -- Pauldrons of Rezan's Bladeguard
     157934, -- Vambraces of Rezan's Bladeguard
     157935, -- Sandspinner Footwraps
@@ -123,11 +124,13 @@ AddonTable.loot = {
     157977, -- Seafarer Headcover
     157978, -- Seafarer Breeches
     157981, -- Seafarer Armguards
+    157994, -- Sirensong Garments
     157996, -- Harbormaster Pauldrons
     157998, -- Harbormaster Wristplates
 
     158001, -- Bloodbough Cowl
     158004, -- Bloodbough Cord
+    158005, -- Bloodbough Wristwraps
     158007, -- Gravethorn Striders
     158008, -- Gravethorn Grips
     158011, -- Gravethorn Shoulderguards
@@ -161,6 +164,7 @@ AddonTable.loot = {
     158160, -- Smuggler's Cove Ring
     158161, -- Speakfisher's Band
     158162, -- Pearl Diver's Compass
+    158215, -- Whirlwing's Plumage
     158218, -- Dadalea's Wing
     158219, -- Petula's Locket
     158246, -- Sea Raider's Chausses
@@ -260,6 +264,7 @@ AddonTable.loot = {
     160337, -- Darkwater Footpads
     160345, -- Zeth'jir Seacaller Signet
     160447, -- Soul-Pillar Lantern
+    160455, -- Parrot-Trainer Sash
     160456, -- Blanched Ravenfeather Gloves
     160459, -- Apiarist's Stingproof Belt
     160474, -- Vicemaul Wristpinchers
@@ -337,6 +342,7 @@ AddonTable.loot = {
     163870, -- Honorbound Bonebreaker
     163874, -- Honorbound Decapitator
     163876, -- Honorbound Focus
+    163886, -- 7th Legionnaire's Stave
     163890, -- 7th Legionnaire's Claymore
     163892, -- 7th Legionnaire's Censer
 
@@ -359,11 +365,22 @@ AddonTable.loot = {
     170140, -- Akana's Reefstrider Soles (Benethic)
     170516, -- Honorbound Artificer's Robes
     170521, -- 7th Legionnaire's Leather Mantle
+    170522, -- 7th Legionnaire's Visage
     170537, -- Honorbound Centurion's Breastplate
+    170651, -- Mistdancer Spire [120 Boost - Staff]
+    170654, -- Mistdancer Idol of Wisdom [120 Boost - Trinket]
+    170658, -- Mistdancer Stone of Wisdom [120 Boost - Trinket]
+    170659, -- Mistdancer Staff [120 Boost - Staff]
+    170657, -- Mistdancer Band of Wisdom [120 Boost - Ring]
+    170824, -- Mistdancer Gloves [120 Boost - Gloves]
+    170826, -- Mistdancer Britches [120 Boost - Pants]
+    170827, -- Mistdancer Shoulders [120 Boost - Shoulders]
+    170829, -- Mistdancer Bindings [120 Boost - Wrist]
 
     173439, -- Footpads of the Insatiable Maw
     173572, -- Staff of Swelling Agony
     173669, -- Dull Onyx Band
+    173812, -- Vile Manipulator's Cord
     173815, -- Girdle of the Insatiable Maw
 
     174953, -- Vile Manipulator's Wristwraps

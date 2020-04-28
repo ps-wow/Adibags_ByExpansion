@@ -137,6 +137,7 @@ AddonTable.transmog = {
     160135, -- Brutohide Belt
     160136, -- Golden City Signet
     160138, -- Ravascale Bracers
+    160141, -- Ravascale Helm
     160142, -- Ravascale Legguards
     160147, -- Saurifeather Gloves
     160148, -- Saurifeather Pants

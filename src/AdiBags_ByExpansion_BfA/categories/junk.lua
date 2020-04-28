@@ -223,6 +223,7 @@ AddonTable.junk = {
     163580, -- Delicate Cathedral of Light Replica
     163587, -- Discarded Zandalari Brooch
     163590, -- Careworn Loa Statue
+    163591, -- Golden Fleet Sea Charts
     163592, -- Ceremonial Nose Ring
     163632, -- Pristine Strings of Pearls
     163717, -- Forbidden Sea Shanty of Josephus
@@ -239,6 +240,7 @@ AddonTable.junk = {
 
     168788, -- Toy Soldier Weapons
     168787, -- Empty Birdcage
+    168789, -- Perpetual Motion Device
     168795, -- Old Boot
 
     169010, -- Corroded Evaporator Coil
@@ -275,6 +277,8 @@ AddonTable.junk = {
     174514, -- Discarded Token
     174515, -- Star Powder
     174819, -- Fractured Aqiri Idol
+    174823, -- Miniature Plates of Uldum Replica
+    174824, -- Depleted Soul Ruby
     174825, -- Chunk of Amber
     174826, -- Frail Ceremonial Spear
 }
