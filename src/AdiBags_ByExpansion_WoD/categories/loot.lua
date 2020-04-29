@@ -61,6 +61,7 @@ AddonTable.loot = {
     114338, -- Mantidsweave Cord
     114984, -- Mysterious Satchel (Quest Item)
 
+    116112, -- Ra'kahn's Bite
     116724, -- Oshu'gun Basin
     116725, -- Oshu'gun Ring
     116760, -- Saberon-Fang Shanker
@@ -69,6 +70,7 @@ AddonTable.loot = {
     116796, -- Malroc's Staff of Command
     116806, -- Soul Fang
     116807, -- Flinthide's Impenetrable Crest
+    116814, -- Tura'aka's Clipped Wing
     116832, -- Blademasters Honor
     116835, -- Assassin's Spear
     116875, -- Rusty Iron Band
@@ -85,6 +87,7 @@ AddonTable.loot = {
     118203, -- Moultingskin Tunic
     118212, -- Char's Smoldering Fist
     118223, -- Sunclaw
+    118235, -- Ogre Diving Cap (20 Slot Bag)
     118237, -- Anzu's Malice
     118239, -- Anzu's Stoicism
     118240, -- Anzu's Scything Talon
@@ -103,6 +106,9 @@ AddonTable.loot = {
     119458, -- Greataxe of Trials (Proving Grounds)
 
     120337, -- Novice Rylak Hunter's Horn
+
+    124558, -- Baleful Ring
+    124603, -- Sharemire Seal (Baleful Ring)
 
     -- Baleful Tokens
     127784, -- Baleful Cloth Girdle (BoA)

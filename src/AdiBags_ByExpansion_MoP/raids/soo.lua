@@ -25,7 +25,6 @@ AddonTable.soo = {
     112448, -- Waterwalker Greatboots
     112427, -- Seal of Eternal Sorrow
     112426, -- Purified Bindings of Immerseus
-
     -- The Fallen Protectors
     112477, -- Softfoot's Last Resort
     112478, -- Death Lotus Crossbow
@@ -48,7 +47,6 @@ AddonTable.soo = {
     112490, -- Petrified Pennyroyal Ring
     112484, -- Sorrowpath Signet
     112476, -- Rook's Unlucky Talisman
-
     -- Norushen
     112547, -- Norushen's Shortblade
     112546, -- Xifeng, Longblade of the Titanic Guardian
@@ -72,13 +70,19 @@ AddonTable.soo = {
     112561, -- Boots of Broken Reliance
     112553, -- Reality Ripper Ring
     112503, -- Fusion-Fire Core
-
     -- Sha of Pride
+    99714,  -- Chest of the Cursed Vanquisher (M)
     99715,  -- Chest of the Cursed Conqueror (M)
     99716,  -- Chest of the Cursed Protector (M)
-    99743,  -- Chest of the Cursed Conqueror
-    99744,  -- Chest of the Cursed Protector
-    99742,  -- Chest of the Curses Vanquisher
+    99691,  -- Chest of the Cursed Protector (H)
+    99696,  -- Chest of the Cursed Vanquisher (H)
+    99686,  -- Chest of the Cursed Conqueror (H)
+    99742,  -- Chest of the Cursed Vanquisher (N)
+    99743,  -- Chest of the Cursed Conqueror (N)
+    99744,  -- Chest of the Cursed Protector (N)
+    99678,  -- Chest of the Cursed Conqueror (RF)
+    99679,  -- Chest of the Cursed Protector (RF)
+    99677,  -- Chest of the Cursed Vanquisher (RF)
     104162, -- Droplet of Y'Shaarj [Battle Pet]
     104163, -- Gooey Sha-ling [Battle Pet]
     112951, -- Gaze of Arrogance
@@ -91,7 +95,6 @@ AddonTable.soo = {
     112953, -- Greaves of Sublime Superiority
     112947, -- Assurance of Consequence
     112948, -- Prismatic Prison of Pride
-
     -- Galakras
     112723, -- Drakebinder Greatstaff
     112710, -- Dagryn's Discarded Longbow
@@ -115,7 +118,6 @@ AddonTable.soo = {
     112714, -- Galakrond Control Band
     112709, -- Swift Serpent Signet
     112703, -- Evil Eye of Galakras
-
     -- Iron Juggernaut
     112736, -- Seismic Bore
     112748, -- Juggernaut's Power Core
@@ -139,7 +141,6 @@ AddonTable.soo = {
     112750, -- Treads of Autonomic Motion
     112747, -- Laser-Slice Signet
     112729, -- Juggernaut's Focusing Crystal
-
     -- Kor'kron Dark Shaman
     112759, -- Haromm's Frozen Crescent
     112769, -- Kardris' Scepter
@@ -162,14 +163,168 @@ AddonTable.soo = {
     112758, -- Ring of the Iron Tomb
     112754, -- Haromm's Talisman
     112768, -- Kardris' Toxic Totem
-
     -- General Nazgrim
+    99722,  -- Gauntlets of the Cursed Protector (M)
+    99720,  -- Gauntlets of the Cursed Vanquisher (M)
+    99721,  -- Gauntlets of the Cursed Conqueror (M)
+    99682,  -- Gauntlets of the Cursed Vanquisher (H)
+    99692,  -- Gauntlets of the Cursed Protector (H)
+    99687,  -- Gauntlets of the Cursed Conqueror (H)
+    99745,  -- Gauntlets of the Cursed Vanquisher (N)
+    99747,  -- Gauntlets of the Cursed Protector (N)
+    99746,  -- Gauntlets of the Cursed Conqueror (N)
+    99667,  -- Gauntlets of the Cursed Protector (RF)
+    99681,  -- Gauntlets of the Cursed Conqueror (RF)
+    99680,  -- Gauntlets of the Cursed Vanquisher (RF)
+    112781, -- bulwark-of-the-fallen-general
+    112789, -- crown-of-tragic-truth
+    112780, -- nazgrims-gutripper
+    112790, -- spaulders-of-korkron-fealty
+    112785, -- gartok-strength-of-the-faithful
+    112778, -- nazgrims-burnished-insignia
+    112787, -- arcweaver-spell-sword
+    112782, -- sandals-of-two-little-bees
+    112783, -- shoulderguards-of-the-righteous-stand
+    112779, -- ravagers-pathwalkers
+    112788, -- robes-of-the-warriors-fall
     -- Malkorok
+    112815, -- frenzied-crystal-of-rage
+    112793, -- blood-rage-bracers
+    112807, -- legplates-of-willful-doom
+    112804, -- malkoroks-skullcleaver
+    112803, -- malkoroks-tainted-dog-tags
+    112808, -- miasmic-skullbelt
+    112817, -- seal-of-sullen-fury
+    112792, -- vial-of-living-corruption
+    112797, -- wristguards-of-ruination
+    112795, -- ring-of-restless-energy
+    112818, -- visage-of-the-monstrous
+    112820, -- bracers-of-averted-fatality
+    112805, -- halberd-of-inner-shadows
+    112794, -- lazahks-lost-shadowrap
+    112814, -- robes-of-riven-dreams
+    112823, -- terrorguard-chestplate
+    112816, -- black-blooded-drape
+    112819, -- boots-of-perilous-infusion
+    112813, -- hood-of-perpetual-implosion
+    112806, -- korkron-hand-cannon
+    112796, -- malkoroks-giant-stompers
+    112821, -- ebon-blood-chestguard
     -- Spoils of Pandaria
+    105597, -- chitin-link-chain-belt
+    112836, -- ancient-archers-chestguard
+    112829, -- ancient-mogu-tower-shield
+    112831, -- arrowflight-girdle
+    112837, -- avools-ancestral-bracers
+    112845, -- bracers-of-the-pristine-purifier
+    112844, -- chitin-link-chain-belt
+    112835, -- enchanted-shao-tien-saber
+    112832, -- helm-of-the-night-watchman
+    112841, -- immaculately-preserved-wand
+    112842, -- klaxxi-grips-of-rejuvenation
+    112839, -- lost-necklace-of-the-mogu-empress
+    112833, -- mantid-carapace-augments
+    112838, -- mantid-viziers-robes
+    112847, -- mogu-mindbenders-greaves
+    112826, -- ominous-mogu-greatboots
+    112827, -- pandaren-roofsprinters
+    112846, -- plate-belt-of-the-war-healer
+    112828, -- seal-of-the-forgotten-kings
+    112843, -- shado-pan-reliquary-kilt
+    112825, -- sigil-of-rampage
+    112834, -- untarnishable-greatbelt
     -- Thok the Bloodthirsty
+    99723,  -- Helm of the Cursed Vanquisher (M)
+    99724,  -- Helm of the Cursed Conqueror (M)
+    99725,  -- Helm of the Cursed Protector (M)
+    99683,  -- Helm of the Cursed Vanquisher (H)
+    99689,  -- Helm of the Cursed Conqueror (H)
+    99694,  -- Helm of the Cursed Protector (H)
+    99749,  -- Helm of the Cursed Conqueror (N)
+    99750,  -- Helm of the Cursed Protector (N)
+    99748,  -- Helm of the Cursed Vanquisher (N)
+    99672,  -- Helm of the Cursed Conqueror (RF)
+    99673,  -- Helm of the Cursed Protector (RF)
+    99671,  -- Helm of the Cursed Vanquisher (RF)
+    112849, -- thoks-acid-grooved-tooth
+    112866, -- akoliks-acid-soaked-robes
+    112851, -- gleaming-eye-of-the-devilsaur
+    112861, -- festering-primordial-globule
+    112856, -- icy-blood-chestplate
+    112855, -- devilfang-band
+    112852, -- signet-of-the-dinomancers
+    112853, -- hvitserks-formidable-shanker
+    112850, -- thoks-tail-tip
+    112862, -- britomarts-jagged-pike
+    112854, -- montaks-grips-of-scorching-breath
+    105602, -- gleaming-eye-of-the-devilsaur
+    105604, -- akoliks-acid-soaked-robes
+    105609, -- thoks-tail-tip
+    105610, -- britomarts-jagged-pike
+    105611, -- devilfang-band
+    105608, -- icy-blood-chestplate
+    113224, -- aeths-swiftcinder-cloak
     -- Siegecrafter Blackfuse
+    99719,  -- Shoulders of the Cursed Protector (M)
+    99717,  -- Shoulders of the Cursed Vanquisher (M)
+    99718,  -- Shoulders of the Cursed Conqueror (M)
+    99695,  -- Shoulders of the Cursed Protector (H)
+    99685,  -- Shoulders of the Cursed Vanquisher (H)
+    99690,  -- Shoulders of the Cursed Conqueror (H)
+    99755,  -- Shoulders of the Cursed Conqueror (N)
+    99754,  -- Shoulders of the Cursed Vanquisher (N)
+    99756,  -- Shoulders of the Cursed Protector (N)
+    99670,  -- Shoulders of the Cursed Protector (RF)
+    99668,  -- Shoulders of the Cursed Vanquisher (RF)
+    99669,  -- Shoulders of the Cursed Conqueror (RF)
+    112895, -- bracers-of-infinite-pipes
+    112892, -- lever-of-the-megantholithic-apparatus
+    112882, -- calixian-bladebreakers
+    112879, -- ticking-ebon-detonator
+    112898, -- fusespark-gloves
+    112894, -- blackfuses-blasting-cord
+    112877, -- dysmorphic-samophlange-of-discontinuity
+    112897, -- siegecrafters-forge-hammer
+    112890, -- powder-stained-totemic-treads
+    112883, -- asgorathian-blood-seal
+    112896, -- bombers-blackened-wristwatch
+    104158, -- blackfuse-bombling [Battle Pet]
     -- Paragons of the Klaxxi
-
+    99712,  -- Leggings of the Cursed Conqueror (M)
+    99713,  -- Leggings of the Cursed Protector (M)
+    99726,  -- Leggings of the Cursed Vanquisher (M)
+    99684,  -- Leggings of the Cursed Vanquisher (H)
+    99688,  -- Leggings of the Cursed Conqueror (H)
+    99693,  -- Leggings of the Cursed Protector (H)
+    99751,  -- Leggings of the Cursed Vanquisher (N)
+    99753,  -- Leggings of the Cursed Protector (N)
+    99752,  -- Leggings of the Cursed Conqueror (N)
+    99675,  -- Leggings of the Cursed Conqueror (RF)
+    99676,  -- Leggings of the Cursed Protector (RF)
+    99674,  -- Leggings of the Cursed Vanquisher (RF)
+    112916, -- iyyokuks-hereditary-seal
+    112917, -- kilruks-band-of-ascendancy
+    112914, -- bracers-of-sonic-projection
+    112921, -- kilruks-furious-blade
+    112922, -- rikkals-bloody-scalpel
+    112920, -- korvens-crimson-crescent
+    112913, -- skeers-bloodsoaked-talisman
+    112923, -- amber-parasite-wraps
+    112919, -- chestguard-of-toxic-injections
+    112915, -- gauntlets-of-insane-calculations
+    112918, -- hiseks-reserve-longbow
+    104165, -- kovok
+    105629, -- amber-parasite-wraps
+    105626, -- bracers-of-sonic-projection
+    105630, -- chestguard-of-toxic-injections
+    105631, -- gauntlets-of-insane-calculations
+    105623, -- hiseks-reserve-longbow
+    105628, -- iyyokuks-hereditary-seal
+    105624, -- kilruks-band-of-ascendancy
+    105633, -- kilruks-furious-blade
+    105625, -- korvens-crimson-crescent
+    105627, -- rikkals-bloody-scalpel
+    105632, -- skeers-bloodsoaked-talisman
     -- Garrosh Hellscream
     105864, -- Essence of the Cursed Conqueror (N)
     105863, -- Essence of the Cursed Protector (N)

@@ -15,6 +15,7 @@ AddonTable.loot = {
 
     155055, -- Soul-Curse Executioner
     155095, -- Banisher Tunic
+    155156, -- First-Watcher's Lantern
     155158, -- Alderwood Loop
     155159, -- Waycrest Inquisitor's Cloak
     155168, -- Darkwater Tunic (Quest)
@@ -25,6 +26,7 @@ AddonTable.loot = {
     155221, -- Stormfused Spire
     155229, -- Abyssal Beacon
     155231, -- Purified Tideblood Band
+    155235, -- Vineshaper's Grasp
     155236, -- Stormwarden Seal
     155246, -- Jambani Grips
     155254, -- Rastari Legguards
@@ -175,10 +177,12 @@ AddonTable.loot = {
     158387, -- Rastari Footguards
     158411, -- Jambani Girdle
     158423, -- Jambani Gloves
+    158557, -- Heartsbane Charm
     158581, -- Shimmering Quicksilver Drape
     158583, -- Quillstitch Greatcloak
     158585, -- Banisher Walkers
     158598, -- Band of Seething Manifest
+    158624, -- Banisher Strap
     158679, -- Maokka's Carving
     158680, -- Rikal's Ritual Beads
     158681, -- Lightning Tether
@@ -267,6 +271,7 @@ AddonTable.loot = {
     160455, -- Parrot-Trainer Sash
     160456, -- Blanched Ravenfeather Gloves
     160459, -- Apiarist's Stingproof Belt
+    160461, -- Thick Sauroskin Pants
     160474, -- Vicemaul Wristpinchers
     160529, -- Dune Shroud
     160885, -- Fort Daelin Lantern
@@ -349,6 +354,7 @@ AddonTable.loot = {
     165443, -- Darkwood Sentinel's Cowl
     165444, -- Darkwood Sentinel's Breeches
     165628, -- Sentinel's Branch [Staff]
+    165664, -- Sea Giant's Tidestone
     165679, -- Ornate Elun'dris Ring
 
     167555, -- Pocket-Sized Computation Device
