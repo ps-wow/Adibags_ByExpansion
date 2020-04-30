@@ -1,5 +1,6 @@
 local AddonName, AddonTable = ...
 
+-- Utgarde Pinnacle
 AddonTable.pinnacle = {
     -- Svala Sorrowgrave
     37037,  -- Ritualistic Athame
@@ -46,4 +47,11 @@ AddonTable.pinnacle = {
     37058, -- Signet of Ranulf
     37390, -- Meteorite Whetstone
     37064, -- Vestige of Haldor
+    -- Quest Rewards
+    --- Vengeance Be Mine! (13132)
+    44408, -- cowl-of-the-vindictive-captain
+    44409, -- headguard-of-retaliation
+    44410, -- helmet-of-just-retribution
+    44412, -- faceguard-of-punishment
+    44411, -- platehelm-of-irate-revenge
 }

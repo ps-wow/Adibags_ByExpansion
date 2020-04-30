@@ -4,6 +4,7 @@ AddonTable.transmog = {
     -- Uncommon (Green)
     24619, -- Vindicator Shoulderpads
     24679, -- Archmage Robe [Cloth][Chest]
+    24699, -- Bonechewer Shoulderguards
     24772, -- Clefthoof Bracers
     24809, -- Unyielding Fists
     24853, -- Fenclaw Bindings

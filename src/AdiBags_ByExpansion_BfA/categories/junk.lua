@@ -96,6 +96,7 @@ AddonTable.junk = {
     158789, -- Webbed Frill
     158790, -- Charnel Ash
     158792, -- Digestive Acid
+    158796, -- Venomous Tentacle
     158797, -- Jar of Truffles
     158801, -- Finely Serrated Tooth
     158805, -- Soft Turtle Shell
@@ -210,6 +211,7 @@ AddonTable.junk = {
     163092, -- Embroidered Falconry Hood
     163095, -- Golden Troll Berserker
     163111, -- Blackstone Cat Statue
+    163113, -- Corroded Copper Kettle
     163322, -- Ian's Empty Bottle
     163323, -- Julie's Cracked Dish
     163325, -- Ofer's Bound Journal
@@ -270,6 +272,7 @@ AddonTable.junk = {
     170098, -- Rusted Girandole Earring
 
     173908, -- Crumbling Stone Slab
+    173935, -- Nik-Nik's Slicky Sticker
     173937, -- Severed Oculus [Openable]
 
     174207, -- Bony Amber Fragment

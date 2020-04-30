@@ -14,6 +14,7 @@ AddonTable.consumable = {
     113545, -- Carved Drinking Horn
     115463, -- Elixir of Shadow Sight
     118267, -- Ravenmother Offering (XP/Rested)
+    127867, -- A Tiny Ninja Shroud (Pepe appearence)
 }
 
 AddonTable.foodDrink = {

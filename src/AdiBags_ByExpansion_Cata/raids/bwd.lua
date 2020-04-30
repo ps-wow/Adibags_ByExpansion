@@ -3,7 +3,6 @@ local AddonName, AddonTable = ...
 AddonTable.bwd = {
     -- Trash Mobs
     59461, -- Fury of Angerforge (BoE Trinket)
-
     -- Omnotron Defense System
     65081, -- Organic Lifeform Inverter
     65077, -- Power Generator Hood
@@ -17,7 +16,6 @@ AddonTable.bwd = {
     65080, -- Life Force Chargers
     65082, -- Lightning Conductor Bands
     65076, -- Security Measure Alpha
-
     -- Magmaw
     67429, -- Gauntlets of the Forlorn Conqueror (Pal, Priest, Lock)
     67430, -- Gauntlets of the Forlorn Protector (Warr, Hunt, Sham)
@@ -35,7 +33,6 @@ AddonTable.bwd = {
     65051, -- Molten Tantrum Boots
     65048, -- Symbiotic Worm
     65259, -- Shadowflame Handwraps
-
     -- Atramedes
     65058, -- Themios the Darkbringer
     65052, -- Kingdom's Heart
@@ -49,7 +46,6 @@ AddonTable.bwd = {
     65061, -- Legguards of the Unseeing
     65063, -- Boots of Vertigo
     65053, -- Bell of Enraging Resonance
-
     -- Chimaeron
     65064, -- Finkle's Mixer Upper
     65067, -- Burden of Mortality
@@ -63,7 +59,6 @@ AddonTable.bwd = {
     65075, -- Massacre Treads
     65070, -- Bile-O-Tron Nut
     65072, -- Heart of Rage
-
     -- Maloriak
     152967, -- Experiment-In-A-Jar (Discarded Experiment) [Battle Pet]
     67428, -- Leggings of the Forlorn Conqueror (Pal, Priest, Lock)
@@ -80,8 +75,7 @@ AddonTable.bwd = {
     65030, -- Leggings of Consuming Flames
     65032, -- Legwraps of the Greatest Son
     65033, -- Treads of Flawless Creation
-    65029, -- Jar of Ancient Remedies
-
+    65029, -- Jar of Ancient Remedie
     -- Nefarion's End
     122195, -- Music Roll: Legends of Azeroth
     138802, -- Illusion: Power Torrent
@@ -99,11 +93,9 @@ AddonTable.bwd = {
     65022, -- Belt of the Blackhand
     65057, -- Belt of the Nightmare
     65026, -- Prestor's Talisman of Machination
-
     -- Set Pieces (Hunter)
     65205, -- Lightning-Charged Gloves
     65207, -- Lightning-Charged Legguards
-
     -- Set Pieces (Paladin)
     65216, -- Reinforced Sapphirium Helmet (Prot)
     65217, -- Reinforced Sapphirium Legplates (Ret)
@@ -111,18 +103,14 @@ AddonTable.bwd = {
     65225, -- Reinforced Sapphirium Handguards (Prot)
     65227, -- Reinforced Sapphirium Legguards (Prot)
     65226, -- Reinforced Sapphirium Faceguard (Prot)
-
     -- Set Pieces (Priest)
     65231, -- Mercurial Legwraps
-
     -- Set Pieces (Shaman)
     65250, -- Grips of the Raging Elements
     65252, -- Legguards of the Raging Elements
     65251, -- Helmet of the Raging Elements
-
     -- Set Pieces (Warrior)
     65266, -- Earthern Helmet
-
     -- Battle Pet
     152966, -- Rough-Hewn Remote (Tinytron)
 }

@@ -16,9 +16,10 @@ AddonTable.loot = {
 
     44361, -- Greaves of the Traitor
     44404, -- Bauble-Woven Gloves
-    44408, -- Cowl of the Vindictive Captain
 
     44683, -- King's Eyesocket [BoE Ring]
+
+    51983, -- Stalwart Shoulderguards
 
     112346, -- Ice-Encrusted Plate Headguard
     112348, -- Snow-Coated Cloth Cap

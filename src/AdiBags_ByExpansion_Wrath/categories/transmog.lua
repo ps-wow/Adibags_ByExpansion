@@ -11,6 +11,7 @@ AddonTable.transmog = {
     36053, -- Vizier Robe
     36057, -- Vizier Mantle
     36076, -- Winterfin Boots
+    36121, -- Taunka Spaulders
     36150, -- Pygmy Gloves
     36153, -- Pygmy Shoulders
     36160, -- Wendigo Legguards

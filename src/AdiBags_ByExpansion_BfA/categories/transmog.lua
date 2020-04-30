@@ -98,6 +98,7 @@ AddonTable.transmog = {
     159564, -- Stagheart Staff
     159568, -- Wintersail Staff
     159569, -- Wavecaller Spire
+    159571, -- Deepwarden Staff
     159573, -- Bleached Bone Staff
     159576, -- Golden Fleet Warstaff
     159577, -- Zocali Longstaff

@@ -5,12 +5,12 @@ AddonTable.junk = {
 
     83156, -- Trembling Stone Shard
 
+    106285, -- Acid Scarred Plate Belt
     106289, -- Sun-Baked Bracers
     106294, -- Acid Scarred Plate Pants
     106299, -- Ripped Mail Boots
-
     106300, -- Acid Scarred Plate Boots
-    106302, -- Acid-Scarred Plate-gloves
+    106302, -- Acid Scarred Plate Gloves
     106305, -- Acid Scarred Plate Helmet
     106309, -- Sun-Baked Armor
     106311, -- Ripped Mail Armor
@@ -23,12 +23,12 @@ AddonTable.junk = {
     106327, -- Gronncloth Belt
     106336, -- Punctured Plate Pauldrons
     106350, -- Punctured Plate Chestpiece
-
     106824, -- Ruffled Plumage
     106825, -- Razor Talon
     106826, -- Trophy Plumage
     106867, -- Dulled Claw
     106868, -- Venomous Claw
+    106869, -- Ossified Venom Gland
     106870, -- Mangy Pelt
     106873, -- Luxurious Pelt
     106875, -- Worn Flat Tooth

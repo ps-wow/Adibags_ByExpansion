@@ -11,6 +11,7 @@ AddonTable.mining = {
     41163, -- Titanium Bar
     37663, -- Titansteel Bar
     -- Gems
+    36917, -- Bloodstone
     36918, -- Scarlet Ruby
     36919, -- Cardinal Ruby
     36920, -- Sun Crystal
@@ -18,12 +19,10 @@ AddonTable.mining = {
     36923, -- Chalcedony
     36925, -- Majestic Zircon
     36926, -- Shadow Crystal
+    36927, -- Twilight Opal
     36928, -- Dreadstone
     36929, -- Huge Citrine
     36930, -- Monarch Topaz
     36931, -- Ametrine
     36934, -- Eye of Zul
-
-    
-    
 }

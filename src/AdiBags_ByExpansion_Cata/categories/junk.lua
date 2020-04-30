@@ -38,6 +38,7 @@ AddonTable.junk = {
     62099, -- Clammy Mail Pants
 
     62101, -- Clammy Mail Circlet
+    62102, -- Dirt-Caked Leather Helmet
     62103, -- Pockmarked Hay
     62104, -- Perforated Plate Helmet
     62106, -- Bleached Plate Gloves

@@ -89,6 +89,7 @@ AddonTable.loot = {
     157878, -- Blood Bog Wraps [Azerite]
     157881, -- Blood Bog Headcover [Azerite]
     157884, -- Blood Bog Waistband
+    157889, -- Dreadmire Helm
     157894, -- Bone-Fetished Chestplate
     157895, -- Bone-Fetished Stompers
     157896, -- Bone-Fetished Crushers
@@ -126,6 +127,7 @@ AddonTable.loot = {
     157977, -- Seafarer Headcover
     157978, -- Seafarer Breeches
     157981, -- Seafarer Armguards
+    157989, -- Crosswind Wristguards
     157994, -- Sirensong Garments
     157996, -- Harbormaster Pauldrons
     157998, -- Harbormaster Wristplates
@@ -137,6 +139,7 @@ AddonTable.loot = {
     158008, -- Gravethorn Grips
     158011, -- Gravethorn Shoulderguards
     158012, -- Gravethorn Belt
+    158017, -- Ashenwood Helm
     158022, -- Bleakweald Chestguard
     158025, -- Bleakweald Greathelm
     158027, -- Bleakweald Legguards
@@ -306,6 +309,7 @@ AddonTable.loot = {
     161274, -- Exiled Veteran's Bindings
     161371, -- Galebreaker's Sabatons
     161372, -- Ice-Carved Shoulderplates
+    161394, -- Hurricane Cinch
     161446, -- Blistering Seawater Seal
     161766, -- Dread Gladiator's Silk Sash
 
@@ -317,6 +321,7 @@ AddonTable.loot = {
     162946, -- Dread Aspirant's Chain Helm
     162959, -- Dread Aspirant's Silk Cuffs
 
+    163282, -- Honorbound Vanguard's Chainmail
     163285, -- Honorbound Artificer's Sandles
     163296, -- Honorbound Artificer's Legwraps
     163306, -- Honorbound Artificer's Cuffs
@@ -325,6 +330,7 @@ AddonTable.loot = {
     163426, -- Honorbound Artificer's Guise
     163428, -- Honorbound Artificer's Mitts
     163430, -- Honorbound Artificer's Cord
+    163448, -- Honorbound Vanguard's Handguards
     163453, -- Honorbound Centurion's Shoulderplates
     163456, -- Honorbound Centurion's Greathelm
     163458, -- Honorbound Centurion's Gauntlets
@@ -370,6 +376,7 @@ AddonTable.loot = {
     170133, -- Shirakess Grips
     170140, -- Akana's Reefstrider Soles (Benethic)
     170516, -- Honorbound Artificer's Robes
+    170517, -- Honorbound Vanguard's Chainmail
     170521, -- 7th Legionnaire's Leather Mantle
     170522, -- 7th Legionnaire's Visage
     170537, -- Honorbound Centurion's Breastplate
@@ -381,6 +388,7 @@ AddonTable.loot = {
     170824, -- Mistdancer Gloves [120 Boost - Gloves]
     170826, -- Mistdancer Britches [120 Boost - Pants]
     170827, -- Mistdancer Shoulders [120 Boost - Shoulders]
+    170828, -- Mistdancer Waistband [120 Boost - Waist]
     170829, -- Mistdancer Bindings [120 Boost - Wrist]
 
     173439, -- Footpads of the Insatiable Maw
@@ -388,6 +396,7 @@ AddonTable.loot = {
     173669, -- Dull Onyx Band
     173812, -- Vile Manipulator's Cord
     173815, -- Girdle of the Insatiable Maw
+    173817, -- Nefarious Tormentor's Trousers
 
     174953, -- Vile Manipulator's Wristwraps
     174954, -- Wristwraps of the Insatiable Maw

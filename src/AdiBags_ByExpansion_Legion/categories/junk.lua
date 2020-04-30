@@ -60,6 +60,8 @@ AddonTable.junk = {
     138251, -- Calcified Dragon Egg
     138480, -- Black Harvest Tome
 
+    152862, -- Shredded Felbroken Shawl
+
     -- Old AP items
     138781, -- Brief History of the Aeons
     138783, -- Glittering Memento

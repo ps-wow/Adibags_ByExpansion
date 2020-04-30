@@ -3,6 +3,7 @@ AddonTable.transmog = {
     -- Uncommon (Green)
     24619,
     24679,
+    24699,
     24772,
     24809,
     24853,

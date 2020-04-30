@@ -1,4 +1,5 @@
 local AddonName, AddonTable = ...
+-- Utgarde Pinnacle
 AddonTable.pinnacle = {
     -- Svala Sorrowgrave
     37037,
@@ -45,4 +46,11 @@ AddonTable.pinnacle = {
     37058,
     37390,
     37064,
+    -- Quest Rewards
+    --- Vengeance Be Mine! (13132)
+    44408,
+    44409,
+    44410,
+    44412,
+    44411,
 }

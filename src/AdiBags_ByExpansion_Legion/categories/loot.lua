@@ -101,6 +101,7 @@ AddonTable.loot = {
 
     -- Unsullied
     152744, -- Unsullied Mail Girdle (BoA)
+    152766, -- Oronaar Disciple's Boots
     152774, -- Azurelight Sage's Slippers (Bound)
     152775, -- Azurelight Safe's Roves (Chest)
     152777, -- Azurelight Sage's Mantle (Shoulder)
@@ -108,6 +109,7 @@ AddonTable.loot = {
     153140, -- Unsullied Plate Waistplate (BoA)
     153146, -- Unsullied Plate Greaves (BoA)
     153148, -- Unsullied Leather Belt (BoA)
+    153152, -- Unsullied Mail Boots (BoA)
     153153, -- Unsullied Plate Pauldrons (BoA)
     153155, -- Unsullied Plate Helmet (BoA)
     153157, -- Unsullied Plate Gauntlets (BoA)

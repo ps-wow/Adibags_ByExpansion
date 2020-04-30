@@ -8,6 +8,7 @@ AddonTable.loot = {
     106154, -- Frostwolf Stalwart Warboots
     106167, -- Rangari Initiate Belt
 
+    107304, -- Karabor Skirmisher Boots
     107308, -- Karabor Skirmisher Belt
     107313, -- Karabor Honor Guard Girdle
     107318, -- Karabor Sage Cord
@@ -22,6 +23,7 @@ AddonTable.loot = {
     108918, -- Karabor Arcanist Rod
     108945, -- Void-Boiled Squirrel
     108957, -- Venomshade Skin Boots
+    108972, -- Blind Fel-Eye Ring
 
     109060, -- Rylak-Scale Vest
     109061, -- Ku'targ's Merciless Grips
@@ -40,6 +42,7 @@ AddonTable.loot = {
 
     113082, -- Precious Bloodthorn Loop
     113145, -- Karabor Guardian Gorget
+    113147, -- Rangari Luck Charm
     113160, -- Moonstone Luck Token
     113378, -- Rovo's Dagger
     113408, -- Greka's Dentures
@@ -105,6 +108,7 @@ AddonTable.loot = {
     119457, -- Handaxe of Trials (Proving Grounds)
     119458, -- Greataxe of Trials (Proving Grounds)
 
+    120083, -- Earthcaller's Charm
     120337, -- Novice Rylak Hunter's Horn
 
     124558, -- Baleful Ring
