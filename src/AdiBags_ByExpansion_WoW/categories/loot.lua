@@ -15,6 +15,8 @@ AddonTable.loot = {
 
     11994, -- Coral Band (BoE Ring)
 
+    12020, -- Thallium Choker (BoE Neck)
+
     14168, -- Buccaneer's Gloves
 
     14951, -- Bloodforged Sabatons

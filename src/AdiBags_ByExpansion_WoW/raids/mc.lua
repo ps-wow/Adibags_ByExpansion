@@ -21,7 +21,6 @@ AddonTable.mc = {
     19145, -- Robe of Volatile Power
     19146, -- Wristguards of Stability
     19147, -- Ring of Spell Power
-
     -- Lucifron
     17109, -- Choker of Enlightenment (Neck)
     16805, -- Felheart Gloves
@@ -30,7 +29,6 @@ AddonTable.mc = {
     16829, -- Cenarion Boots
     16837, -- Earthfury Boots
     16859, -- Lawbringer Boots
-
     -- Magmadar
     93034, -- Blazing Rune (Corefire Imp) [Battle Pet]
     17073, -- Earthshaker
@@ -49,7 +47,6 @@ AddonTable.mc = {
     16814, -- Pants of Prophecy
     18821, -- Quick Strike Ring
     18820, -- Talisman of Ephemeral Power
-
     -- Gehennas
     16839, -- Earthfury Gauntlets
     16812, -- Gloves of Prophecy
@@ -57,7 +54,6 @@ AddonTable.mc = {
     16826, -- Nightslayer Gloves
     16849, -- Giantstalker's Boots
     16862, -- Sabatons of Might
-
     -- Garr
     18564, -- Bindings of the Windseeker
     17105, -- Aurastone Hammer
@@ -73,7 +69,6 @@ AddonTable.mc = {
     16866, -- Helm of Might
     16854, -- Lawbringer Helm
     16821, -- Nightslayer Cover
-
     -- Shazzrah
     16801, -- Arcanist Gloves
     16831, -- Cenarion Gloves
@@ -81,7 +76,6 @@ AddonTable.mc = {
     16811, -- Boots of Prophecy
     16803, -- Felheart Slippers
     16824, -- Nightslayer Boots
-
     -- Baron Geddon
     18563, -- Bindings of the Windseeker
     16797, -- Arcanist Mantle
@@ -90,7 +84,6 @@ AddonTable.mc = {
     16807, -- Felheart Shoulder Pads
     16856, -- Lawbringer Spaulders
     17110, -- Seal of the Archmagus
-
     -- Sulfuron Harbinger
     93033, -- Mark of Flame (Harbinger of Flame) [Battle Pet]
     17074, -- Shadowstrike
@@ -98,7 +91,6 @@ AddonTable.mc = {
     16816, -- Mantle of Prophecy
     16823, -- Nightslayer Shoulder Pads
     16868, -- Pauldrons of Might
-
     -- Golemagg the Incinerator
     93035, -- Core of Hardened Ash (Ashstone Core) [Battle Pet]
     17103, -- Azuresong Mageblade
@@ -114,7 +106,6 @@ AddonTable.mc = {
     16853, -- Lawbringer Chestguard
     16820, -- Nightslayer Chestpiece
     16815, -- Robes of Prophecy
-
     -- Majordomo Executus
     18803, -- Finkle's Lava Dredger
     18805, -- Core Hound Tooth
@@ -126,10 +117,8 @@ AddonTable.mc = {
     18812, -- Wristguards of True Flight
     19139, -- Fireguard Shoulders
     19140, -- Cauterizing Band
-
     -- Ragnaros
     138833, -- Illusion: Flametongue
-
     17204, -- Eye of Sulfuras
     17076, -- Bonereaver's Edge
     17104, -- Spinal Reaper

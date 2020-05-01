@@ -103,6 +103,7 @@ AddonTable.loot = {
     157906, -- Shadra Silk Legwraps
     157907, -- Shadra Silk Mantle
     157910, -- Gonk Outrunner Vest
+    157911, -- Gonk Outrunner Striders
     157926, -- Breastplate of Rezan's Bladeguard
     157929, -- Greathelm of Rezan's Bladeguard
     157930, -- Shadra Silk Robes

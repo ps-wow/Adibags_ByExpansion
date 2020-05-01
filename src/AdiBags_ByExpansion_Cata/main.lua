@@ -28,6 +28,7 @@ local module = {
     ["raids"] = {
         ["bot"] = "Bastion of Twilight",
         ["bwd"] = "Blackwing Descent",
+        ["bh"] = "Baradin Hold",
         ["ds"] = "Dragon Soul",
         ["firelands"] = "Firelands",
         ["throne"] = "Throne of the Four Winds",

@@ -3,7 +3,6 @@ local AddonName, AddonTable = ...
 AddonTable.bot = {
     -- Trash Mobs
     60202, -- Tsanga's Helm [Leather]
-
     -- Halfus Wyrmbreaker
     65133, -- Book of Binding Will
     65134, -- Wyrmbreaker's Amulet
@@ -21,7 +20,6 @@ AddonTable.bot = {
     67424, -- Chest of the Forlorn Protector (Warr, Hunt, Sham)
     67425, -- Chest of the Forlorn Vanquisher (Rog, DK, Mage, Druid)
     65224, -- Reinforced Sapphirium Chestguard
-
     -- Theralion and Valiona
     152969, -- Odd Twilight Egg (Twilight Clutch-Sister) [Battle Pet]
     65091, -- Blade of the Witching Hour
@@ -36,7 +34,6 @@ AddonTable.bot = {
     65106, -- Ring of Rivalry
     65105, -- Theralion's Mirror
     65109, -- Vial of Stolen Memories
-
     -- Ascendant Council
     152970, -- Lesser Circle of Binding (Bound Stream) [Battle Pet]
     65111, -- Scepter of Ice
@@ -51,7 +48,6 @@ AddonTable.bot = {
     65116, -- Treads of Liquid Ice
     65118, -- Crushing Weight
     65110, -- Heart of Ignacious
-
     -- Cho'gall
     152972, -- Twilight Summoning Portal (Faceless Minion) [Battle Pet]
     65145, -- Shalug'doom, the Axe of Unmaking
@@ -68,7 +64,6 @@ AddonTable.bot = {
     65123, -- Signet of the Fifth Circle
     65124, -- Fall of Mortality
     65228, -- Reinforced Sapphirium Shoulderguards
-
     -- Sinestra
     60237, -- Crown of the Twilight Queen
     60227, -- Caelestrasz's Will
@@ -83,34 +78,26 @@ AddonTable.bot = {
     60229, -- War-Torn Crushers
     60226, -- Dargonax's Signet
     60233, -- Shard of Woe
-
     -- Set Pieces (Death Knight)
     65188, -- Magma Plated Shoulderguards
-
     -- Set Pieces (Druid)
     65197, -- Stormrider's Robes
     65198, -- Stormrider's Mantle
-
     -- Set Pieces (Hunter)
     65204, -- Lightning-Charged Tunic
     65208, -- Lightning-Charged Spaulders
-
     -- Set Pieces (Paladin)
     65218, -- Reinforced Sapphirium Pauldrons (Ret)
-
     -- Set Pieces (Priest)
     65232, -- Mercurial Robes
     65233, -- Mercurial Mantle
-
     -- Set Pieces (Shaman)
     65249, -- Cuirass of the Raging Elements
     65253, -- Spaulders of the Raging Elements
-
     -- Set Pieces (Warlock)
     65261, -- Shadowflame Leggings
     65262, -- Shadowflame Robes
     65263, -- Shadowflame Mantle
-
     -- Set Pieces (Warrior)
     65267, -- Earthen Legplates
 }

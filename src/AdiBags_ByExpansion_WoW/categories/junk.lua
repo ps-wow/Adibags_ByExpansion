@@ -107,6 +107,8 @@ AddonTable.junk = {
     13816, -- Fine Longsword
     13817, -- Tapered Greatsword
     13821, -- Bulky Maul
+    13822, -- Spiked Dagger
+    13823, -- Stout War Staff
     13825, -- Primed Musket
 
     17056, -- Light Feather

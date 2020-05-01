@@ -60,7 +60,9 @@ AddonTable.loot = {
 
     114052, -- Gleaming Ring
     114053, -- Shimmering Gauntlets
+    114099, -- Tormented Leggings
     114101, -- Tormented Girdle
+    114332, -- Legguards of Meditative Focus
     114338, -- Mantidsweave Cord
     114984, -- Mysterious Satchel (Quest Item)
 
@@ -101,6 +103,7 @@ AddonTable.loot = {
     118255, -- Trophy Ring of Gordal
     118279, -- Hermit's Hood
     118687, -- Grizzled Wolfskin Cloak
+    118713, -- Iron Lookout's Aralest
     118734, -- Sneevel's Loincloth
     118735, -- Bloodbathed Outcast Robes
 
@@ -113,6 +116,8 @@ AddonTable.loot = {
 
     124558, -- Baleful Ring
     124603, -- Sharemire Seal (Baleful Ring)
+
+    128222, -- Smokeglass Lens Spyglass
 
     -- Baleful Tokens
     127784, -- Baleful Cloth Girdle (BoA)

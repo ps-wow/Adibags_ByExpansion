@@ -5,6 +5,7 @@ AddonTable.transmog = {
     866,   -- Monk's Staff
     937,   -- Black Duskwood Staff
 
+    1203, -- Aegis of Stormwind
     1625,  -- Exquisite Flamberge
 
     2078,  -- Northern Shortsword
@@ -48,6 +49,7 @@ AddonTable.transmog = {
     9824,  -- Durable Shoulders
     9835,  -- Scaled Leather Tunic
     9852,  -- Conjurer's Robe
+    9877,  -- Sorcerer Cloak
     9897,  -- Jazeraint Chestguard
 
     10069, -- Righteous Bracers [Leather][Wrist]
@@ -58,20 +60,23 @@ AddonTable.transmog = {
     10246, -- Master's Vest [Cloth][Chest]
     10247, -- Master's Boots
     10250, -- Master's Hat [Cloth][Head]
+    10252, -- Master's Leggings
     10255, -- Master's Belt
     10257, -- Adventurer's Boots
     10259, -- Adventurer's Belt
     10264, -- Adventurer's Tunic
+    10267, -- Masterwork Cape
     10275, -- Emerald Breastplate [Plate][Chest]
 
     10379, -- Commander's Helm
     10384, -- Hyperion Armor [Plate][Chest]
     10389, -- Hyperion Legplates
 
+    13036, -- Assassination Blade
     13072, -- Stonegrip Gauntlets
     13073, -- Mugthol's Helm
-    13123, -- Dreamwalker Armor [Mail][Chest] (Nefarian)
     13113, -- Feathermoon Headdress (Nefarian)
+    13123, -- Dreamwalker Armor [Mail][Chest] (Nefarian)
     13144, -- Serenity Belt
 
     14124, -- Ritual Gloves
@@ -99,4 +104,22 @@ AddonTable.transmog = {
     68754, -- Imbued Disciple's Boots
 
     115348, -- Feathered Cape
+
+    -- Molten Core BoE's
+    16802, -- Arcanist Belt
+    16851, -- Giantstalker's Belt
+    16857, -- Lawbringer Bracers
+
+    -- BWL BoE's
+    10152, -- Mighty Leggings
+    13116, -- Spaulders of the Unseen
+    13133, -- Drakesfire Epaulets
+    13135, -- Lordly Armguards
+    13067, -- Hydralick Armor
+    13015, -- Serathil
+    15289, -- Archstrike Bow
+    13007, -- Mageflame Cloak
+    13077, -- Girdle of Uther
+    14982, -- Exalted Shield
+    13125, -- Elven Chain Boots
 }

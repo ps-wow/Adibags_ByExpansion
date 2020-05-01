@@ -317,10 +317,15 @@ AddonTable.brf = {
     116312, -- sorkas-ear-collection
     -- Blackhand
     116393, -- Dagger of the Shattered Crucible
+    120277, -- Essence of the Iron Conqueror (N)
+    120278, -- Essence of the Iron Vanquisher (N)
+    120279, -- Essence of the Iron Protector (N)
     119310, -- Essence of the Iron Conqueror
     119323, -- Essence of the Iron Protector
+    120284, -- Essence of the Iron Protector (M)
     119316, -- Essence of the Iron Vanquisher
-    120211, -- Essence of the Iron Vanquisher [Quest]
+    120211, -- Essence of the Iron Vanquisher
+    120285, -- Essence of the Iron Vanquisher (M)
     138809, -- Illusion: Mark of Blackrock
     116660, -- Ironhoof Destroyer (Mount)
     113988, -- Blackhand Doomstaff
