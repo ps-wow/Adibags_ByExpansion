@@ -2,24 +2,12 @@ local AddonName, AddonTable = ...
 
 -- Terrace of the Endless Spring
 AddonTable.toes = {
-    86238, -- pattern-chestguard-of-nemeses
-    86272, -- pattern-fists-of-lightning
-    86279, -- pattern-liferuned-leather-gloves
-    86280, -- pattern-murderers-gloves
-    86281, -- pattern-nightfire-robe
-    86283, -- pattern-raiment-of-blood-and-bone
-    86284, -- pattern-raven-lords-gloves
-    86297, -- pattern-stormbreaker-chestguard
     86341, -- stalkers-cord-of-eternal-autumn
     86342, -- binders-chain-of-unending-summer
     86343, -- rangers-chain-of-unending-summer
-    86379, -- pattern-robe-of-eternal-rule
     86337, -- healers-belt-of-final-winter
     86338, -- invokers-belt-of-final-winter
     86339, -- sorcerers-belt-of-final-winter
-    86380, -- pattern-imperial-silk-gloves
-    86381, -- pattern-legacy-of-the-emperor
-    86382, -- pattern-touch-of-the-light
     86895, -- healers-belt-of-final-winter
     86896, -- invokers-belt-of-final-winter
     86897, -- sorcerers-belt-of-final-winter
@@ -40,13 +28,7 @@ AddonTable.toes = {
     87184, -- menders-girdle-of-endless-spring
     87185, -- protectors-girdle-of-endless-spring
     87186, -- patrollers-girdle-of-endless-spring
-    87408, -- plans-unyielding-bloodplate
-    87409, -- plans-gauntlets-of-battle-command
-    87410, -- plans-ornate-battleplate-of-the-master
     86340, -- weavers-cord-of-eternal-autumn
-    87411, -- plans-bloodforged-warfists
-    87412, -- plans-chestplate-of-limitless-faith
-    87413, -- plans-gauntlets-of-unbound-devotion
     95617, -- dividends-of-the-everlasting-spring
     -- Protectors of the Endless
     86230, -- bracers-of-defiled-earth

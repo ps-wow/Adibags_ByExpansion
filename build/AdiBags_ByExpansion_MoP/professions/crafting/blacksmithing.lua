@@ -1,4 +1,10 @@
 local AddonName, AddonTable = ...
 AddonTable.blacksmithing = {
-    -- Recipe's
+    -- Plans
+    87408,
+    87409,
+    87410,
+    87411,
+    87412,
+    87413,
 }
