@@ -2,7 +2,7 @@ local AddonName, AddonTable = ...
 
 -- Mogu'shan Vaults
 AddonTable.mv = {
-    95618, -- cache-of-mogu-riches
+    95618, -- Cache of Mogu Riches
     -- Shared
     89768, -- claws-of-amethyst
     89767, -- ruby-linked-girdle
