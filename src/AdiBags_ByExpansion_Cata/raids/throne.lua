@@ -39,9 +39,6 @@ AddonTable.throne = {
     63505,  -- lightning-well-legguards
     63506,  -- gale-rouser-leggings
     63507,  -- soul-breath-leggings
-    64314,  -- mantle-of-the-forlorn-vanquisher
-    64315,  -- mantle-of-the-forlorn-conqueror
-    64316,  -- mantle-of-the-forlorn-protector
     65378,  -- Star Chaser Legguards (Duplicate: BoT)
     65379,  -- Sky Strider Greaves (Duplicate: BoT)
     65380,  -- Thunder Wall Greaves (Duplicate: BoT)

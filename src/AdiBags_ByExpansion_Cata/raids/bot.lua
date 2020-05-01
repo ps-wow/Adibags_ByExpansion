@@ -99,9 +99,6 @@ AddonTable.bot = {
     59500, -- fall-of-mortality
     59501, -- signet-of-the-fifth-circle
     63680, -- twilights-hammer
-    64314, -- mantle-of-the-forlorn-vanquisher
-    64315, -- mantle-of-the-forlorn-conqueror
-    64316, -- mantle-of-the-forlorn-protector
     65145, -- Shalug'doom, the Axe of Unmaking
     65090, -- Twilight's Hammer
     68600, -- Uhn'agh Fash, the Darkest Betrayal
