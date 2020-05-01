@@ -39,9 +39,6 @@ AddonTable.throne = {
     63505,  -- lightning-well-legguards
     63506,  -- gale-rouser-leggings
     63507,  -- soul-breath-leggings
-    63682,  -- helm-of-the-forlorn-vanquisher
-    63683,  -- helm-of-the-forlorn-conqueror
-    63684,  -- helm-of-the-forlorn-protector
     64314,  -- mantle-of-the-forlorn-vanquisher
     64315,  -- mantle-of-the-forlorn-conqueror
     64316,  -- mantle-of-the-forlorn-protector
