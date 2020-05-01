@@ -1,5 +1,4 @@
 <Ui xsi:schemaLocation="http://www.blizzard.com/wow/ui/ ..\FrameXML\UI.xsd">
-
     <Script file="categories\consumable.lua"/>
     <Script file="categories\junk.lua"/>
     <Script file="categories\loot.lua"/>
@@ -48,5 +47,4 @@
     <Script file="raids\multi.lua"/>
 
     <Script file="main.lua"/>
-
 </Ui>
