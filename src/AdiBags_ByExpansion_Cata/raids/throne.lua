@@ -23,7 +23,6 @@ AddonTable.throne = {
     65374,  -- Gale Rouser Belt
     65375,  -- Tempest Keeper Belt
     65376,  -- Soul Breath Belt
-    71716,  -- soothsayers-runes
     152974, -- breezy-essence
     -- Al'Akir
     138836, -- Illusion: Windfury

@@ -130,6 +130,7 @@ AddonTable.loot = {
     157981, -- Seafarer Armguards
     157989, -- Crosswind Wristguards
     157994, -- Sirensong Garments
+    157995, -- Harbormaster Legplates
     157996, -- Harbormaster Pauldrons
     157998, -- Harbormaster Wristplates
 
@@ -277,6 +278,7 @@ AddonTable.loot = {
     160459, -- Apiarist's Stingproof Belt
     160461, -- Thick Sauroskin Pants
     160474, -- Vicemaul Wristpinchers
+    160477, -- Skoloth's Anchorplate Greaves
     160529, -- Dune Shroud
     160885, -- Fort Daelin Lantern
     160888, -- Banisher Jerkin
@@ -327,6 +329,8 @@ AddonTable.loot = {
     163296, -- Honorbound Artificer's Legwraps
     163306, -- Honorbound Artificer's Cuffs
     163368, -- Honorbound Centurion's Long Cloak
+    163403, -- 7th Legionnaire's Armguards
+    163418, -- 7th Legionnaire's Chestguard
     163424, -- Honorbound Artificer's Amice
     163426, -- Honorbound Artificer's Guise
     163428, -- Honorbound Artificer's Mitts
@@ -380,6 +384,7 @@ AddonTable.loot = {
     170517, -- Honorbound Vanguard's Chainmail
     170521, -- 7th Legionnaire's Leather Mantle
     170522, -- 7th Legionnaire's Visage
+    170526, -- 7th Legionnaire's Shoulderplates
     170537, -- Honorbound Centurion's Breastplate
     170651, -- Mistdancer Spire [120 Boost - Staff]
     170654, -- Mistdancer Idol of Wisdom [120 Boost - Trinket]
@@ -393,6 +398,7 @@ AddonTable.loot = {
     170829, -- Mistdancer Bindings [120 Boost - Wrist]
 
     173439, -- Footpads of the Insatiable Maw
+    173466, -- Malignant Leviathan's Gauntlets
     173572, -- Staff of Swelling Agony
     173669, -- Dull Onyx Band
     173812, -- Vile Manipulator's Cord
