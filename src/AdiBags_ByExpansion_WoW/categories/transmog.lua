@@ -33,6 +33,7 @@ AddonTable.transmog = {
     6586,  -- Scouting Gloves
     6595,  -- Battleforge Gauntlets [Mail][Hands]
 
+    7432,  -- Twilight Cowl
     7435,  -- Twilight Mantle
     7456,  -- Knight's Headguard
     7481,  -- Ranger Boots

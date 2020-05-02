@@ -16,8 +16,6 @@ AddonTable.bh = {
     60285, -- stormriders-gloves
     60288, -- stormriders-legguards
     60290, -- stormriders-grips
-    60298, -- wind-dancers-gloves
-    60300, -- wind-dancers-legguards
     60305, -- lightning-charged-legguards
     60307, -- lightning-charged-gloves
     60310, -- legwraps-of-the-raging-elements

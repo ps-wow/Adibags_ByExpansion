@@ -398,6 +398,7 @@ AddonTable.loot = {
     170828, -- Mistdancer Waistband [120 Boost - Waist]
     170829, -- Mistdancer Bindings [120 Boost - Wrist]
 
+    173414, -- Black Empire Cloth Robes [BoA]
     173439, -- Footpads of the Insatiable Maw
     173466, -- Malignant Leviathan's Gauntlets
     173572, -- Staff of Swelling Agony

@@ -3,14 +3,13 @@ local AddonName, AddonTable = ...
 -- Non-soulbound green or higher
 
 AddonTable.transmog = {
-    -- Uncommon (Green)
     55288, -- Irontree Axe
     55296, -- Bladefist Broadaxe
-
     55306, -- Irontree Bow
     55315, -- Blackwolf Cloak
     55332, -- Bladefist Dagger
     55333, -- Irontree Dagger
+    55378, -- Blackwolf Crystal
     55350, -- Bladefist Knuckles
     55351, -- Irontree Knuckles
     55367, -- Mereldar Scepter
@@ -19,7 +18,6 @@ AddonTable.transmog = {
     55387, -- Irontree Mace
     55394, -- Mardenholde Hammer
     55396, -- Irontree Hammer
-
     55412, -- Mardenholde Spear
     55413, -- Bladefist Spear
     55414, -- Irontree Spear
@@ -80,6 +78,7 @@ AddonTable.transmog = {
 
     55700, -- Dandred Waistband
     55701, -- Haldarr Waistband
+    55709, -- Everstill Wristwraps
     55711, -- Bluefen Wristwraps
     55718, -- Everstill Robe
     55719, -- Mystral Robe

@@ -40,4 +40,17 @@ AddonTable.loot = {
     113713, -- Emberspark Chestplate
     113786, -- Smoldercloth Slippers
     156689, -- Scorched Satchel of Helpful Goods
+
+    -- Class Sets
+    --- Wind Dancer's Regalia (Rogue)
+    60298, -- Wind Dancer's Gloves
+    60299, -- Wind Dancer's Helmet
+    60300, -- Wind Dancer's Legguards
+    60301, -- Wind Dancer's Tunic
+    60302, -- Wind Dancer's Spaulders
+    65239, -- Wind Dancer's Tunic [Heroic]
+    65240, -- Wind Dancer's Gloves [Heroic]
+    65241, -- Wind Dancer's Helmet [Heroic]
+    65242, -- Wind Dancer's Legguards [Heroic]
+    65243, -- Wind Dancer's Spaulders [Heroic]
 }

@@ -13,5 +13,6 @@ AddonTable.tailoring = {
     14342, -- Mooncloth
     14227, -- Ironweb Spider Silk
     -- Recipes
-    4346, -- Pattern: Heavy Woolen Cloak
+    4346,  -- Pattern: Heavy Woolen Cloak
+    14512, -- Pattern: Truefaith Vestments
 }

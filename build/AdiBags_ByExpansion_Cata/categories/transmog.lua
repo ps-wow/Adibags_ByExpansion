@@ -1,13 +1,13 @@
 local AddonName, AddonTable = ...
 -- Non-soulbound green or higher
 AddonTable.transmog = {
-    -- Uncommon (Green)
     55288,
     55296,
     55306,
     55315,
     55332,
     55333,
+    55378,
     55350,
     55351,
     55367,
@@ -73,6 +73,7 @@ AddonTable.transmog = {
     55684,
     55700,
     55701,
+    55709,
     55711,
     55718,
     55719,
