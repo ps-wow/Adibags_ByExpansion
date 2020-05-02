@@ -1,8 +1,10 @@
 local AddonName, AddonTable = ...
 
 AddonTable.bt = {
-    -- Normal
-
+    32943, -- Swiftsteel Bludgeon
+    34011, -- Illidari Runeshield
+    32526, -- Band of Devastation
+    32528, -- Blessed Band of Karabor
     -- High Warlord Naj'entus
     122104, -- Leviathan Egg (Leviathan Hatchling) [Battle Pet]
     32248, -- Halberd of Desolation

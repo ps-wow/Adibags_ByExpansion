@@ -343,6 +343,7 @@ AddonTable.loot = {
     163461, -- Honorbound Centurion's Greatbelt
     163527, -- Headhunter's Spear
     163536, -- Warmage's Spire
+    163538, -- Footman's Gladius
     163542, -- Footman's Warmace
     163657, -- 7th Legionnaire's Tunic
     163666, -- Honorbound Artificer's Mantle

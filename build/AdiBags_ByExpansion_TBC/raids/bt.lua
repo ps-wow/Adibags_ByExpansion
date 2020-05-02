@@ -1,6 +1,9 @@
 local AddonName, AddonTable = ...
 AddonTable.bt = {
-    -- Normal
+    32943,
+    34011,
+    32526,
+    32528,
     -- High Warlord Naj'entus
     122104,
     32248,

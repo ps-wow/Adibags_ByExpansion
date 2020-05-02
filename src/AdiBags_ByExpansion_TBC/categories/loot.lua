@@ -1,14 +1,14 @@
 local AddonName, AddonTable = ...
 
--- TBC Junk
+-- TBC Loot
 AddonTable.loot = {
-    -- Greens
     25054, -- Sodalite Band
     25055, -- Alexandrite Ring
     25056, -- Almandine Ring
     25057, -- Amber Band
     25058, -- Anglesite Choker
     25059, -- Fire Opal Collar
+    25069, -- Epidote Stone Necklace
 
     25711, -- Deadly Borer Leggings
 
@@ -22,6 +22,8 @@ AddonTable.loot = {
     29945, -- Magistrate's Greaves
 
     30028, -- Seventh Ring of the Tirisfalen
+
+    32593, -- Treads of the Den Mother
 
     51965, -- Enumerated Shoulders
     51995, -- Turbulent Necklace

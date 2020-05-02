@@ -6,7 +6,6 @@ AddonTable.mining = {
     23425, -- Adamantite Ore
     23427, -- Eternium Ore
     23426, -- Khorium Ore
-
     -- Bars 
     23445, -- Fel Iron Bar
     23446, -- Adamantite Bar
@@ -15,7 +14,10 @@ AddonTable.mining = {
     23573, -- Hardened Adamantite Bar
     23449, -- Khorium Bar
     35128, -- Hardened Khoirum
-
     -- Gems
-    
+    32227, -- Crimson Spinel
+    32229, -- Lionseye
+    32230, -- Shadowsong Amethyst
+    32231, -- Pyrestone
+    32249, -- Seaspray Emerald
 }

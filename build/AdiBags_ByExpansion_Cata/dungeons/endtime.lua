@@ -78,4 +78,14 @@ AddonTable.endtime = {
     133419,
     133420,
     133421,
+    -- Quest Rewards
+    --- Murozond (30096)
+    72873,
+    72874,
+    72875,
+    76152,
+    --- Archival Purposes (30097)
+    72852,
+    72871,
+    72872,
 }

@@ -79,4 +79,14 @@ AddonTable.endtime = {
     133419, -- time-twisters-gauntlets
     133420, -- arrow-of-time
     133421, -- cowl-of-destiny
+    -- Quest Rewards
+    --- Murozond (30096)
+    72873,  -- bronze-blaster
+    72874,  -- boots-of-the-forked-road
+    72875,  -- time-twisters-gauntlets
+    76152,  -- cowl-of-destiny
+    --- Archival Purposes (30097)
+    72852,  -- archivists-gloves
+    72871,  -- crescent-wand
+    72872,  -- time-strand-gauntlets
 }

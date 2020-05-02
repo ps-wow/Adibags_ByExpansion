@@ -140,6 +140,7 @@ AddonTable.transmog = {
     160138, -- Ravascale Bracers
     160141, -- Ravascale Helm
     160142, -- Ravascale Legguards
+    160145, -- Saurifeather Belt
     160147, -- Saurifeather Gloves
     160148, -- Saurifeather Pants
     160150, -- Saurifeather Treads

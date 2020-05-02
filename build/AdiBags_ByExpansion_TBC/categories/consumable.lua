@@ -7,4 +7,5 @@ AddonTable.foodDrink = {
     28399,
     27854,
     27859,
+    29452,
 }

@@ -1,13 +1,13 @@
 local AddonName, AddonTable = ...
--- TBC Junk
+-- TBC Loot
 AddonTable.loot = {
-    -- Greens
     25054,
     25055,
     25056,
     25057,
     25058,
     25059,
+    25069,
     25711,
     28052,
     29910,
@@ -17,6 +17,7 @@ AddonTable.loot = {
     29928,
     29945,
     30028,
+    32593,
     51965,
     51995,
 }
