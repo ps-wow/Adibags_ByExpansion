@@ -32,6 +32,7 @@ AddonTable.loot = {
     128950, -- Demon-Rend Shoulderblades
     128951, -- Leggings of Sacrifice
     128952, -- Torment Ender's Chestguard
+    128953, -- Treads of Illidari Supremacy
     128954, -- Power Handlers Gloves
     128955, -- The Brood Queen's Veil
     128956, -- Fel-Etched Glaive
@@ -46,6 +47,9 @@ AddonTable.loot = {
     129291, -- Stormslayer Champion Belt
     129313, -- Tinkermaster's Mindvault
     129995, -- Sablehide Handguards
+
+    130000, -- Bands of Unrelenting Anguish
+    130116, -- Twisted Wraithtalon Gloves
 
     132243, -- Fel-Etched Glaive
     132906, -- Leywalker Cord
@@ -92,6 +96,7 @@ AddonTable.loot = {
     140660, -- Haft of the God-King
 
     141286, -- Rite of the Val'kyr
+    141619, -- Mana-Infused Berries
     141628, -- Soul-Stealer's Leggings
     141650, -- Helm of Reaffirmed Purpose
 

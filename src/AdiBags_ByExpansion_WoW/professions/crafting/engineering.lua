@@ -9,4 +9,6 @@ AddonTable.engineering = {
     4408,  -- Schematic: Mechanical Squirrel Box
     4409,  -- Schematic: Small Seaforium Charge
     10601, -- Schematic: Bright-Eye Goggles
+    18292, -- Schematic: Core Marksman Rifle
+    18291, -- Schematic: Force Reactive Disk
 }

@@ -40,6 +40,8 @@ AddonTable.transmog = {
 
     8111,  -- Hibernal Mantle
     8287,  -- Arcane Gloves
+    8309,  -- Hero's Leggings
+    8310,  -- Hero's Pauldrons
 
     9774,  -- Greenweave Vest
     9778,  -- Bandit Buckler
@@ -55,6 +57,7 @@ AddonTable.transmog = {
 
     10069, -- Righteous Bracers [Leather][Wrist]
     10083, -- Lord's Crown
+    10135, -- High Councillor's Tunic
     10140, -- High Councillor's Gloves [Cloth][Hands]
     10185, -- Swashbuckler's Cape
     10217, -- Elegant Leggings [Cloth][Legs]
@@ -65,15 +68,18 @@ AddonTable.transmog = {
     10255, -- Master's Belt
     10257, -- Adventurer's Boots
     10259, -- Adventurer's Belt
+    10261, -- Adventurer's Bandana
     10264, -- Adventurer's Tunic
     10267, -- Masterwork Cape
     10275, -- Emerald Breastplate [Plate][Chest]
-
+    10372, -- Imbued Plate Helmet
     10379, -- Commander's Helm
     10384, -- Hyperion Armor [Plate][Chest]
     10389, -- Hyperion Legplates
 
+    13013, -- Elder Wizard's Mantle
     13036, -- Assassination Blade
+    13047, -- Twig of the World Tree
     13072, -- Stonegrip Gauntlets
     13073, -- Mugthol's Helm
     13113, -- Feathermoon Headdress (Nefarian)
@@ -94,6 +100,8 @@ AddonTable.transmog = {
     15245, -- Vorpal Dagger
     15248, -- Gleaming Claymore
     15287, -- Crusader Bow
+    15288, -- Blasthorn Bow
+    15325, -- Sharpshooter Harquebus
     15374, -- Wolf Rider's Leggings
     15489, -- Bloodspattered Sabatons
     15492, -- Bloodspattered Sash
@@ -110,6 +118,13 @@ AddonTable.transmog = {
     16802, -- Arcanist Belt
     16851, -- Giantstalker's Belt
     16857, -- Lawbringer Bracers
+    16819, -- Vambraces of Prophecy
+    16804, -- Felheart Bracers
+    16864, -- Belt of Might
+    16828, -- Cenarion Belt
+    16840, -- Earthfury Bracers
+    16806, -- Felheart Belt
+    13060, -- The Needler
 
     -- BWL BoE's
     10152, -- Mighty Leggings

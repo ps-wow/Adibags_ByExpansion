@@ -1,8 +1,10 @@
 local AddonName, AddonTable = ...
 
 AddonTable.skinning = {
+    783,   -- Light Hide
     2318,  -- Light Leather
     2319,  -- Medium Leather
+    2934,  -- Ruined Leather Scraps
     8154,  -- Scorpid Scale
     8170,  -- Rugged Leather
     8171,  -- Rugged Hide

@@ -106,6 +106,7 @@ AddonTable.bwl = {
     19361, -- Ashjre'thul, Crossbow of Smiting
     19388, -- Angelista's Grasp
     19389, -- Taut Dragonhide Gloves
+    19391, -- Shimmering Geta
     19392, -- Girdle of the Fallen Crusader
     19393, -- Primalist's Linked Waistguard
     19385, -- Empowered Leggings

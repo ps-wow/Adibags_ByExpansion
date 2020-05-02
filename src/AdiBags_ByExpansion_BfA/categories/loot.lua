@@ -227,7 +227,6 @@ AddonTable.loot = {
     159086, -- Corrupted Tribe Headsmasher
     159099, -- Pa'ku Adherant's Talons
     159147, -- Jambani Walkers
-    159163, -- Ashvane Company Spaulders
     159480, -- Bleached Bone Handaxe
     159543, -- Loa-Blessed Maul
     159548, -- Golden Fleet Mace

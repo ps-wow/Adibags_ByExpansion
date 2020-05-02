@@ -10,4 +10,8 @@ AddonTable.enchanting = {
 
     16202, -- Lesser Eternal Essence
     16203, -- Greater Eternal Essence
+    -- Recipe's
+    18259, -- Formula: Enchant Weapon - Spellpower
+    16250, -- Formula: Enchant Weapon - Superior Striking
+    16251, -- Formula: Enchant Bracer - Superior Stamina
 }

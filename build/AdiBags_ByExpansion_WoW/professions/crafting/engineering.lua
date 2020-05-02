@@ -8,4 +8,6 @@ AddonTable.engineering = {
     4408,
     4409,
     10601,
+    18292,
+    18291,
 }

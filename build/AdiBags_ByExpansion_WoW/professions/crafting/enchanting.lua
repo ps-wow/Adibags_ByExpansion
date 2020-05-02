@@ -7,4 +7,8 @@ AddonTable.enchanting = {
     14344,
     16202,
     16203,
+    -- Recipe's
+    18259,
+    16250,
+    16251,
 }

@@ -1,7 +1,9 @@
 local AddonName, AddonTable = ...
 AddonTable.skinning = {
+    783,
     2318,
     2319,
+    2934,
     8154,
     8170,
     8171,

@@ -21,6 +21,7 @@ AddonTable.mc = {
     19145, -- Robe of Volatile Power
     19146, -- Wristguards of Stability
     19147, -- Ring of Spell Power
+    16860, -- Lawbringer Gauntlets
     -- Lucifron
     17109, -- Choker of Enlightenment (Neck)
     16805, -- Felheart Gloves

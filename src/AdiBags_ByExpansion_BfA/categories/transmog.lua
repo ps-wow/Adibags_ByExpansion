@@ -25,6 +25,7 @@ AddonTable.transmog = {
 
     159158, -- Ashvane Company Chestplate
     159161, -- Ashvane Company Greathelm
+    159163, -- Ashvane Company Spaulders
     159164, -- Ashvane Company Gloves
     159166, -- Foxhollow Drape
     159167, -- Freehold Bracers
@@ -34,6 +35,7 @@ AddonTable.transmog = {
     159174, -- Freehold Belt
     159184, -- Foxhollow Circlet
     159185, -- Foxhollow Handwraps
+    159186, -- Foxhollow Leggings
     159188, -- Foxhollow Sandals
     159189, -- Foxhollow Amice
     159191, -- Brineworks Breastplate
@@ -42,6 +44,7 @@ AddonTable.transmog = {
     159199, -- Sagehold Cloak
     159204, -- Briarback Hood
     159206, -- Briarback Shoulderpads
+    159211, -- Eventide Boots
     159212, -- Eventide Coif
     159214, -- Eventide Pauldrons
     159217, -- Sagehold Circlet
@@ -82,6 +85,7 @@ AddonTable.transmog = {
     159525, -- Coldscale Dagger
     159527, -- Loa-Blessed Fang
     159528, -- Zem'lan Dagger
+    159530, -- Rivermarsh Dagger
     159531, -- Warport Dirk
     159532, -- Golden Fleet Dagger
     159533, -- Zocali Ripper
@@ -153,6 +157,7 @@ AddonTable.transmog = {
     160161, -- Faithless Skycloak
     160166, -- Sandscout Headcover
     160168, -- Sandscout Shoulders
+    160169, -- Sandscout Girdle
     160170, -- Arid Caravan Band
     160171, -- Bonepicker Cinch
     160172, -- Bonepicker Armguards

@@ -51,6 +51,8 @@ AddonTable.junk = {
     3950, -- Twill Shoulderpads
     3962, -- Thick Leather Boots
     3966, -- Thick Leather Pants
+    3975, -- Smooth Leather Shoulderpads
+    3987, -- Deflecting Tower
     3992, -- Laminated Scale Belt
     3994, -- Laminated Scale Bracers
 
@@ -88,10 +90,13 @@ AddonTable.junk = {
     7100, -- Sticky Ichor
     7296, -- Extinguished Torch
 
+    8083, -- Light Plate Bracers
     8146, -- Wicked Claw
     8151, -- Flask of Mojo
     8152, -- Flask of Big Mojo
     8748, -- Double Mail Coif
+    8752, -- Laminated Scale Circlet
+    8754, -- Twill Cover
 
     9242, -- Ancient Tablet
     9308, -- Grime-Encrusted Object (Gnomeregen Quest Item)
@@ -106,9 +111,11 @@ AddonTable.junk = {
     12735, -- Frayed Abomination Stitching
     13816, -- Fine Longsword
     13817, -- Tapered Greatsword
+    13820, -- Clout Mace
     13821, -- Bulky Maul
     13822, -- Spiked Dagger
     13823, -- Stout War Staff
+    13824, -- Recurve Long Bow
     13825, -- Primed Musket
 
     17056, -- Light Feather
