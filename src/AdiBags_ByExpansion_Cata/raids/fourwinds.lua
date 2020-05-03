@@ -1,7 +1,7 @@
 local AddonName, AddonTable = ...
 
 -- Throne of the Four Winds
-AddonTable.throne = {
+AddonTable.fourwinds = {
     -- The Conclave of Wind
     63488,  -- mistral-circle
     63489,  -- permafrost-signet

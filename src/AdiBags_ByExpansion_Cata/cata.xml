@@ -42,7 +42,7 @@
     <Script file="raids\bwd.lua"/>
     <Script file="raids\ds.lua"/>
     <Script file="raids\firelands.lua"/>
-    <Script file="raids\throne.lua"/>
+    <Script file="raids\fourwinds.lua"/>
     <Script file="raids\bh.lua"/>
     <Script file="raids\multi.lua"/>
 
