@@ -38,6 +38,8 @@ AddonTable.loot = {
 
     -- Scorched Satchel of Helpful Goods
     113713, -- Emberspark Chestplate
+    113760, -- Smoldercloth Bracers
+    113761, -- Smoldercloth Leggings
     113786, -- Smoldercloth Slippers
     156689, -- Scorched Satchel of Helpful Goods
 

@@ -10,6 +10,7 @@ AddonTable.transmog = {
     106483, -- Tangleheart Gauntlets
     106484, -- Tangleheart Greaves
     106488, -- Tangleheart Vest
+    106500, -- Steamscar Britches
     106502, -- Steamscar Hood
     106520, -- Highland Spaulders
     106671, -- Windswept Cord

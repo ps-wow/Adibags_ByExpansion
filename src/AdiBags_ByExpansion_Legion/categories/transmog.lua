@@ -2,6 +2,7 @@ local AddonName, AddonTable = ...
 
 AddonTable.transmog = {
     121008, -- Rhut'van Vambraces
+    121019, -- Llothien Britches
     121020, -- Llothien Gloves
     121024, -- Llothien Waistband
     121044, -- Faronaar Chain Helm
@@ -22,4 +23,5 @@ AddonTable.transmog = {
     121212, -- Dreadroot Linked Vest
     121242, -- Ambervale Jerkin
     121264, -- Warpwind Helm
+    121265, -- Warpwind Legguards
 }

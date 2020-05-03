@@ -28,6 +28,8 @@ AddonTable.loot = {
     113695,
     -- Scorched Satchel of Helpful Goods
     113713,
+    113760,
+    113761,
     113786,
     156689,
     -- Class Sets
