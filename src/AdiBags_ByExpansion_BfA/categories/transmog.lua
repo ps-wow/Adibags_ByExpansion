@@ -80,6 +80,7 @@ AddonTable.transmog = {
     159516, -- Golden Fleet Fists
     159517, -- Zocali Claws
     159519, -- Ironcrest Knife
+    159520, -- Coralshell Dagger
     159523, -- Tideguard Shanker
     159524, -- Shipwrecker Knife
     159525, -- Coldscale Dagger
@@ -89,6 +90,7 @@ AddonTable.transmog = {
     159531, -- Warport Dirk
     159532, -- Golden Fleet Dagger
     159533, -- Zocali Ripper
+    159537, -- Deepwarden Gavel
     159540, -- Coralshell Hammer
     159544, -- Zem'lan Smasher
     159545, -- Bleached Bone Club
@@ -109,6 +111,7 @@ AddonTable.transmog = {
     159578, -- Loa-Blessed Stave
     159584, -- Coldscale Saber
     159590, -- Shipwrecker Blade
+    159593, -- Wavecaller Cutlass
     159594, -- Zem'lan Saber (1H Sword)
     159596, -- Rivermarsh Machete
     159597, -- Warport Quickblade

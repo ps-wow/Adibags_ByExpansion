@@ -77,4 +77,20 @@ AddonTable.throne = {
     133184, -- cerith-spire-staff
     133187, -- chromis-chestpiece
     133204, -- ring-of-the-great-whale
+    -- Mindbender Ghursha
+    133189, -- anthias-ring
+    133190, -- decapod-slippers
+    133191, -- anomuran-helm   
+    133192, -- porcelain-crab
+    133200, -- bioluminescent-lamp
+    133360, -- stonespeakers-spare-cinch
+    157586, -- stonespeakers-spare-cinch
+    55229, -- anomuran-helm
+    55235, -- decapod-slippers
+    55236, -- anthias-ring
+    55237, -- porcelain-crab
+    56276, -- anthias-ring
+    56277, -- decapod-slippers
+    56278, -- anomuran-helm
+    56280, -- porcelain-crab
 }

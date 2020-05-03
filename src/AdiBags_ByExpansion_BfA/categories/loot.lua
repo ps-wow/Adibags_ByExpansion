@@ -368,6 +368,8 @@ AddonTable.loot = {
     165664, -- Sea Giant's Tidestone
     165679, -- Ornate Elun'dris Ring
 
+    166336, -- 7th Legionnaire's Skullcleaver
+
     167555, -- Pocket-Sized Computation Device
     167754, -- Shirakess Headdress
     167756, -- Shirakess Mantle
@@ -398,6 +400,8 @@ AddonTable.loot = {
     170829, -- Mistdancer Bindings [120 Boost - Wrist]
 
     173414, -- Black Empire Cloth Robes [BoA]
+    173418, -- Black Empire Cloth Leggings [BoA]
+    173422, -- Black Empire Plate Bracers [BoA]
     173439, -- Footpads of the Insatiable Maw
     173466, -- Malignant Leviathan's Gauntlets
     173572, -- Staff of Swelling Agony
