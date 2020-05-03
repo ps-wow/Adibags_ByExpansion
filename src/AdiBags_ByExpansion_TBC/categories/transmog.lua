@@ -32,6 +32,7 @@ AddonTable.transmog = {
     25043, -- Amber Cape
     25080, -- Spell-Breaker Shield [OffHand][Shield]
     25112, -- Fel Ripper
+    25125, -- Retro-Spike Club
     25225, -- Deepforge Broadaxe [2H Axe]
     25243, -- Windtalker Bow
     25286, -- Yew Wand

@@ -54,6 +54,7 @@ AddonTable.loot = {
     113561, -- Staff of the Mad Bramble King
     113563, -- Shadowmoon Sacrificial Dagger
     113571, -- Boots of the Shadowborn
+    113726, -- Burning Slagstone Ring
     113762, -- Smoldercloth Robe
     113767, -- Blossoming Mantle
     113959, -- Thogar's Serrated Chain (BoE) [Neck]
