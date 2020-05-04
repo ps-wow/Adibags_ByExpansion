@@ -29,6 +29,7 @@ AddonTable.pinnacle = {
     37389,
     37056,
     157560,
+    127489,
     -- King Ymiron
     37060,
     37401,

@@ -8,6 +8,7 @@ AddonTable.consumable = {
     87216,  -- Thermal Anvil
     87779,  -- Ancient Guo-Lai Cache Key
     89640,  -- Life Spirit
+    89641,  -- Water Spirit
     104111, -- Elixir of Wandering Spirits
 }
 

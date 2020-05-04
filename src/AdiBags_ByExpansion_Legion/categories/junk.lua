@@ -53,7 +53,9 @@ AddonTable.junk = {
     132239, -- Bone Splinters
 
     138242, -- Waterstained Tarot Deck
+    138243, -- Rust-Eaten Sword
     138245, -- Spoiled Azsharan Wineskin
+    138246, -- Ancient Pickled Koi
     138247, -- Damaged Harp
     138249, -- Ruined Spellbook
     138250, -- Statue of Queen Azshara

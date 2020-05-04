@@ -11,7 +11,9 @@ AddonTable.trade = {
     22457, -- Primal Mana
     21882, -- Soul Essence
     23572, -- Primal Nether
+    30183, -- Nether Vortex
     32428, -- Heart of Darkness
     -- Clams
     24476, -- Jaggal Clam
+    24478, -- Jaggal Pearl
 }

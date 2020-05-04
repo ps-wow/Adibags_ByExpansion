@@ -17,6 +17,8 @@ AddonTable.loot = {
     112462, -- Illidari Drape
 
     121106, -- Hagfeather Leggings
+    121188, -- Smolderhide Shoulders
+    121217, -- Crescent Vale Robe
     121480, -- Felblaze Chain
     121577, -- Rooksguard Warboots
     121580, -- Sablehide Boots
@@ -90,6 +92,7 @@ AddonTable.loot = {
     138970, -- Helm of Reaffirmed Purpose
 
     139718, -- Helm of the Shattered Abyss
+    139812, -- Potion of Triton (Champion Equipment)
     139897, -- Cloak of the White Prowler
     139926, -- Subject 12's ID Bracelets
 
@@ -99,6 +102,8 @@ AddonTable.loot = {
     141619, -- Mana-Infused Berries
     141628, -- Soul-Stealer's Leggings
     141650, -- Helm of Reaffirmed Purpose
+
+    150997, -- Crystallized Aether [Arcane Artifact Relic]
 
     -- Dauntless
     147255, -- Galvanized Stormscale Belt

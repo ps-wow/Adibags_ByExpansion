@@ -35,8 +35,10 @@ AddonTable.transmog = {
     55484, -- Mereldar Wand
     55485, -- Thondroril Wand
     55493, -- Ravencrest Vambraces
+    55494, -- Stonewrought Vambraces
 
     55503, -- Stonewrought Breastplate
+    55512, -- Stonewrought Sabatons
     55513, -- Crystalvein Sabatons
     55520, -- Ravencrest Gauntlets
     55522, -- Crystalvein Gauntlets
@@ -67,6 +69,7 @@ AddonTable.transmog = {
     55637, -- Dandred Bindings
     55638, -- Haldarr Bindings
     55647, -- Haldarr Jerkin
+    55655, -- Dandred Boots
     55657, -- Ravenholdt Boots
     55664, -- Dandred Gloves
     55648, -- Ravenholdt Jerkin

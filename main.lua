@@ -8,6 +8,18 @@ AddonTable.Modules = {}
 
 function Core:GetOptions()
     return {
+        Achievement = {
+            name = "Achievement",
+            desc = 'Achievement items.',
+            type = 'toggle',
+            order = 74,
+        },
+        Consumable = {
+            name = "Consumables",
+            desc = 'Consumable items.',
+            type = 'toggle',
+            order = 74,
+        },
         TradeMaterials = {
             name = "Trade Materials",
             desc = 'Crafting Materials.',
@@ -32,6 +44,12 @@ function Core:GetOptions()
             type = 'toggle',
             order = 79,
         },
+        Reputation = {
+            name = "Reputation",
+            desc = 'Reputation items.',
+            type = 'toggle',
+            order = 74,
+        },
         Transmog = {
             name = "Transmog",
             desc = 'BoE Weapons/Armour',
@@ -43,12 +61,6 @@ function Core:GetOptions()
             desc = 'Grey quality items.',
             type = 'toggle',
             order = 73,
-        },
-        Consumable = {
-            name = "Consumables",
-            desc = 'Consumable items.',
-            type = 'toggle',
-            order = 74,
         },
         FoodIsJunk = {
             name = "Food is Junk",
@@ -67,10 +79,12 @@ end
 
 function Core:GetProfile()
     return {
+        Achievement = true,
         TradeMaterials = true,
         Professions = true,
         DungeonEquipment = true,
         RaidEquipment = true,
+        Reputation = true,
         Junk = true,
         Loot = true,
         FoodDrink = true,
@@ -172,6 +186,8 @@ end
 
 function Core:GetDefaultCategories()
     return {
+        ["Achievement"] = "Achievement Items",
+        ["Reputation"] = "Reputation ITems",
         ["TradeMaterials"] = "Trade Materials", -- Tradable trade goods (eg. professions)
         ["DungeonEquipment"] = "Dungeon Armour/Weapons", -- Dungeon equipment (soulbound)
         ["RaidEquipment"] = "Raid Armour/Weapons", -- Raid equipment (Soulbound)
@@ -279,6 +295,11 @@ end
 -- @param module
 --
 function Core:LoadCategories(table, module)
+    -- Achievement Items
+    if table.achievement ~= nil then
+        Core:AddCategoryItems(table.achievement, "Achievement", module)
+    end
+
     -- Consumables
     if table.foodDrink ~= nil then
         Core:AddCategoryItems(table.foodDrink, "Consumable", module)
@@ -322,6 +343,11 @@ function Core:LoadCategories(table, module)
                 Core:AddRaidItems(table[raid], raid, module)
             end
         end
+    end
+
+    -- Reputation
+    if table.reputation ~= nil then
+        Core:AddCategoryItems(table.reputation, "Reputation", module)
     end
 
     -- Junk

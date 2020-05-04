@@ -12,6 +12,7 @@ AddonTable.trade = {
     7076,  -- Essence of Earth
     7077,  -- Heart of Fire
     7078,  -- Essence of Fire
+    7079,  -- Globe of Water
     7080,  -- Essence of Water
     7082,  -- Essence of Air
     7972,  -- Ichor of Undeath

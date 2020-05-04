@@ -22,6 +22,9 @@ AddonTable.loot = {
     86527, -- Blade of the Poisoned Mind [BoA]
     86529, -- Manipulator's Talisman [BoA]
 
+    87600, -- Marshsong Gloves
+    87618, -- Ice Encrusted Bracer
+    87621, -- Wristguards of Great Fortune
     87624, -- Yaungol Mist-Shaman's Amulet
     87626, -- Suna's Shattered Locket
     87636, -- Cloak of the Forgotten Emporer

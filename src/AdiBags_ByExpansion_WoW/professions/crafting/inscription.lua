@@ -6,5 +6,6 @@ AddonTable.inscription = {
     39469, -- Moonglow Ink
     43115, -- Hunter's Ink
     43117, -- Dawnstar Ink
+    43118, -- Jadefire Ink
     43121, -- Fiery Ink
 }

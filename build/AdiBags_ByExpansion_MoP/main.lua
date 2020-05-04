@@ -21,7 +21,11 @@ local module = {
         ["stormstout"] = "Stormstout Brewery"
     },
     ["raids"] = {
+        ["hof"] = "Heart of Fear",
+        ["mv"] = "Mogu'shan Vaults",
         ["soo"] = "Siege of Orgrimmar",
+        ["toes"] = "Terrace of the Endless Spring",
+        ["tot"] = "Throne of Thunder",
     }
 }
 

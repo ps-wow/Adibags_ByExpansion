@@ -14,7 +14,9 @@ AddonTable.loot = {
     154825, -- Zala'mar Vambraces
 
     155055, -- Soul-Curse Executioner
+    155072, -- Wavetamer Trident
     155095, -- Banisher Tunic
+    155148, -- Silverwood Spire
     155156, -- First-Watcher's Lantern
     155158, -- Alderwood Loop
     155159, -- Waycrest Inquisitor's Cloak
@@ -22,6 +24,7 @@ AddonTable.loot = {
     155172, -- Darkwater Boots
     155180, -- Darkwater Hood
     155184, -- Darkwater Breeches
+    155218, -- Kraulguard Poleaxe
     155219, -- Zeth'jir Scaleguard Pillar
     155221, -- Stormfused Spire
     155229, -- Abyssal Beacon
@@ -127,6 +130,7 @@ AddonTable.loot = {
     157975, -- Seafarer Striders
     157977, -- Seafarer Headcover
     157978, -- Seafarer Breeches
+    157979, -- Seafarer Shoulderpads
     157981, -- Seafarer Armguards
     157989, -- Crosswind Wristguards
     157994, -- Sirensong Garments
@@ -186,6 +190,7 @@ AddonTable.loot = {
     158581, -- Shimmering Quicksilver Drape
     158583, -- Quillstitch Greatcloak
     158585, -- Banisher Walkers
+    158593, -- Drust-Speaker's Pathfinder
     158598, -- Band of Seething Manifest
     158624, -- Banisher Strap
     158679, -- Maokka's Carving
@@ -403,6 +408,7 @@ AddonTable.loot = {
     173418, -- Black Empire Cloth Leggings [BoA]
     173422, -- Black Empire Plate Bracers [BoA]
     173439, -- Footpads of the Insatiable Maw
+    173464, -- Gloves of the Insatiable Maw
     173466, -- Malignant Leviathan's Gauntlets
     173572, -- Staff of Swelling Agony
     173669, -- Dull Onyx Band

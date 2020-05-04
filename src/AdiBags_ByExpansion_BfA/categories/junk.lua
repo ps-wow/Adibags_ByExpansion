@@ -177,6 +177,7 @@ AddonTable.junk = {
     161209, -- Coven Dream Catcher
     161210, -- Homemade Child's Doll
     161211, -- Ship in a Bottle
+    161212, -- Wavespeaker's Star Chart
     161437, -- Shipping Contract
 
     162571, -- Soggy Treasure Map (Common) (Readable)
@@ -207,9 +208,11 @@ AddonTable.junk = {
     163084, -- Solid Gold Cutlass
     163085, -- Onion Garland'
     163087, -- Satchel of Blood Oranges
+    163090, -- Cured Billow-Weed
     163091, -- Jeweled Spyglass
     163092, -- Embroidered Falconry Hood
     163095, -- Golden Troll Berserker
+    163096, -- Lead-Glass Hand Mirror
     163111, -- Blackstone Cat Statue
     163113, -- Corroded Copper Kettle
     163322, -- Ian's Empty Bottle
@@ -267,6 +270,7 @@ AddonTable.junk = {
     170001, -- Seized Engine
     170005, -- Fractured Pearl
     170017, -- Cracked Titan Disc
+    170033, -- Decharged Battery
     170087, -- Chromatic "Vigegar"
     170097, -- Discarded Quel'dorei Tome
     170098, -- Rusted Girandole Earring
@@ -279,6 +283,7 @@ AddonTable.junk = {
     174209, -- Encased Arthropod
     174514, -- Discarded Token
     174515, -- Star Powder
+    174516, -- Dampened Ward
     174819, -- Fractured Aqiri Idol
     174823, -- Miniature Plates of Uldum Replica
     174824, -- Depleted Soul Ruby

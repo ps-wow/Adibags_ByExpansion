@@ -70,6 +70,7 @@ AddonTable.transmog = {
     159491, -- Warport Short Bow
     159496, -- Gol Osigr Crossbow
     159497, -- Deepwarden Flintlock
+    159501, -- Coralshell Glaives
     159505, -- Zocali Warglaive
     159506, -- Loa-Blessed Crescent
     159507, -- Zem'lan Warglaive
@@ -90,6 +91,7 @@ AddonTable.transmog = {
     159531, -- Warport Dirk
     159532, -- Golden Fleet Dagger
     159533, -- Zocali Ripper
+    159535, -- Wavecaller Mace
     159537, -- Deepwarden Gavel
     159540, -- Coralshell Hammer
     159544, -- Zem'lan Smasher
@@ -110,6 +112,7 @@ AddonTable.transmog = {
     159577, -- Zocali Longstaff
     159578, -- Loa-Blessed Stave
     159584, -- Coldscale Saber
+    159587, -- Dockyard Cutlass
     159590, -- Shipwrecker Blade
     159593, -- Wavecaller Cutlass
     159594, -- Zem'lan Saber (1H Sword)

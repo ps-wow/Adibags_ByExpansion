@@ -21,6 +21,7 @@ AddonTable.transmog = {
     121170, -- Kal'delar Legplates
     121205, -- Dreadroot Linked Belt
     121212, -- Dreadroot Linked Vest
+    121232, -- Nightfallen Outcast's Cloak
     121242, -- Ambervale Jerkin
     121264, -- Warpwind Helm
     121265, -- Warpwind Legguards

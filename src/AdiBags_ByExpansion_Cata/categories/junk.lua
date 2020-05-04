@@ -78,6 +78,7 @@ AddonTable.junk = {
 
     67333, -- Oddly Shaped Bone
 
+    68055, -- Crystalline Tear of Loyalty
     68197, -- Scavenged Animal Parts
     68198, -- Ruined Embersilk Scraps
 }

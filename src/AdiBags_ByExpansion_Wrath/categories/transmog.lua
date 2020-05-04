@@ -27,5 +27,6 @@ AddonTable.transmog = {
     36526, -- Sleeted Longsword
     36594, -- Fracturing Battleaxe
     36601, -- Patient Harpoon
+    36679, -- Singing Dagger
     36684, -- Ambrosial Hammer
 }

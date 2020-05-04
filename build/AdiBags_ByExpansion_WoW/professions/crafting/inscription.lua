@@ -5,5 +5,6 @@ AddonTable.inscription = {
     39469,
     43115,
     43117,
+    43118,
     43121,
 }

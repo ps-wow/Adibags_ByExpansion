@@ -19,6 +19,8 @@ AddonTable.loot = {
 
     44683, -- King's Eyesocket [BoE Ring]
 
+    50447, -- Harbinger's Bone Band
+
     51983, -- Stalwart Shoulderguards
 
     112346, -- Ice-Encrusted Plate Headguard

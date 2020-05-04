@@ -30,6 +30,7 @@ AddonTable.pinnacle = {
     37389,  -- Crenelation Leggings
     37056,  -- Harpooner's Striders
     157560, -- Skadi's Scaled Boots
+    127489, -- Netherbreath Spellblade (TW)
     -- King Ymiron
     37060, -- Jeweled Coronation Sword
     37401, -- Red Sword of Courage

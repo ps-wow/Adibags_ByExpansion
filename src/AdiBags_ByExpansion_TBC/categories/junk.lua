@@ -47,6 +47,7 @@ AddonTable.junk = {
     25411, -- Worn Hoof
     25418, -- Razor Sharp Fang
     25429, -- Grime-Encrusted Scale
+    25445, -- Wretched Ichor
     25451, -- Swamp Moss
     25456, -- Glowing Spores
 

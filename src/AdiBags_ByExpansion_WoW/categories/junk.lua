@@ -20,6 +20,7 @@ AddonTable.junk = {
     1806, -- Tough Cloak
     1814, -- Battered Mallet
 
+    2057, -- Pitted Defias Shortsword
     2212, -- Cracked Buckler
     2295, -- Large Boar Tusk
 
@@ -89,6 +90,7 @@ AddonTable.junk = {
     7098, -- Splintered Tusk
     7100, -- Sticky Ichor
     7296, -- Extinguished Torch
+    7997, -- Red Defias Mask
 
     8083, -- Light Plate Bracers
     8146, -- Wicked Claw
@@ -125,6 +127,8 @@ AddonTable.junk = {
     18285, -- Crystallized Mana Shard
     18286, -- Condensed Mana Fragment
     19937, -- Small Scorpid Claw
+
+    20770, -- Bubbling Green Ichor
 
     22525, -- Crypt Fiend Parts
     22526, -- Bone Fragments

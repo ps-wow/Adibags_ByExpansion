@@ -15,7 +15,9 @@ AddonTable.herbalism = {
     3369,  -- Grave Moss
     3818,  -- Fadeleaf
     3819,  -- Dragon's Teeth
+    3820,  -- Stranglekelp
     3821,  -- Goldthorn
+    8831,  -- Purple Lotus
     8838,  -- Sungrass
     8839,  -- Blindweed
     8845,  -- Ghost Mushroom
