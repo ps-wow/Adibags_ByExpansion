@@ -15,4 +15,6 @@ AddonTable.foodDrink = {
     33452, -- Honey-Spiced Lichen
     35947, -- Sparkling Frostcap (hp)
     35953, -- Mead Basted Caribou (hp)
+    39327, -- Noth's Special Breww
+    41751, -- Black Mushroom
 }

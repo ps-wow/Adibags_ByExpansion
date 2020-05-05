@@ -13,6 +13,4 @@ AddonTable.multi = {
     64314, -- mantle-of-the-forlorn-vanquisher
     64315, -- mantle-of-the-forlorn-conqueror
     64316, -- mantle-of-the-forlorn-protector
-    -- Druid
-    65193, -- Stormrider's Spaulders
 }

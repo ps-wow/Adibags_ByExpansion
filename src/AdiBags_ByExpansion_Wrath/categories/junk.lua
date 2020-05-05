@@ -49,12 +49,21 @@ AddonTable.junk = {
     38303, -- Enduring Mojo (Quest Item)
     38585, -- Scored Carapace
 
+    39201, -- Dirt Stained Rags
+    39203, -- Mangled Diary
+    39205, -- Sole-Less Boots
+    39207, -- Ragweed
     39209, -- Scintillating Stone Shard
     39210, -- Shattered Stone
     39211, -- Serrated Fang
     39212, -- Indurate Claw
     39219, -- Sawtooth Talon
     39220, -- Geodesic Fragments
+    39317, -- News From The North
+    39351, -- Richly Appointed Pipe
+    39355, -- Haute Club Membership Card
+    39357, -- Priestly Preening: Be Like Your Betters
+    39358, -- Give to the Church and the Light Will Provide
     39512, -- Hoary Crystals
     39516, -- Frosty Mushroom
     39524, -- Sericeous Down

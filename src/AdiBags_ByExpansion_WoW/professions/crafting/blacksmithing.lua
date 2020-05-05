@@ -8,6 +8,7 @@ AddonTable.blacksmithing = {
     2862,  -- Rough Sharpening Stone
     -- Recipe's
     3872,  -- Plans: Golden Scale Leggings
+    3874,  -- Plans: Polished Steel Boots
     12713, -- Plans: Radiant Leggings
     12839, -- Plans: Heartseeker
 }

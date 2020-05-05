@@ -9,6 +9,7 @@ AddonTable.transmog = {
     1625,  -- Exquisite Flamberge
 
     2078,  -- Northern Shortsword
+    2962,  -- Burnt Leather Breeches
     2983,  -- Seer's Boots
     2984,  -- Seer's Gloves
 

@@ -7,6 +7,7 @@ AddonTable.blacksmithing = {
     2862,
     -- Recipe's
     3872,
+    3874,
     12713,
     12839,
 }

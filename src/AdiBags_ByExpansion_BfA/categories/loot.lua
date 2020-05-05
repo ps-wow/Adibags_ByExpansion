@@ -418,4 +418,10 @@ AddonTable.loot = {
 
     174953, -- Vile Manipulator's Wristwraps
     174954, -- Wristwraps of the Insatiable Maw
+
+    -- Benethic Gear (8.3? Catch Up)
+    169477, -- Benethic Girdle
+    169478, -- Benethic Bracers
+    169483, -- Benethic Treads
+    169485, -- Benethic Gauntlets
 }

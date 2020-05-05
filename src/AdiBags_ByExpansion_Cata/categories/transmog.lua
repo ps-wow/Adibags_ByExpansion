@@ -36,6 +36,7 @@ AddonTable.transmog = {
     55485, -- Thondroril Wand
     55493, -- Ravencrest Vambraces
     55494, -- Stonewrought Vambraces
+    55495, -- Crystalvein Vambraces
 
     55503, -- Stonewrought Breastplate
     55512, -- Stonewrought Sabatons

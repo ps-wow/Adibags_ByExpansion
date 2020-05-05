@@ -239,7 +239,7 @@ AddonTable.firelands = {
     -- Set Piece (Death Knight)
     71482,
     71483,
-    -- Set Piece (Druid)
+    -- Obsidian Arborweave Battlegarb (Druid)
     71486,
     71488,
     71491,

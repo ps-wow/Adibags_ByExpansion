@@ -110,12 +110,19 @@ AddonTable.loot = {
     147276, -- Spellbinder's Seal
 
     -- Unsullied
+    152738, -- Unsullied Cloth Cap (BoA)
     152744, -- Unsullied Mail Girdle (BoA)
+    152746, -- Praetorium Guard's Greaves (Bound)
+    152747, -- Praetorium Guard's Helmet (Bound)
+    152749, -- Praetorium Guard's Waistplate (Bound)
+    152750, -- Praetorium Guard's Pauldrons (Bound)
+    152751, -- Praetorium Guard's Gauntlets (Bound)
     152766, -- Oronaar Disciple's Boots
     152774, -- Azurelight Sage's Slippers (Bound)
     152775, -- Azurelight Safe's Roves (Chest)
     152777, -- Azurelight Sage's Mantle (Shoulder)
     152735, -- Unsullied Ring (BoA)
+    153136, -- Unsullied Leather Treads (BoA)
     153140, -- Unsullied Plate Waistplate (BoA)
     153146, -- Unsullied Plate Greaves (BoA)
     153148, -- Unsullied Leather Belt (BoA)
@@ -130,4 +137,19 @@ AddonTable.loot = {
     -- BfA War of the Thorns
     162796, -- Wildguard Spaulders
     162791, -- Wildguard Ringmail
+
+    -- Character Boost
+    153754, -- Springrain Tunic (Leather/Druid)
+    153755, -- Springrain Treads (Leather/Druid)
+    153756, -- Springrain Grips (Leather/Druid)
+    153757, -- Springrain Headpiece (Leather/Druid)
+    153758, -- Springrain Leggings (Leather/Druid)
+    153759, -- Springrain Spaulders (Leather/Druid)
+    153760, -- Springrain Stave (Leather/Druid)
+    153761, -- Springrain Belt (Leather/Druid)
+    153762, -- Springrain Bracers (Leather/Druid)
+    153763, -- Springrain Medallion (Neck/Druid)
+    153764, -- Springrain Idol (Trinket/Driud)
+    153767, -- Springrain Stone (Trinket/Driud)
+    153783, -- Springrain Cloak (Leather/Druid)
 }

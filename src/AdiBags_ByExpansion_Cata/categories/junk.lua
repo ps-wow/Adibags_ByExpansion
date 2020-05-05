@@ -45,6 +45,7 @@ AddonTable.junk = {
     62107, -- Singed Belt
     62108, -- Singed Armor
     62109, -- Sodden Cloth Vest
+    62110, -- Sodden Cloth Shoulderpads
     62112, -- Singed Pants
     62113, -- Singed Gloves
     62114, -- Singed Bracers

@@ -4,13 +4,12 @@ local AddonName, AddonTable = ...
 
 AddonTable.loot = {
     55314, -- Thondroril Cloak
-    55403, -- Mereldar Amulet
+    55403, -- Mereldar Amulet [BoE Neck]
     55404, -- Thondroril Amulet
     55405, -- Blackwolf Amulet
     55421, -- Mereldar Ring
     55422, -- Thondroril Ring
     55423, -- Blackwolf Ring
-    55495, -- Crystalvein Vambraces
     55567, -- Talondeep Bracers (Mail)
     55619, -- Highperch Shoulders
     55639, -- Ravenholdt Bindings
@@ -55,4 +54,10 @@ AddonTable.loot = {
     65241, -- Wind Dancer's Helmet [Heroic]
     65242, -- Wind Dancer's Legguards [Heroic]
     65243, -- Wind Dancer's Spaulders [Heroic]
+    --- Stormrider's Battlegarb (Druid)
+    65189, -- Stormrider's Grips [Heroic]
+    65190, -- Stormrider's Headpiece [Heroic]
+    65191, -- Stormrider's Legguards [Heroic]
+    65192, -- Stormrider's Raiment [Heroic]
+    65193, -- Stormrider's Spaulders [Heroic]
 }

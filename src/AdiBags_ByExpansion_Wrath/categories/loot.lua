@@ -3,6 +3,10 @@ local AddonName, AddonTable = ...
 AddonTable.loot = {
     3914,  -- Journeyman's Backpack
 
+    34657, -- Choker of Damnation
+    34658, -- Plague Band
+    34659, -- Acherus Knight's Shroud
+
     35683, -- Palladium Ring [BoE Ring]
     36173, -- Geist Tunic
     36385, -- Golem Pauldrons
@@ -10,7 +14,12 @@ AddonTable.loot = {
 
     37505, -- Battle Leader's Breastplate
 
+    38147, -- Corrupted Band
     38221, -- Shroud of Fluid Strikes
+
+    39320, -- Sky Darkener's Shroud of Blood
+
+    40483, -- Insignia of the Scourge
 
     42767, -- Invigorating Sabatons
 
@@ -36,9 +45,19 @@ AddonTable.loot = {
     113758, -- Snow-Coated Cloth Gloves
     114641, -- Icy Satchel of Helpful Goods
 
+    142320, -- Runed Soulsaber
+
     156688, -- Icy Satchel of Helpful Goods
 
     -- Death Knight Starter Gear
+    34648,  -- Acherus Knight's Greaves
+    34649,  -- Acherus Knight's Gauntlets
+    34650,  -- Acherus Knight's Tunic
+    34651,  -- Acherus Knight's Girdle
+    34652,  -- Acherus Knight's Hood
+    34653,  -- Acherus Knight's Wristguard
+    34655,  -- Acherus Knight's Pauldrons
+    34656,  -- Acherus Knight's Legplates
     38661,  -- Greathelm of the Scourge Champion
     38662,  -- Bladed Ebon Amulet
     38663,  -- Blood-Soaked Saronite Spaulders
@@ -53,5 +72,6 @@ AddonTable.loot = {
     38672,  -- Kaleseth's Signet Ring
     38674,  -- Soul Harvester's Charm
     38675,  -- Signet of the Dark Brotherhood
+    38707,  -- Runed Soulblade
     174487, -- Unholy Greatsword
 }
