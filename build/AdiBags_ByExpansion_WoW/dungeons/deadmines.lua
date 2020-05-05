@@ -29,4 +29,9 @@ AddonTable.deadmines = {
     5198,
     5193,
     5202,
+    -- Quest Rewards
+    --- The Defias Kingpin (27790)
+    65935,
+    65959,
+    65983,
 }

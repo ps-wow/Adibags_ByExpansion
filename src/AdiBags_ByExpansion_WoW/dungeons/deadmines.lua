@@ -30,4 +30,9 @@ AddonTable.deadmines = {
     5198,   -- Cookie's Stirring Rod
     5193,   -- Cape of the Brotherhood
     5202,   -- Corsair's Overshirt
+    -- Quest Rewards
+    --- The Defias Kingpin (27790)
+    65935, -- Cookie's Meat Mallet
+    65959, -- Cookie's Stirring Stick
+    65983, -- Cookie's Table Cloth
 }
