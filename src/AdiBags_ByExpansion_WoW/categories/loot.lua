@@ -14,7 +14,9 @@ AddonTable.loot = {
     12048, -- Prismatic Pendant (BoE Neck)
 
     11994, -- Coral Band (BoE Ring)
+    11999, -- Lodestone Hoop (BoE Ring)
 
+    12055, -- Stardust Band (BoE Ring)
     12020, -- Thallium Choker (BoE Neck)
 
     14168, -- Buccaneer's Gloves

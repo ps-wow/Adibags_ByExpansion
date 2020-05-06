@@ -33,5 +33,6 @@ AddonTable.st = {
     10833,
     10829,
     -- Quest Rewards
+    --- Eranikus (27605)
     65931,
 }

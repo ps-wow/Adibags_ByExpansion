@@ -100,7 +100,8 @@ AddonTable.stratholme = {
     13344,  -- Dracorian Gauntlets
     22410,  -- Gauntlets of Deftness
     13345,  -- Seal of Rivendare
-
     -- Other
     65973, -- Fras Siabi's Cigar Cutter
+    -- Quest Rewards
+    
 }

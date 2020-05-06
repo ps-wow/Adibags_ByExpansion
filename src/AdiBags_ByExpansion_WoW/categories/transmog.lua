@@ -36,6 +36,7 @@ AddonTable.transmog = {
     6584,  -- Scouting Tunic
     6586,  -- Scouting Gloves
     6595,  -- Battleforge Gauntlets [Mail][Hands]
+    6622,  -- Sword of Zeal
 
     7432,  -- Twilight Cowl
     7435,  -- Twilight Mantle
@@ -43,6 +44,7 @@ AddonTable.transmog = {
     7481,  -- Ranger Boots
 
     8111,  -- Hibernal Mantle
+    8199,  -- Battlefield Destroyer
     8287,  -- Arcane Gloves
     8309,  -- Hero's Leggings
     8310,  -- Hero's Pauldrons
@@ -59,12 +61,16 @@ AddonTable.transmog = {
     9877,  -- Sorcerer Cloak
     9897,  -- Jazeraint Chestguard
     9953,  -- Chieftain's Headdress
+    9964,  -- Warmonger's Leggings
 
     10069, -- Righteous Bracers [Leather][Wrist]
     10083, -- Lord's Crown
     10105, -- Wanderer's Armor
     10135, -- High Councillor's Tunic
     10140, -- High Councillor's Gloves [Cloth][Hands]
+    10142, -- High Councillor's Mantle
+    10156, -- Mercurial Bracers
+    10161, -- Mercurial Gauntlets
     10185, -- Swashbuckler's Cape
     10217, -- Elegant Leggings [Cloth][Legs]
     10226, -- Nightshade Helmet
@@ -81,6 +87,7 @@ AddonTable.transmog = {
     10264, -- Adventurer's Tunic
     10267, -- Masterwork Cape
     10275, -- Emerald Breastplate [Plate][Chest]
+    10367, -- Hyperion Shield
     10372, -- Imbued Plate Helmet
     10379, -- Commander's Helm
     10384, -- Hyperion Armor [Plate][Chest]
@@ -92,6 +99,7 @@ AddonTable.transmog = {
     13072, -- Stonegrip Gauntlets
     13073, -- Mugthol's Helm
 
+    13107, -- Magiskull Cuffs
     13111, -- Sandals of the Insurgent
     13113, -- Feathermoon Headdress (Nefarian)
     13123, -- Dreamwalker Armor [Mail][Chest] (Nefarian)
@@ -110,7 +118,9 @@ AddonTable.transmog = {
     15227, -- Diamond-Tip Bludgeon
     15241, -- Battle Knife
     15245, -- Vorpal Dagger
+    15246, -- Demon Blade
     15248, -- Gleaming Claymore
+    15272, -- Razor Axe
     15287, -- Crusader Bow
     15288, -- Blasthorn Bow
     15325, -- Sharpshooter Harquebus
@@ -128,16 +138,17 @@ AddonTable.transmog = {
     115348, -- Feathered Cape
 
     -- Molten Core BoE's
+    13060, -- The Needler
     16802, -- Arcanist Belt
-    16851, -- Giantstalker's Belt
-    16857, -- Lawbringer Bracers
-    16819, -- Vambraces of Prophecy
     16804, -- Felheart Bracers
-    16864, -- Belt of Might
+    16806, -- Felheart Belt
+    16819, -- Vambraces of Prophecy
     16828, -- Cenarion Belt
     16840, -- Earthfury Bracers
-    16806, -- Felheart Belt
-    13060, -- The Needler
+    16851, -- Giantstalker's Belt
+    16857, -- Lawbringer Bracers
+    16858, -- Lawbringer Belt
+    16864, -- Belt of Might
 
     -- BWL BoE's
     10152, -- Mighty Leggings

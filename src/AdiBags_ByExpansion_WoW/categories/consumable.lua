@@ -28,9 +28,11 @@ AddonTable.foodDrink = {
     4537, -- Tel'Abim Banana
     4538, -- Snapvine Watermelon
     4542, -- Moist Cornbread
+    4599, -- Cured Ham Steak
     4604, -- Forest Mushroom Cap
     4605, -- Red-Speckled Mushroom
     4607, -- Delicious Cave Mold
+    4608, -- Raw Black Truffle
     4791, -- Enchanted Water
     8766, -- Morning Glory Dew
     8952, -- Roasted Quail

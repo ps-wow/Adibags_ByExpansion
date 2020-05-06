@@ -34,5 +34,6 @@ AddonTable.st = {
     10833, -- Horns of Eranikus
     10829, -- The Dragon's Eye
     -- Quest Rewards
+    --- Eranikus (27605)
     65931, -- Essence of Eranikus' Shade
 }

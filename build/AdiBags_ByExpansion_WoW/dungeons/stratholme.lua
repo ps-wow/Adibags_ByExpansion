@@ -101,4 +101,5 @@ AddonTable.stratholme = {
     13345,
     -- Other
     65973,
+    -- Quest Rewards
 }

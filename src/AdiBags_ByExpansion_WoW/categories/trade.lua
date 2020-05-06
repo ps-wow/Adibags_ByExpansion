@@ -6,8 +6,10 @@ AddonTable.trade = {
     5498,  -- Small Lustrous Pearl
     5523,  -- Small Barnacled Clam
     5524,  -- Thick-Shelled Clam
+    5637,  -- Large Fang
     7067,  -- Elemental Earth
     7068,  -- Elemental Fire
+    7070,  -- Elemental Water
     7075,  -- Core of Earth
     7076,  -- Essence of Earth
     7077,  -- Heart of Fire
