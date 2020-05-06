@@ -37,6 +37,7 @@ AddonTable.transmog = {
     159184, -- Foxhollow Circlet
     159185, -- Foxhollow Handwraps
     159186, -- Foxhollow Leggings
+    159187, -- Foxhollow Robes
     159188, -- Foxhollow Sandals
     159189, -- Foxhollow Amice
     159191, -- Brineworks Breastplate

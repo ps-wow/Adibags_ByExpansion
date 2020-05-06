@@ -23,8 +23,10 @@ AddonTable.junk = {
 
     33400, -- Frigid Mail Bracers
     33402, -- Frigid Mail Pants
+    33403, -- Frigid Mail Shoulderpads
     33406, -- Ice-Bound Plate Bracers
     33412, -- Frost-Worn Plate Belt
+    33413, -- Frost-Worn Plate Boots
     33415, -- Frost-Worn Plate Chestpiece
     33416, -- Frost-Worn Plate Gloves
     33417, -- Frost-Worn Plate Pants
@@ -37,6 +39,7 @@ AddonTable.junk = {
     33428, -- Dulled Shiv
     33429, -- Ice Cleaver
     33430, -- Abandoned Greatsword
+    33431, -- Icesmashing Mace
     33435, -- Frost-Worn Plate Helmet
     33436, -- Frost-Rimed Cloth Hat
     33561, -- Hardened Flipper

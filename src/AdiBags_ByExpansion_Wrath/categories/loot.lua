@@ -10,6 +10,8 @@ AddonTable.loot = {
     35683, -- Palladium Ring [BoE Ring]
     36173, -- Geist Tunic
     36385, -- Golem Pauldrons
+    36428, -- Bouquet Ring
+    36429, -- Spur Ring
     36458, -- Frozen Shield
 
     37505, -- Battle Leader's Breastplate

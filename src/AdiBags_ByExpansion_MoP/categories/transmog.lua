@@ -10,9 +10,11 @@ AddonTable.transmog = {
     82184, -- Snowy Shield
     82204, -- Thresher Britches [Leather][Legs]
     82231, -- Bejeweled Wand [Wand]
+    82237, -- Highpeak Pauldrons
     82249, -- Waterfall Cord
     82253, -- Waterfall Robe
     82257, -- Vine Bindings
+    82262, -- Vine Jerkin
     82289, -- Temple Girdle
 
     87451, -- Helm of Elemental Binding
