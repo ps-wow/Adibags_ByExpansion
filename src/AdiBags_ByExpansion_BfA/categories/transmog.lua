@@ -25,6 +25,7 @@ AddonTable.transmog = {
 
     159158, -- Ashvane Company Chestplate
     159161, -- Ashvane Company Greathelm
+    159162, -- Ashvane Company Greaves
     159163, -- Ashvane Company Spaulders
     159164, -- Ashvane Company Gloves
     159166, -- Foxhollow Drape
@@ -49,6 +50,7 @@ AddonTable.transmog = {
     159214, -- Eventide Pauldrons
     159217, -- Sagehold Circlet
     159222, -- Sagehold Mantle
+    159228, -- Freehold Cape
     159229, -- Mistfall Greatcloak
     159260, -- Briarback Greatcloak
     159265, -- Brineworks Drape

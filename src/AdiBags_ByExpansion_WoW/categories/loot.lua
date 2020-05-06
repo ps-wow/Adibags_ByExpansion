@@ -47,6 +47,7 @@ AddonTable.loot = {
     58903, -- Kobold Candle
     58907, -- Crime Scene Tape [Quest: Westfall]
     58909, -- Golden Sunshine Cloak [Quest: Westfall]
+    59042, -- Electro-Staff
 
     65913, -- Hann Ibal's Epaulets
     65922, -- Warpwood Leaf Mantle

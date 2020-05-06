@@ -17,6 +17,7 @@ AddonTable.transmog = {
     36160, -- Wendigo Legguards
     36161, -- Wendigo Pauldrons
     36167, -- Webspinner Hood
+    36169, -- Webspinner Shoulderguards
     36233, -- Trapper Shoulderguards
     36262, -- Cormorant Gloves
     36270, -- Ulduar Gauntlets

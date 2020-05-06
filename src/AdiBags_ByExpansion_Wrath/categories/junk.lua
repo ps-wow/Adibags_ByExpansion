@@ -13,6 +13,7 @@ AddonTable.junk = {
     33379, -- Frozen Armor
     33380, -- Frozen Belt
     33381, -- Frozen Boots
+    33385, -- Frozen Shoulderpads
     33391, -- Icy Mail Belt
     33393, -- Icy Mail Bracers
     33395, -- Icy Mail Pants

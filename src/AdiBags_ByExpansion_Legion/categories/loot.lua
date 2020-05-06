@@ -7,10 +7,12 @@ AddonTable.loot = {
     112434, -- Hollowheart Pantaloons
     112450, -- Illidari Blindfold
     112451, -- Illidari Leggings
+    112452, -- Illidari Bracers
     112454, -- Illidari Robe
     112455, -- Illidari Gloves
     112456, -- Illidari Shoulders
     112457, -- Illidari Boots
+    112458, -- Illidari Warglaive
     112459, -- Illidari Ring
     112460, -- Illidari Band
     112461, -- Illidari Chain
@@ -27,6 +29,7 @@ AddonTable.loot = {
     123959, -- Demon Trophy
     123960, -- Charm of Demonic Fire
 
+    128944, -- Voras' Silk Drape
     128946, -- Mardum Lord Signet
     128947, -- Pit Lord's Cuffs
     128948, -- Nefarious Ring
@@ -45,6 +48,7 @@ AddonTable.loot = {
     129104, -- Brand of the Banshee Queen
     129171, -- Band of Ingression
     129172, -- Band of Demonic Guile
+    129181, -- Illidari Warglaive
     129236, -- Tinkmaster's Cog Stompers
     129291, -- Stormslayer Champion Belt
     129313, -- Tinkermaster's Mindvault
@@ -64,6 +68,7 @@ AddonTable.loot = {
     133314, -- Power Handlers Gloves
     133315, -- Infernal Firecord Sash
     133316, -- Leggings of Sacrifice
+    133317, -- Treads of Illidari Supremacy
     133318, -- Illidari Shoulders
     133319, -- Illidari Leggings
     133320, -- Illidari Blindfold
@@ -117,6 +122,8 @@ AddonTable.loot = {
     152749, -- Praetorium Guard's Waistplate (Bound)
     152750, -- Praetorium Guard's Pauldrons (Bound)
     152751, -- Praetorium Guard's Gauntlets (Bound)
+    152756, -- Arinor Keeper's Belt (Bound)
+    152757, -- Arinor Keeper's Treads (Bound)
     152766, -- Oronaar Disciple's Boots
     152774, -- Azurelight Sage's Slippers (Bound)
     152775, -- Azurelight Safe's Roves (Chest)

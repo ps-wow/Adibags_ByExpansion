@@ -31,5 +31,13 @@ AddonTable.zf = {
     151460,
     151461,
     -- Quest Rewards
+    --- Chief Ukorz Sandscalp (27068)
     65955,
+    65979,
+    65930,
+    --- A Fool's Errand (27070)
+    65978,
+    65999,
+    65954,
+    65929,
 }

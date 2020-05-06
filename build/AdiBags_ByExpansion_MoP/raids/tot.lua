@@ -1,6 +1,7 @@
 local AddonName, AddonTable = ...
 -- Throne of Thunder
 AddonTable.tot = {
+    94125,
     87208,
     87209,
     94593,

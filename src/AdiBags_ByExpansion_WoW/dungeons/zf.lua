@@ -32,5 +32,13 @@ AddonTable.zf = {
     151460, -- Farraki Ceremonial Robes
     151461, -- Ukorz's Chain Leggings
     -- Quest Rewards
+    --- Chief Ukorz Sandscalp (27068)
     65955, -- Mazoga's Boots
+    65979, -- Staff of the Unknown Road
+    65930, -- Hands of Consequences
+    --- A Fool's Errand (27070)
+    65978, -- Electrified Leggings
+    65999, -- Pauldrons of Zul'Farrak
+    65954, -- Belt of the Deep
+    65929, -- Bilgewhizzles Armbands
 }

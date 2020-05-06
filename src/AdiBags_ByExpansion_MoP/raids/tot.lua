@@ -2,6 +2,7 @@ local AddonName, AddonTable = ...
 
 -- Throne of Thunder
 AddonTable.tot = {
+    94125, -- Living Sandling [Battle Pet]
     87208, -- sigil-of-power
     87209, -- sigil-of-wisdom
     94593, -- secrets-of-the-empire

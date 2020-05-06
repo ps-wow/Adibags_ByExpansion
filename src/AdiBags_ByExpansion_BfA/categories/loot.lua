@@ -107,6 +107,7 @@ AddonTable.loot = {
     157907, -- Shadra Silk Mantle
     157910, -- Gonk Outrunner Vest
     157911, -- Gonk Outrunner Striders
+    157915, -- Gonk Outrunner Shoulderguards
     157926, -- Breastplate of Rezan's Bladeguard
     157929, -- Greathelm of Rezan's Bladeguard
     157930, -- Shadra Silk Robes
@@ -128,6 +129,7 @@ AddonTable.loot = {
     157971, -- Sirensong Amice
     157974, -- Seafarer Vest
     157975, -- Seafarer Striders
+    157976, -- Seafairer Grips
     157977, -- Seafarer Headcover
     157978, -- Seafarer Breeches
     157979, -- Seafarer Shoulderpads
@@ -154,6 +156,8 @@ AddonTable.loot = {
     158034, -- Squallshaper Leggings
     158035, -- Squallshaper Mantle
     158037, -- Squallshaper Cuffs
+    158039, -- Fairweather Boots
+    158041, -- Fairweather Helm
     158059, -- Shoalbreach Legguards
     158060, -- Shoalbreach Pauldrons
     158075, -- Heart of Azeroth
