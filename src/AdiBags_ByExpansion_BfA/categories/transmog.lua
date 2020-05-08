@@ -142,6 +142,7 @@ AddonTable.transmog = {
     159821, -- Rivermarsh Juju
     159822, -- Warport Hex Focus
     159823, -- Golden Fleet Mojo Charm
+    159824, -- Zocali Voodoo Idol
 
     160120, -- Direbone Frill Gauntlets
     160121, -- Direbone Frill Greatbelt

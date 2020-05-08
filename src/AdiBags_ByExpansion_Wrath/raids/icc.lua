@@ -8,7 +8,6 @@ local AddonName, AddonTable = ...
 AddonTable.icc = {
     -- Shared Boss Loot
     49908, -- Primordial Saronite
-
     50274, -- Shadowfrost Shard
 
     52025, -- Vanquisher's Mark of Sanctification

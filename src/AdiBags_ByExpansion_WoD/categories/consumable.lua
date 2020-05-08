@@ -18,6 +18,7 @@ AddonTable.consumable = {
 }
 
 AddonTable.foodDrink = {
+    112449, -- Iron Horde Rations
 }
 
 AddonTable.alcohol = {

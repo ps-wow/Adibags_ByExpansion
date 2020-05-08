@@ -16,6 +16,7 @@ AddonTable.consumable = {
     127867,
 }
 AddonTable.foodDrink = {
+    112449,
 }
 AddonTable.alcohol = {
     116917,

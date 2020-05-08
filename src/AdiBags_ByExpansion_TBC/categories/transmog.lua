@@ -13,6 +13,7 @@ AddonTable.transmog = {
     24683, -- Archmage Mantle
     24684, -- Archmage Bracelets
     24686, -- Elementalist Boots
+    24688, -- Elementalist Gloves
     24689, -- Elementalist Skullcap
     24690, -- Elementalist Leggings
     24692, -- Elementalist Bracelets
@@ -38,6 +39,7 @@ AddonTable.transmog = {
     25016, -- Shattered Hand Breastplate
     25018, -- Shattered Hand Helmet
     25020, -- Shattered Hand Epaulets
+    25024, -- Warlord's Iron-Breastplate
     25028, -- Warlord's Iron-Epaulets
     25042, -- Nether Cloak [Back]
     25043, -- Amber Cape
