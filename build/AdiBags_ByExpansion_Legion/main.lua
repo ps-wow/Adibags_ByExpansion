@@ -25,10 +25,11 @@ local module = {
         ["wardens"] = "Vault of the Wardens"
     },
     ["raids"] = {
+        ["antorus"] = "Antorus",
         ["emeraldnightmare"] = "Emerald Nightmare",
-        ["tov"] = "Trial of Valor",
+        ["nighthold"] = "The Nighthold",
         ["tomb"] = "Tomb of Sargeras",
-        ["antorus"] = "Antorus"
+        ["tov"] = "Trial of Valor"
     }
 }
 
