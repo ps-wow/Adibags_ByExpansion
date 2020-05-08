@@ -34,6 +34,7 @@ AddonTable.consumable = {
     169451, -- Abyssal Healing Potion [8.2]
 
     -- Misc
+    160053, -- Battle-Scarred Augment Rune
     163691, -- Burning Essence
 }
 

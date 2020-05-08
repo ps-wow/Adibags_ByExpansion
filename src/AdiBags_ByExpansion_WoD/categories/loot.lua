@@ -118,6 +118,9 @@ AddonTable.loot = {
     124558, -- Baleful Ring
     124603, -- Sharemire Seal (Baleful Ring)
 
+    127314, -- Rogond's Tracking Shoulderguards
+    127319, -- Krag'goth's Iron Gauntlets
+
     128222, -- Smokeglass Lens Spyglass
 
     -- Baleful Tokens

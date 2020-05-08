@@ -285,6 +285,7 @@ AddonTable.loot = {
     160456, -- Blanched Ravenfeather Gloves
     160459, -- Apiarist's Stingproof Belt
     160461, -- Thick Sauroskin Pants
+    160465, -- Raging-Earth Wranglers
     160474, -- Vicemaul Wristpinchers
     160477, -- Skoloth's Anchorplate Greaves
     160529, -- Dune Shroud
@@ -332,6 +333,7 @@ AddonTable.loot = {
     162946, -- Dread Aspirant's Chain Helm
     162959, -- Dread Aspirant's Silk Cuffs
 
+    163001, -- Ambuscade Sword
     163282, -- Honorbound Vanguard's Chainmail
     163285, -- Honorbound Artificer's Sandles
     163296, -- Honorbound Artificer's Legwraps

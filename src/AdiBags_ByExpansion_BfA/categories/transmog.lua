@@ -19,6 +19,7 @@ AddonTable.transmog = {
     154842, -- Corlain Girdle
     154847, -- Corlain Vambraces
     154850, -- Crimsonwood Boots
+    154859, -- Barrowknoll Bracers
     154863, -- Barrowknoll Legguards
     154864, -- Barrowknoll Pauldrons
     154844, -- Corlain Greaves
@@ -142,6 +143,7 @@ AddonTable.transmog = {
     159822, -- Warport Hex Focus
     159823, -- Golden Fleet Mojo Charm
 
+    160120, -- Direbone Frill Gauntlets
     160121, -- Direbone Frill Greatbelt
     160122, -- Direbone Frill Helmet
     160123, -- Direbone Frill Legplates

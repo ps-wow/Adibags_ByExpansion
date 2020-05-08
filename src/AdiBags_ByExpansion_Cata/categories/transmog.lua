@@ -61,6 +61,7 @@ AddonTable.transmog = {
     55592, -- Highperch Gauntlets
     55594, -- Talondeep Gauntlets
 
+    55601, -- Highperch Helm
     55602, -- Thornsnarl Helm
     55603, -- Talondeep Helm
     55611, -- Thornsnarl Legguards

@@ -49,14 +49,15 @@ AddonTable.transmog = {
     116612, -- Gorian Bow
     116616, -- Gorian Knuckles
     116618, -- Gorian Mace
-    116626, -- Ancestral Wand [Wand]
+    116626, -- Ancestral Wand
     116627, -- Howling Axe
+    116629, -- Howling Bow
     116631, -- Howling Dagger
     116633, -- Howling Knuckles
     116635, -- Howling Mace
     116638, -- Howling Spear
     116641, -- Howling Sword
-    116721, -- Ancestral Branch [OffHand]
+    116721, -- Ancestral Branch
 
     118803, -- Kihrawr's Scratching Post
 
