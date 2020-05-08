@@ -26,7 +26,6 @@ AddonTable.loot = {
     42767, -- Invigorating Sabatons
 
     44361, -- Greaves of the Traitor
-    44404, -- Bauble-Woven Gloves
 
     44683, -- King's Eyesocket [BoE Ring]
 
@@ -42,6 +41,7 @@ AddonTable.loot = {
     112367, -- Snow-Coated Cloth Belt
     113684, -- Icecrust Cloak
     113685, -- Coldblood Longcloak
+    113687, -- Dark Rune Lavalliere
     113688, -- Obsidian Citadel Necklace
     113692, -- Ice-Encrusted Gauntlets
     113758, -- Snow-Coated Cloth Gloves

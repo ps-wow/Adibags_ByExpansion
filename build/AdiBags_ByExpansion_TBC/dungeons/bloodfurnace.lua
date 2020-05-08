@@ -46,4 +46,9 @@ AddonTable.bloodfurnace = {
     25713,
     25714,
     25712,
+    --- Mind the Gap [H] (29537) / The Breaker [A] (29540)
+    25701,
+    25702,
+    25710,
+    25711,
 }

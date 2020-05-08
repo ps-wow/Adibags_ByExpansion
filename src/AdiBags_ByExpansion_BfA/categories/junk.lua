@@ -96,6 +96,7 @@ AddonTable.junk = {
     158789, -- Webbed Frill
     158790, -- Charnel Ash
     158792, -- Digestive Acid
+    158794, -- Ivory Tusk
     158796, -- Venomous Tentacle
     158797, -- Jar of Truffles
     158801, -- Finely Serrated Tooth
@@ -181,6 +182,8 @@ AddonTable.junk = {
     161437, -- Shipping Contract
 
     162571, -- Soggy Treasure Map (Common) (Readable)
+    162581, -- Yellowed Treasure Map (Common) (Readable)
+    162584, -- Singed Treasure Map (Common) (Readable)
     162630, -- Sandy Ornate Relic
     162632, -- Lavish Sethrallis Figurine
     162633, -- Petrified Jungle Orchid

@@ -55,4 +55,9 @@ AddonTable.pinnacle = {
     44410, -- helmet-of-just-retribution
     44412, -- faceguard-of-punishment
     44411, -- platehelm-of-irate-revenge
+    --- Junk in My Trunk (13131)
+    44404, -- Bauble-Woven Gown
+    44405, -- Exotic Leather Tunic
+    44406, -- Gilded Ringmail Hauberk
+    44407, -- Silver-Plated Battlechest
 }

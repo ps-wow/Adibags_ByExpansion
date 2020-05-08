@@ -23,6 +23,7 @@ AddonTable.transmog = {
     55414, -- Irontree Spear
     55430, -- Ravencrest Shield
     55431, -- Stonewrought Shield
+    55432, -- Crystalvein Shield
     55439, -- Mereldar Spellblade
     55440, -- Thondroril Spellblade
     55449, -- Bladefist Staff

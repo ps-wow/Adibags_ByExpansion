@@ -57,6 +57,9 @@ AddonTable.ramparts = {
     27460, -- Reavers' Ring
     24154, -- Witching Band
     -- Quest Rewards
+    --- War on the Ramparts (29527 [H] / 29528 [A])
     25715, -- Jade Warrior Pauldrons
+    25716, -- Handguards of Precision
+    25717, -- Sure-Step Boots
     25718, -- Mantle of Magical Might
 }

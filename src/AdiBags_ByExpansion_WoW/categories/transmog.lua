@@ -45,6 +45,8 @@ AddonTable.transmog = {
 
     8111,  -- Hibernal Mantle
     8199,  -- Battlefield Destroyer
+    8249,  -- Imperial Red Gloves
+    8250,  -- Imperial Red Mantle
     8287,  -- Arcane Gloves
     8309,  -- Hero's Leggings
     8310,  -- Hero's Pauldrons
@@ -143,6 +145,7 @@ AddonTable.transmog = {
     16804, -- Felheart Bracers
     16806, -- Felheart Belt
     16819, -- Vambraces of Prophecy
+    16827, -- Nightslayer Belt
     16828, -- Cenarion Belt
     16840, -- Earthfury Bracers
     16851, -- Giantstalker's Belt

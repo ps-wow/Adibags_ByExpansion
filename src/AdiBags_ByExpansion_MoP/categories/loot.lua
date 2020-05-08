@@ -14,6 +14,7 @@ AddonTable.loot = {
     86199, -- Jade Infused Blade [BoA]
     86218, -- Staff of the Hidden Master [BoA]
     86519, -- Wind-Reaver's Dagger of Quick Strikes [BoA]
+    86520, -- Malik's Stalwart Spear [BoA]
     86521, -- Lucid Amulet of the Agile Mind [BoA]
     86522, -- Blade of the Prime [BoA]
     86523, -- Swarming Cleaver of Ka'roz [BoA]

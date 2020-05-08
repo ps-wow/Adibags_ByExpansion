@@ -46,6 +46,7 @@ AddonTable.junk = {
     25409, -- Resilient Tail Hair
     25411, -- Worn Hoof
     25418, -- Razor Sharp Fang
+    25426, -- Brilliant Feather
     25429, -- Grime-Encrusted Scale
     25445, -- Wretched Ichor
     25451, -- Swamp Moss
@@ -53,6 +54,7 @@ AddonTable.junk = {
 
     25813, -- Small Mushroom
 
+    30812, -- Iridescent Scale
     31501, -- Tome of Conjure Food
     31944, -- Demonic Capacitor
 

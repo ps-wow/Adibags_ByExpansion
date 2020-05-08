@@ -7,6 +7,7 @@ AddonTable.consumable = {
 
     -- Scrolls
     37093, -- Scroll of Stamina VII
+    37097, -- Scroll of Versatility VII
     43465, -- Scroll of Strength VII
 }
 

@@ -2,6 +2,7 @@ local AddonName, AddonTable = ...
 
 AddonTable.consumable = {
     -- Potions
+    118,   -- Minor Healing Potion
     858,   -- Lesser Healing Potion
     929,   -- Healing Potion
     1710,  -- Greater Healing Potion

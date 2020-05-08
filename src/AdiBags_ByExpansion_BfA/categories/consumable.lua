@@ -32,6 +32,9 @@ AddonTable.consumable = {
     168502, -- Potion of Reconstitution [8.2]
 
     169451, -- Abyssal Healing Potion [8.2]
+
+    -- Misc
+    163691, -- Burning Essence
 }
 
 AddonTable.foodDrink = {

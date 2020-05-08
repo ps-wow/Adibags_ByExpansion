@@ -10,8 +10,6 @@ AddonTable.loot = {
     25059, -- Fire Opal Collar
     25069, -- Epidote Stone Necklace
 
-    25711, -- Deadly Borer Leggings
-
     28052, -- Goldweave Tunic
 
     29910, -- The Staff of Twin Worlds
@@ -27,4 +25,8 @@ AddonTable.loot = {
 
     51965, -- Enumerated Shoulders
     51995, -- Turbulent Necklace
+
+    -- Tier Sets
+    --- Druid
+    30230, -- Nordrassil Feral-Mantle
 }

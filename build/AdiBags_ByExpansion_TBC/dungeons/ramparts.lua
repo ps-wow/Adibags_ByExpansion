@@ -56,6 +56,9 @@ AddonTable.ramparts = {
     27460,
     24154,
     -- Quest Rewards
+    --- War on the Ramparts (29527 [H] / 29528 [A])
     25715,
+    25716,
+    25717,
     25718,
 }

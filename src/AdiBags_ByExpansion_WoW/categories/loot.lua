@@ -34,6 +34,7 @@ AddonTable.loot = {
     51981, -- Earthbound Wristguard
     51982, -- Earthbound Boots
     51984, -- Stalwart Shoulderpads
+    51989, -- Stalwart Bands
     51990, -- Stalwart Treads
     51992, -- Tumultuous Ring
     51994, -- Tumultuous Cloak

@@ -1,10 +1,12 @@
 local AddonName, AddonTable = ...
 
+-- ID's: 33363 - 52019
 AddonTable.junk = {
     33363, -- Thread-Bare Cloth Shoulderpads
     33365, -- Frost-Rimed Cloth Belt
     33366, -- Frost-Rimed Cloth Boots
     33367, -- Frost-Rimed Cloth Bracers
+    33368, -- Frost-Rimed Cloth Gloves
     33369, -- Frost-Rimed Cloth Pants
     33370, -- Frost-Rimed Cloth Shoulderpads
     33371, -- Frost-Rimed Cloth Vest
@@ -71,12 +73,15 @@ AddonTable.junk = {
     39512, -- Hoary Crystals
     39516, -- Frosty Mushroom
     39524, -- Sericeous Down
+    39551, -- Stewing Ichor
+    39552, -- Dissolved Skull
     39567, -- Rubicund Scale
     39568, -- Hollow Fang
 
     43851, -- Fur Clothing Scraps
     43852, -- Thick Fur Clothing Scraps
 
+    44758, -- Icy Spinneret
     44770, -- Rent Carapace
     44771, -- Spiked Leg
     44772, -- Stinking Fur

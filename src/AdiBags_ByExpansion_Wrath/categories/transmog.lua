@@ -12,6 +12,7 @@ AddonTable.transmog = {
     36057, -- Vizier Mantle
     36076, -- Winterfin Boots
     36121, -- Taunka Spaulders
+    36133, -- Wolverine Jerkin
     36150, -- Pygmy Gloves
     36153, -- Pygmy Shoulders
     36160, -- Wendigo Legguards
@@ -42,5 +43,6 @@ AddonTable.transmog = {
     36601, -- Patient Harpoon
     36679, -- Singing Dagger
     36684, -- Ambrosial Hammer
+    36692, -- Remedial Mace
     36707, -- Cascading Water Staff
 }

@@ -1,6 +1,7 @@
 local AddonName, AddonTable = ...
 -- The Eye (25 Normal)
 AddonTable.eye = {
+    30020,
     -- Al'ar
     97557,
     29948,

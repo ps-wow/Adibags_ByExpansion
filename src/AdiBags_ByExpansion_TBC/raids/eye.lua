@@ -2,6 +2,8 @@ local AddonName, AddonTable = ...
 
 -- The Eye (25 Normal)
 AddonTable.eye = {
+    30020, -- Fire-Cord of the Magus
+
     -- Al'ar
     97557, -- Brilliant Phoenix Hawk Feather (Phoenix Hawk) [Battle Pet]
     29948, -- Claw of the Phoenix

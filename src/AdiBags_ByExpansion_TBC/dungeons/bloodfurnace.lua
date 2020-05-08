@@ -47,4 +47,9 @@ AddonTable.bloodfurnace = {
     25713, -- Holy Healing Band
     25714, -- Crimson Pendant of Clarity
     25712, -- Perfectly Balanced Cape
+    --- Mind the Gap [H] (29537) / The Breaker [A] (29540)
+    25701, -- Breastplate of Retribution
+    25702, -- Scaled Legs of Ruination
+    25710, -- Moonkin Headdress
+    25711, -- Deadly Borer Leggings
 }
