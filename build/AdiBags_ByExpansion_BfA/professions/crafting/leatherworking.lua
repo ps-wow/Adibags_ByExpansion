@@ -4,6 +4,7 @@ AddonTable.leatherworking = {
     161939,
     161940,
     161945,
+    161960,
     161970,
     -- Materials
     160059,

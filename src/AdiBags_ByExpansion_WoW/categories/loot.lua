@@ -106,7 +106,11 @@ AddonTable.loot = {
     157736, -- Felburner's Cord (Starter Gear)
     157737, -- Felburner's Wristwraps (Starter Gear)
     157738, -- Warsinger's Breastplate (Starter Gear)
+    157739, -- Warsinger's Sabatons (Starter Gear)
+    157740, -- Warsinger's Gauntlets (Starter Gear)
     157742, -- Warsinger's Legplates (Starter Gear)
+    157744, -- Warsinger's Girdle (Starter Gear)
+    157745, -- Warsinger's Vambraces (Starter Gear)
 
     160601, -- Tumultuous Ring
     160602, -- Tumultuous Ring

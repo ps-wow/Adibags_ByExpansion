@@ -1,6 +1,7 @@
 local AddonName, AddonTable = ...
 
 AddonTable.fishing = {
+    109137, -- Crescent Saberfish Flesh
     111589, -- Small Crescent Saberfish
     111650, -- Small Jawless Skulker
     111658, -- Small Sea Scorpion

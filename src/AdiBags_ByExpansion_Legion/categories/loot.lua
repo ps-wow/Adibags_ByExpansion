@@ -126,6 +126,7 @@ AddonTable.loot = {
     152756, -- Arinor Keeper's Belt (Bound)
     152757, -- Arinor Keeper's Treads (Bound)
     152766, -- Oronaar Disciple's Boots
+    152770, -- Azurelight Sage's Cap (Bound)
     152774, -- Azurelight Sage's Slippers (Bound)
     152775, -- Azurelight Safe's Roves (Chest)
     152777, -- Azurelight Sage's Mantle (Shoulder)

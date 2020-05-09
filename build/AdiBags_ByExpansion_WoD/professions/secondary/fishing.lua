@@ -1,5 +1,6 @@
 local AddonName, AddonTable = ...
 AddonTable.fishing = {
+    109137,
     111589,
     111650,
     111658,

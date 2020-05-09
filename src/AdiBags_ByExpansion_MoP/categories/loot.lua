@@ -32,6 +32,8 @@ AddonTable.loot = {
 
     90350, -- Satin Robe of Eminent Domain
 
+    101810, -- Amaranthine Wristwraps (Timeless Cloth Bracers)
+
     -- Tranquil Satchel of Helpful Goods (Random MoP Dungeon Bonus Loot)
     113729, -- Kyparite Headguard
     113735, -- Drifting Cloud Necklace
