@@ -395,6 +395,7 @@ AddonTable.loot = {
     170140, -- Akana's Reefstrider Soles (Benethic)
     170516, -- Honorbound Artificer's Robes
     170517, -- Honorbound Vanguard's Chainmail
+    170520, -- 7th Legionnaire's Hood
     170521, -- 7th Legionnaire's Leather Mantle
     170522, -- 7th Legionnaire's Visage
     170526, -- 7th Legionnaire's Shoulderplates

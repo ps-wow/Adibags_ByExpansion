@@ -6,4 +6,6 @@ AddonTable.leatherworking = {
     8150,  -- Deeprock Salt
     15407, -- Cured Rugged Hide
     12607, -- Brilliant Chromatic Scale
+    -- Recipe's
+    15746, -- Pattern: Chimeric Leggings
 }

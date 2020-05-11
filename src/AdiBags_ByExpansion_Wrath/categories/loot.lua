@@ -7,11 +7,12 @@ AddonTable.loot = {
     34658, -- Plague Band
     34659, -- Acherus Knight's Shroud
 
-    35683, -- Palladium Ring [BoE Ring]
+    35683, -- Palladium Ring
     36173, -- Geist Tunic
     36385, -- Golem Pauldrons
     36428, -- Bouquet Ring
     36429, -- Spur Ring
+    36444, -- Ice Encrusted Amulet
     36458, -- Frozen Shield
 
     37505, -- Battle Leader's Breastplate
@@ -27,7 +28,7 @@ AddonTable.loot = {
 
     44361, -- Greaves of the Traitor
 
-    44683, -- King's Eyesocket [BoE Ring]
+    44683, -- King's Eyesocket
 
     50447, -- Harbinger's Bone Band
 

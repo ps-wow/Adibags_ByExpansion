@@ -5,4 +5,6 @@ AddonTable.leatherworking = {
     8150,
     15407,
     12607,
+    -- Recipe's
+    15746,
 }

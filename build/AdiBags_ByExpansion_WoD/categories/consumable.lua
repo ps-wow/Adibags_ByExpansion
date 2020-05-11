@@ -10,6 +10,7 @@ AddonTable.consumable = {
     109223,
     113585,
     -- Misc
+    109599,
     113545,
     115463,
     118267,
@@ -19,6 +20,7 @@ AddonTable.foodDrink = {
     112449,
 }
 AddonTable.alcohol = {
+    114016,
     116917,
     117437,
 }

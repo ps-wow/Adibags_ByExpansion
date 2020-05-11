@@ -1,7 +1,6 @@
 local AddonName, AddonTable = ...
 
 AddonTable.transmog = {
-    -- Uncommon (Green)
     866,   -- Monk's Staff
     937,   -- Black Duskwood Staff
 
@@ -27,6 +26,7 @@ AddonTable.transmog = {
     4733,  -- Blackforge Pauldrons
 
     5207,  -- Opaque Wand
+    5267,  -- Scarlet Kris
 
     6386,  -- Glimmering Mail Legguards
     6542,  -- Willow Cape
@@ -35,7 +35,7 @@ AddonTable.transmog = {
     6570,  -- Shimmering Sash
     6584,  -- Scouting Tunic
     6586,  -- Scouting Gloves
-    6595,  -- Battleforge Gauntlets [Mail][Hands]
+    6595,  -- Battleforge Gauntlets
     6622,  -- Sword of Zeal
 
     7432,  -- Twilight Cowl
@@ -48,6 +48,7 @@ AddonTable.transmog = {
     8249,  -- Imperial Red Gloves
     8250,  -- Imperial Red Mantle
     8287,  -- Arcane Gloves
+    8296,  -- Traveler's Jerkin
     8309,  -- Hero's Leggings
     8310,  -- Hero's Pauldrons
 
@@ -65,35 +66,45 @@ AddonTable.transmog = {
     9953,  -- Chieftain's Headdress
     9964,  -- Warmonger's Leggings
 
-    10069, -- Righteous Bracers [Leather][Wrist]
+    10069, -- Righteous Bracers
     10083, -- Lord's Crown
+    10104, -- Councillor's Tunic
     10105, -- Wanderer's Armor
     10135, -- High Councillor's Tunic
-    10140, -- High Councillor's Gloves [Cloth][Hands]
+    10137, -- High Councillor's Boots
+    10140, -- High Councillor's Gloves
     10142, -- High Councillor's Mantle
+    10153, -- Mighty Spaulders
     10156, -- Mercurial Bracers
+    10158, -- Mercurial Guard
     10161, -- Mercurial Gauntlets
     10185, -- Swashbuckler's Cape
-    10217, -- Elegant Leggings [Cloth][Legs]
+    10210, -- Elegant Mantle
+    10217, -- Elegant Leggings
     10226, -- Nightshade Helmet
-    10246, -- Master's Vest [Cloth][Chest]
+    10228, -- Nightshade Spaulders
+    10235, -- Engraved Helm
+    10246, -- Master's Vest
     10247, -- Master's Boots
     10249, -- Master's Cloak
-    10250, -- Master's Hat [Cloth][Head]
+    10250, -- Master's Hat
     10252, -- Master's Leggings
     10255, -- Master's Belt
     10257, -- Adventurer's Boots
     10259, -- Adventurer's Belt
     10261, -- Adventurer's Bandana
     10262, -- Adventurer's Legguards
+    10263, -- Adventurer's Shoulders
     10264, -- Adventurer's Tunic
     10267, -- Masterwork Cape
-    10275, -- Emerald Breastplate [Plate][Chest]
+    10269, -- Masterwork Girdle
+    10275, -- Emerald Breastplate
     10367, -- Hyperion Shield
     10372, -- Imbued Plate Helmet
     10379, -- Commander's Helm
-    10384, -- Hyperion Armor [Plate][Chest]
+    10384, -- Hyperion Armor
     10389, -- Hyperion Legplates
+    10390, -- Hyperion Pauldrons
 
     13013, -- Elder Wizard's Mantle
     13036, -- Assassination Blade
@@ -104,14 +115,16 @@ AddonTable.transmog = {
     13107, -- Magiskull Cuffs
     13111, -- Sandals of the Insurgent
     13113, -- Feathermoon Headdress (Nefarian)
-    13123, -- Dreamwalker Armor [Mail][Chest] (Nefarian)
+    13123, -- Dreamwalker Armor (Nefarian)
+    13130, -- Windrunner Legguards
     13144, -- Serenity Belt
+    13146, -- Shell Launcher Shotgun
 
     14124, -- Ritual Gloves
     14200, -- Thistlefur Cap
     14228, -- Embersilk Coronet
     14431, -- Windchaser Handguards
-    14559, -- Prospector's Sash [Leather][Waist]
+    14559, -- Prospector's Sash
     14562, -- Prospector's Chestpiece
     14658, -- Scorpashi Skullcap
     14788, -- Protector Armguards
@@ -144,6 +157,7 @@ AddonTable.transmog = {
     16802, -- Arcanist Belt
     16804, -- Felheart Bracers
     16806, -- Felheart Belt
+    16817, -- Girdle of Prophecy
     16819, -- Vambraces of Prophecy
     16827, -- Nightslayer Belt
     16828, -- Cenarion Belt

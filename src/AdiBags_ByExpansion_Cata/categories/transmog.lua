@@ -81,6 +81,7 @@ AddonTable.transmog = {
     55674, -- Haldarr Hood
     55675, -- Ravenholdt Hood
     55684, -- Ravenholdt Britches
+    55692, -- Haldarr Shoulders
 
     55700, -- Dandred Waistband
     55701, -- Haldarr Waistband

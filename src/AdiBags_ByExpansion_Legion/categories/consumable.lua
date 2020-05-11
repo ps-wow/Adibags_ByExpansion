@@ -22,6 +22,7 @@ AddonTable.consumable = {
     -- Augments
     140587, -- Defiled Augment Rune
     -- Misc
+    143785, -- Tome of the Tranquil Mind
     -- DH Starting
     129196, -- Legion Healthstone
     129192, -- Inquisitor's Menacing Eye

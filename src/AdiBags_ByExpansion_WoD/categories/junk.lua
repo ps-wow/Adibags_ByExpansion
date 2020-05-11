@@ -70,6 +70,7 @@ AddonTable.junk = {
     114002, -- Encoded Message
     114003, -- Tazik Hand Attachment
     114004, -- Medal of Patience
+    114010, -- Damaged Driver
     114012, -- Underground Map
     114198, -- Burial Urn (Archaeology: Arakkoa)
     114202, -- Talonpriest Mask (Archaeology: Arakkoa)

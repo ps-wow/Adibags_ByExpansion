@@ -125,6 +125,7 @@ AddonTable.junk = {
     12735, -- Frayed Abomination Stitching
     13816, -- Fine Longsword
     13817, -- Tapered Greatsword
+    13819, -- Balanced War Axe
     13820, -- Clout Mace
     13821, -- Bulky Maul
     13822, -- Spiked Dagger

@@ -15,6 +15,7 @@ AddonTable.junk = {
     33379, -- Frozen Armor
     33380, -- Frozen Belt
     33381, -- Frozen Boots
+    33383, -- Frozen Gloves
     33385, -- Frozen Shoulderpads
     33391, -- Icy Mail Belt
     33393, -- Icy Mail Bracers
@@ -29,6 +30,7 @@ AddonTable.junk = {
     33406, -- Ice-Bound Plate Bracers
     33412, -- Frost-Worn Plate Belt
     33413, -- Frost-Worn Plate Boots
+    33414, -- Frost-Worn Plate Bracers
     33415, -- Frost-Worn Plate Chestpiece
     33416, -- Frost-Worn Plate Gloves
     33417, -- Frost-Worn Plate Pants
@@ -82,6 +84,7 @@ AddonTable.junk = {
     43852, -- Thick Fur Clothing Scraps
 
     44758, -- Icy Spinneret
+    44759, -- Acid-Drenched Fangs
     44770, -- Rent Carapace
     44771, -- Spiked Leg
     44772, -- Stinking Fur

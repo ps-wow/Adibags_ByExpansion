@@ -11,6 +11,7 @@ AddonTable.consumable = {
     109223, -- Healing Tonic
     113585, -- Iron Horde Rejuvenation Potion
     -- Misc
+    109599, -- Neural Silencer
     113545, -- Carved Drinking Horn
     115463, -- Elixir of Shadow Sight
     118267, -- Ravenmother Offering (XP/Rested)
@@ -22,6 +23,7 @@ AddonTable.foodDrink = {
 }
 
 AddonTable.alcohol = {
+    114016, -- Lavastone Jack
     116917, -- Sailor Zazzuk's 180-Proof Rum
     117437, -- Skyreach Sunrise
 }

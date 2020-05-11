@@ -5,6 +5,7 @@ AddonTable.consumable = {
     33448,
     -- Scrolls
     37093,
+    37094,
     37097,
     43465,
 }

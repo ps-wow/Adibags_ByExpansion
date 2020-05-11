@@ -9,15 +9,15 @@ AddonTable.loot = {
     9743, -- Simple Shoes
     9797, -- Ivycloth Pants
 
-    11302, -- Uther's Strenth (BoE Trinket)
+    11302, -- Uther's Strenth
 
-    12048, -- Prismatic Pendant (BoE Neck)
+    11994, -- Coral Band
+    11999, -- Lodestone Hoop
 
-    11994, -- Coral Band (BoE Ring)
-    11999, -- Lodestone Hoop (BoE Ring)
-
-    12055, -- Stardust Band (BoE Ring)
-    12020, -- Thallium Choker (BoE Neck)
+    12020, -- Thallium Choker
+    12036, -- Granite Necklace
+    12048, -- Prismatic Pendant
+    12055, -- Stardust Band
 
     14168, -- Buccaneer's Gloves
 

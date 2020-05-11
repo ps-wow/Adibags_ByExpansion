@@ -122,7 +122,9 @@ AddonTable.loot = {
 
     127314, -- Rogond's Tracking Shoulderguards
     127319, -- Krag'goth's Iron Gauntlets
+    127328, -- Feltwisted Sacrificial Blade
 
+    128218, -- Fel-Proof Goggles
     128222, -- Smokeglass Lens Spyglass
 
     -- Baleful Tokens
