@@ -77,6 +77,7 @@ AddonTable.loot = {
     116806, -- Soul Fang
     116807, -- Flinthide's Impenetrable Crest
     116814, -- Tura'aka's Clipped Wing
+    116824, -- Rabid Talbuk Horn
     116832, -- Blademasters Honor
     116835, -- Assassin's Spear
     116875, -- Rusty Iron Band
@@ -99,6 +100,7 @@ AddonTable.loot = {
     118240, -- Anzu's Scything Talon
     118241, -- Anzu's Piercing Talon
     118242, -- Anzu's Scorn
+    118243, -- Redclaw's Gutripper
     118253, -- Trophy Band of Telaar
     118254, -- Trophy Signet of the Sabermaw
     118255, -- Trophy Ring of Gordal

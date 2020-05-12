@@ -1,6 +1,7 @@
 local AddonName, AddonTable = ...
 
 AddonTable.naxx = {
+    40408, -- Haunting Call
     -- Shared/Multiple
     122197, -- Music Roll: Wrath of the Lich King
     40299, -- pauldrons-of-the-abandoned

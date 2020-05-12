@@ -39,9 +39,12 @@ AddonTable.transmog = {
     36262, -- Cormorant Gloves
     36264, -- Cormorant Leggings
     36268, -- Ulduar Greaves
+    36269, -- Ulduar Breastplate
     36270, -- Ulduar Gauntlets
+    36276, -- Spiderlord Boots
     36281, -- Spiderlord Spaulders
     36286, -- Spectral Gauntlets
+    36289, -- Spectral Mantle
     36371, -- Kraken Girdle
     36372, -- Kraken Greaves
     36373, -- Kraken Breastplate
@@ -53,6 +56,8 @@ AddonTable.transmog = {
     36391, -- Revenant Helmet
     36392, -- Revenant Legguards
     36393, -- Revenant Epaulets
+    36397, -- Necropolis Breastplate
+    36398, -- Necropolis Gloves
     36404, -- Suede Cloak
     36414, -- Mammoth Fur Cloak
     36441, -- Pearl Woven Choker
@@ -71,6 +76,7 @@ AddonTable.transmog = {
     36594, -- Fracturing Battleaxe
     36601, -- Patient Harpoon
     36651, -- Muzzled Musket
+    36666, -- Polar Wand
     36667, -- Solid Ice Wand
     36679, -- Singing Dagger
     36680, -- Mystic Fang

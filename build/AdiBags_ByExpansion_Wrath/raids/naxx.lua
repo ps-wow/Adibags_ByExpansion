@@ -1,5 +1,6 @@
 local AddonName, AddonTable = ...
 AddonTable.naxx = {
+    40408,
     -- Shared/Multiple
     122197,
     40299,

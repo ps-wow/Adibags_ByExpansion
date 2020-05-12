@@ -307,6 +307,7 @@ AddonTable.loot = {
     161046, -- Scrollbound Arachnid Gloves
     161091, -- Swift-Talon Striders
     161113, -- Incessantly Ticking Clock
+    161117, -- Berserker's Juju
     161125, -- Kaja-fied Banana
     161158, -- Exiled Veteran's Spaulders
     161178, -- Lastwind Handlers

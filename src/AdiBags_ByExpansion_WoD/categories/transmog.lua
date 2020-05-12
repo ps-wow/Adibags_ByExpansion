@@ -15,6 +15,7 @@ AddonTable.transmog = {
     106520, -- Highland Spaulders
     106671, -- Windswept Cord
     106679, -- Snarlthorn Belt
+    106691, -- Ironfist Legplates
     106699, -- Sabermaw Gloves
     106702, -- Sabermaw Shoulders
     106705, -- Voidwrap Cowl

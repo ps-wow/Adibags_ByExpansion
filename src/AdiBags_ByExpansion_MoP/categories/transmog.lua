@@ -13,6 +13,7 @@ AddonTable.transmog = {
     82237, -- Highpeak Pauldrons
     82241, -- Yak Belt
     82243, -- Yak Gauntlets
+    82248, -- Yak Vest
     82249, -- Waterfall Cord
     82250, -- Waterfall Cowl
     82251, -- Waterfall Handwraps
@@ -23,6 +24,10 @@ AddonTable.transmog = {
     82256, -- Waterfall Wristwraps
     82257, -- Vine Bindings
     82262, -- Vine Jerkin
+    82263, -- Vine Shoulders
+    82270, -- Engraved Greatsword
+    82274, -- Engraved Knuckles
+    82287, -- Temple Breastplate
     82289, -- Temple Girdle
     82293, -- Temple Sabatons
     82295, -- Temple Vambraces

@@ -20,6 +20,7 @@ AddonTable.junk = {
     106319, -- Knog's Bow of Surrender
     106320, -- Narrcho's Rifle of Unreadiness
     106324, -- Robbles Staff of Herding
+    106325, -- Grime-Fouled Mail Belt
     106327, -- Gronncloth Belt
     106336, -- Punctured Plate Pauldrons
     106350, -- Punctured Plate Chestpiece

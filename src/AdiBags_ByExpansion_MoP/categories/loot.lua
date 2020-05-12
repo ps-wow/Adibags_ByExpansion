@@ -31,6 +31,7 @@ AddonTable.loot = {
     87636, -- Cloak of the Forgotten Emporer
 
     90350, -- Satin Robe of Eminent Domain
+    90380, -- Skyfire Medic's Staff
 
     101810, -- Amaranthine Wristwraps (Timeless Cloth Bracers)
 

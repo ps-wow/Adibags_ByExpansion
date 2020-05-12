@@ -274,8 +274,9 @@ AddonTable.firelands = {
     71550,  -- Erupting Volcanic Legguards
     71551,  -- Erupting Volcanic Spaulders
     -- Set Piece (Warlock)
+    71282,  -- Balespider's Hood
     71594,  -- Balespider's Handwraps
-    71595,  -- Balespider's Hood
+    71595,  -- Balespider's Hood (Heroic)
     71597,  -- Balespider's Robes
     71598,  -- Balespider's Mantle
     -- Set Piece (Warrior)

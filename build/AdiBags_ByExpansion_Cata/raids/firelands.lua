@@ -273,6 +273,7 @@ AddonTable.firelands = {
     71550,
     71551,
     -- Set Piece (Warlock)
+    71282,
     71594,
     71595,
     71597,

@@ -40,6 +40,7 @@ AddonTable.transmog = {
     55495, -- Crystalvein Vambraces
 
     55503, -- Stonewrought Breastplate
+    55504, -- Crystalvein Breastplate
     55512, -- Stonewrought Sabatons
     55513, -- Crystalvein Sabatons
     55520, -- Ravencrest Gauntlets

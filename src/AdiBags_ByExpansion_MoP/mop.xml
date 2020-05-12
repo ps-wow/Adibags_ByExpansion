@@ -35,7 +35,10 @@
     <Script file="dungeons\sm.lua"/>
     <Script file="dungeons\stormstout.lua"/>
 
+    <Script file="raids\hof.lua"/>
+    <Script file="raids\mv.lua"/>
     <Script file="raids\soo.lua"/>
+    <Script file="raids\toes.lua"/>
     <Script file="raids\tot.lua"/>
 
     <Script file="main.lua"/>
