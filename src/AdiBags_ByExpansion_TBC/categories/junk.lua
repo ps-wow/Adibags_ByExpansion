@@ -15,12 +15,14 @@ AddonTable.junk = {
     25354, -- Moldy Leather Helmet
     25357, -- Decaying Leather Armor
     25358, -- Decaying Leather Belt
+    25359, -- Decaying Leather Boots
     25361, -- Decaying Leather Gloves
     25363, -- Decaying Leather Pants
     25364, -- Decaying Leather Shoulderpads
     25366, -- Eroded Mail Belt
     25369, -- Eroded Mail Circlet
     25371, -- Eroded Mail Pants
+    25374, -- Corroded Mail Belt
     25375, -- Corroded Mail Boots
     25376, -- Corroded Mail Bracers
     25378, -- Corroded Mail Gloves
@@ -34,12 +36,14 @@ AddonTable.junk = {
     25390, -- Deteriorating Plate Boots
     25391, -- Deteriorating Plate Bracers
     25392, -- Deteriorating Plate Chestpiece
+    25394, -- Deteriorating Plate Helmet
     25398, -- Stone Reaper
     25399, -- Deteriorating Blade
 
     25400, -- Tarnished Claymore
     25401, -- Corroded Mace
     25402, -- The Stoppable Force
+    25403, -- Sharpened Stilleto
     25404, -- Dense War Staff
     25405, -- Rusted Musket
     25406, -- Broken Longbow
@@ -47,6 +51,7 @@ AddonTable.junk = {
     25411, -- Worn Hoof
     25418, -- Razor Sharp Fang
     25426, -- Brilliant Feather
+    25428, -- Savage Talon
     25429, -- Grime-Encrusted Scale
     25445, -- Wretched Ichor
     25451, -- Swamp Moss

@@ -78,6 +78,8 @@ AddonTable.junk = {
     114203, -- Outcast Dreamcatcher (Archaeology: Arakkoa)
     114205, -- Apexis Heiroglyph (Archaeology: Arakkoa)
 
+    115012, -- Shattered Stone
+
     116128, -- Tiny Naaru Statue
     116919, -- Fractured Sunstone
     116921, -- Dwarf Beard Rings

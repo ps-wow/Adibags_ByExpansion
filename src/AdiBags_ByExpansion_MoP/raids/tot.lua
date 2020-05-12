@@ -2,37 +2,77 @@ local AddonName, AddonTable = ...
 
 -- Throne of Thunder
 AddonTable.tot = {
-    94125, -- Living Sandling [Battle Pet]
     87208, -- sigil-of-power
     87209, -- sigil-of-wisdom
+    94125, -- Living Sandling [Battle Pet]
+    94574, -- pygmy-direhorn
     94593, -- secrets-of-the-empire
+    94594, -- titan-runestone
+    95060, -- abandoned-spaulders-of-arrowflight
+    95061, -- lost-shoulders-of-fire
+    95062, -- forgotten-mantle-of-the-sun
+    95063, -- reconstructed-furious-shoulderplates
+    95064, -- abandoned-spaulders-of-renewal
+    95065, -- forgotten-mantle-of-the-moon
+    95066, -- lost-shoulders-of-healing
+    95067, -- lost-shoulders-of-fluidity
+    95068, -- reconstructed-bloody-shoulderplates
+    95069, -- reconstructed-holy-shoulderplates
     95343, -- treasures-of-the-thunder-king
-    96981, -- lost-shoulders-of-fluidity
-    96982, -- nadagasts-exsanguinator
-    96983, -- jerthud-graceful-hand-of-the-savior
-    96984, -- forgotten-mantle-of-the-moon
-    96985, -- forgotten-mantle-of-the-sun
-    96986, -- abandoned-spaulders-of-arrowflight
-    96987, -- abandoned-spaulders-of-renewal
-    96988, -- reconstructed-holy-shoulderplates
+    95498, -- bo-ris-horror-in-the-night
+    95499, -- invocation-of-the-dawn
+    95500, -- jerthud-graceful-hand-of-the-savior
+    95501, -- fyns-flickering-dagger
+    95502, -- do-tharak-the-swordbreaker
+    95503, -- miracoran-the-vehement-chord
+    95504, -- zeegs-ancient-kegsmasher
+    95505, -- greatsword-of-frozen-hells
+    95506, -- nadagasts-exsanguinator
+    95507, -- darkwood-spiritstaff
+    95516, -- visage-of-the-doomed
+    95858, -- invocation-of-the-dawn
+    95859, -- miracoran-the-vehement-chord
+    95860, -- fyns-flickering-dagger
+    95861, -- zeegs-ancient-kegsmasher
+    95862, -- darkwood-spiritstaff
+    95863, -- lost-shoulders-of-fire
+    95864, -- lost-shoulders-of-healing
+    95865, -- lost-shoulders-of-fluidity
+    95866, -- nadagasts-exsanguinator
+    95867, -- jerthud-graceful-hand-of-the-savior
+    95868, -- forgotten-mantle-of-the-moon
+    95869, -- forgotten-mantle-of-the-sun
+    95870, -- abandoned-spaulders-of-arrowflight
+    95871, -- abandoned-spaulders-of-renewal
+    95872, -- reconstructed-holy-shoulderplates
+    95873, -- reconstructed-furious-shoulderplates
+    95874, -- reconstructed-bloody-shoulderplates
+    95875, -- greatsword-of-frozen-hells
+    95876, -- do-tharak-the-swordbreaker
+    95877, -- bo-ris-horror-in-the-night
+    95878, -- visage-of-the-doomed
+    96127, -- hydra-scale-bloodcloak
+    96230, -- invocation-of-the-dawn
+    96231, -- miracoran-the-vehement-chord
     96232, -- fyns-flickering-dagger
-    96989, -- reconstructed-furious-shoulderplates
-    96990, -- reconstructed-bloody-shoulderplates
-    96991, -- greatsword-of-frozen-hells
-    96992, -- do-tharak-the-swordbreaker
-    96993, -- bo-ris-horror-in-the-night
-    96994, -- visage-of-the-doomed
-    96975, -- miracoran-the-vehement-chord
-    96976, -- fyns-flickering-dagger
-    96977, -- zeegs-ancient-kegsmasher
-    96978, -- darkwood-spiritstaff
-    96979, -- lost-shoulders-of-fire
-    96980, -- lost-shoulders-of-healing
-    97126, -- tia-tia-the-scything-star
-    97127, -- tia-tia-the-scything-star
-    97128, -- tia-tia-the-scything-star
-    97129, -- tia-tia-the-scything-star
-    97130, -- tia-tia-the-scything-star
+    96233, -- zeegs-ancient-kegsmasher
+    96234, -- darkwood-spiritstaff
+    96235, -- lost-shoulders-of-fire
+    96236, -- lost-shoulders-of-healing
+    96237, -- lost-shoulders-of-fluidity
+    96238, -- nadagasts-exsanguinator
+    96239, -- jerthud-graceful-hand-of-the-savior
+    96240, -- forgotten-mantle-of-the-moon
+    96241, -- forgotten-mantle-of-the-sun
+    96242, -- abandoned-spaulders-of-arrowflight
+    96243, -- abandoned-spaulders-of-renewal
+    96244, -- reconstructed-holy-shoulderplates
+    96245, -- reconstructed-furious-shoulderplates
+    96246, -- reconstructed-bloody-shoulderplates
+    96247, -- greatsword-of-frozen-hells
+    96248, -- do-tharak-the-swordbreaker
+    96249, -- bo-ris-horror-in-the-night
+    96250, -- visage-of-the-doomed
     96380, -- fissure-split-shoulderwraps
     96381, -- robes-of-static-bursts
     96382, -- jinrokhs-dreamshard
@@ -62,72 +102,34 @@ AddonTable.tot = {
     96620, -- do-tharak-the-swordbreaker
     96621, -- bo-ris-horror-in-the-night
     96622, -- visage-of-the-doomed
-    96235, -- lost-shoulders-of-fire
-    96237, -- lost-shoulders-of-fluidity
-    96238, -- nadagasts-exsanguinator
-    96239, -- jerthud-graceful-hand-of-the-savior
-    96240, -- forgotten-mantle-of-the-moon
-    96241, -- forgotten-mantle-of-the-sun
-    96242, -- abandoned-spaulders-of-arrowflight
-    96243, -- abandoned-spaulders-of-renewal
-    96244, -- reconstructed-holy-shoulderplates
-    96245, -- reconstructed-furious-shoulderplates
-    96246, -- reconstructed-bloody-shoulderplates
-    96247, -- greatsword-of-frozen-hells
-    96248, -- do-tharak-the-swordbreaker
-    96249, -- bo-ris-horror-in-the-night
-    96250, -- visage-of-the-doomed
-    96233, -- zeegs-ancient-kegsmasher
-    96231, -- miracoran-the-vehement-chord
-    96230, -- invocation-of-the-dawn
-    96127, -- hydra-scale-bloodcloak
-    95878, -- visage-of-the-doomed
-    95877, -- bo-ris-horror-in-the-night
-    95876, -- do-tharak-the-swordbreaker
-    95875, -- greatsword-of-frozen-hells
-    96234, -- darkwood-spiritstaff
-    95874, -- reconstructed-bloody-shoulderplates
-    95873, -- reconstructed-furious-shoulderplates
-    95860, -- fyns-flickering-dagger
-    95861, -- zeegs-ancient-kegsmasher
-    95862, -- darkwood-spiritstaff
-    95863, -- lost-shoulders-of-fire
-    95864, -- lost-shoulders-of-healing
-    95865, -- lost-shoulders-of-fluidity
-    95866, -- nadagasts-exsanguinator
-    95867, -- jerthud-graceful-hand-of-the-savior
-    95868, -- forgotten-mantle-of-the-moon
-    95869, -- forgotten-mantle-of-the-sun
-    95870, -- abandoned-spaulders-of-arrowflight
-    95871, -- abandoned-spaulders-of-renewal
-    95872, -- reconstructed-holy-shoulderplates
-    95507, -- darkwood-spiritstaff
-    95516, -- visage-of-the-doomed
-    95858, -- invocation-of-the-dawn
-    95859, -- miracoran-the-vehement-chord
-    95506, -- nadagasts-exsanguinator
-    95500, -- jerthud-graceful-hand-of-the-savior
-    95501, -- fyns-flickering-dagger
-    95502, -- do-tharak-the-swordbreaker
-    95503, -- miracoran-the-vehement-chord
-    95504, -- zeegs-ancient-kegsmasher
-    95505, -- greatsword-of-frozen-hells
-    95499, -- invocation-of-the-dawn
-    95060, -- abandoned-spaulders-of-arrowflight
-    95061, -- lost-shoulders-of-fire
-    95062, -- forgotten-mantle-of-the-sun
-    95063, -- reconstructed-furious-shoulderplates
-    95064, -- abandoned-spaulders-of-renewal
-    95065, -- forgotten-mantle-of-the-moon
-    95066, -- lost-shoulders-of-healing
-    95067, -- lost-shoulders-of-fluidity
-    95068, -- reconstructed-bloody-shoulderplates
-    95069, -- reconstructed-holy-shoulderplates
-    95498, -- bo-ris-horror-in-the-night
+    96815, -- Quadra-Head Brooch
+    96907, -- Wu-Lai, Bladed Fan of the Consorts
     96974, -- invocation-of-the-dawn
-    96236, -- lost-shoulders-of-healing
-    94574, -- pygmy-direhorn
-    94594, -- titan-runestone
+    96975, -- miracoran-the-vehement-chord
+    96976, -- fyns-flickering-dagger
+    96977, -- zeegs-ancient-kegsmasher
+    96978, -- darkwood-spiritstaff
+    96979, -- lost-shoulders-of-fire
+    96980, -- lost-shoulders-of-healing
+    96981, -- lost-shoulders-of-fluidity
+    96982, -- nadagasts-exsanguinator
+    96983, -- jerthud-graceful-hand-of-the-savior
+    96984, -- forgotten-mantle-of-the-moon
+    96985, -- forgotten-mantle-of-the-sun
+    96986, -- abandoned-spaulders-of-arrowflight
+    96987, -- abandoned-spaulders-of-renewal
+    96988, -- reconstructed-holy-shoulderplates
+    96989, -- reconstructed-furious-shoulderplates
+    96990, -- reconstructed-bloody-shoulderplates
+    96991, -- greatsword-of-frozen-hells
+    96992, -- do-tharak-the-swordbreaker
+    96993, -- bo-ris-horror-in-the-night
+    96994, -- visage-of-the-doomed
+    97126, -- tia-tia-the-scything-star
+    97127, -- tia-tia-the-scything-star
+    97128, -- tia-tia-the-scything-star
+    97129, -- tia-tia-the-scything-star
+    97130, -- tia-tia-the-scything-star
     -- Jin'rokh the Breaker
     94512, -- renatakis-soul-charm
     94722, -- worldbreakers-stormscythe

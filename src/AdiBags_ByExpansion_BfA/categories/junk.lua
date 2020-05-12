@@ -211,6 +211,7 @@ AddonTable.junk = {
     163084, -- Solid Gold Cutlass
     163085, -- Onion Garland'
     163087, -- Satchel of Blood Oranges
+    163089, -- Long-Stemmed Pipe
     163090, -- Cured Billow-Weed
     163091, -- Jeweled Spyglass
     163092, -- Embroidered Falconry Hood

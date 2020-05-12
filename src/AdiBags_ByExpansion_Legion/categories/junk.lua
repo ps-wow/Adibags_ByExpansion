@@ -4,6 +4,7 @@ AddonTable.junk = {
     121333, -- Weighted Blackjack
     121345, -- Weatherworn Belt
     121350, -- Rust-Encrusted Leggings
+    121352, -- Weatherworn Pants
     121363, -- Warped-Plate Helmet
     121364, -- Sunbleached Cowl
     121365, -- Warped-Plate Leggings

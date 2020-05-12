@@ -3,11 +3,13 @@ local AddonName, AddonTable = ...
 -- Soulbound Items (Green or higher)
 
 AddonTable.loot = {
-    82283, -- Immaculate Ring [BoE Ring]
+    82280, -- Immaculate Amulet
+    82283, -- Immaculate Ring
     83738, -- Sigil of Grace
 
     85973, -- Ancient Pandaren Fishing Charm
 
+    86042, -- Jade Charioteer Figurine
     86124, -- Pandaren Fishing Spear [BoA]
     86196, -- Ancient Jinyu Staff [BoA]
     86198, -- Hammer of Ten Thunders [BoA]
@@ -33,7 +35,13 @@ AddonTable.loot = {
     90350, -- Satin Robe of Eminent Domain
     90380, -- Skyfire Medic's Staff
 
+    95212, -- Abandoned Zandalari Waterchain
+
     101810, -- Amaranthine Wristwraps (Timeless Cloth Bracers)
+
+    -- Sets (Warlock)
+    87189, -- Sha-Skin Leggings
+    87191, -- Sha-Skin Mantle
 
     -- Tranquil Satchel of Helpful Goods (Random MoP Dungeon Bonus Loot)
     113729, -- Kyparite Headguard

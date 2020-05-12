@@ -1,9 +1,11 @@
 local AddonName, AddonTable = ...
 -- Soulbound Items (Green or higher)
 AddonTable.loot = {
+    82280,
     82283,
     83738,
     85973,
+    86042,
     86124,
     86196,
     86198,
@@ -26,7 +28,11 @@ AddonTable.loot = {
     87636,
     90350,
     90380,
+    95212,
     101810,
+    -- Sets (Warlock)
+    87189,
+    87191,
     -- Tranquil Satchel of Helpful Goods (Random MoP Dungeon Bonus Loot)
     113729,
     113735,

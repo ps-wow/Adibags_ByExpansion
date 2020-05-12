@@ -78,6 +78,7 @@ AddonTable.transmog = {
     55664, -- Dandred Gloves
     55648, -- Ravenholdt Jerkin
     55665, -- Haldarr Gloves
+    55666, -- Ravenholdt Gloves
     55673, -- Dandred Hood
     55674, -- Haldarr Hood
     55675, -- Ravenholdt Hood

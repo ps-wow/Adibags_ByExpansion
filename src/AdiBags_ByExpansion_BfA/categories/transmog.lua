@@ -111,12 +111,14 @@ AddonTable.transmog = {
     159568, -- Wintersail Staff
     159569, -- Wavecaller Spire
     159571, -- Deepwarden Staff
+    159572, -- Zem'lan Pummeler
     159573, -- Bleached Bone Staff
     159576, -- Golden Fleet Warstaff
     159577, -- Zocali Longstaff
     159578, -- Loa-Blessed Stave
     159584, -- Coldscale Saber
     159587, -- Dockyard Cutlass
+    159589, -- Tideguard Sword
     159590, -- Shipwrecker Blade
     159593, -- Wavecaller Cutlass
     159594, -- Zem'lan Saber (1H Sword)
