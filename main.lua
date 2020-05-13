@@ -104,11 +104,13 @@ end
 function Core:DefaultFilter(slotData, module, expFilter)
     local prefix = module.prefix
     local everythingIsJunk = false
+    local foodIsJunk = false
 
     local expTable = AddonTable.ItemTables[module.name]
 
-    if expFilter.db.profile then
+    if (expFilter.db.profile ~= nil) then
         everythingIsJunk = expFilter.db.profile.EverythingIsJunk
+        foodIsJunk = expFilter.db.profile.FoodIsJunk
     end
 
     for tableName, tableDescription in pairs(module.categories) do
@@ -148,6 +150,14 @@ function Core:DefaultFilter(slotData, module, expFilter)
                                         return prefix .. "Equipment (" .. dungeon .. ")"
                                     end
                                 end
+                            end
+                        end
+                    elseif tableName == "Consumable" then
+                        if expTable[tableName][slotData.itemId] then
+                            if foodIsJunk then
+                                return prefix .. "Junk"
+                            else
+                                return prefix .. tableDescription
                             end
                         end
                     else
