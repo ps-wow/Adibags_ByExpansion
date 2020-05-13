@@ -6,6 +6,12 @@ local Core = LibStub("AceAddon-3.0"):NewAddon("AdiBags_ByExansion")
 AddonTable.ItemTables = {}
 AddonTable.Modules = {}
 
+function Core:Debug(obj, desc)
+    if ViragDevTool_AddData then
+        ViragDevTool_AddData(obj, desc)
+    end
+end
+
 function Core:GetOptions()
     return {
         Achievement = {
@@ -97,10 +103,17 @@ end
 
 function Core:DefaultFilter(slotData, module, expFilter)
     local prefix = module.prefix
+    local everythingIsJunk = false
 
     local expTable = AddonTable.ItemTables[module.name]
 
+    if expFilter.db.profile then
+        everythingIsJunk = expFilter.db.profile.EverythingIsJunk
+    end
+
     for tableName, tableDescription in pairs(module.categories) do
+
+        Core:Debug(expFilter, 'expFilter')
 
         if expFilter.db.profile[tableName] then
             --option for the table is enabled
@@ -110,7 +123,11 @@ function Core:DefaultFilter(slotData, module, expFilter)
                         for abbr,raid in pairs(module.raids) do
                             if expTable[tableName][abbr] then
                                 if expTable[tableName][abbr][slotData.itemId] then
-                                    return prefix .. "Equipment (" .. raid .. ")"
+                                    if everythingIsJunk then
+                                        return prefix .. "Junk"
+                                    else
+                                        return prefix .. "Equipment (" .. raid .. ")"
+                                    end
                                 end
                             end
                         end
@@ -135,7 +152,11 @@ function Core:DefaultFilter(slotData, module, expFilter)
                         end
                     else
                         if expTable[tableName][slotData.itemId] then
-                            return prefix .. tableDescription
+                            if everythingIsJunk then
+                                return prefix .. "Junk"
+                            else
+                                return prefix .. tableDescription
+                            end
                         end
                     end
                 end
