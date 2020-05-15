@@ -14,6 +14,7 @@ ignore:
   - .editorconfig
   - .gitignore
   - .github
+  - .vscode
   - .travis.yml
   - CHANGELOG.md
   - README.md
