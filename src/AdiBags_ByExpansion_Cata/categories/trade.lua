@@ -5,5 +5,6 @@ AddonTable.trade = {
     52326, -- Volatile Water
     52327, -- Volatile Earth
     52328, -- Volatile Air
+    52329, -- Volatile Life
     69237, -- Living Ember
 }

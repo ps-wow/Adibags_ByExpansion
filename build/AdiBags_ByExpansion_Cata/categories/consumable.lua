@@ -1,4 +1,7 @@
 local AddonName, AddonTable = ...
+AddonTable.consumable = {
+    63122,
+}
 -- TODO: Make this work
 AddonTable.openables = {
     68729,

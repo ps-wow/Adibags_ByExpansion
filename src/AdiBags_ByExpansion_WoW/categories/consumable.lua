@@ -1,20 +1,56 @@
 local AddonName, AddonTable = ...
 
 AddonTable.consumable = {
-    -- Potions
-    118,   -- Minor Healing Potion
-    858,   -- Lesser Healing Potion
-    929,   -- Healing Potion
-    1710,  -- Greater Healing Potion
-    2455,  -- Minor Mana Potion
-    3385,  -- Lesser Mana Potion
-    13444, -- Major Mana Potion
-    13446, -- Major Healing Potion
     -- Misc
     1477,  -- Scroll of Agility II
     2289,  -- Scroll of Strength II
     2290,  -- Scroll of Intellect II
     6530,  -- Nightcrawlers
+    -- Alchemy
+    118,   -- Minor Healing Potion
+    858,   -- Lesser Healing Potion
+    929,   -- Healing Potion
+    1710,  -- Greater Healing Potion
+    2455,  -- Minor Mana Potion
+    2456,  -- Minor Rejuvenation Potion
+    2459,  -- Swiftness Potion
+    3383,  -- Elixir of Wisdom
+    3385,  -- Lesser Mana Potion
+    3386,  -- Potion of Curing
+    3387,  -- Limited Invulnerability Potion
+    3388,  -- Strong Troll's Blood Elixir
+    3389,  -- Elixir of Defense
+    3823,  -- Lesser Invisibility Potion
+    3827,  -- Mana Potion
+    3928,  -- Superior Healing Potion
+    5631,  -- Rage Potion
+    5633,  -- Great Rage Potion
+    5634,  -- Free Action Potion
+    5996,  -- Elixir of Water Breating
+    6048,  -- Shadow Protection Potion
+    6049,  -- Fire Protection Potion
+    6050,  -- Frost Protection Potion
+    6051,  -- Holy Protection Potion
+    6052,  -- Nature Protection Potion
+    6149,  -- Greater Mana Potion
+    6372,  -- Swim Speed Potion
+    6373,  -- Elixir of Firepower
+    6452,  -- Anti-Venom
+    9144,  -- Wildvine Potion
+    9172,  -- Invisibility Potion
+    12190, -- Dreamless Sleep Potion
+    13442, -- Mighty Rage Potion
+    13443, -- Superior Mana Potion
+    13444, -- Major Mana Potion
+    13446, -- Major Healing Potion
+    13455, -- Greater Stoneshield Potion
+    13457, -- Greater Fire Protection Potion
+    13458, -- Greater Nature Protection Potion
+    13462, -- Purification Potion
+    13506, -- Potion of Petrification
+    18253, -- Major Rejuvenation Potion
+    20008, -- Living Action Potion
+    45621, -- Elixir of Minor Accuracy
 }
 
 AddonTable.foodDrink = {

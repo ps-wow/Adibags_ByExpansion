@@ -27,6 +27,7 @@ AddonTable.gundrak = {
     35588,  -- Forlord Breastplate of War
     37632,  -- Mojo Frenzy Greaves
     35589,  -- Arcane Focal Signet
+    127532, -- Arcane Focal Signet
     -- Gal'darah
     43309,  -- Amulet of the Stampede
     43305,  -- Shroud of Akali

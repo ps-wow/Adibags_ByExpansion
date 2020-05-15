@@ -1,5 +1,9 @@
 local AddonName, AddonTable = ...
 
+AddonTable.consumable = {
+    63122, -- Lifegiving Seed
+}
+
 -- TODO: Make this work
 AddonTable.openables = {
     68729, -- Elementium Lockbox
