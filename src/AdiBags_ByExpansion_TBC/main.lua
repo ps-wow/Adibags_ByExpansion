@@ -7,7 +7,11 @@ local module = {
     ["name"] = "tbc",
     ["categories"] = core:GetDefaultCategories(),
     ["namespace"] = "TBC",
-    ["prefix"] = "02. TBC - ",
+    ["prefix"] = {
+        ["num"] = "02. ",
+        ["title"] = "TBC",
+        ["icon"] = "",
+    },
     ["description"] = "The Burning Crusade",
     ["dungeons"] = {
         ["arcatraz"] = "The Arcatraz",

@@ -7,7 +7,11 @@ local module = {
     ["name"] = "wrath",
     ["categories"] = core:GetDefaultCategories(),
     ["namespace"] = "Wrath",
-    ["prefix"] = "03. Wrath - ",
+    ["prefix"] = {
+        ["num"] = "03. ",
+        ["title"] = "Wrath",
+        ["icon"] = "",
+    },
     ["description"] = "Wrath of the Lich King",
     ["dungeons"] = {
         ["ahnkahet"] = "Ahn'kahet: The Old Kingdom",

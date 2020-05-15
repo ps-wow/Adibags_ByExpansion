@@ -7,7 +7,11 @@ local module = {
     ["name"] = "cata",
     ["categories"] = core:GetDefaultCategories(),
     ["namespace"] = "Cata",
-    ["prefix"] = "04. Cata - ",
+    ["prefix"] = {
+        ["num"] = "04. ",
+        ["title"] = "Cata",
+        ["icon"] = "",
+    },
     ["description"] = "Cataclysm",
     ["dungeons"] = {
         ["blackrock"] = "Blackrock Caverns",

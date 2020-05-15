@@ -7,7 +7,11 @@ local module = {
     ["name"] = "mop",
     ["categories"] = core:GetDefaultCategories(),
     ["namespace"] = "MoP",
-    ["prefix"] = "05. MoP - ",
+    ["prefix"] = {
+        ["num"] = "05. ",
+        ["title"] = "MoP",
+        ["icon"] = "",
+    },
     ["description"] = "Mists of Pandaria",
     ["dungeons"] = {
         ["mogushan"] = "Mogu'shan Palace",

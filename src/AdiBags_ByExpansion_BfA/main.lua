@@ -7,7 +7,11 @@ local module = {
     ["name"] = "bfa",
     ["categories"] = core:GetDefaultCategories(),
     ["namespace"] = "BfA",
-    ["prefix"] = "08. BfA - ",
+    ["prefix"] = {
+        ["num"] = "08. ",
+        ["title"] = "BfA",
+        ["icon"] = ""
+    },
     ["description"] = "Battle for Azeroth",
     ["raids"] = {
         ["uldir"] = "Uldir",

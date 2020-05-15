@@ -7,7 +7,11 @@ local module = {
     ["name"] = "wow",
     ["categories"] = core:GetDefaultCategories(),
     ["namespace"] = "WoW",
-    ["prefix"] = "01. WoW - ",
+    ["prefix"] = {
+        ["num"] = "01. ",
+        ["title"] = "WoW",
+        ["icon"] = "",
+    },
     ["description"] = "World of Warcraft",
     ["raids"] = {
         ["aq20"] = "Ruins of Ahn'Qiraj",

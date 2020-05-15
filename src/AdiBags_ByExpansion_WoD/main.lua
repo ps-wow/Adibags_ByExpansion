@@ -7,7 +7,11 @@ local module = {
     ["name"] = "wod",
     ["categories"] = core:GetDefaultCategories(),
     ["namespace"] = "WoD",
-    ["prefix"] = "06. WoD - ",
+    ["prefix"] = {
+        ["num"] = "06. ",
+        ["title"] = "WoD",
+        ["icon"] = "",
+    },
     ["description"] = "Warlords of Draenor Items",
     ["dungeons"] = {
         ["auchindoun"] = "Auchindoun",

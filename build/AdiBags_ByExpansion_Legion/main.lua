@@ -7,7 +7,11 @@ local module = {
     ["name"] = "legion",
     ["categories"] = core:GetDefaultCategories(),
     ["namespace"] = "Legion",
-    ["prefix"] = "07. Legion - ",
+    ["prefix"] = {
+        ["num"] = "07. ",
+        ["title"] = "Legion",
+        ["icon"] = "",
+    },
     ["description"] = "Legion",
     ["dungeons"] = {
         ["arcway"] = "The Arcway",
