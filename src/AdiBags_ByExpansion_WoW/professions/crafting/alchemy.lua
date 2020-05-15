@@ -6,9 +6,12 @@ AddonTable.alchemy = {
     6371,  -- Fire Oil
 
     9061,  -- Goblin Rocket Fuel
+    9149,  -- Philosopher's Stone
     9210,  -- Ghost Dye
 
     12360, -- Arcanite Bar
+
+    13423, -- Stonescale Oil
 
     -- Recipe's
     3832, -- Recipe: Elixir of Detect Lesser Invisibility
