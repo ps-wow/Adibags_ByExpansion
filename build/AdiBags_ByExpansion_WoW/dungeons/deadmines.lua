@@ -1,5 +1,6 @@
 local AddonName, AddonTable = ...
 AddonTable.deadmines = {
+    1951,
     -- Glubtok
     2169,
     5444,

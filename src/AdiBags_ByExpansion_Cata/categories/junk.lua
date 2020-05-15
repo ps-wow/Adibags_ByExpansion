@@ -74,6 +74,7 @@ AddonTable.junk = {
     62413, -- Rigid Spinneret
     62421, -- Scintillating Crystals
     62435, -- Conductive Shards
+    62521, -- Smoldering Fungus
 
     66945, -- Stormhammer Head
     66949, -- Wildhammer Book of Verse

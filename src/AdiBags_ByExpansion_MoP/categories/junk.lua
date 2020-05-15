@@ -7,6 +7,7 @@ AddonTable.junk = {
     81205, -- Funereal Ashes
     81212, -- Massive Fang
     81215, -- Mistlurker Eye
+    81218, -- Stone Heart
     81219, -- Vial of Moving Waters
     81220, -- Liquid Shadow
     81194, -- Sharp Fangs
@@ -45,14 +46,20 @@ AddonTable.junk = {
     90764, -- Shabby Gloves
     90765, -- Shabby Pants
     90767, -- Scruffy Cloth Shoulderpads
+    90769, -- Shabby Armor
     90779, -- Moist Mail Shoulderpads
     90782, -- Slipshod Plate Bracers
 
     90805, -- Robble's Stabilized Staff
+    90806, -- Rusted Blade
     90809, -- Knog's Bow of Clumsiness
     90810, -- Fireblackened Mace
+    90811, -- Battered Shiv
     90813, -- Salt-Scored Greatsword
     90814, -- Fractured War Mace
+
+    93957, -- Zandalari Beastlord Scrimshaw
+    93970, -- Shattered Golem Fragments
 
     97161, -- Snail Shell
 }

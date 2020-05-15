@@ -80,6 +80,7 @@ AddonTable.transmog = {
     159507, -- Zem'lan Warglaive
     159508, -- Bleached Bone Glaive
     159509, -- Gnarlwood Spikes
+    159511, -- Wavecaller Fists
     159514, -- Rivermarsh Claws
     159515, -- Warport Knuckles
     159516, -- Golden Fleet Fists
@@ -97,6 +98,7 @@ AddonTable.transmog = {
     159533, -- Zocali Ripper
     159535, -- Wavecaller Mace
     159537, -- Deepwarden Gavel
+    159539, -- Ironcrest Club
     159540, -- Coralshell Hammer
     159544, -- Zem'lan Smasher
     159545, -- Bleached Bone Club

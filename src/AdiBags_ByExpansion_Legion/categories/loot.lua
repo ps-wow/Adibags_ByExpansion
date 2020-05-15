@@ -18,10 +18,12 @@ AddonTable.loot = {
     112461, -- Illidari Chain
     112462, -- Illidari Drape
 
+    121028, -- Azurewing Pendant
     121106, -- Hagfeather Leggings
     121188, -- Smolderhide Shoulders
     121217, -- Crescent Vale Robe
     121247, -- Nightfall Loop
+    121384, -- Elemental Bindings
     121480, -- Felblaze Chain
     121577, -- Rooksguard Warboots
     121580, -- Sablehide Boots
@@ -45,6 +47,8 @@ AddonTable.loot = {
     128958, -- Leko's Leash
     128959, -- Seal of House Wrynn
 
+    129065, -- The Shadow Oracle's Leggings
+    129073, -- Bitterbrine's Signet Ring
     129101, -- Alpha's Paw
     129104, -- Brand of the Banshee Queen
     129171, -- Band of Ingression
@@ -58,6 +62,7 @@ AddonTable.loot = {
     130000, -- Bands of Unrelenting Anguish
     130116, -- Twisted Wraithtalon Gloves
 
+    132234, -- Spectral Dust
     132243, -- Fel-Etched Glaive
     132906, -- Leywalker Cord
     132951, -- Leywalker Shoes
@@ -80,6 +85,7 @@ AddonTable.loot = {
     133325, -- Illidari Belt
 
     134179, -- Skoldiir Breastplate
+    134180, -- Skoldiir Gauntlets
     134182, -- Skoldiir Helm
     134193, -- Biornskin Moccasins
     134212, -- Tideskorn Leggings
@@ -105,6 +111,7 @@ AddonTable.loot = {
     140660, -- Haft of the God-King
 
     141286, -- Rite of the Val'kyr
+    141883, -- Azsharan Keepsake
     141619, -- Mana-Infused Berries
     141628, -- Soul-Stealer's Leggings
     141650, -- Helm of Reaffirmed Purpose

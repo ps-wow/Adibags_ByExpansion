@@ -186,6 +186,7 @@ AddonTable.loot = {
     158246, -- Sea Raider's Chausses
     158256, -- Navigator's Mitts
     158258, -- Freebooter Handwraps
+    158266, -- Southport Searchlight
     158276, -- Navigator's Bindings
     158277, -- Sea Raider's Wristguard
     158387, -- Rastari Footguards
@@ -340,6 +341,7 @@ AddonTable.loot = {
     163285, -- Honorbound Artificer's Sandles
     163296, -- Honorbound Artificer's Legwraps
     163306, -- Honorbound Artificer's Cuffs
+    163342, -- 7th Legionnaire's Cord
     163368, -- Honorbound Centurion's Long Cloak
     163403, -- 7th Legionnaire's Armguards
     163418, -- 7th Legionnaire's Chestguard

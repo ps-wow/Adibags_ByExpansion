@@ -1,6 +1,7 @@
 local AddonName, AddonTable = ...
 
 AddonTable.deadmines = {
+    1951,   -- Blackwater Cutlass
     -- Glubtok
     2169,   -- Buzzer Blade
     5444,   -- Miner's Cape

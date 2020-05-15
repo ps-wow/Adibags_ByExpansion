@@ -9,9 +9,11 @@ AddonTable.junk = {
     24576, -- Loosely Threaded Belt
 
     25340, -- Loosely Threaded Vest
+    25341, -- Dilapidated Cloth Belt
     25343, -- Dilapidated Cloth Bracers
     25344, -- Dilapidated Cloth Gloves
     25346, -- Dilapidated Cloth Pants
+    25347, -- Dilapidated Cloth Shoulderpads
     25354, -- Moldy Leather Helmet
     25357, -- Decaying Leather Armor
     25358, -- Decaying Leather Belt
@@ -25,6 +27,7 @@ AddonTable.junk = {
     25374, -- Corroded Mail Belt
     25375, -- Corroded Mail Boots
     25376, -- Corroded Mail Bracers
+    25377, -- Corroded Mail Circlet
     25378, -- Corroded Mail Gloves
     25379, -- Corroded Mail Pants
     25380, -- Corroded Mail Shoulderpads
@@ -37,6 +40,7 @@ AddonTable.junk = {
     25391, -- Deteriorating Plate Bracers
     25392, -- Deteriorating Plate Chestpiece
     25394, -- Deteriorating Plate Helmet
+    25397, -- Eroded Axe
     25398, -- Stone Reaper
     25399, -- Deteriorating Blade
 

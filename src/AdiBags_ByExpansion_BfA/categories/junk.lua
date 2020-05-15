@@ -83,6 +83,7 @@ AddonTable.junk = {
     158754, -- Trueflight Fletchling
     158756, -- Rotary Gasket
     158757, -- Disquiet Earth
+    158758, -- Royal Jelly
     158759, -- Bloodgorged Sac
     158760, -- Fin Ray
     158765, -- Hardshell Mollusk
@@ -145,6 +146,7 @@ AddonTable.junk = {
     159140, -- Lifeless Clay
     159756, -- Depleted Azerite
 
+    160560, -- Piece of Wreckage
     160579, -- Digested Krolusk Chitin
     160581, -- Vulture Egg Shell
     160582, -- Broken Lizard Bones
@@ -175,6 +177,7 @@ AddonTable.junk = {
     161205, -- Wooden Horse Carving
     161206, -- Faded Treasure Map
     161207, -- Admiral's Black Rum
+    161208, -- Pirate's Snuff Box
     161209, -- Coven Dream Catcher
     161210, -- Homemade Child's Doll
     161211, -- Ship in a Bottle
@@ -198,6 +201,8 @@ AddonTable.junk = {
     162979, -- Gral-Adorned Astrolabe
     162980, -- Spindle of Golden Sailthread
 
+    163030, -- Rusted Mining Pick
+    163031, -- Crate of Unstable Dynamite
     163062, -- Crude Saurid Effigy
     163065, -- Tusk Wax
     163066, -- Calcified Mosquito
