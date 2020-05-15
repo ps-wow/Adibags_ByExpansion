@@ -21,6 +21,7 @@ AddonTable.consumable = {
     -- Augments
     140587,
     -- Misc
+    124125,
     143785,
     -- DH Starting
     129196,

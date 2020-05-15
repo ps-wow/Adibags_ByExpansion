@@ -379,6 +379,7 @@ AddonTable.tot = {
     96599, -- gauntlets-of-the-crackling-vanquisher
     96600, -- gauntlets-of-the-crackling-conqueror
     96601, -- gauntlets-of-the-crackling-protector
+    96793, -- Fortitude of the Zandalari
     -- Tortos
     94768, -- shellsplitter-greataxe
     94769, -- shattered-tortoiseshell-longbow

@@ -38,6 +38,7 @@ AddonTable.gundrak = {
     43306,
     37642,
     37638,
+    127556,
     -- Quest Rewards
     --- One of a Kind (29838)
     43171,

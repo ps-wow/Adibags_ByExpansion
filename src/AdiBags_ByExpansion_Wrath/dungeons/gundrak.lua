@@ -39,6 +39,7 @@ AddonTable.gundrak = {
     43306,  -- Gal'darahh's Signet
     37642,  -- Hemorrhaging Circle
     37638,  -- Offering of Sacrifice
+    127556, -- Gored Hide Legguards
     -- Quest Rewards
     --- One of a Kind (29838)
     43171,  -- Fur-Lined Moccasins

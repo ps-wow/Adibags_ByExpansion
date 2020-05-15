@@ -34,6 +34,7 @@ AddonTable.antorus = {
     151947,
     151983,
     152059,
+    151974,
     -- Antoran High Command
     151969,
     152131,

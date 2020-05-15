@@ -151,6 +151,7 @@ AddonTable.transmog = {
     68754, -- Imbued Disciple's Boots
 
     115348, -- Feathered Cape
+    115349, -- Talon of Vultros
 
     -- Molten Core BoE's
     13060, -- The Needler

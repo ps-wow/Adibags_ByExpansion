@@ -133,6 +133,7 @@ AddonTable.transmog = {
     68750,
     68754,
     115348,
+    115349,
     -- Molten Core BoE's
     13060,
     16802,

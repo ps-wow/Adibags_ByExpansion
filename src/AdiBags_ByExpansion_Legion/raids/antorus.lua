@@ -35,6 +35,7 @@ AddonTable.antorus = {
     151947, -- vestments-of-enflamed-blight
     151983, -- vicious-flamepaws
     152059, -- whistling-ulna
+    151974, -- Eye of Shatug
     -- Antoran High Command
     151969, -- terminus-signaling-beacon
     152131, -- serpentstalker-drape

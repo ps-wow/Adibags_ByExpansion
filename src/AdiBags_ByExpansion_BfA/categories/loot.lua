@@ -276,6 +276,7 @@ AddonTable.loot = {
     160020, -- Scorching Sands Gloves
     160021, -- Exiled Veteran's Waistplate
     160023, -- Scorching Sands Waistwrap
+    160087, -- Penny's Friendship Ring
     160125, -- Direbone Frill Stompers
     160153, -- Stormforger Chestplate
     160154, -- Stormforger Gauntlets
