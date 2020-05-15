@@ -15,7 +15,6 @@ ignore:
   - .gitignore
   - .github
   - .vscode
-  - .travis.yml
   - CHANGELOG.md
   - README.md
   - LICENSE

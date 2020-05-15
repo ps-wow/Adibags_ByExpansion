@@ -1,6 +1,6 @@
 # AdiBags: By Expansion
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![Build Status](https://travis-ci.org/ps-wow/Adibags_ByExpansion.svg?branch=master)](https://travis-ci.org/ps-wow/Adibags_ByExpansion)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![GitHub Workflow Status](https://img.shields.io/github/workflow/status/ps-wow/Adibags_ByExpansion/Duplicates%20Check?style=flat-square)](https://github.com/ps-wow/Adibags_ByExpansion/actions)
 
 [CurseForge Project](https://wow.curseforge.com/projects/adibags_by_expansion)
 
