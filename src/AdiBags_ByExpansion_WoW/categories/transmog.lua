@@ -52,11 +52,14 @@ AddonTable.transmog = {
     8309,  -- Hero's Leggings
     8310,  -- Hero's Pauldrons
 
+    9770,  -- Greenweave Cloak
     9774,  -- Greenweave Vest
     9778,  -- Bandit Buckler
     9785,  -- Raider's Bracers
+    9787,  -- Raider's Gauntlets
     9791,  -- Ivycloth Tunic
     9804,  -- Superior Buckler
+    9805,  -- Superior Cloak
     9810,  -- Fortified Boots
     9824,  -- Durable Shoulders
     9835,  -- Scaled Leather Tunic

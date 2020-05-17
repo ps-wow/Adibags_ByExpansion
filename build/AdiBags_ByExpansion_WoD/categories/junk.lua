@@ -1,4 +1,5 @@
 local AddonName, AddonTable = ...
+-- WoD Junk
 AddonTable.junk = {
     56046,
     83156,
@@ -36,6 +37,7 @@ AddonTable.junk = {
     106889,
     106890,
     107393,
+    107461,
     107462,
     107463,
     107469,
@@ -53,6 +55,7 @@ AddonTable.junk = {
     108978,
     108979,
     108980,
+    114014,
     111484,
     111636,
     112463,

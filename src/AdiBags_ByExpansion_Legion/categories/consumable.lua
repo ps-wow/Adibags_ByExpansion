@@ -28,6 +28,11 @@ AddonTable.consumable = {
     129196, -- Legion Healthstone
     129192, -- Inquisitor's Menacing Eye
     129210, -- Fel Crystal Fragments
+    -- Ancient Mana
+    139786, -- Ancient Mana Crystal
+    140243, -- Azurefall Essence
+    140949, -- Onyx Or'ligai Egg
+    141655, -- Shimmering Ancient Mana Cluster
 }
 
 AddonTable.foodDrink = {

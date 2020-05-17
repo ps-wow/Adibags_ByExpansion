@@ -3,12 +3,13 @@
 ## Unreleased
 ### Added
  - Options: Add ability to toggle off expansion number prefixes.
- - Alchemy: All WoW crafts.
- - Alchemy: All Cata crafts.
+ - Legion: Add reputation category.
+ - Cata: Alchemy (Learned/Unlearned).
+ - WoW: Alchemy (Learned/Unlearned).
 
 ### Fixed
- - Fix loading of some MoP raids (HoV, MV, ToES).
- - Fix loading of Nighthold raid.
+ - MoP: Fix loading of raids (HoV, MV, ToES).
+ - Legion: Fix loading of Nighthold raid.
 
 ## [1.0.0] - 2020-05-02
 ### Added
@@ -17,7 +18,7 @@
 
 ## [0.1.7] - 2020-04-14
 ### Added
- - All Classic dungeons complete.
- - All TBC dungeons complete.
- - All Classic raids complete.
- - All TBC raids complete.
+ - TBC: Dungeons complete.
+ - TBC: Raids complete.
+ - WoW: Dungeons complete.
+ - WoW: Raids complete.

@@ -6,6 +6,7 @@ local AddonName, AddonTable = ...
 -- This means a total of 4 pages of loot per boss.
 
 AddonTable.icc = {
+    50452, -- Wodin's Lucky Necklace
     -- Shared Boss Loot
     49908, -- Primordial Saronite
     50274, -- Shadowfrost Shard

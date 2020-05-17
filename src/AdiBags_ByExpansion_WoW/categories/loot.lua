@@ -2,11 +2,23 @@ local AddonName, AddonTable = ...
 
 -- Loot (Soulbound Green or Higher)
 AddonTable.loot = {
+    36,   -- Worn Mace
+
+    1010, -- Gnarled Short Staff
+
+    2362, -- Worn Wooden Shield
+    2900, -- Stone Buckler
+    2970, -- Spellbinder Pants
+
+    5761, -- Anvilmar Sledge
+
     6601, -- Dervish Boots
 
     7489, -- Captain's Gauntlets
 
     9743, -- Simple Shoes
+    9755, -- Gypsy Gloves
+    9763, -- Cadet Leggings
     9797, -- Ivycloth Pants
 
     11302, -- Uther's Strenth
@@ -40,6 +52,9 @@ AddonTable.loot = {
     51994, -- Tumultuous Cloak
     51996, -- Tumultous Necklace (Satchel of Helpful Goods)
     52000, -- Satchel of Helpful Goods (WoW Random Dungeon Bonus Bag)
+    52538, -- Primal Robe (Starter Gear)
+    52539, -- Primal Pants (Starter Gear)
+    52540, -- Primal Boots (Starter Gear)
     52942, -- Staff of Earned Tranquility
     54988, -- Cloak of the Clarion Call
     54992, -- Laborer's Belt
@@ -63,9 +78,17 @@ AddonTable.loot = {
     65996, -- Belt of Tyrannic Rule
     66008, -- Shield of Maraudon
 
+    131207, -- Well-Oiled Chain Gauntlets
+    131436, -- Wendigo Pantaloons
     131564, -- Night Watch Hauberk
     131625, -- Hann Ibal's Chain Dungarees
     131685, -- Boots of Painful Cost
+    131890, -- Plundered Rockjaw Chestguard
+    131891, -- Grik'nir's Warming Bands
+    131895, -- Ironstock's Iron Grips
+    131896, -- Big Trogg Bracers
+
+    134654, -- Greenhorn's Armbands
 
     143581, -- Earthbound Grips
     143582, -- Stalwart Belt
@@ -90,6 +113,7 @@ AddonTable.loot = {
     157685, -- Spellsculptor's Leggings
     157686, -- Spellsculptor's Robe
     157688, -- Spellsculptor's Cord
+    157689, -- Spellsculptor's Wristwraps
     157699, -- Lightsoul Sabatons
     157704, -- Lightsoul Girdle
     157705, -- Lightsoul Vambraces

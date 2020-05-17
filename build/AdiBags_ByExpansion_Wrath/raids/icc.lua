@@ -4,6 +4,7 @@ local AddonName, AddonTable = ...
 -- Normal and Heroic are also different loot ids.
 -- This means a total of 4 pages of loot per boss.
 AddonTable.icc = {
+    50452,
     -- Shared Boss Loot
     49908,
     50274,

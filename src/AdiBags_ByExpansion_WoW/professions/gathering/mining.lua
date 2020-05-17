@@ -21,7 +21,6 @@ AddonTable.mining = {
     3859,  -- Steel Bar
     3577,  -- Gold Bar
     3860,  -- Mithril Bar
-    12655, -- Enchanted Thorium Bar
     6037,  -- Truesilver Bar
     12359, -- Thorium Bar
     11371, -- Dark Iron Bar

@@ -1,4 +1,5 @@
 local AddonName, AddonTable = ...
+-- Cataclysm Alchemy
 AddonTable.alchemy = {
     51950,
     52303,
@@ -8,4 +9,6 @@ AddonTable.alchemy = {
     68777,
     68775,
     65891,
+    -- Recipe's
+    67538,
 }

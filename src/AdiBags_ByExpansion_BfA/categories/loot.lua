@@ -145,6 +145,7 @@ AddonTable.loot = {
     158005, -- Bloodbough Wristwraps
     158007, -- Gravethorn Striders
     158008, -- Gravethorn Grips
+    158010, -- Gravethorn Breeches
     158011, -- Gravethorn Shoulderguards
     158012, -- Gravethorn Belt
     158013, -- Gravethorn Wristwraps
@@ -398,6 +399,7 @@ AddonTable.loot = {
 
     170133, -- Shirakess Grips
     170140, -- Akana's Reefstrider Soles (Benethic)
+    170515, -- 7th Legionnaire's Vest
     170516, -- Honorbound Artificer's Robes
     170517, -- Honorbound Vanguard's Chainmail
     170520, -- 7th Legionnaire's Hood

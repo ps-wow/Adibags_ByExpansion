@@ -27,6 +27,11 @@ AddonTable.consumable = {
     129196,
     129192,
     129210,
+    -- Ancient Mana
+    139786,
+    140243,
+    140949,
+    141655,
 }
 AddonTable.foodDrink = {
     133557,

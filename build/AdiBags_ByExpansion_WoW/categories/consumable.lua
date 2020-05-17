@@ -1,6 +1,7 @@
 local AddonName, AddonTable = ...
 AddonTable.consumable = {
     -- Misc
+    961,
     1477,
     2289,
     2290,
@@ -86,6 +87,7 @@ AddonTable.consumable = {
     75525,
 }
 AddonTable.foodDrink = {
+    117,
     422,
     1179,
     1205,
@@ -96,6 +98,7 @@ AddonTable.foodDrink = {
     3770,
     4537,
     4538,
+    4540,
     4542,
     4599,
     4604,
@@ -106,8 +109,10 @@ AddonTable.foodDrink = {
     8766,
     8952,
     9451,
+    57544,
 }
 AddonTable.alcohol = {
     2723,
     4600,
+    57543,
 }

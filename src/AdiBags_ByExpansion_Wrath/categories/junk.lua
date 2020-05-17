@@ -35,6 +35,7 @@ AddonTable.junk = {
     33415, -- Frost-Worn Plate Chestpiece
     33416, -- Frost-Worn Plate Gloves
     33417, -- Frost-Worn Plate Pants
+    33419, -- Frost-Worn Plate Shoulderpads
     33422, -- Shattered Bow
     33423, -- Rime-Covered Mace
     33424, -- Cracked Iron Staff
@@ -45,6 +46,8 @@ AddonTable.junk = {
     33429, -- Ice Cleaver
     33430, -- Abandoned Greatsword
     33431, -- Icesmashing Mace
+    33433, -- Frigid Mail Circlet
+    33434, -- Frozen Leather Helmet
     33435, -- Frost-Worn Plate Helmet
     33436, -- Frost-Rimed Cloth Hat
     33561, -- Hardened Flipper

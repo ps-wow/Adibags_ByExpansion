@@ -2,6 +2,7 @@ local AddonName, AddonTable = ...
 
 AddonTable.consumable = {
     -- Misc
+    961,   -- Healing Herb
     1477,  -- Scroll of Agility II
     2289,  -- Scroll of Strength II
     2290,  -- Scroll of Intellect II
@@ -88,6 +89,7 @@ AddonTable.consumable = {
 }
 
 AddonTable.foodDrink = {
+    117,  -- Tough Jerky
     422,  -- Dwarven Mild
     1179, -- Ice Cold Milk
     1205, -- Melon Juice
@@ -98,6 +100,7 @@ AddonTable.foodDrink = {
     3770, -- Mutton Chop
     4537, -- Tel'Abim Banana
     4538, -- Snapvine Watermelon
+    4540, -- Tough Hunk of Bread
     4542, -- Moist Cornbread
     4599, -- Cured Ham Steak
     4604, -- Forest Mushroom Cap
@@ -108,9 +111,11 @@ AddonTable.foodDrink = {
     8766, -- Morning Glory Dew
     8952, -- Roasted Quail
     9451, -- Bubbling Water
+    57544, -- Leftover Boar Meat
 }
 
 AddonTable.alcohol = {
     2723, -- Bottle of Dalaran Noir
     4600, -- Cherry Grog
+    57543, -- Stormhammer Stout
 }

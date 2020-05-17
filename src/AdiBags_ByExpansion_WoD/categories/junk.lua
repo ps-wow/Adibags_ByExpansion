@@ -1,5 +1,6 @@
 local AddonName, AddonTable = ...
 
+-- WoD Junk
 AddonTable.junk = {
     56046,  -- Shattered Rock Fragments
 
@@ -40,6 +41,7 @@ AddonTable.junk = {
     106890, -- Luminescent Heartglobe (BrF)
 
     107393, -- Piston Rod
+    107461, -- Void Sands
     107462, -- Trembling Darkstone
     107463, -- Void Lens
     107469, -- Depleted Elemental Shard
@@ -59,6 +61,7 @@ AddonTable.junk = {
     108979, -- Bleached Bones
     108980, -- Crushed Bone Fragments
 
+    114014, -- Disarmed Explosive Device
     111484, -- Cold Tusk
     111636, -- The Crystal Blade of Torvath
 

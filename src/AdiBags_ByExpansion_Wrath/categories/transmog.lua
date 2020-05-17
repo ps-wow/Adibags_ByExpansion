@@ -41,6 +41,7 @@ AddonTable.transmog = {
     36268, -- Ulduar Greaves
     36269, -- Ulduar Breastplate
     36270, -- Ulduar Gauntlets
+    36271, -- Ulduar Helm
     36276, -- Spiderlord Boots
     36281, -- Spiderlord Spaulders
     36286, -- Spectral Gauntlets
@@ -75,6 +76,7 @@ AddonTable.transmog = {
     36581, -- Wolvar Handaxe
     36594, -- Fracturing Battleaxe
     36601, -- Patient Harpoon
+    36639, -- Brutal Ballista
     36651, -- Muzzled Musket
     36666, -- Polar Wand
     36667, -- Solid Ice Wand
@@ -84,6 +86,7 @@ AddonTable.transmog = {
     36692, -- Remedial Mace
     36694, -- Beatific Mace
     36707, -- Cascading Water Staff
+    36709, -- Crystal Woodstaff
 
     37781, -- Grips of the Warming Heart
 

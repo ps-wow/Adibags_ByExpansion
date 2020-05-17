@@ -23,6 +23,7 @@ AddonTable.transmog = {
     121205, -- Dreadroot Linked Belt
     121212, -- Dreadroot Linked Vest
     121222, -- Jandvik Gauntlets
+    121223, -- Jandvik Girdle
     121232, -- Nightfallen Outcast's Cloak
     121240, -- Ambervale Gloves
     121241, -- Ambervale Hood

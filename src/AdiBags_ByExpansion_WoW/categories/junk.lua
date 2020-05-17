@@ -169,6 +169,7 @@ AddonTable.junk = {
     55978, -- Inert Elemental Flake
     55981, -- Inert Elemental Fragment
     55982, -- Inert Elemental Granule
+    55983, -- Inert Elemental Scintilla
     55984, -- Inert Elemental Shard
 
     56034, -- Tinted Rock

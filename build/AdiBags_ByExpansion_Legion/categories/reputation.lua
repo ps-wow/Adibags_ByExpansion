@@ -1,6 +1,6 @@
 local AddonName, AddonTable = ...
-
--- MoP Reputation
 AddonTable.reputation = {
-    94226, -- Stolen Klaxxi Insignia
+    146936,
+    146938,
+    146949,
 }

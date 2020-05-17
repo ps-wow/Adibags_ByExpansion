@@ -213,8 +213,9 @@ AddonTable.junk = {
     163074, -- Hard White Pellet
     163078, -- Glittering Earring
     163079, -- Chipped Trophy Tusk
+    163080, -- Partially Eaten Sunfruit
     163084, -- Solid Gold Cutlass
-    163085, -- Onion Garland'
+    163085, -- Onion Garland
     163087, -- Satchel of Blood Oranges
     163089, -- Long-Stemmed Pipe
     163090, -- Cured Billow-Weed
@@ -223,6 +224,7 @@ AddonTable.junk = {
     163095, -- Golden Troll Berserker
     163096, -- Lead-Glass Hand Mirror
     163111, -- Blackstone Cat Statue
+    163112, -- Imp's Tongue Charm
     163113, -- Corroded Copper Kettle
     163322, -- Ian's Empty Bottle
     163323, -- Julie's Cracked Dish
@@ -239,11 +241,13 @@ AddonTable.junk = {
     163590, -- Careworn Loa Statue
     163591, -- Golden Fleet Sea Charts
     163592, -- Ceremonial Nose Ring
+    163593, -- Map of Zandalar Trade Winds
     163632, -- Pristine Strings of Pearls
     163717, -- Forbidden Sea Shanty of Josephus
     163845, -- Silver Statue Base
     163846, -- Silver Monkey Head
     163847, -- Silver Monkey Torso
+    163848, -- Overused Voodoo Doll
     163849, -- Bad Troll Love Poem
     163850, -- Bloody Gamekeeper's Arm
     163855, -- Duplicate Pilgrimage Scroll
@@ -255,7 +259,9 @@ AddonTable.junk = {
     168788, -- Toy Soldier Weapons
     168787, -- Empty Birdcage
     168789, -- Perpetual Motion Device
+    168791, -- Shiny Rocks
     168795, -- Old Boot
+    168796, -- Recycled Scroll
 
     169010, -- Corroded Evaporator Coil
     169122, -- Gibraltian Monkey Wrench
@@ -274,6 +280,7 @@ AddonTable.junk = {
     169143, -- Seized Sparksaw
     169145, -- Rused Precision Gripper
     169149, -- Dulled Micro-Serrated Incisor
+    169976, -- Disintegrating Leaf
     169984, -- Shattered Dragonscale
 
     170001, -- Seized Engine

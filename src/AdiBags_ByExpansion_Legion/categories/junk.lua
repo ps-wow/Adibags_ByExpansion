@@ -2,9 +2,12 @@ local AddonName, AddonTable = ...
 
 AddonTable.junk = {
     121333, -- Weighted Blackjack
+    121336, -- Mossy Longbow
     121345, -- Weatherworn Belt
+    121348, -- Sunbleached Wristwraps
     121350, -- Rust-Encrusted Leggings
     121352, -- Weatherworn Pants
+    121360, -- Warped-Plate Gauntlets
     121363, -- Warped-Plate Helmet
     121364, -- Sunbleached Cowl
     121365, -- Warped-Plate Leggings
@@ -12,9 +15,11 @@ AddonTable.junk = {
     121368, -- Sunbleached Shirt
     121369, -- Weatherworn Vest
     121370, -- Warped-Plate Stompers
+    121371, -- Rust-Encrusted Sabatons
     121372, -- Sunbleached Sandals
     121385, -- Deteriorated Hearthstone Desk
     121387, -- Leather Pistol Holster
+    121390, -- Anund's Bandages
     121402, -- Old Bloodsoaked Gauntlets
     121414, -- The Dreamweavers Ignorance
 
@@ -48,7 +53,9 @@ AddonTable.junk = {
     132219, -- Opposable Leaf
     132220, -- Broken Stem
     132223, -- Elemental Droplet
+    132229, -- Cold-Resistant Hide
     132231, -- Won Hooked Claw
+    132232, -- Coalesced Extoplasm
     132233, -- Lingering Essence
     132237, -- Large Leg Bone
     132239, -- Bone Splinters
@@ -61,7 +68,19 @@ AddonTable.junk = {
     138249, -- Ruined Spellbook
     138250, -- Statue of Queen Azshara
     138251, -- Calcified Dragon Egg
+    138307, -- Expired Stinky Cheese
     138480, -- Black Harvest Tome
+
+    141876, -- Soul-Powered Containment Unit
+    141888, -- Discarded Aristocrat's Censer
+    141933, -- Citrine Telemancy Index
+    141934, -- Partially Enchanted Nightborne Coin
+    141935, -- Enchrgled Mlrgmlrg of Enderglment
+    141944, -- Empowered Half-Shell
+
+    142001, -- Antler of Cenarius
+    142054, -- Enchanted Nightborne Coin
+    142055, -- Enchanted Nightborne Coin
 
     152862, -- Shredded Felbroken Shawl
 
@@ -70,10 +89,14 @@ AddonTable.junk = {
     138783, -- Glittering Memento
     138839, -- Valiant's Glory
     138885, -- Treasure of the Ages
+    140251, -- Purified Satyr Totem
     140310, -- Crude Statuette
     140517, -- Glory of the Order
     141384, -- Emblem of the Dark Covenant
     141404, -- Insignia of the Second Command
+    141932, -- Shard of Compacted Energy
+    147811, -- Experts Bounty
+    152654, -- Lesser Unity of the Orders
     153164, -- Otherworldy Trophy
 
     -- Sentinax Consumables
