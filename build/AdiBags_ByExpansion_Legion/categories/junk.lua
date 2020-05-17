@@ -90,7 +90,10 @@ AddonTable.junk = {
     152654,
     153164,
     -- Sentinax Consumables
+    146905,
+    146906,
     146907,
+    146908,
     -- Blingtron 6000
     114009,
     114005,

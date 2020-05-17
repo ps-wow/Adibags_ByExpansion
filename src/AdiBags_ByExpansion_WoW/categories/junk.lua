@@ -15,6 +15,7 @@ AddonTable.junk = {
     1507, -- Warped Leather Pants
     1510, -- Heavy Hammer
     1511, -- Commoner's Sword
+    1515, -- Rough Wooden Staff
     1520, -- Troll Sweat
     1702, -- Intact Basilisk Spine
     1735, -- Worn Mail Pants
@@ -24,6 +25,7 @@ AddonTable.junk = {
     1789, -- Patched Leather Bracers
     1806, -- Tough Cloak
     1814, -- Battered Mallet
+    1817, -- Stock Shortsword
 
     2057, -- Pitted Defias Shortsword
     2212, -- Cracked Buckler
@@ -68,6 +70,7 @@ AddonTable.junk = {
 
     4018, -- Whetted Claymore
     4093, -- Large Basilisk Tail
+    4361, -- Bent Copper Tube
     4428, -- Spider Palp
     4460, -- Ripped Wing Webbing
     4555, -- Thick Scaly Tail
@@ -94,6 +97,7 @@ AddonTable.junk = {
 
     6444, -- Forked Tongue
     6445, -- Brittle Molting
+    6518, -- Pioneer Boots
 
     7073, -- Broken Fang
     7074, -- Chipped Claw
@@ -154,6 +158,8 @@ AddonTable.junk = {
 
     33546, -- Viscious Fang
 
+    35691, -- Ruined Metal Parts
+
     49406, -- Gilnean Neophyte's Boots
 
     54627, -- Wilted Flower
@@ -192,4 +198,6 @@ AddonTable.junk = {
     62328, -- Shed Fur
 
     68724, -- Broken Barn Door
+
+    114008, -- Broken Weapon Attachment
 }

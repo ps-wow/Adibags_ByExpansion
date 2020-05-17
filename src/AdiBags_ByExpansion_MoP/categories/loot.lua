@@ -33,7 +33,17 @@ AddonTable.loot = {
     87636, -- Cloak of the Forgotten Emporer
 
     90350, -- Satin Robe of Eminent Domain
+    90355, -- Heavy Chestpiece of Eminent Domain
+    90374, -- Sully's Hotwiring Knife
+    90375, -- Airship Marine's Sharpshooter
+    90376, -- Barricade Breaker Cudgel
+    90377, -- Fogcutter Staff
+    90378, -- Staff of the Skymagi
+    90379, -- Mystic Perpetual Motion Mace
     90380, -- Skyfire Medic's Staff
+    90381, -- Shock Trooper Battleaxe
+    90382, -- Captain Roger's Polite Knocking Stick
+    90383, -- Skyfire Troopers Mace
 
     95212, -- Abandoned Zandalari Waterchain
 

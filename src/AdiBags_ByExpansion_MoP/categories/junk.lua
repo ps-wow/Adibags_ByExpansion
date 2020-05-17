@@ -50,6 +50,7 @@ AddonTable.junk = {
     90779, -- Moist Mail Shoulderpads
     90782, -- Slipshod Plate Bracers
 
+    90803, -- Moist Mail Bracers
     90805, -- Robble's Stabilized Staff
     90806, -- Rusted Blade
     90809, -- Knog's Bow of Clumsiness

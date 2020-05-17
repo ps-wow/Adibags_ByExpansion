@@ -1,6 +1,7 @@
 local AddonName, AddonTable = ...
 
 AddonTable.mining = {
+    -- Ore
     72092, -- Ghost Iron Ore
     72093, -- Kyparite
     72094, -- Black Trillium Ore
@@ -8,4 +9,6 @@ AddonTable.mining = {
     -- Bars
     72096, -- Ghost Iron Bar
     72095, -- Trillium Bar
+    -- Gems
+    76134, -- Sunstone
 }

@@ -16,6 +16,7 @@ AddonTable.engineering = {
     4357,  -- Rough Blasting Powder
     4359,  -- Handful of Copper Bolts
     4364,  -- Coarse Blasting Powder
+    4371,  -- Bronze Tube
     10647, -- Engineer's Ink
     -- Tools
     6219,  -- Arclight Spanner

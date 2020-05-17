@@ -18,6 +18,8 @@ AddonTable.loot = {
     30028,
     32593,
     51965,
+    51987,
+    51993,
     51995,
     -- Tier Sets
     --- Druid

@@ -1,6 +1,7 @@
 local AddonName, AddonTable = ...
 
 AddonTable.junk = {
+    60388, -- Shimmering Claw
     60485, -- Crackling Crystals
     60486, -- Shimmering Shards
     62063, -- Shattered War Mace
@@ -75,6 +76,8 @@ AddonTable.junk = {
     62421, -- Scintillating Crystals
     62435, -- Conductive Shards
     62521, -- Smoldering Fungus
+
+    63024, -- Flame Drenched Canine
 
     66945, -- Stormhammer Head
     66949, -- Wildhammer Book of Verse

@@ -29,8 +29,10 @@ AddonTable.transmog = {
     5267,  -- Scarlet Kris
 
     6386,  -- Glimmering Mail Legguards
+    6540,  -- Willow Pants
     6542,  -- Willow Cape
     6557,  -- Bard's Boots
+    6558,  -- Bard's Belt
     6565,  -- Shimmering Gloves
     6570,  -- Shimmering Sash
     6584,  -- Scouting Tunic
@@ -124,6 +126,7 @@ AddonTable.transmog = {
     13146, -- Shell Launcher Shotgun
 
     14124, -- Ritual Gloves
+    14167, -- Buccaneer's Cape
     14200, -- Thistlefur Cap
     14228, -- Embersilk Coronet
     14431, -- Windchaser Handguards

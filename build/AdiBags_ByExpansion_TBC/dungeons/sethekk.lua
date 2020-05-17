@@ -20,4 +20,10 @@ AddonTable.sethekk = {
     27838,
     27948,
     27925,
+    -- Quest Rewards
+    --- Brother Against Brother (29605)
+    29333,
+    29334,
+    29335,
+    29336,
 }

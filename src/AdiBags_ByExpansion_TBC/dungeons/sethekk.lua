@@ -21,4 +21,10 @@ AddonTable.sethekk = {
     27838, -- Incanter's Trousers
     27948, -- Trousers of Oblivion
     27925, -- Ravenclaw Band
+    -- Quest Rewards
+    --- Brother Against Brother (29605)
+    29333, -- Torc of the Sethekk Prophet
+    29334, -- Sethekk Oracles Focus
+    29335, -- Talon-Lord's Collar
+    29336, -- Mark of the Ravenguard
 }

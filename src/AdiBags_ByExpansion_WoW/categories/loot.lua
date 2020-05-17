@@ -62,6 +62,7 @@ AddonTable.loot = {
     54999, -- Seryl's Robes
     55013, -- Seryl's Promise
     57401, -- Jasperlode Chestguard (White Plate Chest)
+    57541, -- Ragged Wolf Hide Cloak
     58903, -- Kobold Candle
     58907, -- Crime Scene Tape [Quest: Westfall]
     58909, -- Golden Sunshine Cloak [Quest: Westfall]
@@ -78,6 +79,7 @@ AddonTable.loot = {
     65996, -- Belt of Tyrannic Rule
     66008, -- Shield of Maraudon
 
+    131206, -- Shimmerweed Brewer Treads
     131207, -- Well-Oiled Chain Gauntlets
     131436, -- Wendigo Pantaloons
     131564, -- Night Watch Hauberk

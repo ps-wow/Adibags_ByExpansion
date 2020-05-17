@@ -90,6 +90,7 @@ AddonTable.consumable = {
 
 AddonTable.foodDrink = {
     117,  -- Tough Jerky
+    414,  -- Dalaran Sharp
     422,  -- Dwarven Mild
     1179, -- Ice Cold Milk
     1205, -- Melon Juice

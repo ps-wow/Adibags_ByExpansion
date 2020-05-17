@@ -24,6 +24,8 @@ AddonTable.loot = {
     32593, -- Treads of the Den Mother
 
     51965, -- Enumerated Shoulders
+    51987, -- Stalwart Grips
+    51993, -- Turbulent Cloak
     51995, -- Turbulent Necklace
 
     -- Tier Sets

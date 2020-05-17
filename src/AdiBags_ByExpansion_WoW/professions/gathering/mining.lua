@@ -36,6 +36,7 @@ AddonTable.mining = {
     1206,  -- Moss Agate
     1210,  -- Shadowgem
     1529,  -- Jade
+    1705,  -- Lesser Moonstone
     3864,  -- Citrine
     7909,  -- Aquamarine
     7910,  -- Star Ruby

@@ -100,7 +100,10 @@ AddonTable.junk = {
     153164, -- Otherworldy Trophy
 
     -- Sentinax Consumables
+    146905, -- Sentinax Beacon of the Firestorm
+    146906, -- Sentinax Beacon of Carnage
     146907, -- Sentinax Beacon of Warbeasts
+    146908, -- Sentinax Beacon of Engineering
 
     -- Blingtron 6000
     114009, -- Viral Sample (Blingtron)
