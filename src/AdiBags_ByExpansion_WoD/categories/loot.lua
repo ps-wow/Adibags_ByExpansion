@@ -34,6 +34,7 @@ AddonTable.loot = {
     109081, -- Ronokk's Greatcloak
     109739, -- Star Chart [Toy]
 
+    112371, -- Warpstalker-Scale Grips
     112389, -- Iron Horde Warcudgel
     112393, -- Iron Horde Waraxe
     112440, -- Slavebreaker Robes
@@ -92,6 +93,7 @@ AddonTable.loot = {
     116834, -- Whitesea's Waistwrap
     116835, -- Assassin's Spear
     116852, -- Tesska's Cursed Talisman
+    116857, -- Stave of Buzzing Bark
     116875, -- Rusty Iron Band
     116887, -- Rooby Roo's Ruby Rollar
     116911, -- Outcast Decoder Ring
@@ -107,7 +109,9 @@ AddonTable.loot = {
     117981, -- Fragment of Oshu'gun
 
     118203, -- Moultingskin Tunic
+    118204, -- Oskiira's Mercy
     118205, -- Blightglow Pauldrons
+    118206, -- Mutafen's Mighty Maul
     118212, -- Char's Smoldering Fist
     118223, -- Sunclaw
     118235, -- Ogre Diving Cap (20 Slot Bag)
