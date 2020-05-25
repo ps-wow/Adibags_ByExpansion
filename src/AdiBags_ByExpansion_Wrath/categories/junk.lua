@@ -100,6 +100,8 @@ AddonTable.junk = {
     44778, -- Hefty Barrel
     44781, -- Sparkly Raptor War Feather
 
+    45199, -- Old Boot
+
     45999, -- Worthless Piece of White Glass
 
     52019, -- Precious' Ribbon [Shirt]

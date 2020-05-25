@@ -25,6 +25,7 @@ AddonTable.loot = {
     86527, -- Blade of the Poisoned Mind [BoA]
     86529, -- Manipulator's Talisman [BoA]
 
+    87598, -- Monstrous Silk Gloves
     87600, -- Marshsong Gloves
     87618, -- Ice Encrusted Bracer
     87621, -- Wristguards of Great Fortune
@@ -44,10 +45,13 @@ AddonTable.loot = {
     90381, -- Shock Trooper Battleaxe
     90382, -- Captain Roger's Polite Knocking Stick
     90383, -- Skyfire Troopers Mace
+    90389, -- Skyguardian's Shield
 
     95212, -- Abandoned Zandalari Waterchain
 
     101810, -- Amaranthine Wristwraps (Timeless Cloth Bracers)
+    
+    113785, -- Kyparite Girdle
 
     -- Sets (Warlock)
     87189, -- Sha-Skin Leggings

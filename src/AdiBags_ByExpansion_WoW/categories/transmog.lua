@@ -153,6 +153,7 @@ AddonTable.transmog = {
 
     18337, -- Orphic Bracers
 
+    68749, -- Imbued Disciple's Bracers
     68750, -- Imbued Pioneer Belt
     68754, -- Imbued Disciple's Boots
 

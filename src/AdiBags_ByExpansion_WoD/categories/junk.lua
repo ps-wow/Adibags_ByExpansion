@@ -9,6 +9,7 @@ AddonTable.junk = {
     106285, -- Acid Scarred Plate Belt
     106289, -- Sun-Baked Bracers
     106294, -- Acid Scarred Plate Pants
+    106296, -- Scraggly Cloth Pants
     106299, -- Ripped Mail Boots
     106300, -- Acid Scarred Plate Boots
     106302, -- Acid Scarred Plate Gloves
@@ -23,6 +24,10 @@ AddonTable.junk = {
     106324, -- Robbles Staff of Herding
     106325, -- Grime-Fouled Mail Belt
     106327, -- Gronncloth Belt
+    106330, -- Grime-Fouled Mail Bracers
+    106331, -- Gronncloth Bracers
+    106332, -- Overstretched Leather Bracers
+    106333, -- Grime-Fouled Mail Pants
     106336, -- Punctured Plate Pauldrons
     106350, -- Punctured Plate Chestpiece
     106824, -- Ruffled Plumage
@@ -61,6 +66,8 @@ AddonTable.junk = {
     108979, -- Bleached Bones
     108980, -- Crushed Bone Fragments
 
+    110287, -- Wriggling Worm
+
     114014, -- Disarmed Explosive Device
     111484, -- Cold Tusk
     111636, -- The Crystal Blade of Torvath
@@ -93,7 +100,9 @@ AddonTable.junk = {
     118227, -- Glossy Brochure
     118233, -- Enormous Nagrand Pearl
     118234, -- Smoldering Offerings
+    118266, -- Golden Kaliri Egg
     118280, -- Succulent Offshoot
+    118281, -- Glowing Seeds
     118678, -- Ceremonial Warsong Spear
     118691, -- Iron Horde Explosives
     118692, -- Sethekk Idol

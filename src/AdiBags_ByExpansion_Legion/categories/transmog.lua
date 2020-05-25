@@ -9,6 +9,8 @@ AddonTable.transmog = {
     121047, -- Faronaar Chain Vest
     121049, -- Temporal Scholar's Cowl
     121061, -- Ettinbone Pauldrons
+    121072, -- Icepine Bindings
+    121095, -- Hillstride Belt
     121101, -- Hillstride Spaulders
     121103, -- Hagfeather Cord
     121113, -- Valarsmidd Girdle
@@ -31,6 +33,8 @@ AddonTable.transmog = {
     121243, -- Ambervale Shoulders
     121264, -- Warpwind Helm
     121265, -- Warpwind Legguards
+
+    141577, -- Fists of Thane Kray-Tan
 
     144401, -- Cloak of Multitudinous Sheaths
 }

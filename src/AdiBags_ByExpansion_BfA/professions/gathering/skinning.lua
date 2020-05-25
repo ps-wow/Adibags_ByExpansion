@@ -9,6 +9,7 @@ AddonTable.skinning = {
     152542, -- Hardened Tempest Hide
     -- Scales
     153050, -- Shimmerscale
+    153051, -- Mistscale
     168650, -- Cragscale
     -- Misc
     154164, -- Blood-Stained Bone

@@ -3,6 +3,7 @@ local AddonName, AddonTable = ...
 AddonTable.transmog = {
     106392, -- Bladespire Girdle
     106407, -- Lunarglow Cord
+    106408, -- Lunarglow Cowl
     106410, -- Lunarglow Leggings
     106426, -- Rimeplate Helm
     106457, -- Rockspine Gauntlets
@@ -13,6 +14,7 @@ AddonTable.transmog = {
     106500, -- Steamscar Britches
     106502, -- Steamscar Hood
     106520, -- Highland Spaulders
+    106669, -- Breezestrider Shoulders
     106671, -- Windswept Cord
     106679, -- Snarlthorn Belt
     106691, -- Ironfist Legplates
@@ -45,7 +47,10 @@ AddonTable.transmog = {
     116464, -- Frostbitten Gun
     116475, -- Lunarglow Broadaxe
     116493, -- Vinewrapped Bow
+    116588, -- Longclaw Staff
     116593, -- Bloodmane Axe
+    116594, -- Bloodmane Broadaxe
+    116606, -- Bloodmane Staff
     116610, -- Gorian Axe
     116612, -- Gorian Bow
     116616, -- Gorian Knuckles
@@ -54,9 +59,11 @@ AddonTable.transmog = {
     116627, -- Howling Axe
     116629, -- Howling Bow
     116631, -- Howling Dagger
+    116632, -- Oshu'gun Spellblade
     116633, -- Howling Knuckles
     116635, -- Howling Mace
     116638, -- Howling Spear
+    116640, -- Howling Staff
     116641, -- Howling Sword
     116721, -- Ancestral Branch
 

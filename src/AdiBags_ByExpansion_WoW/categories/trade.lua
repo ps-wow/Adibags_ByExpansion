@@ -20,6 +20,7 @@ AddonTable.trade = {
     7972,  -- Ichor of Undeath
     11382, -- Blood of the Mountain
     12803, -- Living Essence
+    12804, -- Powerful Mojo
     12808, -- Essence of Undeath
     17010, -- Fiery Core (MC)
     17011, -- Lava Core (MC)

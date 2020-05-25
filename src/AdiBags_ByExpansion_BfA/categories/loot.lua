@@ -135,6 +135,7 @@ AddonTable.loot = {
     157979, -- Seafarer Shoulderpads
     157981, -- Seafarer Armguards
     157989, -- Crosswind Wristguards
+    157992, -- Harbormaster Gauntlets
     157994, -- Sirensong Garments
     157995, -- Harbormaster Legplates
     157996, -- Harbormaster Pauldrons
@@ -154,12 +155,14 @@ AddonTable.loot = {
     158025, -- Bleakweald Greathelm
     158027, -- Bleakweald Legguards
     158028, -- Bleakweald Pauldrons
+    158029, -- Bleakweald Waistguard
     158030, -- Bleakweald Vambraces
     158034, -- Squallshaper Leggings
     158035, -- Squallshaper Mantle
     158037, -- Squallshaper Cuffs
     158039, -- Fairweather Boots
     158041, -- Fairweather Helm
+    158057, -- Shoalbreach Helm
     158059, -- Shoalbreach Legguards
     158060, -- Shoalbreach Pauldrons
     158075, -- Heart of Azeroth
@@ -412,6 +415,7 @@ AddonTable.loot = {
     170658, -- Mistdancer Stone of Wisdom [120 Boost - Trinket]
     170659, -- Mistdancer Staff [120 Boost - Staff]
     170657, -- Mistdancer Band of Wisdom [120 Boost - Ring]
+    170823, -- Mistdancer Boots [120 Boost - Boots]
     170824, -- Mistdancer Gloves [120 Boost - Gloves]
     170826, -- Mistdancer Britches [120 Boost - Pants]
     170827, -- Mistdancer Shoulders [120 Boost - Shoulders]

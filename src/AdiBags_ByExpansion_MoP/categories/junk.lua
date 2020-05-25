@@ -46,6 +46,7 @@ AddonTable.junk = {
     90764, -- Shabby Gloves
     90765, -- Shabby Pants
     90767, -- Scruffy Cloth Shoulderpads
+    90768, -- Scruffy Cloth Vest
     90769, -- Shabby Armor
     90779, -- Moist Mail Shoulderpads
     90782, -- Slipshod Plate Bracers

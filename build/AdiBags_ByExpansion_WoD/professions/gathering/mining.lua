@@ -4,4 +4,6 @@ AddonTable.mining = {
     109118,
     109119,
     -- Gems
+    -- Misc
+    116913,
 }

@@ -22,6 +22,7 @@ AddonTable.junk = {
     62079, -- Dirt-Caked Shoulderpads
     62081, -- Dirt-Caked Armor
     62082, -- Dirt-Caked Pants
+    62083, -- Clammy Mail Boots
     62084, -- Pockmarked Cloth Bracers
     62085, -- Pockmarked Cloth Boots
     62086, -- Dirt-Caked Gloves
@@ -38,6 +39,7 @@ AddonTable.junk = {
     62098, -- Clammy Mail Shoulderpands
     62099, -- Clammy Mail Pants
 
+    62100, -- Pockmarked Cloth Belt
     62101, -- Clammy Mail Circlet
     62102, -- Dirt-Caked Leather Helmet
     62103, -- Pockmarked Hay
@@ -72,6 +74,8 @@ AddonTable.junk = {
     62134, -- Bleached Plate Helmet
     62135, -- Singed Leather Helmet
     62136, -- Sooty Mail Circlet
+    62272, -- Spiny Carapace
+    62273, -- Pinioning Pincer
     62413, -- Rigid Spinneret
     62421, -- Scintillating Crystals
     62435, -- Conductive Shards

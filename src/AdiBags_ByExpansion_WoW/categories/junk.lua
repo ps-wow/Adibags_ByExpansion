@@ -126,6 +126,7 @@ AddonTable.junk = {
     11393, -- Small Bat Skull
     11394, -- Bat Heart
     11414, -- Grizzled Mane
+    11418, -- Hollow Wing Bone
     12735, -- Frayed Abomination Stitching
     13816, -- Fine Longsword
     13817, -- Tapered Greatsword

@@ -17,6 +17,7 @@ AddonTable.loot = {
     108901, -- Moonwillow Wand
     108902, -- Armored Elekk Tusk
     108903, -- Tiny Iron Star
+    108904, -- Fingers of the Void
     108906, -- Sporebat Larval Pod
     108907, -- Mushroom of Destiny
     108912, -- Karabor Greatsword
@@ -28,17 +29,22 @@ AddonTable.loot = {
     109060, -- Rylak-Scale Vest
     109061, -- Ku'targ's Merciless Grips
     109075, -- Abberant's Paw
+    109077, -- Rockhoof's Crest
     109078, -- Killmaw's Canine
     109081, -- Ronokk's Greatcloak
     109739, -- Star Chart [Toy]
 
+    112389, -- Iron Horde Warcudgel
     112393, -- Iron Horde Waraxe
     112440, -- Slavebreaker Robes
     112443, -- Slavebreaker Chestguard
     112663, -- Voidgazer Headguard
     112664, -- Voidgazer Cap
+    112669, -- Quarrier's Shoulderplates
+    112699, -- Teroclaw Hatchling [Battle Pet]
     112798, -- Mindsworn Band
     112810, -- Windowhanger Wraps (From: 114053)
+    112811, -- Wallbuilder Gauntlets
 
     113082, -- Precious Bloodthorn Loop
     113145, -- Karabor Guardian Gorget
@@ -50,6 +56,8 @@ AddonTable.loot = {
     113546, -- Uzko's Dusty Boots
     113547, -- Bouquet of Dried Flowers
     113553, -- Windfang Sabre
+    113556, -- Varandi Family Chest
+    113557, -- Dragonrider's Tinkered Leggings
     113560, -- Ancestral Shadowmoon Greataxe
     113561, -- Staff of the Mad Bramble King
     113563, -- Shadowmoon Sacrificial Dagger
@@ -68,6 +76,8 @@ AddonTable.loot = {
     114984, -- Mysterious Satchel (Quest Item)
 
     116112, -- Ra'kahn's Bite
+    116120, -- Tasty Talador Lunch [Toy]
+    116132, -- Snail Shell Necklace
     116724, -- Oshu'gun Basin
     116725, -- Oshu'gun Ring
     116760, -- Saberon-Fang Shanker
@@ -79,10 +89,12 @@ AddonTable.loot = {
     116814, -- Tura'aka's Clipped Wing
     116824, -- Rabid Talbuk Horn
     116832, -- Blademasters Honor
+    116834, -- Whitesea's Waistwrap
     116835, -- Assassin's Spear
+    116852, -- Tesska's Cursed Talisman
     116875, -- Rusty Iron Band
+    116887, -- Rooby Roo's Ruby Rollar
     116911, -- Outcast Decoder Ring
-    116913, -- Peon's Mining Pick
     116914, -- Ephial's Grimoire
     116920, -- True Steel Lockbox
 
@@ -90,8 +102,12 @@ AddonTable.loot = {
     117498, -- Moonsole Slippers
     117499, -- Lunarlight Plate Stompers
     117500, -- Lunartanned Boots
+    117563, -- Deathweb Toxin Vial
+    117571, -- Gordunni Skullthumper
+    117981, -- Fragment of Oshu'gun
 
     118203, -- Moultingskin Tunic
+    118205, -- Blightglow Pauldrons
     118212, -- Char's Smoldering Fist
     118223, -- Sunclaw
     118235, -- Ogre Diving Cap (20 Slot Bag)
@@ -101,6 +117,7 @@ AddonTable.loot = {
     118241, -- Anzu's Piercing Talon
     118242, -- Anzu's Scorn
     118243, -- Redclaw's Gutripper
+    118251, -- Trophy Gemstone of the Elements
     118253, -- Trophy Band of Telaar
     118254, -- Trophy Signet of the Sabermaw
     118255, -- Trophy Ring of Gordal
@@ -111,6 +128,7 @@ AddonTable.loot = {
     118735, -- Bloodbathed Outcast Robes
 
     119230, -- Unpopped Pustule Pendant
+    119355, -- Leggings of Howling Winds
     119457, -- Handaxe of Trials (Proving Grounds)
     119458, -- Greataxe of Trials (Proving Grounds)
 

@@ -226,6 +226,7 @@ AddonTable.junk = {
     163111, -- Blackstone Cat Statue
     163112, -- Imp's Tongue Charm
     163113, -- Corroded Copper Kettle
+    163321, -- Jason's Rusty Blade
     163322, -- Ian's Empty Bottle
     163323, -- Julie's Cracked Dish
     163325, -- Ofer's Bound Journal
@@ -256,6 +257,7 @@ AddonTable.junk = {
     165281, -- Yellowed Treasure Map
     165284, -- Singed Treasure Map
 
+    168786, -- Rotten Food
     168788, -- Toy Soldier Weapons
     168787, -- Empty Birdcage
     168789, -- Perpetual Motion Device
@@ -297,6 +299,7 @@ AddonTable.junk = {
 
     174207, -- Bony Amber Fragment
     174209, -- Encased Arthropod
+    174513, -- Innert Geode
     174514, -- Discarded Token
     174515, -- Star Powder
     174516, -- Dampened Ward

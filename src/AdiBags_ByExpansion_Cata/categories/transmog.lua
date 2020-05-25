@@ -3,6 +3,7 @@ local AddonName, AddonTable = ...
 -- Non-soulbound green or higher
 
 AddonTable.transmog = {
+    55287, -- Bladefist Axe
     55288, -- Irontree Axe
     55296, -- Bladefist Broadaxe
     55306, -- Irontree Bow
@@ -13,6 +14,7 @@ AddonTable.transmog = {
     55350, -- Bladefist Knuckles
     55351, -- Irontree Knuckles
     55367, -- Mereldar Scepter
+    55368, -- Thondroril Scepter
     55369, -- Blackwolf Scepter
     55377, -- Thondroril Crystal
     55387, -- Irontree Mace

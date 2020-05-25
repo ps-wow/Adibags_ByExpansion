@@ -98,12 +98,19 @@ AddonTable.loot = {
 
     151430, -- Hematite Tortoise Pendant
 
+    157619, -- Spire of Astral Force (Starter Gear)
     157622, -- Silverscope Longrifle (Starter Gear)
     157638, -- Lightning-Binder's Claws (Starter Gear)
     157643, -- Helm-Hewer Greataxe (Starter Gear)
     157651, -- Staff of Elemental Shaping
     157652, -- Shadow-Binder's Spire
     157655, -- Lightning-Binder's Bulwark (Starter Gear)
+    157666, -- Wildshifter Tunic (Starter Gear)
+    157667, -- Wildshifter Treads (Starter Gear)
+    157668, -- Wildshifter Grips (Starter Gear)
+    157670, -- Wildshifter Leggings (Starter Gear)
+    157672, -- Wildshifter Belt (Starter Gear)
+    157673, -- Wildshifter Bracers (Starter Gear)
     157674, -- Heartbonded Vest (Starter Gear)
     157675, -- Heartbonded Greaves (Starter Gear)
     157676, -- Heartbonded Gauntlets (Starter Gear)

@@ -3,6 +3,7 @@ local AddonName, AddonTable = ...
 AddonTable.junk = {
     121333, -- Weighted Blackjack
     121336, -- Mossy Longbow
+    121337, -- Permanently Jammed Blunderbuss
     121345, -- Weatherworn Belt
     121348, -- Sunbleached Wristwraps
     121350, -- Rust-Encrusted Leggings
@@ -17,8 +18,23 @@ AddonTable.junk = {
     121370, -- Warped-Plate Stompers
     121371, -- Rust-Encrusted Sabatons
     121372, -- Sunbleached Sandals
+    121373, -- Weatherworn Boots
+    121374, -- Indecipherable Map
+    121375, -- Voo's Juicer
+    121376, -- Azsharan Queensguard Blade
+    121377, -- Beastmasters Discarded Axe
+    121378, -- Saga of Elandrul
+    121379, -- Mechanized Musket
+    121380, -- Magnificent Cleaver
+    121381, -- Chipped Colossus Blade
+    121382, -- Arthropod Leg Club
+    121383, -- Curious Nar'thalas Student's Staff
+    121384, -- Elemental Bindings
     121385, -- Deteriorated Hearthstone Desk
+    121386, -- Cord of Mandibles
     121387, -- Leather Pistol Holster
+    121388, -- Unseen Bindings
+    121389, -- Fossilized Egg
     121390, -- Anund's Bandages
     121402, -- Old Bloodsoaked Gauntlets
     121414, -- The Dreamweavers Ignorance
@@ -34,6 +50,7 @@ AddonTable.junk = {
 
     131751, -- Fractured Portal Shard
     131795, -- Nar'thalasian Corsage
+    131802, -- Offering to Ram'Pag
 
     132183, -- Razor Tooth
     132184, -- Intact Shimmering Scale
@@ -60,6 +77,10 @@ AddonTable.junk = {
     132237, -- Large Leg Bone
     132239, -- Bone Splinters
 
+    134051, -- Partially Digested Hearthstone Card
+    134053, -- Lost Treasure Map
+    134054, -- Unidentified Hand
+
     138242, -- Waterstained Tarot Deck
     138243, -- Rust-Eaten Sword
     138245, -- Spoiled Azsharan Wineskin
@@ -71,6 +92,7 @@ AddonTable.junk = {
     138307, -- Expired Stinky Cheese
     138480, -- Black Harvest Tome
 
+    141322, -- Shiny Silver Necklace
     141876, -- Soul-Powered Containment Unit
     141888, -- Discarded Aristocrat's Censer
     141933, -- Citrine Telemancy Index
@@ -81,6 +103,10 @@ AddonTable.junk = {
     142001, -- Antler of Cenarius
     142054, -- Enchanted Nightborne Coin
     142055, -- Enchanted Nightborne Coin
+
+    146309, -- Expended Spell Reagents
+
+    147210, -- Disgusting Goo
 
     152862, -- Shredded Felbroken Shawl
 

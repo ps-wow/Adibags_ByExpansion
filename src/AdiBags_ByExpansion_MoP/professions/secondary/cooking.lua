@@ -1,7 +1,7 @@
 local AddonName, AddonTable = ...
 
 AddonTable.cooking = {
-    -- Materials
+    -- Ingredients
     74833, -- Raw Tiger Steak
     74837, -- Raw Turtle Meat
     74840, -- Green Cabbage
@@ -18,5 +18,6 @@ AddonTable.cooking = {
 
     102541, -- Aged Balsamic Vinegar
     102542, -- Ancient Pandaren Spices
+    102543, -- Aged Mogu'shan Cheese
     -- Recipies
 }

@@ -8,6 +8,7 @@ AddonTable.skinning = {
     152542,
     -- Scales
     153050,
+    153051,
     168650,
     -- Misc
     154164,

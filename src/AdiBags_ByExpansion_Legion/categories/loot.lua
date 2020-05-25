@@ -23,6 +23,7 @@ AddonTable.loot = {
     121055, -- Temporal Scholar's Wristwraps
     121106, -- Hagfeather Leggings
     121124, -- Stormforged Idol
+    121137, -- Stormwing Band
     121188, -- Smolderhide Shoulders
     121217, -- Crescent Vale Robe
     121247, -- Nightfall Loop
@@ -32,7 +33,8 @@ AddonTable.loot = {
     121580, -- Sablehide Boots
     121646, -- Witchmother Drape
     121759, -- Feather-Notched Belt
-    121761, -- Skyfire Marin'e Vambraces
+    121761, -- Skyfire Marine Vambraces
+    121804, -- Cloak of the Everliving Keeper
 
     123959, -- Demon Trophy
     123960, -- Charm of Demonic Fire
@@ -53,6 +55,7 @@ AddonTable.loot = {
     128958, -- Leko's Leash
     128959, -- Seal of House Wrynn
 
+    129056, -- Dreadlord's Hamstring
     129065, -- The Shadow Oracle's Leggings
     129066, -- Nar'thalas Guard Mantle
     129073, -- Bitterbrine's Signet Ring
@@ -69,7 +72,8 @@ AddonTable.loot = {
     130000, -- Bands of Unrelenting Anguish
     130116, -- Twisted Wraithtalon Gloves
     130125, -- Dreadbog Fungalflesh Cape
-    103133, -- Undergrell Mobilehelm
+    130133, -- Undergrell Mobilehelm
+    130135, -- Mana-Prowler Leggings
     130166, -- Risen Saber Kitten [Battle Pet]
     130171, -- Cursed Orb [Toy]
     130214, -- Worn Doll [Toy]
@@ -77,6 +81,7 @@ AddonTable.loot = {
     132234, -- Spectral Dust
     132243, -- Fel-Etched Glaive
     132906, -- Leywalker Cord
+    132947, -- Nar'thalas Sabatons
     132951, -- Leywalker Shoes
     132963, -- Young Drake's Impulse
 
@@ -96,6 +101,7 @@ AddonTable.loot = {
     133324, -- Illidari Boots
     133325, -- Illidari Belt
 
+    134158, -- Trembling Mightstone Drape
     134179, -- Skoldiir Breastplate
     134180, -- Skoldiir Gauntlets
     134182, -- Skoldiir Helm
@@ -115,12 +121,16 @@ AddonTable.loot = {
 
     138970, -- Helm of Reaffirmed Purpose
 
+    139072, -- Tranquil Bough Spaulders
     139075, -- Forest Creeper's Guile
+    139079, -- Bramblemail Gloves
     139718, -- Helm of the Shattered Abyss
+    139811, -- Necklace of Endless Memories (Champion Equipment)
     139812, -- Potion of Triton (Champion Equipment)
     139897, -- Cloak of the White Prowler
     139926, -- Subject 12's ID Bracelets
 
+    140611, -- Fel Commander's Vambraces [Q: Bringer of the Light]
     140660, -- Haft of the God-King
 
     141286, -- Rite of the Val'kyr
@@ -133,10 +143,14 @@ AddonTable.loot = {
     146769, -- Netherfiend Treads
     146775, -- Netherfiend Belt
 
+    147223, -- Dauntless Trinket
+    147276, -- Spellbinder's Seal (from 147223)
+
     150997, -- Crystallized Aether [Arcane Artifact Relic]
 
     -- Dauntless
     147215, -- Dauntless Gauntlets (BoA)
+    147238, -- Fel-Treated Gauntlets (from 147215)
     147255, -- Galvanized Stormscale Belt
     147276, -- Spellbinder's Seal
 

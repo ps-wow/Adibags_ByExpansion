@@ -3,9 +3,13 @@ local AddonName, AddonTable = ...
 AddonTable.consumable = {
     -- Garrison
     113271, -- Giant Kaliri Egg
+    113388, -- Shadowmoon Astrologer's Almanac (25 Garrison Resources)
+    116118, -- Surplus Auchenai Weaponry (100 Garrison Resources)
+    116131, -- Amethyl Crystal (100 Garrison Resources)
     118695, -- Toxicfang Venom (100 Garrison Resources)
     118897, -- Miner's Coffee
     118903, -- Preserved Mining Pick
+    140590, -- Large Crate of Salvage
     -- Potions
     107640, -- Potion of Slow Fall
     109223, -- Healing Tonic

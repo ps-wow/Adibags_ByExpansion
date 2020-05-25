@@ -1,5 +1,7 @@
 local AddonName, AddonTable = ...
 AddonTable.tailoring = {
+    -- Materials
+    82441,
     -- Patterns
     86379,
     86380,

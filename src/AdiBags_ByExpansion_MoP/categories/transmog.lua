@@ -1,10 +1,14 @@
 local AddonName, AddonTable = ...
 
 AddonTable.transmog = {
+    81979, -- Silent Boots
     82021, -- Steppe Belt
     82027, -- Steppe Spaulders
     82029, -- Reed Cord [Cloth][Belt]
+    82061, -- Gemmed Cloak
+    82069, -- Brick Girdle
     82070, -- Brick Helm
+    82073, -- Brick Sabatons
     82089, -- Growing Sandals
     82148, -- Swamp Boots
     82184, -- Snowy Shield

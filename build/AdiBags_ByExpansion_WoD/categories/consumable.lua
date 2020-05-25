@@ -2,9 +2,13 @@ local AddonName, AddonTable = ...
 AddonTable.consumable = {
     -- Garrison
     113271,
+    113388,
+    116118,
+    116131,
     118695,
     118897,
     118903,
+    140590,
     -- Potions
     107640,
     109223,
