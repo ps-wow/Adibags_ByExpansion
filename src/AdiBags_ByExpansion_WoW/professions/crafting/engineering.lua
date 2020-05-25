@@ -16,8 +16,10 @@ AddonTable.engineering = {
     4374,  -- Small Bronze Bomb
     4376,  -- Flame Detector
     4378,  -- Heavy Dynamite
+    4379,  -- Silver-Plated Shotgun
     4380,  -- Big Bronze Bomb
     4381,  -- Minor Recombobulator
+    4383,  -- Moonsight Rifle
     4384,  -- Explosive Sheep
     4385,  -- Green Tinted Goggles
     4388,  -- Discombobulator Ray
@@ -51,6 +53,8 @@ AddonTable.engineering = {
     10504, -- Green Lens
     10506, -- Deepdive Helmet
     10507, -- Solid Dynamite
+    10508, -- Mithril Blunderbuss
+    10510, -- Mithril Heavy-Bore Rifle
     10514, -- Mithril Frag Bomb
     10518, -- Parachute Cloak
     10542, -- Goblin Mining Helmet
@@ -77,8 +81,10 @@ AddonTable.engineering = {
     11825, -- Pet Bombling [Battle Pet]
     11826, -- Lil' Smoky [Battle Pet]
     15993, -- Thorium Grenade
+    15995, -- Thorium Rifle
     15996, -- Lifelike Mechanical Toad
     15999, -- Spellpower Goggles Xtreme Plus
+    16004, -- Dark Iron Rifle
     16005, -- Dark Iron Bomb
     16008, -- Master Engineer's Goggles
     16009, -- Voice Amplification Modulator
@@ -88,6 +94,7 @@ AddonTable.engineering = {
     17716, -- Snowmaster 9000
     18168, -- Force Reactive Disk
     18232, -- Field Repair Bot 74A
+    18282, -- Core Marksman Rifle
     18588, -- Ez-Thro Dynamite II
     18587, -- Goblin Jumper Cables XL
     18594, -- Powerful Seaforium Charge
