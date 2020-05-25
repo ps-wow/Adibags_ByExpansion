@@ -36,14 +36,16 @@ AddonTable.engineering = {
     4403,  -- Portable Bronze Mortar
     4405,  -- Crude Scope
     4406,  -- Standard Scope
+    4407,  -- Accurate Scope
     4852,  -- Flash Bomb
     5507,  -- Ornate Spyglass
-    6219,  -- Arclight Spanner
     6712,  -- Clockwork Box
     6714,  -- Ez-Thro Dynamite
     7148,  -- Goblin Jumper Cables
     7189,  -- Goblin Rocket Boots
     7506,  -- Gnomish Universal Remote
+    9312,  -- Blue Firework
+    9313,  -- Green Firework
     9318,  -- Red Firework
     10499, -- Bright-Eye Goggles
     10500, -- Fire Goggles
@@ -60,6 +62,8 @@ AddonTable.engineering = {
     10542, -- Goblin Mining Helmet
     10543, -- Goblin Construction Helmet
     10545, -- Gnomish Goggles
+    10546, -- Deadly Scope
+    10548, -- Sniper Scope
     10562, -- Hi-Explosive Bomb
     10576, -- Mithril Mechanical Dragonling
     10577, -- Goblin Mortar
@@ -95,6 +99,7 @@ AddonTable.engineering = {
     18168, -- Force Reactive Disk
     18232, -- Field Repair Bot 74A
     18282, -- Core Marksman Rifle
+    18283, -- Biznicks 247x128 Accurascope
     18588, -- Ez-Thro Dynamite II
     18587, -- Goblin Jumper Cables XL
     18594, -- Powerful Seaforium Charge
@@ -106,10 +111,22 @@ AddonTable.engineering = {
     18660, -- World Enlarger
     18984, -- Dimensional Ripper - Everlook [Toy]
     18986, -- Ultrasafe Transpowerer - Gadgetzan [Toy]
+    19026, -- Snake Burst Firework
     21277, -- Tranquil Mechanical Yeti [Battle Pet]
     21557, -- Small Red Rocket
     21558, -- Small Blue Rocket
     21559, -- Small Green Rocket
+    21569, -- Firework Launcher
+    21570, -- Cluster Launcher
+    21571, -- Blue Rocket Cluster
+    21574, -- Green Rocket Cluster
+    21576, -- Red Rocket Cluster
+    21589, -- Large Blue Rocket
+    21590, -- Large Green Rocket
+    21592, -- Large Red Rocket
+    21714, -- Large Blue Rocket Cluster
+    21716, -- Large Green Rocket Cluster
+    21718, -- Large Red Rocket Cluster
     22728, -- Steam Tonk Controller
     45631, -- High-Powered Flashlight
     -- Materials

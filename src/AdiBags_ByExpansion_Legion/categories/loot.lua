@@ -124,8 +124,6 @@ AddonTable.loot = {
     139075, -- Forest Creeper's Guile
     139079, -- Bramblemail Gloves
     139718, -- Helm of the Shattered Abyss
-    139811, -- Necklace of Endless Memories (Champion Equipment)
-    139812, -- Potion of Triton (Champion Equipment)
     139897, -- Cloak of the White Prowler
     139926, -- Subject 12's ID Bracelets
 

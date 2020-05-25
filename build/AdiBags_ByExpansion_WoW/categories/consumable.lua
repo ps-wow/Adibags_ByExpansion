@@ -6,6 +6,8 @@ AddonTable.consumable = {
     2289,
     2290,
     6530,
+    -- Engineering
+    6533,
     -- Alchemy
     118,
     858,

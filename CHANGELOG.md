@@ -6,6 +6,7 @@
  - Legion: Add reputation category.
  - Cata: Alchemy (Learned/Unlearned).
  - WoW: Alchemy (Learned/Unlearned).
+ - WoW: Engineering (Learned/Unlearned).
 
 ### Fixed
  - MoP: Fix loading of raids (HoV, MV, ToES).
