@@ -7,6 +7,8 @@ AddonTable.consumable = {
     2289,  -- Scroll of Strength II
     2290,  -- Scroll of Intellect II
     6530,  -- Nightcrawlers
+    -- Engineering
+    6533,  -- Aquadynamic Fish Attractor
     -- Alchemy
     118,   -- Minor Healing Potion
     858,   -- Lesser Healing Potion
