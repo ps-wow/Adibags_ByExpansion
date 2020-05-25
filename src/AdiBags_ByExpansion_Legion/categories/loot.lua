@@ -27,7 +27,6 @@ AddonTable.loot = {
     121188, -- Smolderhide Shoulders
     121217, -- Crescent Vale Robe
     121247, -- Nightfall Loop
-    121384, -- Elemental Bindings
     121480, -- Felblaze Chain
     121577, -- Rooksguard Warboots
     121580, -- Sablehide Boots
@@ -143,13 +142,11 @@ AddonTable.loot = {
     146769, -- Netherfiend Treads
     146775, -- Netherfiend Belt
 
-    147223, -- Dauntless Trinket
-    147276, -- Spellbinder's Seal (from 147223)
-
     150997, -- Crystallized Aether [Arcane Artifact Relic]
 
     -- Dauntless
     147215, -- Dauntless Gauntlets (BoA)
+    147223, -- Dauntless Trinket
     147238, -- Fel-Treated Gauntlets (from 147215)
     147255, -- Galvanized Stormscale Belt
     147276, -- Spellbinder's Seal
