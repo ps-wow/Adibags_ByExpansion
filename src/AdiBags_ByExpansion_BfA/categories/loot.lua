@@ -124,6 +124,7 @@ AddonTable.loot = {
     157961, -- Dunecrawler Faceguard
     157962, -- Sandspinner Vestments
     157963, -- Dunecrawler Legplates
+    157964, -- Dunecrawler Spaulders
     157965, -- Dunecrawler Waistguard
     157968, -- Sirensong Handwraps
     157971, -- Sirensong Amice
@@ -136,6 +137,7 @@ AddonTable.loot = {
     157981, -- Seafarer Armguards
     157989, -- Crosswind Wristguards
     157992, -- Harbormaster Gauntlets
+    157993, -- Harbormaster Faceguard
     157994, -- Sirensong Garments
     157995, -- Harbormaster Legplates
     157996, -- Harbormaster Pauldrons
@@ -170,6 +172,7 @@ AddonTable.loot = {
     158095, -- Gnarlwood Hammer
     158096, -- Wavecaller Greatmace
     158107, -- Deepwarden Baton
+    158110, -- Razorbone Carver
     158124, -- Dinobone Cracker
     158127, -- Razorbone Spear
     158133, -- Zandalari Machete
@@ -206,6 +209,7 @@ AddonTable.loot = {
     158679, -- Maokka's Carving
     158680, -- Rikal's Ritual Beads
     158681, -- Lightning Tether
+    158683, -- Giant Yeti's Bowl
     158684, -- Salvage-Hunter's Torch
     158688, -- Darkwater Treads
     158823, -- Etched Bone Ring of the Quickblade
@@ -313,6 +317,7 @@ AddonTable.loot = {
     161043, -- Relentless Hydra Legguards
     161046, -- Scrollbound Arachnid Gloves
     161091, -- Swift-Talon Striders
+    161109, -- Coastal Hardshell Girdle
     161113, -- Incessantly Ticking Clock
     161117, -- Berserker's Juju
     161125, -- Kaja-fied Banana
@@ -361,6 +366,7 @@ AddonTable.loot = {
     163459, -- Honorbound Centurion's Breastplate
     163461, -- Honorbound Centurion's Greatbelt
     163527, -- Headhunter's Spear
+    163533, -- Footman's Cleaver
     163536, -- Warmage's Spire
     163538, -- Footman's Gladius
     163542, -- Footman's Warmace
@@ -381,6 +387,7 @@ AddonTable.loot = {
     163886, -- 7th Legionnaire's Stave
     163890, -- 7th Legionnaire's Claymore
     163892, -- 7th Legionnaire's Censer
+    163895, -- 7th Legionnaire's Shield
 
     165443, -- Darkwood Sentinel's Cowl
     165444, -- Darkwood Sentinel's Breeches
@@ -395,11 +402,15 @@ AddonTable.loot = {
     167756, -- Shirakess Mantle
     167779, -- Shirakess Wraps
 
+    168632, -- Slipstream Generator
+    168744, -- Optimized Efficient Logic Board
+    168747, -- Performant Adaptable Logic Board
     168750, -- Omnipurpose Refined Logic Board
 
     169317, -- Enthraller's Bindstone
     169790, -- Shirakess Gloves (Benethic)
 
+    170110, -- Zanj'ir Scaleguard Legplates (Benethic)
     170133, -- Shirakess Grips
     170140, -- Akana's Reefstrider Soles (Benethic)
     170515, -- 7th Legionnaire's Vest
@@ -409,6 +420,7 @@ AddonTable.loot = {
     170521, -- 7th Legionnaire's Leather Mantle
     170522, -- 7th Legionnaire's Visage
     170526, -- 7th Legionnaire's Shoulderplates
+    170528, -- 7th Legionnaire's Chestguard
     170537, -- Honorbound Centurion's Breastplate
     170651, -- Mistdancer Spire [120 Boost - Staff]
     170654, -- Mistdancer Idol of Wisdom [120 Boost - Trinket]
@@ -433,9 +445,11 @@ AddonTable.loot = {
     173812, -- Vile Manipulator's Cord
     173815, -- Girdle of the Insatiable Maw
     173817, -- Nefarious Tormentor's Trousers
+    173822, -- Malignant Leviathan's Waistguard
 
     174953, -- Vile Manipulator's Wristwraps
     174954, -- Wristwraps of the Insatiable Maw
+    174956, -- Malignant Leviathan's Armguards
 
     -- Benethic Gear (8.3? Catch Up)
     169477, -- Benethic Girdle

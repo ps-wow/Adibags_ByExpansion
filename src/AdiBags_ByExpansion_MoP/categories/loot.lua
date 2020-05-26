@@ -31,6 +31,8 @@ AddonTable.loot = {
     87621, -- Wristguards of Great Fortune
     87624, -- Yaungol Mist-Shaman's Amulet
     87626, -- Suna's Shattered Locket
+    87631, -- Jiao-Skin Tunic
+    87634, -- Mazu's Robe
     87636, -- Cloak of the Forgotten Emporer
 
     90350, -- Satin Robe of Eminent Domain
@@ -46,6 +48,7 @@ AddonTable.loot = {
     90382, -- Captain Roger's Polite Knocking Stick
     90383, -- Skyfire Troopers Mace
     90389, -- Skyguardian's Shield
+    90910, -- Mindfire Sollerets
 
     95212, -- Abandoned Zandalari Waterchain
 

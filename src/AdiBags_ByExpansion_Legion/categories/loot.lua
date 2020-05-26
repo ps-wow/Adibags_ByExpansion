@@ -28,6 +28,7 @@ AddonTable.loot = {
     121217, -- Crescent Vale Robe
     121247, -- Nightfall Loop
     121480, -- Felblaze Chain
+    121481, -- Tranquil Azurewing Band
     121577, -- Rooksguard Warboots
     121580, -- Sablehide Boots
     121646, -- Witchmother Drape
@@ -82,7 +83,9 @@ AddonTable.loot = {
     132906, -- Leywalker Cord
     132947, -- Nar'thalas Sabatons
     132951, -- Leywalker Shoes
+    132962, -- The Jailer's Key
     132963, -- Young Drake's Impulse
+    132990, -- Fel-Resistant Clipping
 
     133310, -- The Brood Queen's Veil
     133311, -- Demon-Rend Shoulderblades
@@ -103,6 +106,7 @@ AddonTable.loot = {
     134158, -- Trembling Mightstone Drape
     134179, -- Skoldiir Breastplate
     134180, -- Skoldiir Gauntlets
+    134181, -- Skoldiir Waistplate
     134182, -- Skoldiir Helm
     134193, -- Biornskin Moccasins
     134212, -- Tideskorn Leggings
@@ -127,6 +131,7 @@ AddonTable.loot = {
     139897, -- Cloak of the White Prowler
     139926, -- Subject 12's ID Bracelets
 
+    140533, -- Huntmaster's Injector
     140611, -- Fel Commander's Vambraces [Q: Bringer of the Light]
     140660, -- Haft of the God-King
 
@@ -134,9 +139,11 @@ AddonTable.loot = {
     141293, -- Spellfire Oil
     141883, -- Azsharan Keepsake
     141619, -- Mana-Infused Berries
+    141625, -- Soul-Trapper's Greaves
     141628, -- Soul-Stealer's Leggings
     141650, -- Helm of Reaffirmed Purpose
 
+    146760, -- Xorothian Waistplate
     146769, -- Netherfiend Treads
     146775, -- Netherfiend Belt
 

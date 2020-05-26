@@ -1,6 +1,7 @@
 local AddonName, AddonTable = ...
 
 AddonTable.transmog = {
+    121001, -- Rhut'van Breastplate
     121008, -- Rhut'van Vambraces
     121019, -- Llothien Britches
     121020, -- Llothien Gloves
@@ -8,6 +9,7 @@ AddonTable.transmog = {
     121044, -- Faronaar Chain Helm
     121047, -- Faronaar Chain Vest
     121049, -- Temporal Scholar's Cowl
+    121053, -- Temporal Scholar's Sandals
     121061, -- Ettinbone Pauldrons
     121072, -- Icepine Bindings
     121095, -- Hillstride Belt

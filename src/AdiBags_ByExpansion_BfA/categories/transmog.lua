@@ -50,6 +50,7 @@ AddonTable.transmog = {
     159211, -- Eventide Boots
     159212, -- Eventide Coif
     159214, -- Eventide Pauldrons
+    159215, -- Eventide Breastplate
     159217, -- Sagehold Circlet
     159222, -- Sagehold Mantle
     159228, -- Freehold Cape
@@ -119,6 +120,7 @@ AddonTable.transmog = {
     159577, -- Zocali Longstaff
     159578, -- Loa-Blessed Stave
     159584, -- Coldscale Saber
+    159585, -- Ironcrest Sword
     159587, -- Dockyard Cutlass
     159589, -- Tideguard Sword
     159590, -- Shipwrecker Blade
@@ -138,6 +140,7 @@ AddonTable.transmog = {
     159802, -- Deepwarden Redoubt
     159803, -- Coldscale Shield
     159805, -- Coralshell Barrier
+    159806, -- Dockyard Targe
     159807, -- Zem'lan Buckler
     159808, -- Bleached Bone Shield
     159811, -- Golden Fleet Buckler
