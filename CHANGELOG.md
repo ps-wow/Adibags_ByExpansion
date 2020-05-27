@@ -2,6 +2,7 @@
 
 ## Unreleased
 ### Added
+ - Add toys categories for legion, bfa and wrath.
  - Options: Add ability to toggle off expansion number prefixes.
  - Legion: Add reputation category.
  - Cata: Alchemy (Learned/Unlearned).
