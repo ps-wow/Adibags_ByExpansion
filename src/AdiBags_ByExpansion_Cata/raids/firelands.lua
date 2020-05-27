@@ -237,9 +237,10 @@ AddonTable.firelands = {
     -- Set Piece (Death Knight)
     71482,  -- Elementium Deathplate Handguards
     71483,  -- Elementium Deathplate Faceguard
-    -- Obsidian Arborweave Battlegarb (Druid)
+    -- Set Piece (Druid) (Obsidian Arborweave Battlegarb)
     71486,  -- Obsidian Arborweave Raiment
     71488,  -- Obsidian Arborweave Headpiece
+    71489,  -- Obsidian Arborweave Legguards
     71491,  -- Obsidian Arborweave Handwraps
     71493,  -- Obsidian Arborweave Legwraps
     71494,  -- Obsidian Arborweave Tunic

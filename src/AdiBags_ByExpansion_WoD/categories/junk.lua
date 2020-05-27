@@ -115,8 +115,6 @@ AddonTable.junk = {
     118902, -- Weathered Mining Journal
 
     112684, -- Damaged Weaponry
-
-    127870, -- A Tiny Pirate Hat (Pepe)
 }
 
 AddonTable.soulbound = {

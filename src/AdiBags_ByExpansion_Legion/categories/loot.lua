@@ -59,6 +59,7 @@ AddonTable.loot = {
     129066, -- Nar'thalas Guard Mantle
     129072, -- The Voilaceous Pearl
     129073, -- Bitterbrine's Signet Ring
+    129079, -- Bile-Resistant Boots
     129101, -- Alpha's Paw
     129104, -- Brand of the Banshee Queen
     129171, -- Band of Ingression

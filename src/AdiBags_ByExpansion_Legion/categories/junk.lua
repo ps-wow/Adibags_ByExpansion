@@ -104,6 +104,8 @@ AddonTable.junk = {
     142054, -- Enchanted Nightborne Coin
     142055, -- Enchanted Nightborne Coin
 
+    144457, -- Scrolls of the Faldrottin [patch:7.2.0] (Green junk once quest is complete)
+
     146309, -- Expended Spell Reagents
 
     147210, -- Disgusting Goo

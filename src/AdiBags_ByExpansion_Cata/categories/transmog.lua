@@ -113,32 +113,38 @@ AddonTable.transmog = {
     55765, -- Bluefen Shoulderpads
     55774, -- Bluefen Cord
 
-    59460, -- Theresa's Booklight (BoE Wand) (BwD)
-    59462, -- Maimgor's Bite [1H Axe] (BoT)
+    59460, -- Theresa's Booklight (BwD)
+    59462, -- Maimgor's Bite (BoT)
     59463, -- Maldo's Sword Cane
-    59464, -- Treads of Savage Beatings [Plate][Boots]
-    59465, -- Corehammer's Riveted Girdle [Plate][Waist]
+    59464, -- Treads of Savage Beatings
+    59465, -- Corehammer's Riveted Girdle
     59466, -- Ironstar's Impenetrable Cover
     59467, -- Hide of Chromaggus
-    59468, -- Shadowforge's Lightbound Smock [Cloth][Chest]
+    59468, -- Shadowforge's Lightbound Smock
     59521, -- Soul Blade
-    59525, -- Chelley's Staff of Dark Mending [Staff] (BoT)
-    59901, -- Heaving Plates of Protection [Plate][Shoulder]
+    59525, -- Chelley's Staff of Dark Mending (BoT)
+    59809, -- Leftover Leggings
+    59901, -- Heaving Plates of Protection
 
-    60201, -- Phase-Twister Leggings [Mail][Legs] (BoT)
-    60202, -- Tsanga's Helm [Leather] [BoE] [Bastion of Twilight]
-    60210, -- Crossfire Carbine [Gun] (BoT)
-    60211, -- Bracers of the Dark Pool [Cloth][Wrist]
-    63538, -- Claws of Agony [Fist Weapon]
+    60201, -- Phase-Twister Leggings (BoT)
+    60202, -- Tsanga's Helm (Bastion of Twilight)
+    60210, -- Crossfire Carbine (BoT)
+    60211, -- Bracers of the Dark Pool
+
+    63538, -- Claws of Agony
+
     66941, -- Triple-Loop Belt (BoT)
-    66972, -- Crystalline Geoknife [Fist Weapon] (BoT)
+    66972, -- Crystalline Geoknife (BoT)
     66975, -- Hood of the Crying Rogue
     66989, -- Endwyn's Flickering Gauntlets
+    66992, -- Harbinger's Breastplate
+
     67052, -- Loyal Blade
     67061, -- Bulwark of the Scorned Man
     67119, -- Thousand Bandage Drape
     67127, -- Bracers of Caustic Purification
     67144, -- Pauldrons of Edward the Odd
+
     68601, -- Scaleslicer [Dagger]
 
     71359, -- Chelley's Sterilized Scalpel
@@ -146,5 +152,5 @@ AddonTable.transmog = {
     71361, -- Ranseur of Hatred
     71365, -- Hide-Bound Chains
     71366, -- Lava Bolt Crossbow
-    78886, -- Belt of Ghostly Graces [Mail][Belt] (Dragon Soul)
+    78886, -- Belt of Ghostly Graces (Dragon Soul)
 }

@@ -5,6 +5,7 @@ AddonTable.cooking = {
     109132,
     109136,
     109135,
+    109142,
     -- Food
     -- Recipes
     101769,

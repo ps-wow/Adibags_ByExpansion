@@ -1,4 +1,7 @@
 local AddonName, AddonTable = ...
+-- Legion Archaeology
 AddonTable.archaeology = {
-    144457,
+    130903,
+    130904,
+    130905,
 }

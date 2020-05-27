@@ -264,6 +264,7 @@ AddonTable.junk = {
     168787, -- Empty Birdcage
     168789, -- Perpetual Motion Device
     168791, -- Shiny Rocks
+    168794, -- Last Year's Brewfest Flyer
     168795, -- Old Boot
     168796, -- Recycled Scroll
 

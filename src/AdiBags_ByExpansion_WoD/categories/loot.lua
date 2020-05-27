@@ -83,6 +83,8 @@ AddonTable.loot = {
     116765, -- Positive Pantaloons
     116795, -- Greatfeather's Down Robe
     116796, -- Malroc's Staff of Command
+    116800, -- Duretha's Trail Boots
+    116805, -- Blug'thol's Bloody Bracers
     116806, -- Soul Fang
     116807, -- Flinthide's Impenetrable Crest
     116814, -- Tura'aka's Clipped Wing

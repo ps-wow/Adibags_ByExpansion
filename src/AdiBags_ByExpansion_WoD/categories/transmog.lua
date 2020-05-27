@@ -58,6 +58,7 @@ AddonTable.transmog = {
     116612, -- Gorian Bow
     116616, -- Gorian Knuckles
     116618, -- Gorian Mace
+    116624, -- Gorian Sword
     116626, -- Ancestral Wand
     116627, -- Howling Axe
     116629, -- Howling Bow

@@ -188,6 +188,7 @@ AddonTable.loot = {
     158160, -- Smuggler's Cove Ring
     158161, -- Speakfisher's Band
     158162, -- Pearl Diver's Compass
+    158164, -- Plunderbeard's Flask
     158215, -- Whirlwing's Plumage
     158218, -- Dadalea's Wing
     158219, -- Petula's Locket
@@ -296,6 +297,7 @@ AddonTable.loot = {
     160455, -- Parrot-Trainer Sash
     160456, -- Blanched Ravenfeather Gloves
     160459, -- Apiarist's Stingproof Belt
+    160460, -- Thick Sauroskin Gloves
     160461, -- Thick Sauroskin Pants
     160465, -- Raging-Earth Wranglers
     160474, -- Vicemaul Wristpinchers

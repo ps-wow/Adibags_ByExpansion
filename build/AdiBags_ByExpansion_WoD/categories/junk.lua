@@ -101,7 +101,6 @@ AddonTable.junk = {
     118901,
     118902,
     112684,
-    127870,
 }
 AddonTable.soulbound = {
     111917,
