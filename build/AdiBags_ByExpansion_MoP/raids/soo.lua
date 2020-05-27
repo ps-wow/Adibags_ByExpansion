@@ -1,6 +1,10 @@
 local AddonName, AddonTable = ...
 -- Siege of Orgrimmar
 AddonTable.soo = {
+    113223,
+    113225,
+    99364,
+    99417,
     -- Immerseus
     110761,
     110784,
@@ -82,8 +86,6 @@ AddonTable.soo = {
     99678,
     99679,
     99677,
-    104162,
-    104163,
     112951,
     112949,
     112950,
@@ -117,6 +119,7 @@ AddonTable.soo = {
     112714,
     112709,
     112703,
+    113229,
     -- Iron Juggernaut
     112736,
     112748,
@@ -287,7 +290,6 @@ AddonTable.soo = {
     112890,
     112883,
     112896,
-    104158,
     -- Paragons of the Klaxxi
     99712,
     99713,

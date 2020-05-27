@@ -2,6 +2,10 @@ local AddonName, AddonTable = ...
 
 -- Siege of Orgrimmar
 AddonTable.soo = {
+    113223, -- Turtleshell Greatcloak
+    113225, -- Kalaena's Arcane Handwraps
+    99364,  -- Shoulderguards of Winged Triumph
+    99417,  -- Mantle of the Horned Nightmare
     -- Immerseus
     110761, -- Immerseus' Crystalline Eye
     110784, -- Trident of Corrupted Waters
@@ -83,8 +87,6 @@ AddonTable.soo = {
     99678,  -- Chest of the Cursed Conqueror (RF)
     99679,  -- Chest of the Cursed Protector (RF)
     99677,  -- Chest of the Cursed Vanquisher (RF)
-    104162, -- Droplet of Y'Shaarj [Battle Pet]
-    104163, -- Gooey Sha-ling [Battle Pet]
     112951, -- Gaze of Arrogance
     112949, -- Greatsword of Pride's Fall
     112950, -- Shield of Mockery
@@ -118,6 +120,7 @@ AddonTable.soo = {
     112714, -- Galakrond Control Band
     112709, -- Swift Serpent Signet
     112703, -- Evil Eye of Galakras
+    113229, -- Zoid's Molten Gauntlets
     -- Iron Juggernaut
     112736, -- Seismic Bore
     112748, -- Juggernaut's Power Core
@@ -288,7 +291,6 @@ AddonTable.soo = {
     112890, -- powder-stained-totemic-treads
     112883, -- asgorathian-blood-seal
     112896, -- bombers-blackened-wristwatch
-    104158, -- blackfuse-bombling [Battle Pet]
     -- Paragons of the Klaxxi
     99712,  -- Leggings of the Cursed Conqueror (M)
     99713,  -- Leggings of the Cursed Protector (M)

@@ -36,7 +36,6 @@ AddonTable.eternalpalace = {
     168385, -- slipstreamers-saltwalkers
     168362, -- trench-tyrants-shoulderplates
     168885, -- undercove-crushers
-    169360, -- Mindlost Bloodfrenzy [Battle Pet]
     -- Radiance of Azshara
     168355, -- servitors-heartguard
     168382, -- arcanamental-bindings
@@ -67,7 +66,6 @@ AddonTable.eternalpalace = {
     168335, -- robes-of-sunken-nobility
     168354, -- shoulderguards-of-crushing-depths
     168870, -- tanglekelp-waistwrap
-    169358, -- Lightless Ambusher [Battle Pet]
     -- Orgozoa
     168604, -- drape-of-the-hatcher
     169319, -- dribbling-inkpod
@@ -111,7 +109,6 @@ AddonTable.eternalpalace = {
     169308, -- chain-of-suffering
     168301, -- sever-edge-of-madness
     168902, -- dreams-end
-    169362, -- nameless-octopode [Battle Pet]
     -- Queen Azshara
     168275, -- anu-azshara-staff-of-the-eternal
     169694, -- aqueous-reliquary
@@ -125,5 +122,4 @@ AddonTable.eternalpalace = {
     168880, -- slippers-of-the-sorceress-queen
     168873, -- tide-goddesss-wargreaves
     168878, -- vethans-icewalkers
-    169348, -- zanjir-poker [Battle Pet]
 }

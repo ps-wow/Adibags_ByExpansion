@@ -30,7 +30,6 @@ AddonTable.mc = {
     16837,
     16859,
     -- Magmadar
-    93034,
     17073,
     18202,
     18203,
@@ -85,14 +84,12 @@ AddonTable.mc = {
     16856,
     17110,
     -- Sulfuron Harbinger
-    93033,
     17074,
     16848,
     16816,
     16823,
     16868,
     -- Golemagg the Incinerator
-    93035,
     17103,
     17203,
     18842,

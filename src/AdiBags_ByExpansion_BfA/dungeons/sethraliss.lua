@@ -13,7 +13,7 @@ AddonTable.sethraliss = {
     159388, -- Sabatons of Coruscating Energy
     159259, -- Sandswept Sandals
     -- Merektha
-    160832, -- Viable Cobra Egg [Battle Pet?]
+    160832, -- Viable Cobra Egg
     158714, -- Swarm's Edge
     159637, -- Snakebite Recurve
     159437, -- Fangproof Gauntlets

@@ -31,7 +31,6 @@ AddonTable.bot = {
     59483, -- wyrmbreakers-amulet
     59484, -- book-of-binding-will
     -- Theralion and Valiona
-    152969, -- Odd Twilight Egg (Twilight Clutch-Sister) [Battle Pet]
     65091, -- Blade of the Witching Hour
     65094, -- Fang of Twilight
     65095, -- Dragonheart Piercer
@@ -57,7 +56,6 @@ AddonTable.bot = {
     63535, -- waistguard-of-hatred
     63536, -- blade-of-the-witching-hour
     -- Ascendant Council
-    152970, -- Lesser Circle of Binding (Bound Stream) [Battle Pet]
     59502, -- dispersing-belt
     59503, -- terrastras-legguards
     59504, -- arions-crown
@@ -83,7 +81,6 @@ AddonTable.bot = {
     65118, -- Crushing Weight
     65110, -- Heart of Ignacious
     -- Cho'gall
-    152972, -- Twilight Summoning Portal (Faceless Minion) [Battle Pet]
     59330, -- shalugdoom-the-axe-of-unmaking
     59485, -- coil-of-ten-thousand-screams
     59486, -- battleplate-of-the-apocalypse

@@ -13,7 +13,6 @@ AddonTable.nyalotha = {
     172199, -- faralos-empires-dream
     174105, -- mishun-blade-of-tyrants
     -- Maut
-    174446, -- fractured-obsidian-claw [Battle Pet]
     173944, -- forbidden-obsidian-claw
     174155, -- greaves-of-forbidden-magics
     174141, -- boots-of-manifest-shadow
@@ -52,8 +51,6 @@ AddonTable.nyalotha = {
     174137, -- chitinspine-gloves
     174106, -- qwor-nlyeth
     172192, -- the-all-seeing-eye
-    174448, -- aqir-hivespawn [Battle Pet]
-    174449, -- rakim [Battle Pet]
     -- Shad'har the Insatiable
     174177, -- bracers-of-phantom-pains
     174162, -- ego-annihilating-grips
@@ -100,7 +97,6 @@ AddonTable.nyalotha = {
     174134, -- gibbering-maw
     174175, -- reality-defying-greaves
     172197, -- unguent-caress
-    174447, -- void-scarred-anubisath [Battle Pet]
     -- Carapace of N'Zoth
     174127, -- corporeal-supplicants-trousers
     174144, -- corpuscular-leather-greaves
@@ -123,6 +119,5 @@ AddonTable.nyalotha = {
     174133, -- pauldrons-of-the-great-convergence
     174533, -- ring-of-cosmic-potential
     174118, -- visage-of-nightmarish-machinations
-    174452, -- eye-of-corruption [Battle Pet]
     174872, -- nyalotha-allseer [Mount]
 }

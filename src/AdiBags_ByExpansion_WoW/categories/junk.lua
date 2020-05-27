@@ -148,6 +148,23 @@ AddonTable.junk = {
 
     20770, -- Bubbling Green Ichor
 
+    21214, -- Tome of Frostbolt
+    21222, -- Armored Chitin
+    21223, -- Black Stone
+    21224, -- Ancient Armor Fragment
+    21225, -- Heavy Silithid Husk
+    21226, -- Runic Stone
+    21281, -- Grimoire of Shadow Bolt
+    21285, -- Codex of Renew
+    21289, -- Libram: Blessing of Might
+    21291, -- Tablet of Healing Wave
+    21292, -- Tablet of Strength of Earth Totem
+    21297, -- Manual of Heroic Strike
+    21299, -- Manual of Revenge
+    21302, -- Handbook of Deadly Poison
+    21304, -- Guide: Multi-Shot
+    21307, -- Guide: Aspect of the Hawk
+
     22525, -- Crypt Fiend Parts
     22526, -- Bone Fragments
     22527, -- Core of Elements

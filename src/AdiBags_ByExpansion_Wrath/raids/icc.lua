@@ -22,13 +22,6 @@ AddonTable.icc = {
 
     138832, -- Illusion: Earthliving
     138955, -- Illusion: Rune of Razorice
-
-    142094, -- Fragment of Frozen Bone (Boneshard) [Battle Pet]
-    142095, -- Remains of a Blood Beast (Blood Boil) [Battle Pet]
-    142096, -- Putricide's Alchemy Supplies (Blightbreath) [Battle Pet]
-    142097, -- Skull of a Frozen Whelp (Soulbroken Whelping) [Battle Pet]
-    142098, -- Drudge Remains (Drudge Ghoul) [Battle Pet]
-    142099, -- Call of the Frozen Blade (Wicked Soul) [Battle Pet]
 }
 
 AddonTable.icc10 = {

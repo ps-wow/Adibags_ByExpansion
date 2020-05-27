@@ -13,7 +13,6 @@ AddonTable.firelands = {
     69815,  -- Seething Cinder
     71141,  -- Eternal Ember
     -- Beth'tilac
-    152976, -- Cinderweb Egg (Cinderweb Recluse) [Battle Pet]
     68981,  -- Spidersilk Spindle
     69138,  -- Spidersilk Spindle
     70914,  -- carapace-of-imbibed-flame
@@ -106,7 +105,6 @@ AddonTable.firelands = {
     71678,  -- Leggings of the Fiery Conqueror (H)
     71685,  -- Leggings of the Fiery Protector (H)
     71671,  -- Leggings of the Fiery Vanquisher (H)
-    152975, -- Smoldering Treat (Blazehound) [Battle Pet]
     71445,  -- Skullstealer Greataxe
     71441,  -- Feeding Frenzy
     71448,  -- Goblet of Anger
@@ -146,7 +144,6 @@ AddonTable.firelands = {
     71676,  -- Gauntlets of the Fiery Conqueror (H)
     71683,  -- Gauntlets of the Fiery Protector (H)
     71669,  -- Gauntlets of the Fiery Vanquisher (H)
-    152977, -- Vibrating Stone (Surger) [Battle Pet]
     71454,  -- Gatecrasher
     71460,  -- Shard of Torment
     71462,  -- Molten Scream

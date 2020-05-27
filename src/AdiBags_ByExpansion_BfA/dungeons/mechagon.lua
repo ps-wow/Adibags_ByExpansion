@@ -32,7 +32,6 @@ AddonTable.mechagon = {
     168657, -- Friend-or-Foe Identifier
     167677, -- Harmonic Dematerializer
     168826, -- Mechagon Peacekeeper [Mount]
-    169385, -- Microbot 8D [Pet]
     168909, -- Subroutine: Emergency Repairs
     168963, -- Fusion Hacker
     169077, -- Light Auto-Stabilizing Energy Rifle

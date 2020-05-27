@@ -6,7 +6,6 @@ AddonTable.bt = {
     32526, -- Band of Devastation
     32528, -- Blessed Band of Karabor
     -- High Warlord Naj'entus
-    122104, -- Leviathan Egg (Leviathan Hatchling) [Battle Pet]
     32248, -- Halberd of Desolation
     32236, -- Rising Tide
     32237, -- The Maelstrom's Fury
@@ -22,7 +21,6 @@ AddonTable.bt = {
     32238, -- Ring of Calming Waves
     32247, -- Ring of Captured Storms
     -- Supremus
-    122106, -- Shard of Supremus [Battle Pet]
     32262,  -- Syphon of the Nathrezim
     32254,  -- The Brutalizer
     32253,  -- Legionkiller
@@ -76,9 +74,6 @@ AddonTable.bt = {
     32335, -- Unstoppable Aggressor's Ring
     32501, -- Shadowmoon Insignia
     -- Reliquary of Souls
-    122107, -- Fragment of Anger [Battle Pet]
-    122109, -- Fragment of Desire [Battle Pet]
-    122108, -- Fragment of Suffering [Battle Pet]
     32332, -- Torch of the Damned
     32363, -- Naaru-Blessed Life Rod
     32350, -- Touch of Inspiration
@@ -96,7 +91,6 @@ AddonTable.bt = {
     31101, -- Pauldrons of the Forgotten Conqueror
     31103, -- Pauldrons of the Forgotten Protector
     31102, -- Pauldrons of the Forgotten Vanquisher
-    122110, -- Sultry Grimoire [Battle Pet] (Sister of Temptation)
     32369, -- Blade of Savagery
     32370, -- Nadina's Pendant of Purity
     32365, -- Heartshatter Breastplate

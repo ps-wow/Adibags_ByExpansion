@@ -6,7 +6,6 @@ AddonTable.aq40 = {
     20932, -- Qiraji Bindings of Dominance
     21232, -- Imperial Qiraji Armaments
     21237, -- Imperial Qiraji Regalia
-
     -- The Prophet Skeram
     21128, -- Staff of the Qiraji Prophets
     21698, -- Leggings of Immersion
@@ -22,8 +21,6 @@ AddonTable.aq40 = {
     21708, -- Beetle Scaled Wristguards
     21814, -- Breastplate of Annihilation
     22222, -- Plans: Thick Obsidian Breastplate (Blacksmithing)
-    93041, -- Jewel of Maddening Whispers (Mini Mindslayer) [Battle Pet]
-
     -- Silithid Royalty
     21603, -- Wand of Qiraji Nobility
     21680, -- Vest of Swift Execution
@@ -44,7 +41,6 @@ AddonTable.aq40 = {
     21695, -- Angelista's Touch
     21696, -- Robes of the Triumverate
     21697, -- Cape of the Trinity
-
     -- Battleguard Sartura
     21666, -- Sartura's Might
     21668, -- Scaled Leggings of Qiraji Fury
@@ -59,7 +55,6 @@ AddonTable.aq40 = {
     21667, -- Legplates of Blazing Light
     21678, -- Necklace of Purity
     21648, -- Recomposed Boots
-
     -- Fankriss the Unyielding
     21627, -- Cloak of Untold Secrets
     21635, -- Barb of the Sand Reaver
@@ -72,7 +67,6 @@ AddonTable.aq40 = {
     21663, -- Robes of the Guardian Spirit
     21664, -- Barbed Choker
     21665, -- Mantle of Wicked Revenge
-
     -- Viscidus
     21622, -- Sharpened Silithid Femur
     21623, -- Gauntlets of the Righteous Champion
@@ -80,8 +74,6 @@ AddonTable.aq40 = {
     21625, -- Scarab Brooch
     21626, -- Slime-Coated Leggings
     21677, -- Ring of the Qiraji Fury
-    93039, -- Viscidus Globule [Battle Pet]
-
     -- Princess Huhuran
     21616, -- Huhuran's Stinger
     21617, -- Wasphide Gauntlets
@@ -89,7 +81,6 @@ AddonTable.aq40 = {
     21619, -- Gloves of the Messiah
     21620, -- Ring of the Martyr
     21621, -- Cloak of the Golden Hive
-
     -- The Twin Emperors
     20726, -- Formula: Enchant Cloak - Threat
     20735, -- Formula: Enchant Cloak - Subtlety
@@ -108,8 +99,6 @@ AddonTable.aq40 = {
     21608, -- Amulet of Vek'nilash
     21609, -- Regenerating Belt of Ven'nilash
     21679, -- Kalimdor's Revenge
-    93040, -- Anubisath Idol [Battle Pet]
-
     -- Ouro
     20927, -- Ouro's Intact Hide
     20931, -- Skin of the Great Sandworm
@@ -119,7 +108,6 @@ AddonTable.aq40 = {
     23557, -- Larvae of the Great Worm
     23558, -- The Burrower's Shell
     23570, -- Jom Gabbar
-
     -- C'thun
     20929, -- Carapace of the Old God
     20933, -- Husk of the Old God

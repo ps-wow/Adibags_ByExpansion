@@ -1,5 +1,6 @@
 local AddonName, AddonTable = ...
 
+-- BfA Engineering
 AddonTable.engineering = {
     -- Materials
     160502, -- Chemical Blasting Cap
@@ -8,5 +9,6 @@ AddonTable.engineering = {
     163569, -- Insulated Wiring
 
     -- Crafts
+    153490, -- F.R.I.E.D
     153494, -- Thermo-Accelerated Plague Spreader
 }

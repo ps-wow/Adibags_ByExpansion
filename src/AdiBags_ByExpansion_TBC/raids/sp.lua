@@ -13,7 +13,6 @@ AddonTable.sp = {
     34856, -- Boots of the Forgotton Conqueror
     34857, -- Boots of the Forgotton Protector
     34858, -- Boots of the Forgotton Vanquisher
-
     -- Kalecgos
     34164, -- Dragonscale-Encrusted Longblade
     34165, -- Fang of Kalecgos
@@ -22,16 +21,13 @@ AddonTable.sp = {
     34170, -- Pantaloons of Calming Strife
     34168, -- Starstalker Legguards
     34166, -- Band of Lucent Beams
-
     -- Brutallus
-    122113, -- Sunblade Rune of Activation (Sunblade Micro-Defender) [Battle Pet]
     34176, -- Reign of Misery
     34179, -- Heart of the Pit
     34177, -- Clutch of Demise
     34178, -- Collar of the Pit Lord
     34180, -- Felfury Legplates
     34181, -- Legplates of Calamity
-
     -- Felmyst
     34182, -- Grand Magister's Staff of Torrents
     34185, -- Sword Breaker's Bulwark
@@ -39,9 +35,7 @@ AddonTable.sp = {
     35352, -- Borderland Fortress Grips
     34186, -- Chain Links of the Tumultuous Storm
     34188, -- Leggings of the Immortal Night
-
     -- The Eredar Twins
-    122115, -- Servant's Bell (Wretched Servant) [Battle Pet]
     34198, -- Stanchion of Primal Instinct
     34199, -- Archon's Gavel
     34203, -- Grip of Mannoroth
@@ -63,9 +57,7 @@ AddonTable.sp = {
     34190, -- Crimson Paragon's Cover
     34205, -- Shroud of Redeemed Souls
     34189, -- Band of Ruinous Delight
-
     -- M'uru
-    122114, -- Void Collar (Chaos Pup) [Battle Pet]
     34214, -- Muramasa,
     34231, -- Aegis of Angelic Fortune
     34232, -- Fel Conqueror Raiments
@@ -87,7 +79,6 @@ AddonTable.sp = {
     34430, -- Glimmering Naaru Sliver
     34429, -- Shifting Naaru Sliver
     34428, -- Steely Naaru Sliver
-
     -- Kil'jaeden
     34247, -- Apolyon, the Soul-Render
     34337, -- Golden Staff of the Sin'dorei

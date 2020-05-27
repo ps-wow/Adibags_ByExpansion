@@ -3,9 +3,7 @@ local AddonName, AddonTable = ...
 -- The Eye (25 Normal)
 AddonTable.eye = {
     30020, -- Fire-Cord of the Magus
-
     -- Al'ar
-    97557, -- Brilliant Phoenix Hawk Feather (Phoenix Hawk) [Battle Pet]
     29948, -- Claw of the Phoenix
     29924, -- Netherbane
     32944, -- Talon of the Phoenix
@@ -19,12 +17,10 @@ AddonTable.eye = {
     29920, -- Phoenix-Ring of Rebirth
     30448, -- Talon of Al'ar
     30447, -- Tome of Fiery Redemption
-
     -- Void Reaver
     30248, -- Pauldrons of the Vanquished Champion
     30249, -- Pauldrons of the Vanquished Defender
     30250, -- Pauldrons of the Vanquished Hero
-    97555, -- Tiny Fel Engine Key (Pocket Reaver) [Battle Pet]
     29986, -- Cowl of the Grand Engineer
     29983, -- Fel-Steel Warhelm
     32515, -- Wristguards of Determination
@@ -32,9 +28,7 @@ AddonTable.eye = {
     29985, -- Void Reaver Greaves
     30619, -- Fel Reaver's Piston
     30450, -- Warp-Spring Coil
-
     -- High Astromancer Solarian
-    97556, -- Crystal of the Void (Lesser Voidcaller) [Battle Pet]
     29981, -- Ethereum Life-Staff
     29962, -- Heartrazor
     29982, -- Wand of the Forgotten Star
@@ -48,7 +42,6 @@ AddonTable.eye = {
     29951, -- Star-Strider Boots
     30446, -- Solarian's Sapphire
     30449, -- Void Star Talisman
-
     -- Kael'thas Sunstrider
     32458, -- Ashes of Al'ar [Mount]
     30236, -- Chestguard of the Vanquished Champion

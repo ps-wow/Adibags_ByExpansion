@@ -3,7 +3,6 @@ local AddonName, AddonTable = ...
 AddonTable.ssc = {
     -- Hydross the Unstable
     138834,
-    97553,
     30049,
     30048,
     30053,
@@ -51,7 +50,6 @@ AddonTable.ssc = {
     30663,
     30626,
     -- Morogrim Tidewalker
-    97552,
     30082,
     30080,
     30008,
@@ -66,7 +64,6 @@ AddonTable.ssc = {
     30083,
     30720,
     -- Lady Vashj
-    97554,
     30242,
     30243,
     30244,

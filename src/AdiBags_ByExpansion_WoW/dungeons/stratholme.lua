@@ -1,8 +1,8 @@
 local AddonName, AddonTable = ...
 
+-- Stratholme (WoW)
 AddonTable.stratholme = {
     -- Hearthsinger Forresten
-    13379,  -- Piccolo of the Flaming Fire [Toy]
     12103,  -- Star of Mystaria
     13378,  -- Songbird Blouse
     13384,  -- Rainbow Girdle

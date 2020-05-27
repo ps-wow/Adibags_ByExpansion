@@ -31,7 +31,6 @@ AddonTable.mc = {
     16837, -- Earthfury Boots
     16859, -- Lawbringer Boots
     -- Magmadar
-    93034, -- Blazing Rune (Corefire Imp) [Battle Pet]
     17073, -- Earthshaker
     18202, -- Eskhandar's Left Claw
     18203, -- Eskhandar's Right Claw
@@ -86,14 +85,12 @@ AddonTable.mc = {
     16856, -- Lawbringer Spaulders
     17110, -- Seal of the Archmagus
     -- Sulfuron Harbinger
-    93033, -- Mark of Flame (Harbinger of Flame) [Battle Pet]
     17074, -- Shadowstrike
     16848, -- Giantstalker's Epaulets
     16816, -- Mantle of Prophecy
     16823, -- Nightslayer Shoulder Pads
     16868, -- Pauldrons of Might
     -- Golemagg the Incinerator
-    93035, -- Core of Hardened Ash (Ashstone Core) [Battle Pet]
     17103, -- Azuresong Mageblade
     17203, -- Sulfuron Ingot
     18842, -- Staff of Dominance

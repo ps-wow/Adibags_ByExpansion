@@ -3,7 +3,6 @@ local AddonName, AddonTable = ...
 AddonTable.hfc = {
     -- Shared Boss Loot
     127115, -- tome-of-chaos
-    127749, -- corrupted-nest-guardian [Battle Pet]
     138808, -- Illusion: Mark of the Bleeding Hollow
     -- Hellfire Assault
     128071, -- blackfuse-company-tool-belt

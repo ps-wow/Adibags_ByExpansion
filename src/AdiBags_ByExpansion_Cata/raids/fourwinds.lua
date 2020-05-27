@@ -27,7 +27,6 @@ AddonTable.fourwinds = {
     -- Al'Akir
     138836, -- Illusion: Windfury
     138952, -- remnant-of-air
-    152973, -- Zephyr's Call (Battle Pet)
     63041,  -- Reins of the Drake of the South Wind
     63499,  -- cloudburst-ring
     63500,  -- sky-strider-greaves

@@ -15,9 +15,7 @@ AddonTable.hyjal = {
     30869, -- Howling Wind Bracers
     30868, -- Rejuvenating Bracers
     30873, -- Stillwater Boots
-
     -- Anetheron
-    122111, -- Smelly Gravestone (Stinkrot) [Battle Pet]
     30883, -- Pillar of Ferocity
     30881, -- Blade of Infamy
     30874, -- The Unbreakable Will
@@ -30,7 +28,6 @@ AddonTable.hyjal = {
     30885, -- Archbishop's Slippers
     30886, -- Enchanted Leather Sandles
     30880, -- Quickstrider Moccasins
-
     -- Kaz'rogal
     30918, -- Hammer of Atonement
     30889, -- Kaz'rogal's Hardened Heart
@@ -44,24 +41,20 @@ AddonTable.hyjal = {
     30893, -- Sun-Touched Chain Leggings
     30891, -- Black Featherlight Boots
     30894, -- Blue Suede Shoes
-
     -- Azgalor
     31092, -- Gloves of the Forgotten Conqueror
     31094, -- Gloves of the Forgotten Protector
     31093, -- Gloves of the Forgotten Vanquisher
-    122105, -- Grotesque Statue (Grotesque) [Battle Pet]
     30901, -- Boundless Agony
     30899, -- Don Rodrigo's Poncho
     30896, -- Glory of the Defender
     30897, -- Girdle of Hope
     30900, -- Bow-Stitched Leggings
     30898, -- Shady Dealer's Pantaloons
-
     -- Archimonde
     31097, -- Helm of the Forgotten Conqueror
     31095, -- Helm of the Forgotten Protector
     31096, -- Helm of the Forgotten Vanquisher
-    122112, -- Hyjal Wisp [Battle Pet]
     30908, -- Apostle of Argus
     30902, -- Cataclysm's Edge
     30910, -- Tempest of Chaos

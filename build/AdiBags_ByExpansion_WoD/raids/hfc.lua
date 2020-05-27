@@ -2,7 +2,6 @@ local AddonName, AddonTable = ...
 AddonTable.hfc = {
     -- Shared Boss Loot
     127115,
-    127749,
     138808,
     -- Hellfire Assault
     128071,

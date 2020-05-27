@@ -32,7 +32,6 @@ AddonTable.hm = {
     113609, -- Slaughterhouse Spaulders
     113637, -- Cloak of Frenzied Rage
     113634, -- Bracers of Spare Skin
-    113632, -- Gauntlets of the Heavy Hand
     113610, -- Meatmonger's Gory Grips
     113636, -- Belt of Bloody Guts
     113633, -- Entrail Squishers

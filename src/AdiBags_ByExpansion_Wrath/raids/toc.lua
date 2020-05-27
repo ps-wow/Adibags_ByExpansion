@@ -1,7 +1,9 @@
 local AddonName, AddonTable = ...
+
+-- Trial of the Crusader
 AddonTable.toc = {
-    47556, -- crusader-orb
-    47242, -- trophy-of-the-crusade
+    47556, -- Crusader Orb
+    47242, -- Trophy of the Crusade
     -- Northrend Beasts (Gormok the Impaler)
     47608, -- acidmaw-boots
     47853, -- acidmaw-treads
@@ -16,13 +18,11 @@ AddonTable.toc = {
     47852, -- dreadscale-bracers
     47851, -- gauntlets-of-mounting-anger
     47609, -- gauntlets-of-rising-anger
-    142083, -- giant-worm-egg [Battle Pet]
     47858, -- girdle-of-the-frozen-reach
     47614, -- girdle-of-the-impaler
     47854, -- gormoks-band
     47855, -- icehowl-binding
     47617, -- icehowl-cinch
-    142084, -- magnataur-hunting-horn [Battle Pet]
     47857, -- pauldrons-of-the-glacial-wilds
     47860, -- pauldrons-of-the-spirit-walker
     47612, -- rod-of-imprisoned-souls
@@ -580,7 +580,6 @@ AddonTable.toc = {
     47190, -- legwraps-of-the-awakening
     47487, -- handwraps-of-the-lifeless-touch
     47189, -- leggings-of-the-deepening-void
-    142085, -- nerubian-relic [Battle Pet]
     47239, -- archon-glaive
     47207, -- belt-of-the-forgotten-martyr
     47236, -- gloves-of-the-lifeless-touch

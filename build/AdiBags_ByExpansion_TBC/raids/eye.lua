@@ -3,7 +3,6 @@ local AddonName, AddonTable = ...
 AddonTable.eye = {
     30020,
     -- Al'ar
-    97557,
     29948,
     29924,
     32944,
@@ -21,7 +20,6 @@ AddonTable.eye = {
     30248,
     30249,
     30250,
-    97555,
     29986,
     29983,
     32515,
@@ -30,7 +28,6 @@ AddonTable.eye = {
     30619,
     30450,
     -- High Astromancer Solarian
-    97556,
     29981,
     29962,
     29982,

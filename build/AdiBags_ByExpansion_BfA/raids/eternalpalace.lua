@@ -35,7 +35,6 @@ AddonTable.eternalpalace = {
     168385,
     168362,
     168885,
-    169360,
     -- Radiance of Azshara
     168355,
     168382,
@@ -66,7 +65,6 @@ AddonTable.eternalpalace = {
     168335,
     168354,
     168870,
-    169358,
     -- Orgozoa
     168604,
     169319,
@@ -110,7 +108,6 @@ AddonTable.eternalpalace = {
     169308,
     168301,
     168902,
-    169362,
     -- Queen Azshara
     168275,
     169694,
@@ -124,5 +121,4 @@ AddonTable.eternalpalace = {
     168880,
     168873,
     168878,
-    169348,
 }

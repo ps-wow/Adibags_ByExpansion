@@ -129,29 +129,38 @@ AddonTable.transmog = {
     14167, -- Buccaneer's Cape
     14200, -- Thistlefur Cap
     14228, -- Embersilk Coronet
+    14306, -- Bonecaster's Vest
     14431, -- Windchaser Handguards
     14559, -- Prospector's Sash
     14562, -- Prospector's Chestpiece
     14658, -- Scorpashi Skullcap
     14788, -- Protector Armguards
+    14809, -- Warstrike Sabatons
+    14862, -- Warleader's Breastplate
 
     15144, -- Ghostwalker Rags
+    15192, -- Grand Gauntlets
     15227, -- Diamond-Tip Bludgeon
     15241, -- Battle Knife
     15245, -- Vorpal Dagger
     15246, -- Demon Blade
     15248, -- Gleaming Claymore
+    15267, -- Brutehammer
     15272, -- Razor Axe
     15287, -- Crusader Bow
     15288, -- Blasthorn Bow
     15325, -- Sharpshooter Harquebus
     15374, -- Wolf Rider's Leggings
     15383, -- Rageclaw Gloves
+    15441, -- Supreme Shoulders
     15489, -- Bloodspattered Sabatons
     15492, -- Bloodspattered Sash
+    15677, -- Magnificent Shoudlers
     15979, -- Flamecloth Stave
 
     18337, -- Orphic Bracers
+
+    21800, -- Silithid Husked Launcher [AQ20] [BoE Gun]
 
     68749, -- Imbued Disciple's Bracers
     68750, -- Imbued Pioneer Belt

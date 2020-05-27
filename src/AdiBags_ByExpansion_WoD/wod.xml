@@ -4,6 +4,7 @@
     <Script file="categories\junk.lua"/>
     <Script file="categories\loot.lua"/>
     <Script file="categories\pets.lua"/>
+    <Script file="categories\toys.lua"/>
     <Script file="categories\trade.lua"/>
     <Script file="categories\transmog.lua"/>
 

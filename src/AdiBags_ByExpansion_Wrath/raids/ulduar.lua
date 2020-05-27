@@ -4,75 +4,71 @@ AddonTable.ulduar = {
     -- NORMAL
     -- Shared
     138800, -- Illusion: Blade Ward
-    45038, -- Fragment of Val'anyr
-    45570, -- Skyforge Crossbow
-    45607, -- Fang of Oblivion
-    45612, -- Constellus
-    45613, -- Dreambinder
-    45620, -- Starshard Edge
+    45038,  -- Fragment of Val'anyr
+    45570,  -- Skyforge Crossbow
+    45607,  -- Fang of Oblivion
+    45612,  -- Constellus
+    45613,  -- Dreambinder
+    45620,  -- Starshard Edge
     -- Flame Leviathan
-    45282, -- Ironsoul
-    45287, -- Firesoul
-    45132, -- Golden Saronite Dragon
-    45284, -- Kinetic Ripper
-    45110, -- Titanguard
-    45115, -- Leviathan Fueling Manual
-    45107, -- Iron Riveted War Helm
-    45289, -- Lifespark Visage
-    45118, -- Steamworker's Goggles
-    45116, -- Freya's Choker of Warding
-    45285, -- Might of the Leviathan
-    45133, -- Pendant of Fiery Havoc
-    45300, -- Mantle of Fiery Vengeance
-    45136, -- Shoulderpads of Dormant Energies
-    45288, -- Firestrider Chestguard
-    45291, -- Combustion Bracers
-    45283, -- Flamewatch Armguards
-    45108, -- Mechanist's Bindings
-    45111, -- Mimiron's Inferno Couplings
-    45117, -- Constructor's Handwraps
-    45109, -- Gloves of the Fiery Behemoth
-    45293, -- Handguards of Potent Cures
-    45119, -- Embrace of the Leviathan
-    45295, -- Gilded Steel Legplates
-    45134, -- Plated Leggings of Ruination
-    45135, -- Boots of Fiery Resolution
-    45113, -- Glowing Ring of Reclamation
-    45297, -- Shimmering Seal
-    45106, -- Strength of the Automaton
-    45112, -- The Leviathan's Coil
-    45292, -- Energy Siphon
-    45286, -- Pyrite Infuser
-
+    45282,  -- Ironsoul
+    45287,  -- Firesoul
+    45132,  -- Golden Saronite Dragon
+    45284,  -- Kinetic Ripper
+    45110,  -- Titanguard
+    45115,  -- Leviathan Fueling Manual
+    45107,  -- Iron Riveted War Helm
+    45289,  -- Lifespark Visage
+    45118,  -- Steamworker's Goggles
+    45116,  -- Freya's Choker of Warding
+    45285,  -- Might of the Leviathan
+    45133,  -- Pendant of Fiery Havoc
+    45300,  -- Mantle of Fiery Vengeance
+    45136,  -- Shoulderpads of Dormant Energies
+    45288,  -- Firestrider Chestguard
+    45291,  -- Combustion Bracers
+    45283,  -- Flamewatch Armguards
+    45108,  -- Mechanist's Bindings
+    45111,  -- Mimiron's Inferno Couplings
+    45117,  -- Constructor's Handwraps
+    45109,  -- Gloves of the Fiery Behemoth
+    45293,  -- Handguards of Potent Cures
+    45119,  -- Embrace of the Leviathan
+    45295,  -- Gilded Steel Legplates
+    45134,  -- Plated Leggings of Ruination
+    45135,  -- Boots of Fiery Resolution
+    45113,  -- Glowing Ring of Reclamation
+    45297,  -- Shimmering Seal
+    45106,  -- Strength of the Automaton
+    45112,  -- The Leviathan's Coil
+    45292,  -- Energy Siphon
+    45286,  -- Pyrite Infuser
     -- Ignis the Furnace Master
-    142086, -- Red-Hot Coal (Magma Rageling) [Battle Pet]
-    45171, -- Intensity
-    45311, -- Relentless Edge
-    45165, -- Worldcarver
-    45309, -- Rifle of the Platinum Guard
-    45170, -- Scepter of Creation
-    45314, -- Igniter Rod
-    45164, -- Helm of the Furnace Master
-    45321, -- Pauldrons of Tempered Will
-    45186, -- Soot-Covered Mantle
-    45318, -- Drape of Fuming Anger
-    45317, -- Shawl of the Caretaker
-    45167, -- Lifeforge Breastplate
-    45316, -- Armbraces of the Vibrant Flame
-    45187, -- Wristguards of the Firetender
-    45310, -- Gauntlets of the Iron Furnace
-    45312, -- Gloves of Smoldering Touch
-    45185, -- Flamewrought Cinch
-    45161, -- Girdle of Embers
-    45166, -- Charred Saronite Greaves
-    45162, -- Flamestalker Boots
-    45157, -- Cindershard Ring
-    45168, -- Pyrelight Circle
-    45313, -- Furnace Stone
-    45158, -- Heart of Iron
-
+    45171,  -- Intensity
+    45311,  -- Relentless Edge
+    45165,  -- Worldcarver
+    45309,  -- Rifle of the Platinum Guard
+    45170,  -- Scepter of Creation
+    45314,  -- Igniter Rod
+    45164,  -- Helm of the Furnace Master
+    45321,  -- Pauldrons of Tempered Will
+    45186,  -- Soot-Covered Mantle
+    45318,  -- Drape of Fuming Anger
+    45317,  -- Shawl of the Caretaker
+    45167,  -- Lifeforge Breastplate
+    45316,  -- Armbraces of the Vibrant Flame
+    45187,  -- Wristguards of the Firetender
+    45310,  -- Gauntlets of the Iron Furnace
+    45312,  -- Gloves of Smoldering Touch
+    45185,  -- Flamewrought Cinch
+    45161,  -- Girdle of Embers
+    45166,  -- Charred Saronite Greaves
+    45162,  -- Flamestalker Boots
+    45157,  -- Cindershard Ring
+    45168,  -- Pyrelight Circle
+    45313,  -- Furnace Stone
+    45158,  -- Heart of Iron
     -- Razorscale
-    142087, -- Ironbound Collar (Ironbound Proto-Whelp) [Battle Pet]
     45147, -- Guiding Star
     45298, -- Razorscale Talon
     45142, -- Remorse
@@ -96,7 +92,6 @@ AddonTable.ulduar = {
     45303, -- Band of Draconic Guile
     45308, -- Eye of the Broodmother
     45148, -- Living Flame
-
     -- XT-002 Deconstructor
     45868, -- Aesir's Edge
     45256, -- Twisted Visage
@@ -131,9 +126,7 @@ AddonTable.ulduar = {
     45675, -- Power Enhancing Loop
     45871, -- Seal of Ulduar
     45247, -- Signet of the Earthshaker
-
     -- The Assembly of Iron
-    142088, -- Stormforged Rune (Runeforged Servitor) [Battle Pet]
     45234, -- Rapture
     45233, -- Stormrune Edge
     45448, -- Perilous Bite
@@ -169,7 +162,6 @@ AddonTable.ulduar = {
     45418, -- Lady Maye's Sapphire Ring
     45456, -- Loop of the Agile
     45235, -- Radiant Seal
-
     -- Kologarn
     45695, -- Spire of Withering Dreams
     45266, -- Malice
@@ -195,9 +187,7 @@ AddonTable.ulduar = {
     45702, -- Emerald Signet Ring
     45703, -- Spark of Hope
     45263, -- Wrathstone
-
     -- Auriaya
-    142089, -- Glittering Ball of Yarn (Sanctum Cub) [Battle Pet]
     45437, -- Runescribed Blade
     45315, -- Stonerender
     45713, -- Nurturing Touch
@@ -222,7 +212,6 @@ AddonTable.ulduar = {
     45326, -- Platinum Band of the Aesir
     45438, -- Ring of the Faithful Servant
     45866, -- Elemental Focus Stone
-
     -- Hodir
     45632, -- Breastplate of the Wayward Conqueror
     45633, -- Breastplate of the Wayward Protector
@@ -230,7 +219,6 @@ AddonTable.ulduar = {
     45650, -- Leggings of the Wayward Conqueror
     45651, -- Leggings of the Wayward Protector
     45652, -- Leggings of the Wayward Vanquisher
-    142090, -- Ominous Pile of Snow (Winter Rageling) [Battle Pet]
     45886, -- Icecore Staff
     45457, -- Staff of Endless Winter
     45458, -- Stormedge
@@ -251,7 +239,6 @@ AddonTable.ulduar = {
     45452, -- Frostplate Greaves
     45451, -- Frozen Loop
     45874, -- Signet of Winter
-
     -- Thorim
     45638, -- Crown of the Wayward Conqueror
     45639, -- Crown of the Wayward Protector
@@ -279,7 +266,6 @@ AddonTable.ulduar = {
     45931, -- Mjolnir Runestone
     45466, -- Scale of Fates
     45929, -- Sif's Remembrance
-
     -- Freya
     45644, -- Gloves of the Wayward Conqueror
     45645, -- Gloves of the Wayward Protector
@@ -307,7 +293,6 @@ AddonTable.ulduar = {
     45936, -- Legplates of Flourishing Resolve
     45483, -- Boots of the Servant
     45946, -- Fire Orchid Signet
-
     -- Mimiron
     45641, -- Gauntlets of the Wayward Conqueror
     45642, -- Gauntlets of the Wayward Protector
@@ -315,7 +300,6 @@ AddonTable.ulduar = {
     45647, -- Helm of the Wayward Conqueror
     45648, -- Helm of the Wayward Protector
     45649, -- Helm of the Wayward Vanquisher
-    142092, -- Overcomplicated Controller (G0-R41-0N) [Battle Pet]
     45494, -- Delirium's Touch
     45990, -- Fusion Blade
     45489, -- Insanity's Grip
@@ -381,7 +365,6 @@ AddonTable.ulduar = {
     45657, -- Mantle of the Wayward Protector
     45658, -- Mantle of the Wayward Vanquisher
     45693, -- Mimiron's Head [Mount]
-    142093, -- Wriggling Darkness (Creeping Tentacle) [Battle Pet]
     46016, -- Abaddon
     45533, -- Dark Edge of Depravity
     46025, -- Devotion

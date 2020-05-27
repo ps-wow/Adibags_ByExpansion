@@ -18,7 +18,6 @@ AddonTable.bwl = {
     19397,
     19406,
     -- Razorgore the Untamed
-    93036,
     19334,
     19335,
     19370,
@@ -51,7 +50,6 @@ AddonTable.bwl = {
     19372,
     19371,
     -- Broodlord Lashlayer
-    93037,
     19351,
     19350,
     19373,
@@ -110,7 +108,6 @@ AddonTable.bwl = {
     19393,
     19385,
     19387,
-    93038,
     -- Nefarian
     16897,
     16900,

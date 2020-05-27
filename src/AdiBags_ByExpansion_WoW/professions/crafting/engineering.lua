@@ -32,7 +32,6 @@ AddonTable.engineering = {
     4396,  -- Mechanical Dragonling
     4397,  -- Gnomish Cloaking Device
     4398,  -- Large Seaforium Charge
-    4401,  -- Mechanical Squirrel Box [Battle Pet]
     4403,  -- Portable Bronze Mortar
     4405,  -- Crude Scope
     4406,  -- Standard Scope
@@ -82,8 +81,6 @@ AddonTable.engineering = {
     10726, -- Gnomish Mind Control Cap
     10727, -- Goblin Dragon Gun
     11590, -- Mechanical Repair Kit
-    11825, -- Pet Bombling [Battle Pet]
-    11826, -- Lil' Smoky [Battle Pet]
     15993, -- Thorium Grenade
     15995, -- Thorium Rifle
     15996, -- Lifelike Mechanical Toad
@@ -109,10 +106,7 @@ AddonTable.engineering = {
     18641, -- Dense Dynamite
     18645, -- Gnomish Alarm-o-Bot
     18660, -- World Enlarger
-    18984, -- Dimensional Ripper - Everlook [Toy]
-    18986, -- Ultrasafe Transpowerer - Gadgetzan [Toy]
     19026, -- Snake Burst Firework
-    21277, -- Tranquil Mechanical Yeti [Battle Pet]
     21557, -- Small Red Rocket
     21558, -- Small Blue Rocket
     21559, -- Small Green Rocket

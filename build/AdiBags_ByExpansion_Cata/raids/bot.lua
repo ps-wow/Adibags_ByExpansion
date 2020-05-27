@@ -30,7 +30,6 @@ AddonTable.bot = {
     59483,
     59484,
     -- Theralion and Valiona
-    152969,
     65091,
     65094,
     65095,
@@ -56,7 +55,6 @@ AddonTable.bot = {
     63535,
     63536,
     -- Ascendant Council
-    152970,
     59502,
     59503,
     59504,
@@ -82,7 +80,6 @@ AddonTable.bot = {
     65118,
     65110,
     -- Cho'gall
-    152972,
     59330,
     59485,
     59486,

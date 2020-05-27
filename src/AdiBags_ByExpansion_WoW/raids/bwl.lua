@@ -19,7 +19,6 @@ AddonTable.bwl = {
     19397, -- Ring of Blackrock
     19406, -- Drake Fang Talisman
     -- Razorgore the Untamed
-    93036, -- Unscathed Egg (Untamed Hatchling) [Battle Pet]
     19334, -- The Untamed Blade
     19335, -- Spineshatter
     19370, -- Mantle of the Blackwing Cabal
@@ -52,7 +51,6 @@ AddonTable.bwl = {
     19372, -- Helm of Endless Rage
     19371, -- Pendant of the Fallen Dragon
     -- Broodlord Lashlayer
-    93037, -- Blackwing Banner (Death Talon Whelpguard) [Battle Pet]
     19351, -- Maladath, Runed Blade of the Black Flight
     19350, -- Heartstriker
     19373, -- Black Brood Pauldrons
@@ -111,7 +109,6 @@ AddonTable.bwl = {
     19393, -- Primalist's Linked Waistguard
     19385, -- Empowered Leggings
     19387, -- Chromatic Boots
-    93038, -- Whistle of Chromatic Bone (Chrominius) [Battle Pet]
     -- Nefarian
     16897, -- Stormrage Chestguard
     16900, -- Stormrage Cover

@@ -20,7 +20,6 @@ AddonTable.lbrs = {
     13179,
     22231,
     -- Mother Smolderweb
-    68673,
     13183,
     13244,
     13213,
@@ -30,7 +29,6 @@ AddonTable.lbrs = {
     13259,
     13178,
     -- Quartermaster Zigris
-    12264,
     13253,
     13252,
     151416,

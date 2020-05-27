@@ -3,7 +3,6 @@ local AddonName, AddonTable = ...
 AddonTable.tot = {
     87208,
     87209,
-    94125,
     94574,
     94593,
     94594,

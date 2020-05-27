@@ -39,7 +39,6 @@ AddonTable.loot = {
     123959, -- Demon Trophy
     123960, -- Charm of Demonic Fire
 
-    128690, -- Ashmaw Cub [Battle Pet]
     128944, -- Voras' Silk Drape
     128946, -- Mardum Lord Signet
     128947, -- Pit Lord's Cuffs
@@ -58,6 +57,7 @@ AddonTable.loot = {
     129056, -- Dreadlord's Hamstring
     129065, -- The Shadow Oracle's Leggings
     129066, -- Nar'thalas Guard Mantle
+    129072, -- The Voilaceous Pearl
     129073, -- Bitterbrine's Signet Ring
     129101, -- Alpha's Paw
     129104, -- Brand of the Banshee Queen
@@ -74,7 +74,6 @@ AddonTable.loot = {
     130125, -- Dreadbog Fungalflesh Cape
     130133, -- Undergrell Mobilehelm
     130135, -- Mana-Prowler Leggings
-    130166, -- Risen Saber Kitten [Battle Pet]
 
     132234, -- Spectral Dust
     132243, -- Fel-Etched Glaive
@@ -112,6 +111,7 @@ AddonTable.loot = {
     134230, -- Coralplate Wristguard
     134245, -- Nazjatar Manapearl Ring
     134291, -- Nightborne's Hunting Horn
+    134315, -- Ley-Scarred Greaves
     134362, -- portalguard-wristguard
     134371, -- felbat-leather-gloves
     134390, -- Mardum Chain Vest

@@ -1,4 +1,5 @@
 local AddonName, AddonTable = ...
+-- Ruins of Ahn'Qiraj (AQ20)
 AddonTable.aq20 = {
     -- Shared Boss Loot
     20884,

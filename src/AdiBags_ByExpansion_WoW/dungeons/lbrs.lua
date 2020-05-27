@@ -21,7 +21,6 @@ AddonTable.lbrs = {
     13179,  -- Brazecore Armguards
     22231,  -- Kayser's Boots of Precision
     -- Mother Smolderweb
-    68673,  -- Smolderweb Egg [Battle Pet]
     13183,  -- Venomspitter
     13244,  -- Gilded Gauntlets
     13213,  -- Smolderweb's Eye
@@ -31,7 +30,6 @@ AddonTable.lbrs = {
     13259,  -- Ribsteel Footguards
     13178,  -- Rosewine Circle
     -- Quartermaster Zigris
-    12264,  -- Worg Carrier [Battle Pet]
     13253,  -- Hands of Power
     13252,  -- Cloudrunner Girdle
     151416, -- Dark Horde Grunt's Legplates

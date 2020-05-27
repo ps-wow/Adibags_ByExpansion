@@ -4,7 +4,6 @@ local AddonName, AddonTable = ...
 AddonTable.tot = {
     87208, -- sigil-of-power
     87209, -- sigil-of-wisdom
-    94125, -- Living Sandling [Battle Pet]
     94574, -- pygmy-direhorn
     94593, -- secrets-of-the-empire
     94594, -- titan-runestone

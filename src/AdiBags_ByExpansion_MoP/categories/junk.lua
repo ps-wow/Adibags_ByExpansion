@@ -33,18 +33,24 @@ AddonTable.junk = {
     89512, -- Unpolished Amber Fragment
     89739, -- Stripped Gear (SoO)
 
+    90741, -- Inferior Mail Circlet
+    90742, -- Shabby Leather Helmet
     90746, -- Inferior Mail Belt
     90747, -- Dingy Plate Belt
     90749, -- Dingy Plate Bracers
+    90752, -- Inferior Mail Boots
+    90753, -- Inferior Mail Bracers
     90754, -- Inferior Mail Gloves
     90755, -- Inferior Mail Pants
     90756, -- Inferior Mail Shoulderpads
     90758, -- Scruffy Cloth Boots
     90760, -- Scruffy Cloth Gloves
     90761, -- Scruffy Cloth Pants
+    90762, -- Shabby Boots
     90763, -- Shabby Bracers
     90764, -- Shabby Gloves
     90765, -- Shabby Pants
+    90766, -- Shabby Shoulderpads
     90767, -- Scruffy Cloth Shoulderpads
     90768, -- Scruffy Cloth Vest
     90769, -- Shabby Armor
@@ -54,6 +60,7 @@ AddonTable.junk = {
     90803, -- Moist Mail Bracers
     90805, -- Robble's Stabilized Staff
     90806, -- Rusted Blade
+    90807, -- Corroded Timber Axe
     90809, -- Knog's Bow of Clumsiness
     90810, -- Fireblackened Mace
     90811, -- Battered Shiv

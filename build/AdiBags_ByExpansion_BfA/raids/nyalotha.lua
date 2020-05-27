@@ -11,7 +11,6 @@ AddonTable.nyalotha = {
     172199,
     174105,
     -- Maut
-    174446,
     173944,
     174155,
     174141,
@@ -50,8 +49,6 @@ AddonTable.nyalotha = {
     174137,
     174106,
     172192,
-    174448,
-    174449,
     -- Shad'har the Insatiable
     174177,
     174162,
@@ -98,7 +95,6 @@ AddonTable.nyalotha = {
     174134,
     174175,
     172197,
-    174447,
     -- Carapace of N'Zoth
     174127,
     174144,
@@ -121,6 +117,5 @@ AddonTable.nyalotha = {
     174133,
     174533,
     174118,
-    174452,
     174872,
 }

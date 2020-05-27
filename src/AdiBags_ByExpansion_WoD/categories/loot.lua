@@ -32,7 +32,6 @@ AddonTable.loot = {
     109077, -- Rockhoof's Crest
     109078, -- Killmaw's Canine
     109081, -- Ronokk's Greatcloak
-    109739, -- Star Chart [Toy]
 
     112371, -- Warpstalker-Scale Grips
     112389, -- Iron Horde Warcudgel
@@ -42,7 +41,6 @@ AddonTable.loot = {
     112663, -- Voidgazer Headguard
     112664, -- Voidgazer Cap
     112669, -- Quarrier's Shoulderplates
-    112699, -- Teroclaw Hatchling [Battle Pet]
     112798, -- Mindsworn Band
     112810, -- Windowhanger Wraps (From: 114053)
     112811, -- Wallbuilder Gauntlets
@@ -77,7 +75,7 @@ AddonTable.loot = {
     114984, -- Mysterious Satchel (Quest Item)
 
     116112, -- Ra'kahn's Bite
-    116120, -- Tasty Talador Lunch [Toy]
+    116124, -- Scaled Riverbeast
     116132, -- Snail Shell Necklace
     116724, -- Oshu'gun Basin
     116725, -- Oshu'gun Ring

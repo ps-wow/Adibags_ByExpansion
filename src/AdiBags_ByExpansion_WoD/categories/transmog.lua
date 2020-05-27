@@ -24,6 +24,7 @@ AddonTable.transmog = {
     106707, -- Voidwrap Leggings
     106708, -- Voidwrap Robe
     106710, -- Voidwrap Shoulderpads
+    106712, -- Sunspring Belt
     106726, -- Stonecrag Sabatons
     106727, -- Stonecrag Shield
     106728, -- Stonecrag Vambraces
@@ -43,6 +44,8 @@ AddonTable.transmog = {
     106752, -- Packrunner Vest
 
     111475, -- Beater's Beat Stick
+
+    113632, -- Gauntlets of the Heavy Hand [BoE Gloves] [Raid: Highmaul]
 
     116464, -- Frostbitten Gun
     116475, -- Lunarglow Broadaxe

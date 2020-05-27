@@ -14,8 +14,10 @@ AddonTable.transmog = {
     82184, -- Snowy Shield
     82198, -- Trellised Robe
     82204, -- Thresher Britches
-    82227, -- Bejewled Crystal
+    82226, -- Bejeweled Cloak
+    82227, -- Bejeweled Crystal
     82231, -- Bejeweled Wand
+    82236, -- Highpeak Legplates
     82237, -- Highpeak Pauldrons
     82240, -- Highpeak Vambraces
     82241, -- Yak Belt
@@ -36,14 +38,20 @@ AddonTable.transmog = {
     82258, -- Vine Boots
     82259, -- Vine Britches
     82260, -- Vine Gloves
+    82261, -- Vine Hood
     82262, -- Vine Jerkin
     82263, -- Vine Shoulders
     82264, -- Vine Waistband
+    82269, -- Engraved Dagger
     82270, -- Engraved Greatsword
     82271, -- Engraved Gun
+    82272, -- Engraved Hammer
     82274, -- Engraved Knuckles
-    82277, -- Engraved Staff
     82276, -- Engraved Spear
+    82277, -- Engraved Staff
+    82278, -- Engraved Staff
+    82281, -- Immaculate Cloak
+    82285, -- Immaculate Spellblade
     82286, -- Immaculate Wand
     82287, -- Temple Breastplate
     82288, -- Temple Gauntlets
@@ -52,6 +60,7 @@ AddonTable.transmog = {
     82291, -- Temple Legplates
     82292, -- Temple Pauldrons
     82293, -- Temple Sabatons
+    82294, -- Temple Shield
     82295, -- Temple Vambraces
 
     87419, -- Kaleiki's Lost Training Staff
