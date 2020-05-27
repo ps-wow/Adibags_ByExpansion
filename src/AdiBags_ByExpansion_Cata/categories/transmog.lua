@@ -125,6 +125,7 @@ AddonTable.transmog = {
     59901, -- Heaving Plates of Protection [Plate][Shoulder]
 
     60201, -- Phase-Twister Leggings [Mail][Legs] (BoT)
+    60202, -- Tsanga's Helm [Leather] [BoE] [Bastion of Twilight]
     60210, -- Crossfire Carbine [Gun] (BoT)
     60211, -- Bracers of the Dark Pool [Cloth][Wrist]
     63538, -- Claws of Agony [Fist Weapon]

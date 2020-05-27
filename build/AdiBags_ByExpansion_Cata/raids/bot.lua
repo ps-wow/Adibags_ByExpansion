@@ -1,7 +1,5 @@
 local AddonName, AddonTable = ...
 AddonTable.bot = {
-    -- Trash Mobs
-    60202,
     -- Halfus Wyrmbreaker
     65133,
     65134,

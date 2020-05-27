@@ -1,8 +1,6 @@
 local AddonName, AddonTable = ...
 
 AddonTable.bot = {
-    -- Trash Mobs
-    60202, -- Tsanga's Helm [Leather]
     -- Halfus Wyrmbreaker
     65133, -- Book of Binding Will
     65134, -- Wyrmbreaker's Amulet
