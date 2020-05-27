@@ -37,6 +37,7 @@ AddonTable.transmog = {
     55480, -- Swamplight Wand
     55484, -- Mereldar Wand
     55485, -- Thondroril Wand
+    55486, -- Blackwolf Wand
     55493, -- Ravencrest Vambraces
     55494, -- Stonewrought Vambraces
     55495, -- Crystalvein Vambraces

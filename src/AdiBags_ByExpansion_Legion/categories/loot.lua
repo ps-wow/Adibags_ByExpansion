@@ -75,8 +75,6 @@ AddonTable.loot = {
     130133, -- Undergrell Mobilehelm
     130135, -- Mana-Prowler Leggings
     130166, -- Risen Saber Kitten [Battle Pet]
-    130171, -- Cursed Orb [Toy]
-    130214, -- Worn Doll [Toy]
 
     132234, -- Spectral Dust
     132243, -- Fel-Etched Glaive

@@ -257,6 +257,8 @@ AddonTable.junk = {
     165281, -- Yellowed Treasure Map
     165284, -- Singed Treasure Map
 
+    167873, -- Remnant of the Void
+
     168786, -- Rotten Food
     168788, -- Toy Soldier Weapons
     168787, -- Empty Birdcage
@@ -282,8 +284,11 @@ AddonTable.junk = {
     169143, -- Seized Sparksaw
     169145, -- Rused Precision Gripper
     169149, -- Dulled Micro-Serrated Incisor
+    169963, -- Cracked Containment Unit
     169976, -- Disintegrating Leaf
     169984, -- Shattered Dragonscale
+    169985, -- Fading Dragonscale
+    169986, -- Cracked Dragonscale
 
     170001, -- Seized Engine
     170005, -- Fractured Pearl

@@ -14,6 +14,7 @@ AddonTable.junk = {
     62070, -- Rusted Timber Axe
     62071, -- Corroded Blade
     62072, -- Robble's Wobbly Staff
+    62073, -- Clammy Mail Gloves
     62074, -- Clammy Mail Bracers
     62075, -- Perforated Plate Shoulderpads
     62076, -- Perforated Plate Pants
@@ -44,6 +45,7 @@ AddonTable.junk = {
     62102, -- Dirt-Caked Leather Helmet
     62103, -- Pockmarked Hay
     62104, -- Perforated Plate Helmet
+    62105, -- Bleached Plate Pants
     62106, -- Bleached Plate Gloves
     62107, -- Singed Belt
     62108, -- Singed Armor

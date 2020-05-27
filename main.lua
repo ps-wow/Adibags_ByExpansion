@@ -32,6 +32,12 @@ function Core:GetOptions()
             type = 'toggle',
             order = 70,
         },
+        Toys = {
+            name = "Toys",
+            desc = 'Toys',
+            type = 'toggle',
+            order = 70,
+        },
         Loot = {
             name = "Loot",
             desc = 'Non junk items',
@@ -105,6 +111,7 @@ function Core:GetProfile()
         Reputation = true,
         Junk = true,
         Loot = true,
+        Toys = true,
         FoodDrink = true,
         Consumable = true,
         Transmog = true,
@@ -268,6 +275,7 @@ function Core:GetDefaultCategories()
         ["RaidEquipment"] = "Raid Armour/Weapons", -- Raid equipment (Soulbound)
         ["Professions"] = "Crafting Items",
         ["Junk"] = "Junk", -- Grey quality items.
+        ["Toys"] = "Toys", -- Grey quality items.
         ["Consumable"] = "Consumables", -- Flasks/Potions/Runes
         ["Loot"] = "Other", -- Green or higher (soulbound), BoE non-appearences.
         ["FoodDrink"] = "Food / Drink", -- Food and Drinks
@@ -423,6 +431,11 @@ function Core:LoadCategories(table, module)
     -- Reputation
     if table.reputation ~= nil then
         Core:AddCategoryItems(table.reputation, "Reputation", module)
+    end
+
+    -- Toys
+    if table.toys ~= nil then
+        Core:AddCategoryItems(table.toys, "Toys", module)
     end
 
     -- Junk
