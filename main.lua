@@ -32,6 +32,12 @@ function Core:GetOptions()
             type = 'toggle',
             order = 70,
         },
+        BattlePets = {
+            name = "Battle Pets",
+            desc = 'Battle Pets',
+            type = 'toggle',
+            order = 70,
+        },
         Toys = {
             name = "Toys",
             desc = 'Toys',
@@ -111,6 +117,7 @@ function Core:GetProfile()
         Reputation = true,
         Junk = true,
         Loot = true,
+        BattlePets = true,
         Toys = true,
         FoodDrink = true,
         Consumable = true,
@@ -275,7 +282,8 @@ function Core:GetDefaultCategories()
         ["RaidEquipment"] = "Raid Armour/Weapons", -- Raid equipment (Soulbound)
         ["Professions"] = "Crafting Items",
         ["Junk"] = "Junk", -- Grey quality items.
-        ["Toys"] = "Toys", -- Grey quality items.
+        ["Toys"] = "Toys", -- Toys
+        ["BattlePets"] = "Battle Pets", -- Battle Pets
         ["Consumable"] = "Consumables", -- Flasks/Potions/Runes
         ["Loot"] = "Other", -- Green or higher (soulbound), BoE non-appearences.
         ["FoodDrink"] = "Food / Drink", -- Food and Drinks
@@ -436,6 +444,11 @@ function Core:LoadCategories(table, module)
     -- Toys
     if table.toys ~= nil then
         Core:AddCategoryItems(table.toys, "Toys", module)
+    end
+
+    -- Battle Pets
+    if table.pets ~= nil then
+        Core:AddCategoryItems(table.pets, "BattlePets", module)
     end
 
     -- Junk
