@@ -6,6 +6,7 @@ AddonTable.consumable = {
     1477,  -- Scroll of Agility II
     2289,  -- Scroll of Strength II
     2290,  -- Scroll of Intellect II
+    4606,  -- Spongy Morel
     6530,  -- Nightcrawlers
     -- Engineering
     6533,  -- Aquadynamic Fish Attractor

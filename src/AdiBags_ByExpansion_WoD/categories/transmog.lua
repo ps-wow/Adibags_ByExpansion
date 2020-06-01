@@ -25,18 +25,19 @@ AddonTable.transmog = {
     106708, -- Voidwrap Robe
     106710, -- Voidwrap Shoulderpads
     106712, -- Sunspring Belt
+    106725, -- Stonecrag Pauldrons
     106726, -- Stonecrag Sabatons
     106727, -- Stonecrag Shield
     106728, -- Stonecrag Vambraces
-    106729, -- Meadowstomper Bindings [Leather][Wrist]
-    106731, -- Meadowstomper Britches [Leather][Legs]
-    106732, -- Meadowstomper Gloves [Leather][Gloves]
-    106733, -- Meadowstomper Hood [Leather][Helm]
-    106735, -- Meadowstomper Shoulders [Leather][Shoulder]
-    106736, -- Meadowstomper Waistband [Leather][Waist]
+    106729, -- Meadowstomper Bindings
+    106731, -- Meadowstomper Britches
+    106732, -- Meadowstomper Gloves
+    106733, -- Meadowstomper Hood
+    106735, -- Meadowstomper Shoulders
+    106736, -- Meadowstomper Waistband
     106740, -- Dark Star Leggings
     106742, -- Dark Star Sandals
-    106743, -- Dark Star Shoulderpads [Cloth][Shoulder]
+    106743, -- Dark Star Shoulderpads
     106744, -- Dark Star Wristwraps
     106749, -- Packrunner Helm
     106750, -- Packrunner Legguards
@@ -44,9 +45,6 @@ AddonTable.transmog = {
     106752, -- Packrunner Vest
 
     111475, -- Beater's Beat Stick
-
-    113632, -- Gauntlets of the Heavy Hand [BoE Gloves] [Raid: Highmaul]
-
     116464, -- Frostbitten Gun
     116475, -- Lunarglow Broadaxe
     116493, -- Vinewrapped Bow
@@ -70,15 +68,18 @@ AddonTable.transmog = {
     116640, -- Howling Staff
     116641, -- Howling Sword
     116721, -- Ancestral Branch
-
     118803, -- Kihrawr's Scratching Post
 
-    119331, -- Bracers of Visceral Force [Plate][Wrist] BrF
-    119335, -- Eyeripper Girdle [Leather][Belt] (HM)
-    119338, -- Belt of Inebriated Sorrows [Mail][Belt] (HM)
-    119339, -- Treads of the Veteran Smith [Mail][Feet] BrF
-    119340, -- Iron-Flecked Sandals [Leather][Feet] BrF
-    119343, -- Eye-Blinder Greatcloak [Back] (HM)
-    119345, -- Milenah's Intricate Cloak [Back] (HM)
-    119332, -- Bracers of Darkened Skies [Bracers][Cloth] BrF
+    -- Highmaul
+    113632, -- Gauntlets of the Heavy Hand [BoE Gloves]
+    119335, -- Eyeripper Girdle
+    119338, -- Belt of Inebriated Sorrows
+    119343, -- Eye-Blinder Greatcloak
+    119345, -- Milenah's Intricate Cloak
+
+    -- Blackrock Foundry
+    119331, -- Bracers of Visceral Force
+    119332, -- Bracers of Darkened Skies
+    119339, -- Treads of the Veteran Smith
+    119340, -- Iron-Flecked Sandals
 }

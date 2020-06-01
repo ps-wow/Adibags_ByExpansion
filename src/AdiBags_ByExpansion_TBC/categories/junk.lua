@@ -2,6 +2,8 @@ local AddonName, AddonTable = ...
 
 -- TBC Junk
 AddonTable.junk = {
+    22153, -- Tome of Arcane Brilliance
+
     23938, -- Pristine Ravager Carapace
 
     24508, -- Elemental Fragment
@@ -12,6 +14,7 @@ AddonTable.junk = {
     25341, -- Dilapidated Cloth Belt
     25343, -- Dilapidated Cloth Bracers
     25344, -- Dilapidated Cloth Gloves
+    25345, -- Dilapidated Cloth Hat
     25346, -- Dilapidated Cloth Pants
     25347, -- Dilapidated Cloth Shoulderpads
     25354, -- Moldy Leather Helmet

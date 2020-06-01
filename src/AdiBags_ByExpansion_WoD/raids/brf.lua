@@ -114,7 +114,6 @@ AddonTable.brf = {
     115550, -- Arcanoshatter Robes
     115566, -- Battleplate of Guiding Light
     115582, -- Blackhand's Chestguard
-    115540, -- Living Wood Raiment
     115537, -- Ogreskull Boneplate Breastplate
     115570, -- Poisoner's Tunic
     115548, -- Rylakstalker's Tunic
@@ -153,7 +152,6 @@ AddonTable.brf = {
     113960, -- Engine-Stoker's Lantern
     115551, -- Arcanoshatter Mantle
     115581, -- Blackhand's Shoulderguards
-    115544, -- Living Wood Spaulders
     115559, -- Mantle of the Somber Gaze
     115536, -- Ogreskull Boneplate Pauldrons
     115565, -- Pauldrons of Guiding Light
@@ -201,7 +199,6 @@ AddonTable.brf = {
     115580, -- Blackhand's Legguards
     115569, -- Legplates of Guiding Light
     115557, -- Legwraps of the Somber Gaze
-    115543, -- Living Wood Legguards
     115535, -- Ogreskull Boneplate Greaves
     115573, -- Poisoner's Legguards
     115546, -- Rylakstalker's Legguards
@@ -238,7 +235,6 @@ AddonTable.brf = {
     115584, -- Blackhand's Faceguard
     115556, -- Helm of the Somber Gaze
     115568, -- Helmet of Guiding Light
-    115542, -- Living Wood Headpiece
     115539, -- Ogreskull Boneplate Greathelm
     115572, -- Poisoner's Helmet
     115545, -- Rylakstalker's Headguard
@@ -287,7 +283,6 @@ AddonTable.brf = {
     115583, -- Blackhand's Handguards
     115567, -- Gauntlets of Guiding Light
     115555, -- Handwraps of the Somber Gaze
-    115541, -- Living Wood Grips
     115538, -- Ogreskull Boneplate Gauntlets
     115571, -- Poisoner's Gloves
     115549, -- Rylakstalker's Gloves
@@ -316,46 +311,56 @@ AddonTable.brf = {
     116250, -- impalers-greatboots
     116312, -- sorkas-ear-collection
     -- Blackhand
-    116393, -- Dagger of the Shattered Crucible
-    
-    120277, -- Essence of the Iron Conqueror (N)
-    120278, -- Essence of the Iron Vanquisher (N)
-    120279, -- Essence of the Iron Protector (N)
-    119310, -- Essence of the Iron Conqueror
-    120280, -- Essence of the Iron Conqueror (Heroic)
-    119323, -- Essence of the Iron Protector
-    120284, -- Essence of the Iron Protector (M)
-    119316, -- Essence of the Iron Vanquisher
-    120211, -- Essence of the Iron Vanquisher
-    120285, -- Essence of the Iron Vanquisher (M)
-    120283, -- Essence of the Iron Conqueror (Mythic)
-    138809, -- Illusion: Mark of Blackrock
-    116660, -- Ironhoof Destroyer (Mount)
-    113988, -- Blackhand Doomstaff
     113979, -- The Black Hand
     113980, -- Iron Soldier's Saber
     113981, -- Slagbomber's Hood
-    113990, -- Overdriven Spaulders
     113982, -- Chestguard of the Siegemaker
-    113989, -- Shattering Smash Leggings
+    113983, -- Forgemaster's Insignia
+    113984, -- Blackiron Micro Crucible
+    113985, -- Humming Blackiron Trigger
     113986, -- Auto Repairing Autoclave
     113987, -- Battering Talisman
-    113984, -- Blackiron Micro Crucible
-    113983, -- Forgemaster's Insignia
-    113985, -- Humming Blackiron Trigger
-    120396, -- blacksteel-casque
-    120390, -- ashlink-coif
-    120382, -- sootfur-cap
-    120373, -- ebonflame-hood
-    116219, -- spaulders-of-erupting-iron
-    116251, -- ironshatter-legplates
-    116244, -- spaulders-of-the-iron-crucible
-    116022, -- flamestoker-wraps
-    116042, -- ram-carriers-treads
+    113988, -- Blackhand Doomstaff
+    113989, -- Shattering Smash Leggings
+    113990, -- Overdriven Spaulders
     116005, -- forgestokers-shoulderpads
-    116224, -- bomb-carriers-harness
+    116022, -- flamestoker-wraps
     116036, -- deathmark-shoulderguards
+    116042, -- ram-carriers-treads
+    116219, -- spaulders-of-erupting-iron
+    116224, -- bomb-carriers-harness
+    116244, -- spaulders-of-the-iron-crucible
+    116251, -- ironshatter-legplates
     116309, -- spiked-foundry-collar
-    116391, -- blackhand-forgehammer
     116317, -- storage-house-key
+    116391, -- blackhand-forgehammer
+    116393, -- Dagger of the Shattered Crucible
+    116660, -- Ironhoof Destroyer (Mount)
+    119310, -- Essence of the Iron Conqueror
+    119316, -- Essence of the Iron Vanquisher
+    119323, -- Essence of the Iron Protector
+    120211, -- Essence of the Iron Vanquisher
+    120217, -- Gauntlets of the Iron Vanquisher
+    120233, -- Helm of the Iron Vanquisher
+    120277, -- Essence of the Iron Conqueror (N)
+    120278, -- Essence of the Iron Vanquisher (N)
+    120279, -- Essence of the Iron Protector (N)
+    120280, -- Essence of the Iron Conqueror (Heroic)
+    120281, -- Essence of the Iron Protector (Heroic)
+    120282, -- Essence of the Iron Vanquisher (Heroic)
+    120283, -- Essence of the Iron Conqueror (Mythic)
+    120284, -- Essence of the Iron Protector (M)
+    120285, -- Essence of the Iron Vanquisher (M)
+    120373, -- ebonflame-hood
+    120382, -- sootfur-cap
+    120390, -- ashlink-coif
+    120396, -- blacksteel-casque
+    138809, -- Illusion: Mark of Blackrock
+    -- Set Pieces
+    --- Druid - Living Wood Battlegear
+    115540, -- Living Wood Raiment
+    115541, -- Living Wood Grips
+    115542, -- Living Wood Headpiece
+    115543, -- Living Wood Legguards
+    115544, -- Living Wood Spaulders
 }

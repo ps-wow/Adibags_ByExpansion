@@ -30,6 +30,7 @@ AddonTable.consumable = {
     -- Ancient Mana
     139786,
     140243,
+    140401,
     140949,
     141655,
 }

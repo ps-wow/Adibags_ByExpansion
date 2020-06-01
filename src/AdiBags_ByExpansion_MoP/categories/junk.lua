@@ -43,6 +43,7 @@ AddonTable.junk = {
     90754, -- Inferior Mail Gloves
     90755, -- Inferior Mail Pants
     90756, -- Inferior Mail Shoulderpads
+    90757, -- Scruffy Cloth Belt
     90758, -- Scruffy Cloth Boots
     90760, -- Scruffy Cloth Gloves
     90761, -- Scruffy Cloth Pants

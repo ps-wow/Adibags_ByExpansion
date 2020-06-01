@@ -34,4 +34,5 @@ AddonTable.sfk = {
     151073,
     -- Quest Rewards
     65910,
+    65960,
 }

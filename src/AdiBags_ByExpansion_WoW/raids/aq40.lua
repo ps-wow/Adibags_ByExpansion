@@ -124,4 +124,7 @@ AddonTable.aq40 = {
     22731, -- Cloak of the Devoured
     22732, -- Mark of C'Thun
     22730, -- Eyestalk Waist Cord
+    --- Quest Rewards
+    -- The Savior of Kalimdor (?? TODO: Quest ID)
+    21712, -- Amulet of the Fallen God
 }

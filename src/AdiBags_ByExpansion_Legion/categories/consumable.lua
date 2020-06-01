@@ -31,6 +31,7 @@ AddonTable.consumable = {
     -- Ancient Mana
     139786, -- Ancient Mana Crystal
     140243, -- Azurefall Essence
+    140401, -- Blue Or'ligai Egg
     140949, -- Onyx Or'ligai Egg
     141655, -- Shimmering Ancient Mana Cluster
 }

@@ -79,6 +79,8 @@ AddonTable.loot = {
     65996, -- Belt of Tyrannic Rule
     66008, -- Shield of Maraudon
 
+    89553, -- Aspirant's Staff of Grace (Monk level 20 Staff)
+
     131206, -- Shimmerweed Brewer Treads
     131207, -- Well-Oiled Chain Gauntlets
     131436, -- Wendigo Pantaloons
@@ -92,14 +94,18 @@ AddonTable.loot = {
 
     134654, -- Greenhorn's Armbands
 
+    143580, -- Earthbound Girdle
     143581, -- Earthbound Grips
     143582, -- Stalwart Belt
     143583, -- Stalwart Grips
 
     151430, -- Hematite Tortoise Pendant
 
+    156974, -- Archivist's Walking Stick
+
     157619, -- Spire of Astral Force (Starter Gear)
     157622, -- Silverscope Longrifle (Starter Gear)
+    157627, -- Sword of Searing Winds (Starter Gear)
     157638, -- Lightning-Binder's Claws (Starter Gear)
     157643, -- Helm-Hewer Greataxe (Starter Gear)
     157651, -- Staff of Elemental Shaping
@@ -123,6 +129,10 @@ AddonTable.loot = {
     157686, -- Spellsculptor's Robe
     157688, -- Spellsculptor's Cord
     157689, -- Spellsculptor's Wristwraps
+    157690, -- Ascetic's Vest (Starter Gear)
+    157691, -- Ascetic's Footpads (Starter Gear)
+    157694, -- Ascetic's Legguards (Starter Gear)
+    157697, -- Ascetic's Cuffs (Starter Gear)
     157699, -- Lightsoul Sabatons
     157704, -- Lightsoul Girdle
     157705, -- Lightsoul Vambraces

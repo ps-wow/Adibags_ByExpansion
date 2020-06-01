@@ -2,6 +2,8 @@ local AddonName, AddonTable = ...
 
 -- The Battle for Mount Hyjal (25 Normal)
 AddonTable.hyjal = {
+    32589, -- Hellfire-Encased Pendant
+    34009, -- Hammer of Judgment
     -- Rage Winterchill
     30865, -- Tracker's Blade
     30872, -- Chronicle of Dark Secrets

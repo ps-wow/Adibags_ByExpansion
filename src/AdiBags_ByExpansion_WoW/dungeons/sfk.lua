@@ -35,4 +35,5 @@ AddonTable.sfk = {
     151073, -- Greaves of the Misguided
     -- Quest Rewards
     65910, -- Godfrey's Britches
+    65960, -- Shadowfang Shoulderpads
 }

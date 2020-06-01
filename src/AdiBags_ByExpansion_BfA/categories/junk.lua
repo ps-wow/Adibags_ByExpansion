@@ -256,9 +256,11 @@ AddonTable.junk = {
     165280, -- Fading Treasure Map
     165281, -- Yellowed Treasure Map
     165284, -- Singed Treasure Map
+    165850, -- Kvaldir Anchor Line
 
     167873, -- Remnant of the Void
 
+    168755, -- Unpublished Research
     168786, -- Rotten Food
     168788, -- Toy Soldier Weapons
     168787, -- Empty Birdcage

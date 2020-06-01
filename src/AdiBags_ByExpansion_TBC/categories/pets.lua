@@ -17,7 +17,7 @@ AddonTable.pets = {
     -- The Battle for Mount Hyjal
     122105, -- Grotesque Statue -> Grotesque
     122111, -- Smelly Gravestone -> Stinkrot
-    122112, -- Hyjal Wisp
+    122112, -- Hyjal Wisp -> Hyjal Wisp
     -- Sunwell Plateau
     122113, -- Sunblade Rune of Activation -> Sunblade Micro-Defender
     122114, -- Void Collar -> Chaos Pup

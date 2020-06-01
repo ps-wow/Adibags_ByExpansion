@@ -123,4 +123,7 @@ AddonTable.aq40 = {
     22731,
     22732,
     22730,
+    --- Quest Rewards
+    -- The Savior of Kalimdor (?? TODO: Quest ID)
+    21712,
 }

@@ -310,6 +310,8 @@ AddonTable.ds = {
     78486,
     78487,
     78488,
+    -- Set Pieces (Warlock)
+    78721,
     -- Set Pieces (Druid)
     78690,
     78740,

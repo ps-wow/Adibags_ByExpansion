@@ -20,7 +20,10 @@ AddonTable.junk = {
     1702, -- Intact Basilisk Spine
     1735, -- Worn Mail Pants
     1737, -- Worn Mail Vest
+    1739, -- Laced Mail Boots
+    1740, -- Laced Mail Bracers
     1745, -- Laced Mail Vest
+    1766, -- Canvas Cloak
     1776, -- Brocade Pants
     1789, -- Patched Leather Bracers
     1806, -- Tough Cloak
@@ -74,11 +77,13 @@ AddonTable.junk = {
     4428, -- Spider Palp
     4460, -- Ripped Wing Webbing
     4555, -- Thick Scaly Tail
+    4556, -- Speckled Shell Fragment
     4557, -- Fiery Gland
     4560, -- Fine Scimitar
     4585, -- Driping Spider Mandible
     4662, -- Journeyman's Cloak
     4663, -- Journeyman's Belt
+    4698, -- Seer's Mantle
     4784, -- Lifeless Stone
     4787, -- Burning Pitch
     4865, -- Ruined Pelt
@@ -174,6 +179,8 @@ AddonTable.junk = {
     25425, -- Molted Feather
     25441, -- Gnarled Boar Tusk
 
+    32714, -- Splintered Spider Fang
+
     33546, -- Viscious Fang
 
     35691, -- Ruined Metal Parts
@@ -203,6 +210,7 @@ AddonTable.junk = {
     56203, -- Salivary Gland Pair
     56204, -- Nameless Vestigial Organ
 
+    57058, -- Fractured Gear Tooth
     57063, -- Small Dingbat
     57400, -- Gold Dust Belt
 

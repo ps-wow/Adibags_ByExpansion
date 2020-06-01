@@ -21,14 +21,18 @@ AddonTable.transmog = {
     24709, -- Vengeance Belt
     24772, -- Clefthoof Bracers
     24778, -- Boneshredder Britches
+    24788, -- Murkblood Shoulderguards
     24797, -- Expedition Bracers
     24801, -- Dragonhawk Gloves
     24803, -- Dragonhawk Pants
     24809, -- Unyielding Fists
     24853, -- Fenclaw Bindings
     24863, -- Blood Knight Boots
+    24890, -- Skettis Helmet
     24900, -- Sundered Spaulders
+    24902, -- Talhide Stitched-Belt
     24903, -- Talhide Lined-Boots
+    24905, -- Talhide Lined-Gloves
     24908, -- Talhide Shoulderguards
     24913, -- Netherstorm Gauntlets
     24916, -- Netherstorm Shoulderguards
@@ -38,6 +42,7 @@ AddonTable.transmog = {
     25012, -- Conqueror's Epaulets
     25016, -- Shattered Hand Breastplate
     25018, -- Shattered Hand Helmet
+    25019, -- Shattered Hand Legplates
     25020, -- Shattered Hand Epaulets
     25024, -- Warlord's Iron-Breastplate
     25028, -- Warlord's Iron-Epaulets

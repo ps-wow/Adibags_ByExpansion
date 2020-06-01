@@ -16,6 +16,7 @@ AddonTable.transmog = {
     82204, -- Thresher Britches
     82226, -- Bejeweled Cloak
     82227, -- Bejeweled Crystal
+    82230, -- Bejeweled Spellblade
     82231, -- Bejeweled Wand
     82236, -- Highpeak Legplates
     82237, -- Highpeak Pauldrons
@@ -24,6 +25,7 @@ AddonTable.transmog = {
     82242, -- Yak Bracers
     82243, -- Yak Gauntlets
     82245, -- Yak Helm
+    82246, -- Yak Legguards
     82247, -- Yak Spaulders
     82248, -- Yak Vest
     82249, -- Waterfall Cord
@@ -62,6 +64,8 @@ AddonTable.transmog = {
     82293, -- Temple Sabatons
     82294, -- Temple Shield
     82295, -- Temple Vambraces
+
+    86849, -- Plated Locust Bracers
 
     87419, -- Kaleiki's Lost Training Staff
     87451, -- Helm of Elemental Binding

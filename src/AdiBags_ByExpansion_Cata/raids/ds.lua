@@ -312,6 +312,9 @@ AddonTable.ds = {
     78487, -- gurthalak-voice-of-the-deeps
     78488, -- souldrinker
 
+    -- Set Pieces (Warlock)
+    78721, -- Leggings of the Faceless Shroud
+
     -- Set Pieces (Druid)
     78690, -- Deep Earth Helm
     78740, -- Deep Earth Mantle

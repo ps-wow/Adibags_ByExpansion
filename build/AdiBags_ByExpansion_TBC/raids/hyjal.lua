@@ -1,6 +1,8 @@
 local AddonName, AddonTable = ...
 -- The Battle for Mount Hyjal (25 Normal)
 AddonTable.hyjal = {
+    32589,
+    34009,
     -- Rage Winterchill
     30865,
     30872,

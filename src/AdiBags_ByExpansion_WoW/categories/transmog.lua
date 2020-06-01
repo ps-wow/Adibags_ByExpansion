@@ -7,6 +7,7 @@ AddonTable.transmog = {
     1203,  -- Aegis of Stormwind
     1625,  -- Exquisite Flamberge
 
+    2034,  -- Scholarly Robes
     2078,  -- Northern Shortsword
     2564,  -- Elven Spirit Claws
     2962,  -- Burnt Leather Breeches
@@ -18,10 +19,12 @@ AddonTable.transmog = {
     3196,  -- Edged Bastard Sword
     3651,  -- Veteran Shield
     3652,  -- Hunting Buckler
+    3740,  -- Decapitating Sword
 
     4567,  -- Merc Sword
     4576,  -- Light Bow
     4577,  -- Compact Shotgun
+    4695,  -- Burnished Cloak
     4721,  -- Insignia Mantle
     4733,  -- Blackforge Pauldrons
 
@@ -35,6 +38,7 @@ AddonTable.transmog = {
     6558,  -- Bard's Belt
     6565,  -- Shimmering Gloves
     6570,  -- Shimmering Sash
+    6575,  -- Defender Cloak
     6584,  -- Scouting Tunic
     6586,  -- Scouting Gloves
     6595,  -- Battleforge Gauntlets
@@ -57,6 +61,7 @@ AddonTable.transmog = {
     9770,  -- Greenweave Cloak
     9774,  -- Greenweave Vest
     9778,  -- Bandit Buckler
+    9782,  -- Bandit Jerkin
     9785,  -- Raider's Bracers
     9787,  -- Raider's Gauntlets
     9791,  -- Ivycloth Tunic
