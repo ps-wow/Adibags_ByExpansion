@@ -171,7 +171,6 @@ AddonTable.firelands = {
     71323,  -- molten-scream
     70916,  -- helm-of-blazing-glory
     -- Majordomo Staghelm
-    152978, -- Fandral's Pet Carrier
     71680,  -- Gauntlets of the Fiery Conqueror (H)
     71687,  -- Gauntlets of the Fiery Protector (H)
     71673,  -- Gauntlets of the Fiery Vanquisher (H)
@@ -238,6 +237,7 @@ AddonTable.firelands = {
     71482,  -- Elementium Deathplate Handguards
     71483,  -- Elementium Deathplate Faceguard
     -- Set Piece (Druid) (Obsidian Arborweave Battlegarb)
+    71101,  -- Obsidian Arborweave Spaulders
     71486,  -- Obsidian Arborweave Raiment
     71488,  -- Obsidian Arborweave Headpiece
     71489,  -- Obsidian Arborweave Legguards

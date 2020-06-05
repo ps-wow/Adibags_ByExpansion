@@ -17,6 +17,8 @@ AddonTable.loot = {
 
     37505, -- Battle Leader's Breastplate
 
+    37821, -- Raine's Signet of Blasting
+
     38133, -- Timeshattered Spire
     38147, -- Corrupted Band
     38221, -- Shroud of Fluid Strikes

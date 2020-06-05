@@ -135,6 +135,7 @@ AddonTable.loot = {
     140660, -- Haft of the God-King
 
     141286, -- Rite of the Val'kyr
+    141292, -- Crystallizing Mana
     141293, -- Spellfire Oil
     141883, -- Azsharan Keepsake
     141619, -- Mana-Infused Berries

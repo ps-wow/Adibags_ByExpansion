@@ -3,4 +3,5 @@ local AddonName, AddonTable = ...
 AddonTable.toys = {
     130171,
     130214,
+    143662,
 }

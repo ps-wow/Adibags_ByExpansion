@@ -91,6 +91,7 @@ AddonTable.loot = {
     157877, -- Fen Spirit Wristwraps
     157878, -- Blood Bog Wraps [Azerite]
     157881, -- Blood Bog Headcover [Azerite]
+    157882, -- Blood Bog Legwraps
     157884, -- Blood Bog Waistband
     157889, -- Dreadmire Helm
     157894, -- Bone-Fetished Chestplate
@@ -168,6 +169,7 @@ AddonTable.loot = {
     158059, -- Shoalbreach Legguards
     158060, -- Shoalbreach Pauldrons
     158075, -- Heart of Azeroth
+    158085, -- Wintersail Dirk
     158093, -- Stagheart Gavel
     158095, -- Gnarlwood Hammer
     158096, -- Wavecaller Greatmace
@@ -372,6 +374,7 @@ AddonTable.loot = {
     163533, -- Footman's Cleaver
     163536, -- Warmage's Spire
     163538, -- Footman's Gladius
+    163540, -- Footman's Boot Knife
     163542, -- Footman's Warmace
     163657, -- 7th Legionnaire's Tunic
     163666, -- Honorbound Artificer's Mantle
@@ -436,6 +439,9 @@ AddonTable.loot = {
     170827, -- Mistdancer Shoulders [120 Boost - Shoulders]
     170828, -- Mistdancer Waistband [120 Boost - Waist]
     170829, -- Mistdancer Bindings [120 Boost - Wrist]
+
+    172848, -- Corrupted Aspirant's Insignia
+    172854, -- Corrupted Aspirant's Shawl
 
     173414, -- Black Empire Cloth Robes [BoA]
     173418, -- Black Empire Cloth Leggings [BoA]

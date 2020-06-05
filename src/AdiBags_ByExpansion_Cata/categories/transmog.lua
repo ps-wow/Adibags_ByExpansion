@@ -6,8 +6,10 @@ AddonTable.transmog = {
     55287, -- Bladefist Axe
     55288, -- Irontree Axe
     55296, -- Bladefist Broadaxe
+
     55306, -- Irontree Bow
     55315, -- Blackwolf Cloak
+    55331, -- Mardenholde Dagger
     55332, -- Bladefist Dagger
     55333, -- Irontree Dagger
     55378, -- Blackwolf Crystal
@@ -17,9 +19,11 @@ AddonTable.transmog = {
     55368, -- Thondroril Scepter
     55369, -- Blackwolf Scepter
     55377, -- Thondroril Crystal
+    55385, -- Mardenholde Mace
     55387, -- Irontree Mace
     55394, -- Mardenholde Hammer
     55396, -- Irontree Hammer
+
     55412, -- Mardenholde Spear
     55413, -- Bladefist Spear
     55414, -- Irontree Spear
@@ -49,6 +53,7 @@ AddonTable.transmog = {
     55513, -- Crystalvein Sabatons
     55520, -- Ravencrest Gauntlets
     55522, -- Crystalvein Gauntlets
+    55529, -- Ravencrest Helm
     55531, -- Crystalvein Helm
     55538, -- Ravencrest Legplates
     55441, -- Blackwolf Spellblade
@@ -74,18 +79,21 @@ AddonTable.transmog = {
     55620, -- Thornsnarl Spaulders
     55621, -- Talondeep Spaulders
     55628, -- Highperch Belt
+    55629, -- Thornsnarl Belt
     55637, -- Dandred Bindings
     55638, -- Haldarr Bindings
     55647, -- Haldarr Jerkin
+    55648, -- Ravenholdt Jerkin
     55655, -- Dandred Boots
+    55656, -- Haldarr Boots
     55657, -- Ravenholdt Boots
     55664, -- Dandred Gloves
-    55648, -- Ravenholdt Jerkin
     55665, -- Haldarr Gloves
     55666, -- Ravenholdt Gloves
     55673, -- Dandred Hood
     55674, -- Haldarr Hood
     55675, -- Ravenholdt Hood
+    55683, -- Haldarr Britches
     55684, -- Ravenholdt Britches
     55692, -- Haldarr Shoulders
 

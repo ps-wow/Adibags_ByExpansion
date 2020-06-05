@@ -170,7 +170,6 @@ AddonTable.firelands = {
     71323,
     70916,
     -- Majordomo Staghelm
-    152978,
     71680,
     71687,
     71673,
@@ -237,6 +236,7 @@ AddonTable.firelands = {
     71482,
     71483,
     -- Set Piece (Druid) (Obsidian Arborweave Battlegarb)
+    71101,
     71486,
     71488,
     71489,

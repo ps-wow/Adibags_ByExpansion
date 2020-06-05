@@ -12,6 +12,7 @@ AddonTable.loot = {
     107308, -- Karabor Skirmisher Belt
     107313, -- Karabor Honor Guard Girdle
     107318, -- Karabor Sage Cord
+    107662, -- Primalist's Prismatic Pendant
 
     108900, -- Cragsman Gloves
     108901, -- Moonwillow Wand
@@ -33,6 +34,10 @@ AddonTable.loot = {
     109078, -- Killmaw's Canine
     109081, -- Ronokk's Greatcloak
 
+    111948, -- Gruuk's Evil Eye
+    111953, -- Bat-Leather Breeches
+
+    112077, -- Grutush's Fur-Padded Pantaloons
     112371, -- Warpstalker-Scale Grips
     112389, -- Iron Horde Warcudgel
     112393, -- Iron Horde Waraxe
@@ -52,6 +57,7 @@ AddonTable.loot = {
     113378, -- Rovo's Dagger
     113408, -- Greka's Dentures
     113531, -- Ashes of A'kumbo
+    113541, -- Darktalon's Drape
     113546, -- Uzko's Dusty Boots
     113547, -- Bouquet of Dried Flowers
     113553, -- Windfang Sabre
@@ -77,6 +83,7 @@ AddonTable.loot = {
     116112, -- Ra'kahn's Bite
     116124, -- Scaled Riverbeast
     116132, -- Snail Shell Necklace
+    116687, -- Oshu'gun Amulet
     116724, -- Oshu'gun Basin
     116725, -- Oshu'gun Ring
     116760, -- Saberon-Fang Shanker
@@ -122,6 +129,7 @@ AddonTable.loot = {
     118241, -- Anzu's Piercing Talon
     118242, -- Anzu's Scorn
     118243, -- Redclaw's Gutripper
+    118246, -- Call of the Wolfmother
     118251, -- Trophy Gemstone of the Elements
     118253, -- Trophy Band of Telaar
     118254, -- Trophy Signet of the Sabermaw
@@ -134,6 +142,7 @@ AddonTable.loot = {
 
     119230, -- Unpopped Pustule Pendant
     119355, -- Leggings of Howling Winds
+    119380, -- Brutag's Iron Toe Boots
     119457, -- Handaxe of Trials (Proving Grounds)
     119458, -- Greataxe of Trials (Proving Grounds)
 
@@ -151,6 +160,8 @@ AddonTable.loot = {
 
     128218, -- Fel-Proof Goggles
     128222, -- Smokeglass Lens Spyglass
+    128348, -- Baleful Spaulders
+    128350, -- Bladefang Spaulders (Baleful Spaulders)
 
     -- Baleful Tokens
     127784, -- Baleful Cloth Girdle (BoA)

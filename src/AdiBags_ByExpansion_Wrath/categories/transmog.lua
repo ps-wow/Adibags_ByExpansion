@@ -20,6 +20,7 @@ AddonTable.transmog = {
     36057, -- Vizier Mantle
     36064, -- Coldwraith Pants
     36076, -- Winterfin Boots
+    36105, -- Caribou Shoulders
     36121, -- Taunka Spaulders
     36133, -- Wolverine Jerkin
     36148, -- Pygmy Boots

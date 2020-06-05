@@ -6,6 +6,7 @@ AddonTable.pets = {
     152976,
     152977,
     152975,
+    152978,
     -- Bastion of Twilight
     152969,
     152970,

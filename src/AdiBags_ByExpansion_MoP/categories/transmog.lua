@@ -1,10 +1,11 @@
 local AddonName, AddonTable = ...
 
+-- MoP Transmog
 AddonTable.transmog = {
     81979, -- Silent Boots
     82021, -- Steppe Belt
     82027, -- Steppe Spaulders
-    82029, -- Reed Cord [Cloth][Belt]
+    82029, -- Reed Cord
     82061, -- Gemmed Cloak
     82069, -- Brick Girdle
     82070, -- Brick Helm
@@ -12,6 +13,7 @@ AddonTable.transmog = {
     82089, -- Growing Sandals
     82148, -- Swamp Boots
     82184, -- Snowy Shield
+    82197, -- Trellised Leggings
     82198, -- Trellised Robe
     82204, -- Thresher Britches
     82226, -- Bejeweled Cloak
@@ -53,6 +55,7 @@ AddonTable.transmog = {
     82277, -- Engraved Staff
     82278, -- Engraved Staff
     82281, -- Immaculate Cloak
+    82282, -- Immaculate Crystal
     82285, -- Immaculate Spellblade
     82286, -- Immaculate Wand
     82287, -- Temple Breastplate

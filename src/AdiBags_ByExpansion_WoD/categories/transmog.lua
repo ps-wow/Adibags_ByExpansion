@@ -18,6 +18,7 @@ AddonTable.transmog = {
     106671, -- Windswept Cord
     106679, -- Snarlthorn Belt
     106691, -- Ironfist Legplates
+    106694, -- Ironfist Shield
     106699, -- Sabermaw Gloves
     106702, -- Sabermaw Shoulders
     106705, -- Voidwrap Cowl
@@ -25,6 +26,7 @@ AddonTable.transmog = {
     106708, -- Voidwrap Robe
     106710, -- Voidwrap Shoulderpads
     106712, -- Sunspring Belt
+    106718, -- Sunspring Spaulders
     106725, -- Stonecrag Pauldrons
     106726, -- Stonecrag Sabatons
     106727, -- Stonecrag Shield
@@ -45,6 +47,7 @@ AddonTable.transmog = {
     106752, -- Packrunner Vest
 
     111475, -- Beater's Beat Stick
+
     116464, -- Frostbitten Gun
     116475, -- Lunarglow Broadaxe
     116493, -- Vinewrapped Bow
@@ -59,6 +62,7 @@ AddonTable.transmog = {
     116624, -- Gorian Sword
     116626, -- Ancestral Wand
     116627, -- Howling Axe
+    116628, -- Howling Broadaxe
     116629, -- Howling Bow
     116631, -- Howling Dagger
     116632, -- Oshu'gun Spellblade
@@ -68,6 +72,7 @@ AddonTable.transmog = {
     116640, -- Howling Staff
     116641, -- Howling Sword
     116721, -- Ancestral Branch
+
     118803, -- Kihrawr's Scratching Post
 
     -- Highmaul

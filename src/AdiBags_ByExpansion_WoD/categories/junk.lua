@@ -15,6 +15,7 @@ AddonTable.junk = {
     106302, -- Acid Scarred Plate Gloves
     106305, -- Acid Scarred Plate Helmet
     106309, -- Sun-Baked Armor
+    106308, -- Ripped Mail Circlet
     106311, -- Ripped Mail Armor
     106313, -- Sun-Baked Boots
     106315, -- Jammed Pocketknife

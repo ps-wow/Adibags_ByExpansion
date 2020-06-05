@@ -3,6 +3,7 @@ local AddonName, AddonTable = ...
 -- Soulbound Items (Green or higher)
 
 AddonTable.loot = {
+    82225, -- Bejeweled Amulet
     82280, -- Immaculate Amulet
     82283, -- Immaculate Ring
     83738, -- Sigil of Grace
