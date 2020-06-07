@@ -362,4 +362,7 @@ AddonTable.soo = {
     112933,
     112938,
     112924,
+    -- Set Pieces
+    --- Rogue
+    99356,
 }

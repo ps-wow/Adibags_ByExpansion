@@ -29,14 +29,18 @@ AddonTable.transmog = {
     121053, -- Temporal Scholar's Sandals
     121061, -- Ettinbone Pauldrons
     121072, -- Icepine Bindings
+    121074, -- Icepine Britches
     121095, -- Hillstride Belt
     121101, -- Hillstride Spaulders
     121103, -- Hagfeather Cord
+    121108, -- Hagfeather Sandals
     121113, -- Valarsmidd Girdle
     121131, -- Haustvelt Hood
     121150, -- Valdisdall Belt
     121154, -- Valdisdall Helm
+    121155, -- Valdisdall Legguards
     121157, -- Valdisdall Vest
+    121161, -- Hrydshal Leggings
     121164, -- Hrydshal Shoulderpads
     121168, -- Kal'delar Helm
     121170, -- Kal'delar Legplates

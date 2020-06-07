@@ -1,4 +1,5 @@
 local AddonName, AddonTable = ...
+-- WoD Transmog
 AddonTable.transmog = {
     106392,
     106407,
@@ -57,6 +58,7 @@ AddonTable.transmog = {
     116616,
     116618,
     116624,
+    116625,
     116626,
     116627,
     116628,

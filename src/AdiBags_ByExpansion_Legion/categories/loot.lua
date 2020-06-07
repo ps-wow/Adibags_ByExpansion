@@ -1,5 +1,6 @@
 local AddonName, AddonTable = ...
 
+-- Legion Loot
 AddonTable.loot = {
     112431, -- Hollowheart Legguards
     112432, -- Hollowheart Chain Leggings
@@ -76,6 +77,10 @@ AddonTable.loot = {
     130133, -- Undergrell Mobilehelm
     130135, -- Mana-Prowler Leggings
 
+    131797, -- Swamprock Salvage Band
+    131799, -- Zugdug's Piece of Paradise
+    131921, -- Dreamflow Collar
+
     132234, -- Spectral Dust
     132243, -- Fel-Etched Glaive
     132906, -- Leywalker Cord
@@ -126,6 +131,7 @@ AddonTable.loot = {
     139072, -- Tranquil Bough Spaulders
     139075, -- Forest Creeper's Guile
     139079, -- Bramblemail Gloves
+    139693, -- Crown of the Silver Hand
     139718, -- Helm of the Shattered Abyss
     139897, -- Cloak of the White Prowler
     139926, -- Subject 12's ID Bracelets

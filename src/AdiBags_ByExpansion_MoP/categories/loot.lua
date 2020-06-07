@@ -1,7 +1,6 @@
 local AddonName, AddonTable = ...
 
--- Soulbound Items (Green or higher)
-
+-- MoP Loot
 AddonTable.loot = {
     82225, -- Bejeweled Amulet
     82280, -- Immaculate Amulet
@@ -26,6 +25,8 @@ AddonTable.loot = {
     86527, -- Blade of the Poisoned Mind [BoA]
     86529, -- Manipulator's Talisman [BoA]
 
+    87587, -- Orchard Tender's Leggings
+    87592, -- Grookin' Grookin' Trousers
     87598, -- Monstrous Silk Gloves
     87600, -- Marshsong Gloves
     87618, -- Ice Encrusted Bracer

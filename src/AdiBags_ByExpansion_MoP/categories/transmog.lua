@@ -15,7 +15,9 @@ AddonTable.transmog = {
     82184, -- Snowy Shield
     82197, -- Trellised Leggings
     82198, -- Trellised Robe
+    82199, -- Trellised Sandals
     82204, -- Thresher Britches
+    82212, -- Inlaid Broadaxe
     82226, -- Bejeweled Cloak
     82227, -- Bejeweled Crystal
     82230, -- Bejeweled Spellblade
@@ -46,6 +48,7 @@ AddonTable.transmog = {
     82262, -- Vine Jerkin
     82263, -- Vine Shoulders
     82264, -- Vine Waistband
+    82265, -- Engraved Axe
     82269, -- Engraved Dagger
     82270, -- Engraved Greatsword
     82271, -- Engraved Gun

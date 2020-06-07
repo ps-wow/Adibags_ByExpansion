@@ -363,4 +363,7 @@ AddonTable.soo = {
     112933, -- Legplates of Unthinking Strife
     112938, -- Black Blood of Y'Shaarj
     112924, -- Curse of Hubris
+    -- Set Pieces
+    --- Rogue
+    99356, -- Tunic of the Barbed Assassin
 }

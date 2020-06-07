@@ -37,6 +37,7 @@ AddonTable.consumable = {
 }
 
 AddonTable.foodDrink = {
+    128843, -- Azsunian Grapes
     133557, -- Salt & Pepper Shank
     133561, -- Deep-Fried Mossgill
     133562, -- Pickled Stormray

@@ -1,5 +1,5 @@
 local AddonName, AddonTable = ...
--- Soulbound Items (Green or higher)
+-- MoP Loot
 AddonTable.loot = {
     82225,
     82280,
@@ -21,6 +21,8 @@ AddonTable.loot = {
     86525,
     86527,
     86529,
+    87587,
+    87592,
     87598,
     87600,
     87618,

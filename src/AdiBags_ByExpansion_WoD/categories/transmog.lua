@@ -1,5 +1,6 @@
 local AddonName, AddonTable = ...
 
+-- WoD Transmog
 AddonTable.transmog = {
     106392, -- Bladespire Girdle
     106407, -- Lunarglow Cord
@@ -60,6 +61,7 @@ AddonTable.transmog = {
     116616, -- Gorian Knuckles
     116618, -- Gorian Mace
     116624, -- Gorian Sword
+    116625, -- Gorian Greatsword
     116626, -- Ancestral Wand
     116627, -- Howling Axe
     116628, -- Howling Broadaxe

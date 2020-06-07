@@ -1,5 +1,6 @@
 local AddonName, AddonTable = ...
 
+-- Legion Junk
 AddonTable.junk = {
     121333, -- Weighted Blackjack
     121336, -- Mossy Longbow
@@ -8,6 +9,7 @@ AddonTable.junk = {
     121348, -- Sunbleached Wristwraps
     121350, -- Rust-Encrusted Leggings
     121352, -- Weatherworn Pants
+    121358, -- Sunbleached Handwraps
     121360, -- Warped-Plate Gauntlets
     121363, -- Warped-Plate Helmet
     121364, -- Sunbleached Cowl
@@ -37,6 +39,7 @@ AddonTable.junk = {
     121389, -- Fossilized Egg
     121390, -- Anund's Bandages
     121402, -- Old Bloodsoaked Gauntlets
+    121407, -- Empty Rocket-Propelled Legplates
     121414, -- The Dreamweavers Ignorance
 
     130152, -- Condensed Light of Elune
@@ -51,10 +54,12 @@ AddonTable.junk = {
     131751, -- Fractured Portal Shard
     131795, -- Nar'thalasian Corsage
     131802, -- Offering to Ram'Pag
+    131808, -- Engraged Bloodtotem Amulet
 
     132183, -- Razor Tooth
     132184, -- Intact Shimmering Scale
     132185, -- Intact Skull
+    132186, -- Hardened Molars
     132190, -- Pointed Tail Tip
     132192, -- Pitted Bone
     132193, -- Tuft of Plumage
@@ -70,6 +75,7 @@ AddonTable.junk = {
     132219, -- Opposable Leaf
     132220, -- Broken Stem
     132223, -- Elemental Droplet
+    132225, -- Hardened Beak
     132229, -- Cold-Resistant Hide
     132231, -- Won Hooked Claw
     132232, -- Coalesced Extoplasm
