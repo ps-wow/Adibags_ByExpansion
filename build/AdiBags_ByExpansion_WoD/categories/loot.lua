@@ -1,5 +1,5 @@
 local AddonName, AddonTable = ...
--- Loot (Soulbound Green or Higher or BoE Non-Set Pieces)
+-- WoD Loot
 AddonTable.loot = {
     106148,
     106149,
@@ -110,6 +110,7 @@ AddonTable.loot = {
     118205,
     118206,
     118212,
+    118213,
     118223,
     118235,
     118237,

@@ -359,6 +359,7 @@ AddonTable.loot = {
     163342, -- 7th Legionnaire's Cord
     163368, -- Honorbound Centurion's Long Cloak
     163403, -- 7th Legionnaire's Armguards
+    163414, -- 7th Legionnaire's Gauntlets
     163418, -- 7th Legionnaire's Chestguard
     163424, -- Honorbound Artificer's Amice
     163426, -- Honorbound Artificer's Guise
@@ -399,6 +400,7 @@ AddonTable.loot = {
     165444, -- Darkwood Sentinel's Breeches
     165628, -- Sentinel's Branch [Staff]
     165664, -- Sea Giant's Tidestone
+    165666, -- Moonstone of Zin-Azshari
     165679, -- Ornate Elun'dris Ring
 
     166336, -- 7th Legionnaire's Skullcleaver

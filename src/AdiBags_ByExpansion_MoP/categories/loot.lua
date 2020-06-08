@@ -5,7 +5,10 @@ AddonTable.loot = {
     82225, -- Bejeweled Amulet
     82280, -- Immaculate Amulet
     82283, -- Immaculate Ring
+
     83738, -- Sigil of Grace
+
+    84870, -- Malevolent Gladiator's Scaled Legguards
 
     85973, -- Ancient Pandaren Fishing Charm
 
@@ -25,10 +28,16 @@ AddonTable.loot = {
     86527, -- Blade of the Poisoned Mind [BoA]
     86529, -- Manipulator's Talisman [BoA]
 
+    87586, -- Forest Trickster's Leggings
     87587, -- Orchard Tender's Leggings
     87592, -- Grookin' Grookin' Trousers
+    87593, -- Gan Shi Warlord Legguards
+    87594, -- Leggings of Forgotten War
+    87596, -- Mudmug's Mitts
     87598, -- Monstrous Silk Gloves
     87600, -- Marshsong Gloves
+    87601, -- Plough Driving Grips
+    87616, -- Mountain Trailblazer's Cuffs
     87618, -- Ice Encrusted Bracer
     87621, -- Wristguards of Great Fortune
     87624, -- Yaungol Mist-Shaman's Amulet

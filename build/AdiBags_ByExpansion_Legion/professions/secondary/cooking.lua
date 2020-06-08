@@ -1,5 +1,6 @@
 local AddonName, AddonTable = ...
+-- Legion Cooking
 AddonTable.cooking = {
     -- Ingredients
-    109141,
+    124118,
 }

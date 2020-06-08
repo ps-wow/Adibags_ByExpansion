@@ -66,6 +66,7 @@ AddonTable.loot = {
     129171, -- Band of Ingression
     129172, -- Band of Demonic Guile
     129181, -- Illidari Warglaive
+    129199, -- Tideskorn Jarl's Pendant
     129236, -- Tinkmaster's Cog Stompers
     129291, -- Stormslayer Champion Belt
     129313, -- Tinkermaster's Mindvault
@@ -77,6 +78,7 @@ AddonTable.loot = {
     130133, -- Undergrell Mobilehelm
     130135, -- Mana-Prowler Leggings
 
+    131781, -- Plate Hiking Boots
     131797, -- Swamprock Salvage Band
     131799, -- Zugdug's Piece of Paradise
     131921, -- Dreamflow Collar
@@ -141,6 +143,8 @@ AddonTable.loot = {
     140660, -- Haft of the God-King
 
     141286, -- Rite of the Val'kyr
+    141287, -- Law of Strength
+    141288, -- Ettin Bone Fragment
     141292, -- Crystallizing Mana
     141293, -- Spellfire Oil
     141883, -- Azsharan Keepsake

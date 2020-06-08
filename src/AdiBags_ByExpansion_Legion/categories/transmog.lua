@@ -27,7 +27,9 @@ AddonTable.transmog = {
     121047, -- Faronaar Chain Vest
     121049, -- Temporal Scholar's Cowl
     121053, -- Temporal Scholar's Sandals
+    121057, -- Ettinbone Gauntlets
     121061, -- Ettinbone Pauldrons
+    121063, -- Ettinbone Vambraces
     121072, -- Icepine Bindings
     121074, -- Icepine Britches
     121095, -- Hillstride Belt

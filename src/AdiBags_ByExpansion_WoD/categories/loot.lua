@@ -1,6 +1,6 @@
 local AddonName, AddonTable = ...
 
--- Loot (Soulbound Green or Higher or BoE Non-Set Pieces)
+-- WoD Loot
 AddonTable.loot = {
     106148, -- Frostwolf Stalwart Gauntlets
     106149, -- Frostwolf Stalwart Girdle
@@ -121,6 +121,7 @@ AddonTable.loot = {
     118205, -- Blightglow Pauldrons
     118206, -- Mutafen's Mighty Maul
     118212, -- Char's Smoldering Fist
+    118213, -- Slimy Sea Serpent Skin Sabatons
     118223, -- Sunclaw
     118235, -- Ogre Diving Cap (20 Slot Bag)
     118237, -- Anzu's Malice
