@@ -36,6 +36,7 @@ AddonTable.loot = {
     121646, -- Witchmother Drape
     121759, -- Feather-Notched Belt
     121761, -- Skyfire Marine Vambraces
+    121796, -- Pendant of the Kaldorei
     121804, -- Cloak of the Everliving Keeper
 
     123959, -- Demon Trophy
@@ -179,9 +180,11 @@ AddonTable.loot = {
     152757, -- Arinor Keeper's Treads (Bound)
     152766, -- Oronaar Disciple's Boots
     152770, -- Azurelight Sage's Cap (Bound)
+    152773, -- Azurelight Sage's Cuffs (Bound)
     152774, -- Azurelight Sage's Slippers (Bound)
-    152775, -- Azurelight Safe's Roves (Chest)
-    152777, -- Azurelight Sage's Mantle (Shoulder)
+    152775, -- Azurelight Safe's Robes (Bound)
+    152776, -- Azurelight Safe's Leggings (Bound)
+    152777, -- Azurelight Sage's Mantle (Bound)
     152735, -- Unsullied Ring (BoA)
     153136, -- Unsullied Leather Treads (BoA)
     153140, -- Unsullied Plate Waistplate (BoA)

@@ -76,6 +76,8 @@ AddonTable.transmog = {
     87419, -- Kaleiki's Lost Training Staff
     87451, -- Helm of Elemental Binding
 
+    87501, -- Unbreakable Waistplate
+
     87650, -- Fishsticker Crossbow
 
     90574, -- Etoshia's Elegant Gloves

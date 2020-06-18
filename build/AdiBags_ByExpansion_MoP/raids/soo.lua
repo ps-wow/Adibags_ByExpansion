@@ -1,10 +1,11 @@
 local AddonName, AddonTable = ...
 -- Siege of Orgrimmar
 AddonTable.soo = {
-    113223,
-    113225,
     99364,
     99417,
+    113220,
+    113223,
+    113225,
     -- Immerseus
     110761,
     110784,

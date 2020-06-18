@@ -2,10 +2,11 @@ local AddonName, AddonTable = ...
 
 -- Siege of Orgrimmar
 AddonTable.soo = {
-    113223, -- Turtleshell Greatcloak
-    113225, -- Kalaena's Arcane Handwraps
     99364,  -- Shoulderguards of Winged Triumph
     99417,  -- Mantle of the Horned Nightmare
+    113220, -- Crimson Gauntlets of Death
+    113223, -- Turtleshell Greatcloak
+    113225, -- Kalaena's Arcane Handwraps
     -- Immerseus
     110761, -- Immerseus' Crystalline Eye
     110784, -- Trident of Corrupted Waters

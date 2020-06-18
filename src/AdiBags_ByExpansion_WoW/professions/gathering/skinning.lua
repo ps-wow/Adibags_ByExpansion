@@ -6,6 +6,7 @@ AddonTable.skinning = {
     2319,  -- Medium Leather
     2934,  -- Ruined Leather Scraps
     8154,  -- Scorpid Scale
+    8165,  -- Worn Dragonscale
     8170,  -- Rugged Leather
     8171,  -- Rugged Hide
     15416, -- Black Dragonscale

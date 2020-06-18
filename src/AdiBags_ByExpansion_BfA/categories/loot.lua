@@ -344,6 +344,9 @@ AddonTable.loot = {
     161446, -- Blistering Seawater Seal
     161766, -- Dread Gladiator's Silk Sash
 
+    162802, -- Spell-Splintered Pantaloons
+    162803, -- Spell-Splintered Robes
+    162804, -- Spell-Splintered Mantle
     162831, -- Ambuscade Tunic
     162835, -- Ambuscade Breeches
     162876, -- Dread Aspirant's Wand
@@ -374,6 +377,7 @@ AddonTable.loot = {
     163459, -- Honorbound Centurion's Breastplate
     163461, -- Honorbound Centurion's Greatbelt
     163527, -- Headhunter's Spear
+    163530, -- Warmage's Spire
     163533, -- Footman's Cleaver
     163536, -- Warmage's Spire
     163538, -- Footman's Gladius

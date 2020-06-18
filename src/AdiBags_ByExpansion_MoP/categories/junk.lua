@@ -40,6 +40,7 @@ AddonTable.junk = {
     90742, -- Shabby Leather Helmet
     90746, -- Inferior Mail Belt
     90747, -- Dingy Plate Belt
+    90748, -- Dingy Plate Boots
     90749, -- Dingy Plate Bracers
     90751, -- Dingy Plate Chestpiece
     90752, -- Inferior Mail Boots
@@ -70,6 +71,7 @@ AddonTable.junk = {
     90809, -- Knog's Bow of Clumsiness
     90810, -- Fireblackened Mace
     90811, -- Battered Shiv
+    90812, -- Salt-Scored Cleaver
     90813, -- Salt-Scored Greatsword
     90814, -- Fractured War Mace
 

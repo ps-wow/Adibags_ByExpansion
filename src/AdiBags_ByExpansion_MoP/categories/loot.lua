@@ -46,6 +46,7 @@ AddonTable.loot = {
     87631, -- Jiao-Skin Tunic
     87634, -- Mazu's Robe
     87636, -- Cloak of the Forgotten Emporer
+    87639, -- Tattered Guo-Lai Dynasty Cloak
 
     90350, -- Satin Robe of Eminent Domain
     90355, -- Heavy Chestpiece of Eminent Domain
@@ -65,7 +66,7 @@ AddonTable.loot = {
     95212, -- Abandoned Zandalari Waterchain
 
     101810, -- Amaranthine Wristwraps (Timeless Cloth Bracers)
-    
+
     113785, -- Kyparite Girdle
 
     -- Sets (Warlock)
