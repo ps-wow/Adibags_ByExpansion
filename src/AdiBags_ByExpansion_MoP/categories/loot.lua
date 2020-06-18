@@ -30,6 +30,7 @@ AddonTable.loot = {
 
     87586, -- Forest Trickster's Leggings
     87587, -- Orchard Tender's Leggings
+    87588, -- Leggings of Spiritsong Melody
     87592, -- Grookin' Grookin' Trousers
     87593, -- Gan Shi Warlord Legguards
     87594, -- Leggings of Forgotten War

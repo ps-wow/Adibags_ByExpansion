@@ -10,6 +10,8 @@ AddonTable.consumable = {
     6530,  -- Nightcrawlers
     -- Engineering
     6533,  -- Aquadynamic Fish Attractor
+    -- Inscription
+    1181,  -- Scroll of Versatility
     -- Alchemy
     118,   -- Minor Healing Potion
     858,   -- Lesser Healing Potion

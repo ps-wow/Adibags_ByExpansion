@@ -1,6 +1,7 @@
 local AddonName, AddonTable = ...
 
 AddonTable.aq40 = {
+    21888, -- Gloves of the Immortal
     -- Shared Boss Loot
     20928, -- Qiraji Bindings of Command
     20932, -- Qiraji Bindings of Dominance

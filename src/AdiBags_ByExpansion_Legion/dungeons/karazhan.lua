@@ -73,6 +73,9 @@ AddonTable.karazhan = {
     142133, -- gauntlets-of-confinement
     142176, -- arcing-static-charge
     142181, -- seeping-corruption
+    -- Nightbane
+    142301, -- Hauberk of Warped Intuition
+    143524, -- Bones of the Restless
     -- Shade of Medivh
     142207, -- amulet-of-the-last-guardian
     142157, -- arans-relaxing-ruby

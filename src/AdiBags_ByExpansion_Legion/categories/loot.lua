@@ -25,6 +25,7 @@ AddonTable.loot = {
     121106, -- Hagfeather Leggings
     121124, -- Stormforged Idol
     121137, -- Stormwing Band
+    121138, -- Stormwing Chain
     121188, -- Smolderhide Shoulders
     121217, -- Crescent Vale Robe
     121247, -- Nightfall Loop

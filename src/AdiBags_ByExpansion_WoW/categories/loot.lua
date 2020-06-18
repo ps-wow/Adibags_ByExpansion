@@ -5,6 +5,7 @@ AddonTable.loot = {
     36,   -- Worn Mace
 
     1010, -- Gnarled Short Staff
+    1443, -- Jeweled Amulet of Cainwyn
 
     2362, -- Worn Wooden Shield
     2900, -- Stone Buckler

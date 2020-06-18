@@ -5,6 +5,7 @@ AddonTable.engineering = {
     111366,
     -- Items
     109184,
+    109253,
     114943,
     118007,
 }

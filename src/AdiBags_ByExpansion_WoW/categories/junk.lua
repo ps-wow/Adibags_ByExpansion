@@ -39,6 +39,7 @@ AddonTable.junk = {
     3169, -- Chipped Bear Tooth
     3170, -- Large Bear Tooth
     3171, -- Broken Boar Tusk
+    3179, -- Cracked Dragon Molting
     3180, -- Flecked Raptor Scale
     3181, -- Partially Digested Meat
     3189, -- Wood Chopper
@@ -149,6 +150,7 @@ AddonTable.junk = {
     18222, -- Thorny Vine
     18285, -- Crystallized Mana Shard
     18286, -- Condensed Mana Fragment
+    18512, -- Larval Acid
     19937, -- Small Scorpid Claw
 
     20770, -- Bubbling Green Ichor
@@ -159,22 +161,33 @@ AddonTable.junk = {
     21224, -- Ancient Armor Fragment
     21225, -- Heavy Silithid Husk
     21226, -- Runic Stone
+    21227, -- Ancient Hero's Skull
+    21279, -- Tome of Fireball
     21281, -- Grimoire of Shadow Bolt
     21285, -- Codex of Renew
     21289, -- Libram: Blessing of Might
+    21290, -- Libram: Holy Light
     21291, -- Tablet of Healing Wave
     21292, -- Tablet of Strength of Earth Totem
+    21293, -- Tablet of Grace of Air Totem
+    21294, -- Book of Healing Touch
     21297, -- Manual of Heroic Strike
+    21298, -- Manual of Battle Shout
     21299, -- Manual of Revenge
     21302, -- Handbook of Deadly Poison
+    21303, -- Handbook of Feint
     21304, -- Guide: Multi-Shot
+    21306, -- Guide: Serpent Sting
     21307, -- Guide: Aspect of the Hawk
 
     22525, -- Crypt Fiend Parts
     22526, -- Bone Fragments
     22527, -- Core of Elements
     22528, -- Dark Iron Scraps
+
     23988, -- Mutated Vine
+
+    25372, -- Eroded Mail Shoulderpads
     25421, -- Gnarled Claw
     25425, -- Molted Feather
     25441, -- Gnarled Boar Tusk

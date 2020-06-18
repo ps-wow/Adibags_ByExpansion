@@ -2,6 +2,7 @@ local AddonName, AddonTable = ...
 
 AddonTable.junk = {
     81200, -- Vial of Swirling Mist
+    81201, -- Turtle Shell
     81202, -- Inert Elemental Sphere
     81203, -- Soft Down Feather
     81205, -- Funereal Ashes
@@ -16,6 +17,7 @@ AddonTable.junk = {
     82300, -- Bat Guano
     82328, -- Shiny Carapace
     82333, -- Wool of Bat
+    82337, -- Huge Horn
     82339, -- Thick Skull
 
     83157, -- Shattered Bone Fragment
@@ -26,6 +28,7 @@ AddonTable.junk = {
     86079, -- Ancient Pandaren Woodcutter
     86216, -- Pandaren Ritual Stone
     86220, -- Saurok Stone Tablet
+    86430, -- Rikktik's Tick Remover
 
     87524, -- Boat-Building Instructions
     87798, -- Stack of Papers

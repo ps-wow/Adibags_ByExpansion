@@ -32,6 +32,7 @@ AddonTable.transmog = {
     121063, -- Ettinbone Vambraces
     121072, -- Icepine Bindings
     121074, -- Icepine Britches
+    121078, -- Icepine Shoulders
     121095, -- Hillstride Belt
     121101, -- Hillstride Spaulders
     121103, -- Hagfeather Cord

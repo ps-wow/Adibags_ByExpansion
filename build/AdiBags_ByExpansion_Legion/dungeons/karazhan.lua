@@ -72,6 +72,9 @@ AddonTable.karazhan = {
     142133,
     142176,
     142181,
+    -- Nightbane
+    142301,
+    143524,
     -- Shade of Medivh
     142207,
     142157,

@@ -36,6 +36,7 @@ AddonTable.transmog = {
     36165, -- Webspinner Vest
     36167, -- Webspinner Hood
     36169, -- Webspinner Shoulderguards
+    36170, -- Webspinner Bindings
     36233, -- Trapper Shoulderguards
     36262, -- Cormorant Gloves
     36264, -- Cormorant Leggings
@@ -43,6 +44,7 @@ AddonTable.transmog = {
     36269, -- Ulduar Breastplate
     36270, -- Ulduar Gauntlets
     36271, -- Ulduar Helm
+    36274, -- Ulduar Bracers
     36276, -- Spiderlord Boots
     36281, -- Spiderlord Spaulders
     36286, -- Spectral Gauntlets

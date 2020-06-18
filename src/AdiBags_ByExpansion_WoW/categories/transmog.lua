@@ -89,6 +89,7 @@ AddonTable.transmog = {
     10158, -- Mercurial Guard
     10161, -- Mercurial Gauntlets
     10185, -- Swashbuckler's Cape
+    10203, -- Overlord's Chestplate
     10210, -- Elegant Mantle
     10217, -- Elegant Leggings
     10226, -- Nightshade Helmet
@@ -136,15 +137,18 @@ AddonTable.transmog = {
     14228, -- Embersilk Coronet
     14306, -- Bonecaster's Vest
     14431, -- Windchaser Handguards
+    14553, -- Sash of Mercy
     14559, -- Prospector's Sash
     14562, -- Prospector's Chestpiece
     14658, -- Scorpashi Skullcap
+    14670, -- Pridelord Armor
     14788, -- Protector Armguards
     14809, -- Warstrike Sabatons
     14862, -- Warleader's Breastplate
 
     15144, -- Ghostwalker Rags
     15192, -- Grand Gauntlets
+    15195, -- Grand Breastplate
     15227, -- Diamond-Tip Bludgeon
     15241, -- Battle Knife
     15245, -- Vorpal Dagger
@@ -158,6 +162,7 @@ AddonTable.transmog = {
     15374, -- Wolf Rider's Leggings
     15383, -- Rageclaw Gloves
     15441, -- Supreme Shoulders
+    15442, -- Supreme Breastplate
     15489, -- Bloodspattered Sabatons
     15492, -- Bloodspattered Sash
     15677, -- Magnificent Shoudlers
@@ -167,9 +172,11 @@ AddonTable.transmog = {
 
     21800, -- Silithid Husked Launcher [AQ20] [BoE Gun]
 
+    68748, -- Imbued Disciple's Cloak
     68749, -- Imbued Disciple's Bracers
     68750, -- Imbued Pioneer Belt
     68754, -- Imbued Disciple's Boots
+    68759, -- Imbued Gypsy Cloak
 
     115348, -- Feathered Cape
     115349, -- Talon of Vultros

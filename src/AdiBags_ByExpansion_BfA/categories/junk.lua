@@ -245,6 +245,7 @@ AddonTable.junk = {
     163593, -- Map of Zandalar Trade Winds
     163632, -- Pristine Strings of Pearls
     163717, -- Forbidden Sea Shanty of Josephus
+    163718, -- Forbidden Sea Shanty of the Black Sphere
     163845, -- Silver Statue Base
     163846, -- Silver Monkey Head
     163847, -- Silver Monkey Torso

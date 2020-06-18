@@ -43,6 +43,7 @@ AddonTable.junk = {
     25391, -- Deteriorating Plate Bracers
     25392, -- Deteriorating Plate Chestpiece
     25394, -- Deteriorating Plate Helmet
+    25396, -- Deteriorating Plate Shoulderpads
     25397, -- Eroded Axe
     25398, -- Stone Reaper
     25399, -- Deteriorating Blade

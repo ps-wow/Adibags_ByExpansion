@@ -3,15 +3,18 @@ local AddonName, AddonTable = ...
 -- Non-soulbound green or higher
 
 AddonTable.transmog = {
+    55286, -- Mardenholde Axe
     55287, -- Bladefist Axe
     55288, -- Irontree Axe
     55296, -- Bladefist Broadaxe
+    55297, -- Irontree Broadaxe
 
     55306, -- Irontree Bow
     55315, -- Blackwolf Cloak
     55331, -- Mardenholde Dagger
     55332, -- Bladefist Dagger
     55333, -- Irontree Dagger
+    55342, -- Irontree Staff
     55378, -- Blackwolf Crystal
     55350, -- Bladefist Knuckles
     55351, -- Irontree Knuckles
@@ -54,6 +57,7 @@ AddonTable.transmog = {
     55520, -- Ravencrest Gauntlets
     55522, -- Crystalvein Gauntlets
     55529, -- Ravencrest Helm
+    55530, -- Stonewrought Helm
     55531, -- Crystalvein Helm
     55538, -- Ravencrest Legplates
     55441, -- Blackwolf Spellblade
@@ -74,6 +78,7 @@ AddonTable.transmog = {
     55601, -- Highperch Helm
     55602, -- Thornsnarl Helm
     55603, -- Talondeep Helm
+    55610, -- Highperch Legguards
     55611, -- Thornsnarl Legguards
     55612, -- Talondeep Legguards
     55620, -- Thornsnarl Spaulders
@@ -93,6 +98,7 @@ AddonTable.transmog = {
     55673, -- Dandred Hood
     55674, -- Haldarr Hood
     55675, -- Ravenholdt Hood
+    55682, -- Dandred Britches
     55683, -- Haldarr Britches
     55684, -- Ravenholdt Britches
     55692, -- Haldarr Shoulders
@@ -100,6 +106,7 @@ AddonTable.transmog = {
     55700, -- Dandred Waistband
     55701, -- Haldarr Waistband
     55709, -- Everstill Wristwraps
+    55710, -- Mystral Wristwraps
     55711, -- Bluefen Wristwraps
     55718, -- Everstill Robe
     55719, -- Mystral Robe
@@ -160,5 +167,7 @@ AddonTable.transmog = {
     71361, -- Ranseur of Hatred
     71365, -- Hide-Bound Chains
     71366, -- Lava Bolt Crossbow
+    71640, -- Riplimb's Lost Collar
+
     78886, -- Belt of Ghostly Graces (Dragon Soul)
 }

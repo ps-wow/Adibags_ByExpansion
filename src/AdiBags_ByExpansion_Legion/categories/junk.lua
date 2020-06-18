@@ -2,7 +2,9 @@ local AddonName, AddonTable = ...
 
 -- Legion Junk
 AddonTable.junk = {
+    121332, -- Over-Sharpened Shank
     121333, -- Weighted Blackjack
+    121334, -- Mining Sword
     121336, -- Mossy Longbow
     121337, -- Permanently Jammed Blunderbuss
     121345, -- Weatherworn Belt
@@ -89,6 +91,7 @@ AddonTable.junk = {
 
     138242, -- Waterstained Tarot Deck
     138243, -- Rust-Eaten Sword
+    138244, -- Corrupted Mana Gems
     138245, -- Spoiled Azsharan Wineskin
     138246, -- Ancient Pickled Koi
     138247, -- Damaged Harp

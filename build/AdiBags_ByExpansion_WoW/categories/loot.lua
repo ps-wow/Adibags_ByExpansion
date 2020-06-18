@@ -3,6 +3,7 @@ local AddonName, AddonTable = ...
 AddonTable.loot = {
     36,
     1010,
+    1443,
     2362,
     2900,
     2970,

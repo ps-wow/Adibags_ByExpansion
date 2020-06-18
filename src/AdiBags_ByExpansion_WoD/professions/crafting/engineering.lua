@@ -6,6 +6,7 @@ AddonTable.engineering = {
     111366, -- Gearspring Parts
     -- Items
     109184, -- Stealthman 54
-    114943, -- Ultimate Gnomish Army Knife
+    109253, -- Ultimate Gnomish Army Knife
+    114943, -- Ultimate Gnomish Army Knife (Soulbound)
     118007, -- Mecha-Blast Rocket
 }

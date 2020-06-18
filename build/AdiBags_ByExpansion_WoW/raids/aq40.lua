@@ -1,5 +1,6 @@
 local AddonName, AddonTable = ...
 AddonTable.aq40 = {
+    21888,
     -- Shared Boss Loot
     20928,
     20932,

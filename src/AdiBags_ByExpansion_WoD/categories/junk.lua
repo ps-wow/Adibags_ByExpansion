@@ -19,17 +19,20 @@ AddonTable.junk = {
     106311, -- Ripped Mail Armor
     106313, -- Sun-Baked Boots
     106315, -- Jammed Pocketknife
+    106317, -- Brittle Blade
     106318, -- Blunt Logging Axe
     106319, -- Knog's Bow of Surrender
     106320, -- Narrcho's Rifle of Unreadiness
     106324, -- Robbles Staff of Herding
     106325, -- Grime-Fouled Mail Belt
+    106326, -- Punctured Plate Belt
     106327, -- Gronncloth Belt
     106330, -- Grime-Fouled Mail Bracers
     106331, -- Gronncloth Bracers
     106332, -- Overstretched Leather Bracers
     106333, -- Grime-Fouled Mail Pants
     106336, -- Punctured Plate Pauldrons
+    106342, -- Overstretched Leather Gloves
     106350, -- Punctured Plate Chestpiece
     106824, -- Ruffled Plumage
     106825, -- Razor Talon
@@ -46,6 +49,7 @@ AddonTable.junk = {
     106889, -- Serrated Incisor (BrF)
     106890, -- Luminescent Heartglobe (BrF)
 
+    107392, -- Bent Camshaft
     107393, -- Piston Rod
     107461, -- Void Sands
     107462, -- Trembling Darkstone
@@ -82,6 +86,7 @@ AddonTable.junk = {
     114002, -- Encoded Message
     114003, -- Tazik Hand Attachment
     114004, -- Medal of Patience
+    114007, -- Fire-Fused Heart
     114010, -- Damaged Driver
     114012, -- Underground Map
     114198, -- Burial Urn (Archaeology: Arakkoa)

@@ -143,6 +143,7 @@ AddonTable.loot = {
     157995, -- Harbormaster Legplates
     157996, -- Harbormaster Pauldrons
     157998, -- Harbormaster Wristplates
+    157999, -- Bloodbough Slippers
 
     158001, -- Bloodbough Cowl
     158004, -- Bloodbough Cord
@@ -352,6 +353,7 @@ AddonTable.loot = {
     162959, -- Dread Aspirant's Silk Cuffs
 
     163001, -- Ambuscade Sword
+    163275, -- 7th Legionnaire's Cuffs
     163282, -- Honorbound Vanguard's Chainmail
     163285, -- Honorbound Artificer's Sandles
     163296, -- Honorbound Artificer's Legwraps
@@ -448,6 +450,7 @@ AddonTable.loot = {
     173414, -- Black Empire Cloth Robes [BoA]
     173418, -- Black Empire Cloth Leggings [BoA]
     173422, -- Black Empire Plate Bracers [BoA]
+    173437, -- Vile Manipulator's Wristwraps
     173439, -- Footpads of the Insatiable Maw
     173464, -- Gloves of the Insatiable Maw
     173466, -- Malignant Leviathan's Gauntlets
