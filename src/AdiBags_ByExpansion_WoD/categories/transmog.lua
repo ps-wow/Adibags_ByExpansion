@@ -38,6 +38,7 @@ AddonTable.transmog = {
     106733, -- Meadowstomper Hood
     106735, -- Meadowstomper Shoulders
     106736, -- Meadowstomper Waistband
+    106737, -- Dark Star Cord
     106740, -- Dark Star Leggings
     106742, -- Dark Star Sandals
     106743, -- Dark Star Shoulderpads
@@ -69,6 +70,7 @@ AddonTable.transmog = {
     116631, -- Howling Dagger
     116632, -- Oshu'gun Spellblade
     116633, -- Howling Knuckles
+    116634, -- Howling Gun
     116635, -- Howling Mace
     116638, -- Howling Spear
     116640, -- Howling Staff

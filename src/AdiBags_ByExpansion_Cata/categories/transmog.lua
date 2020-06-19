@@ -3,6 +3,8 @@ local AddonName, AddonTable = ...
 -- Non-soulbound green or higher
 
 AddonTable.transmog = {
+    55041, -- Hardened Obsidium Shield
+
     55286, -- Mardenholde Axe
     55287, -- Bladefist Axe
     55288, -- Irontree Axe

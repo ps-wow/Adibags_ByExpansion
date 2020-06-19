@@ -28,6 +28,7 @@ AddonTable.transmog = {
     82241, -- Yak Belt
     82242, -- Yak Bracers
     82243, -- Yak Gauntlets
+    82244, -- Yak Greaves
     82245, -- Yak Helm
     82246, -- Yak Legguards
     82247, -- Yak Spaulders

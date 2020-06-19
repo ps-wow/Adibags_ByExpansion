@@ -7,6 +7,7 @@ AddonTable.soo = {
     113220, -- Crimson Gauntlets of Death
     113223, -- Turtleshell Greatcloak
     113225, -- Kalaena's Arcane Handwraps
+    113230, -- Drape of the Omega
     -- Immerseus
     110761, -- Immerseus' Crystalline Eye
     110784, -- Trident of Corrupted Waters

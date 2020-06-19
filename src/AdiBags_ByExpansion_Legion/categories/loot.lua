@@ -140,6 +140,7 @@ AddonTable.loot = {
     139897, -- Cloak of the White Prowler
     139926, -- Subject 12's ID Bracelets
 
+    140019, -- Eel Collars
     140533, -- Huntmaster's Injector
     140611, -- Fel Commander's Vambraces [Q: Bringer of the Light]
     140660, -- Haft of the God-King

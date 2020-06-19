@@ -1,6 +1,7 @@
 local AddonName, AddonTable = ...
 -- Non-soulbound green or higher
 AddonTable.transmog = {
+    55041,
     55286,
     55287,
     55288,
