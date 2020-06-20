@@ -25,6 +25,7 @@ AddonTable.junk = {
     1745, -- Laced Mail Vest
     1766, -- Canvas Cloak
     1776, -- Brocade Pants
+    1777, -- Brocade Shoulderpads
     1789, -- Patched Leather Bracers
     1806, -- Tough Cloak
     1814, -- Battered Mallet
@@ -59,6 +60,8 @@ AddonTable.junk = {
     3781, -- Broad Claymore
     3783, -- Light Scimitar
     3793, -- Interlaced Boots
+    3794, -- Interlaced Bracers
+    3798, -- Interlaced Shoulderpads
     3801, -- Granny's Mallet
     3817, -- Reinforced Buckler
     3931, -- Poisoned Spider Fang
@@ -95,6 +98,7 @@ AddonTable.junk = {
 
     5114, -- Severed Talon
     5115, -- Broken Wishbone
+    5117, -- Vibrant Plume
     5124, -- Small Raptor Tooth
     5128, -- Shed Lizard Skin
     5133, -- Seeping Gizzard
@@ -131,6 +135,10 @@ AddonTable.junk = {
     11392, -- Severed Bat Claw
     11393, -- Small Bat Skull
     11394, -- Bat Heart
+    11406, -- Rotting Bear Carcass
+    11407, -- Torn Bear Pelt
+    11408, -- Bear Jaw
+    11411, -- Large Bear Bone
     11414, -- Grizzled Mane
     11418, -- Hollow Wing Bone
     12735, -- Frayed Abomination Stitching
@@ -153,6 +161,7 @@ AddonTable.junk = {
     18512, -- Larval Acid
     19937, -- Small Scorpid Claw
 
+    20763, -- Broken Weapon
     20770, -- Bubbling Green Ichor
 
     21214, -- Tome of Frostbolt
@@ -216,8 +225,10 @@ AddonTable.junk = {
     55983, -- Inert Elemental Scintilla
     55984, -- Inert Elemental Shard
 
+    56033, -- Pretty Pebble
     56034, -- Tinted Rock
     56035, -- Colorful Rock
+    56047, -- Strange Pebble
     56151, -- Broken Hoof Piece
     56156, -- Torn Cartilage
     56203, -- Salivary Gland Pair

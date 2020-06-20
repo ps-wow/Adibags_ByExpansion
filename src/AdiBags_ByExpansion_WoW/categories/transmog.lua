@@ -1,5 +1,6 @@
 local AddonName, AddonTable = ...
 
+-- WoW Transmog
 AddonTable.transmog = {
     866,   -- Monk's Staff
     937,   -- Black Duskwood Staff
@@ -65,9 +66,11 @@ AddonTable.transmog = {
     9785,  -- Raider's Bracers
     9787,  -- Raider's Gauntlets
     9791,  -- Ivycloth Tunic
+    9799,  -- Ivycloth Sash
     9804,  -- Superior Buckler
     9805,  -- Superior Cloak
     9810,  -- Fortified Boots
+    9814,  -- Fortified Belt
     9824,  -- Durable Shoulders
     9835,  -- Scaled Leather Tunic
     9852,  -- Conjurer's Robe
@@ -136,6 +139,7 @@ AddonTable.transmog = {
     14200, -- Thistlefur Cap
     14228, -- Embersilk Coronet
     14306, -- Bonecaster's Vest
+    14415, -- Stonecloth Britches
     14431, -- Windchaser Handguards
     14553, -- Sash of Mercy
     14559, -- Prospector's Sash
@@ -147,6 +151,7 @@ AddonTable.transmog = {
     14862, -- Warleader's Breastplate
 
     15144, -- Ghostwalker Rags
+    15150, -- Ghostwalker Pads
     15192, -- Grand Gauntlets
     15195, -- Grand Breastplate
     15227, -- Diamond-Tip Bludgeon

@@ -51,4 +51,6 @@ AddonTable.maraudon = {
     17707,   -- Gemshard Heart
     17714,   -- Bracers of the Stone Princess
     17711,   -- Elemental Rockridge Leggings
+    -- Quest Rewards
+    131681,  -- Leggings of Flourishing Vigor
 }

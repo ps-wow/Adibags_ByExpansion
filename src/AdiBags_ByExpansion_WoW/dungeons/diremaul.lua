@@ -102,4 +102,6 @@ AddonTable.diremaul = {
     18524, -- Leggings of Destruction
     18521, -- Grimy Metal Boots
     18522, -- Band of the Ogre King
+    -- Quest Rewards
+    65924, -- Shen'dralar Trident
 }

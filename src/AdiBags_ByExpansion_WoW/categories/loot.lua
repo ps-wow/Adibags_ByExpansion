@@ -1,6 +1,6 @@
 local AddonName, AddonTable = ...
 
--- Loot (Soulbound Green or Higher)
+-- WoW Loot (Soulbound Green or Higher)
 AddonTable.loot = {
     36,   -- Worn Mace
 
@@ -33,7 +33,6 @@ AddonTable.loot = {
     12055, -- Stardust Band
 
     14168, -- Buccaneer's Gloves
-
     14951, -- Bloodforged Sabatons
 
     51967, -- Enumerated Sandals
@@ -86,6 +85,7 @@ AddonTable.loot = {
     131207, -- Well-Oiled Chain Gauntlets
     131436, -- Wendigo Pantaloons
     131564, -- Night Watch Hauberk
+    131574, -- Drifter's Cinch
     131625, -- Hann Ibal's Chain Dungarees
     131685, -- Boots of Painful Cost
     131890, -- Plundered Rockjaw Chestguard
@@ -156,7 +156,9 @@ AddonTable.loot = {
     157744, -- Warsinger's Girdle (Starter Gear)
     157745, -- Warsinger's Vambraces (Starter Gear)
 
+    160597, -- Tumultuous Cloak
     160601, -- Tumultuous Ring
     160602, -- Tumultuous Ring
+    160607, -- Tumultuous Necklace
     160608, -- Tumultuous Neckalce
 }

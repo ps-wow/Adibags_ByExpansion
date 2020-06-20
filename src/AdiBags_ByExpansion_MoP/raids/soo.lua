@@ -5,8 +5,10 @@ AddonTable.soo = {
     99364,  -- Shoulderguards of Winged Triumph
     99417,  -- Mantle of the Horned Nightmare
     113220, -- Crimson Gauntlets of Death
+    113221, -- Siid's Silent Stranglers
     113223, -- Turtleshell Greatcloak
     113225, -- Kalaena's Arcane Handwraps
+    113226, -- Cape of the Alpha
     113230, -- Drape of the Omega
     -- Immerseus
     110761, -- Immerseus' Crystalline Eye

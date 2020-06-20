@@ -1,5 +1,6 @@
 local AddonName, AddonTable = ...
 
+-- WoD Cooking
 AddonTable.cooking = {
     -- Meat / Fish
     109131, -- Raw Clefthoof Meat
@@ -11,4 +12,6 @@ AddonTable.cooking = {
     -- Food
     -- Recipes
     101769, -- Recipe: Stuffed Lushrooms
+    118311, -- Recipe Idea: Blackrock Ham
+    118314, -- Recipe Idea: Rylak Crepes
 }

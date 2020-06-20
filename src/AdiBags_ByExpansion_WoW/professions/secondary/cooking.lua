@@ -38,5 +38,7 @@ AddonTable.cooking = {
     12208, -- Tender Wolf Meat
     67229, -- Stag Flank
     -- Recipe's
+    2701,  -- Recipe: Seasoned Wolf Kabob
     2889,  -- Recipe: Beer Basted Boar Ribs
+    3683,  -- Recipe: Gooey Spider Cake
 }
