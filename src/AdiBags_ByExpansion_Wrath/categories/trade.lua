@@ -13,6 +13,4 @@ AddonTable.trade = {
     37704, -- Crystallized Life
     37705, -- Crystallized Water
     45087, -- Runed Orb
-    -- Enchanting
-    34055, -- Greater Cosmic Essence
 }

@@ -13,11 +13,17 @@ AddonTable.jewelcrafting = {
     130172, -- Sangrite
     -- Cut Gems
     130177, -- Queen's Opal
+    130183,
     130215, -- Deadly Deep Amber
     130217, -- Versatile Skystone
     151580, -- Deadly Deep Chemirine
     151583, -- Quick Lightsphene
     151585, -- Versatile Labradorite
+    151718,
+    151719,
+    151721,
+    151722,
+
     -- Rings
     130223, -- Deep Amber Loop
     -- Necklaces

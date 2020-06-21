@@ -4,6 +4,7 @@ AddonTable.inscription = {
     119297,
     129032, -- Roseate Pigment
     129034, -- Sallow Pigment
+    136926, -- Nightmare Pod
     -- Recipe's
     139635, -- Vantus Rune Technique: Ursoc
     139636, -- Vantus Rune Technique: Nythendra

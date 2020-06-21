@@ -1,9 +1,6 @@
 local AddonName, AddonTable = ...
 
 AddonTable.trade = {
-    -- Ore
-    123919, -- Felslate
-    123918, -- Leystone Ore
     -- Meat/Fish
     124117, -- Lean Shank
     124119, -- Big Gamy Ribs

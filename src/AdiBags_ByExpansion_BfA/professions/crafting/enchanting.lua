@@ -4,6 +4,7 @@ AddonTable.enchanting = {
     -- Materials
     152875, -- Gloom Dust
     152876, -- Umbra Shard
+    152877, -- veiled crystal
     -- Enchants
     153437, -- Enchant Gloves - Kul Tiran Crafting
     153438, -- Enchant Ring - Seal of Critical Strike
