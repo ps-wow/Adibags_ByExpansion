@@ -1,5 +1,5 @@
 local AddonName, AddonTable = ...
--- Legion Junk
+-- Legion Junk (7.x)
 AddonTable.junk = {
     121332,
     121333,
@@ -39,6 +39,7 @@ AddonTable.junk = {
     121388,
     121389,
     121390,
+    121397,
     121402,
     121407,
     121414,
@@ -51,6 +52,7 @@ AddonTable.junk = {
     130268,
     130317,
     131751,
+    131763,
     131795,
     131802,
     131808,

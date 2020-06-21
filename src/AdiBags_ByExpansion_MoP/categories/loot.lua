@@ -31,6 +31,7 @@ AddonTable.loot = {
     87586, -- Forest Trickster's Leggings
     87587, -- Orchard Tender's Leggings
     87588, -- Leggings of Spiritsong Melody
+    87590, -- Jade Heart Leggings
     87592, -- Grookin' Grookin' Trousers
     87593, -- Gan Shi Warlord Legguards
     87594, -- Leggings of Forgotten War
@@ -41,6 +42,7 @@ AddonTable.loot = {
     87616, -- Mountain Trailblazer's Cuffs
     87618, -- Ice Encrusted Bracer
     87621, -- Wristguards of Great Fortune
+    87622, -- Yoke of Niuzao
     87624, -- Yaungol Mist-Shaman's Amulet
     87626, -- Suna's Shattered Locket
     87631, -- Jiao-Skin Tunic

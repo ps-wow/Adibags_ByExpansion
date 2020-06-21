@@ -114,6 +114,7 @@ AddonTable.loot = {
     117500, -- Lunartanned Boots
     117563, -- Deathweb Toxin Vial
     117571, -- Gordunni Skullthumper
+    117572, -- Iridium Inlaid Band
     117981, -- Fragment of Oshu'gun
 
     118203, -- Moultingskin Tunic
@@ -141,6 +142,7 @@ AddonTable.loot = {
     118734, -- Sneevel's Loincloth
     118735, -- Bloodbathed Outcast Robes
 
+    119225, -- Studded Gronn-Stitched Girdle
     119230, -- Unpopped Pustule Pendant
     119355, -- Leggings of Howling Winds
     119380, -- Brutag's Iron Toe Boots

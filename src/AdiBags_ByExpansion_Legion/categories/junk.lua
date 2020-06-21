@@ -1,6 +1,6 @@
 local AddonName, AddonTable = ...
 
--- Legion Junk
+-- Legion Junk (7.x)
 AddonTable.junk = {
     121332, -- Over-Sharpened Shank
     121333, -- Weighted Blackjack
@@ -40,6 +40,7 @@ AddonTable.junk = {
     121388, -- Unseen Bindings
     121389, -- Fossilized Egg
     121390, -- Anund's Bandages
+    121397, -- Heavily Weighted Shoulderpads
     121402, -- Old Bloodsoaked Gauntlets
     121407, -- Empty Rocket-Propelled Legplates
     121414, -- The Dreamweavers Ignorance
@@ -54,6 +55,7 @@ AddonTable.junk = {
     130317, -- Fractured Trophy
 
     131751, -- Fractured Portal Shard
+    131763, -- Bundle of Trueshot Arrows
     131795, -- Nar'thalasian Corsage
     131802, -- Offering to Ram'Pag
     131808, -- Engraged Bloodtotem Amulet

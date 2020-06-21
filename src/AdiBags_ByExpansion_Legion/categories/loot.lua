@@ -150,6 +150,7 @@ AddonTable.loot = {
     141288, -- Ettin Bone Fragment
     141292, -- Crystallizing Mana
     141293, -- Spellfire Oil
+    141882, -- Eternal Groom's Wedding Band
     141883, -- Azsharan Keepsake
     141619, -- Mana-Infused Berries
     141625, -- Soul-Trapper's Greaves

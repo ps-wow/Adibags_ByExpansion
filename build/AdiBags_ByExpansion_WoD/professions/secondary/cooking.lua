@@ -1,4 +1,5 @@
 local AddonName, AddonTable = ...
+-- WoD Cooking
 AddonTable.cooking = {
     -- Meat / Fish
     109131,
@@ -10,4 +11,6 @@ AddonTable.cooking = {
     -- Food
     -- Recipes
     101769,
+    118311,
+    118314,
 }

@@ -1,6 +1,9 @@
 local AddonName, AddonTable = ...
 
+-- Temple of Ahn'Qiraj (AQ40)
 AddonTable.aq40 = {
+    21837, -- Anubisath Warhammer
+    21856, -- Neretzek, The Blood Drinker
     21888, -- Gloves of the Immortal
     -- Shared Boss Loot
     20928, -- Qiraji Bindings of Command

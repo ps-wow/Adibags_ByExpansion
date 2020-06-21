@@ -81,6 +81,7 @@ AddonTable.transmog = {
 
     10069, -- Righteous Bracers
     10083, -- Lord's Crown
+    10101, -- Councillor's Pants
     10104, -- Councillor's Tunic
     10105, -- Wanderer's Armor
     10135, -- High Councillor's Tunic
@@ -125,6 +126,7 @@ AddonTable.transmog = {
     13047, -- Twig of the World Tree
     13072, -- Stonegrip Gauntlets
     13073, -- Mugthol's Helm
+    13083, -- Garrett Family Crest
 
     13107, -- Magiskull Cuffs
     13111, -- Sandals of the Insurgent
@@ -146,15 +148,18 @@ AddonTable.transmog = {
     14562, -- Prospector's Chestpiece
     14658, -- Scorpashi Skullcap
     14670, -- Pridelord Armor
+    14681, -- Indomitable Boots
     14788, -- Protector Armguards
     14809, -- Warstrike Sabatons
     14862, -- Warleader's Breastplate
+    14935, -- Heroic Skullcap
 
     15144, -- Ghostwalker Rags
     15150, -- Ghostwalker Pads
     15192, -- Grand Gauntlets
     15195, -- Grand Breastplate
     15227, -- Diamond-Tip Bludgeon
+    15239, -- Felstone Reaver
     15241, -- Battle Knife
     15245, -- Vorpal Dagger
     15246, -- Demon Blade
@@ -163,13 +168,16 @@ AddonTable.transmog = {
     15272, -- Razor Axe
     15287, -- Crusader Bow
     15288, -- Blasthorn Bow
+    15296, -- Hawkeye Bow
     15325, -- Sharpshooter Harquebus
     15374, -- Wolf Rider's Leggings
     15383, -- Rageclaw Gloves
+    15433, -- Peerless Armor
     15441, -- Supreme Shoulders
     15442, -- Supreme Breastplate
     15489, -- Bloodspattered Sabatons
     15492, -- Bloodspattered Sash
+    15660, -- Impenetrable Breastplate
     15677, -- Magnificent Shoudlers
     15979, -- Flamecloth Stave
 

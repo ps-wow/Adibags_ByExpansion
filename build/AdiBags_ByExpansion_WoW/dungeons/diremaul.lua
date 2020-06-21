@@ -101,4 +101,6 @@ AddonTable.diremaul = {
     18524,
     18521,
     18522,
+    -- Quest Rewards
+    65924,
 }

@@ -2,6 +2,8 @@ local AddonName, AddonTable = ...
 
 -- Ruins of Ahn'Qiraj (AQ20)
 AddonTable.aq20 = {
+    21806, -- Gavel of Qiraji Authority
+
     -- Shared Boss Loot
     20884, -- Qiraji Magisterial Ring
     20885, -- Qiraji Martial Drape
@@ -26,6 +28,7 @@ AddonTable.aq20 = {
     21495, -- Legplates of the Qiraji Command
     21496, -- Bracers of Qiraji Command
     21497, -- Boots of the Qiraji General
+    21809, -- Fury of the Forgotten Swarm
 
     -- Moam
     21455, -- Southwind Helm

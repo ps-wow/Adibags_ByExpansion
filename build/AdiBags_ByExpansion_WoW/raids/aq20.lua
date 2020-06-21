@@ -1,6 +1,7 @@
 local AddonName, AddonTable = ...
 -- Ruins of Ahn'Qiraj (AQ20)
 AddonTable.aq20 = {
+    21806,
     -- Shared Boss Loot
     20884,
     20885,
@@ -23,6 +24,7 @@ AddonTable.aq20 = {
     21495,
     21496,
     21497,
+    21809,
     -- Moam
     21455,
     21467,

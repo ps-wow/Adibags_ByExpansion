@@ -1,4 +1,5 @@
 local AddonName, AddonTable = ...
+-- BfA Transmog
 AddonTable.transmog = {
     154142,
     154806,
@@ -31,6 +32,7 @@ AddonTable.transmog = {
     159167,
     159168,
     159171,
+    159172,
     159173,
     159174,
     159184,

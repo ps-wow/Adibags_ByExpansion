@@ -31,9 +31,12 @@ AddonTable.loot = {
     12036, -- Granite Necklace
     12048, -- Prismatic Pendant
     12055, -- Stardust Band
+    12057, -- Dragonscale Band
 
     14168, -- Buccaneer's Gloves
     14951, -- Bloodforged Sabatons
+
+    21418, -- Shroud of Unspoken Names
 
     51967, -- Enumerated Sandals
     51968, -- Enumerated Wrap

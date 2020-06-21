@@ -341,16 +341,17 @@ AddonTable.brf = {
     119323, -- Essence of the Iron Protector
     120211, -- Essence of the Iron Vanquisher
     120217, -- Gauntlets of the Iron Vanquisher
+    120228, -- Gauntlets of the Iron Conqueror (Heroic)
     120233, -- Helm of the Iron Vanquisher
-    120277, -- Essence of the Iron Conqueror (N)
-    120278, -- Essence of the Iron Vanquisher (N)
-    120279, -- Essence of the Iron Protector (N)
+    120277, -- Essence of the Iron Conqueror (Normal)
+    120278, -- Essence of the Iron Vanquisher (Normal)
+    120279, -- Essence of the Iron Protector (Normal)
     120280, -- Essence of the Iron Conqueror (Heroic)
     120281, -- Essence of the Iron Protector (Heroic)
     120282, -- Essence of the Iron Vanquisher (Heroic)
     120283, -- Essence of the Iron Conqueror (Mythic)
-    120284, -- Essence of the Iron Protector (M)
-    120285, -- Essence of the Iron Vanquisher (M)
+    120284, -- Essence of the Iron Protector (Mythic)
+    120285, -- Essence of the Iron Vanquisher (Mythic)
     120373, -- ebonflame-hood
     120382, -- sootfur-cap
     120390, -- ashlink-coif

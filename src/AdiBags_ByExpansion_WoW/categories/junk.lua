@@ -1,5 +1,6 @@
 local AddonName, AddonTable = ...
 
+-- WoW Junk
 AddonTable.junk = {
     55,   -- Apprentice's Boots
 
@@ -173,7 +174,9 @@ AddonTable.junk = {
     21227, -- Ancient Hero's Skull
     21279, -- Tome of Fireball
     21281, -- Grimoire of Shadow Bolt
+    21283, -- Grimoire of Corruption
     21285, -- Codex of Renew
+    21288, -- Libram: Blessing of Wisdom
     21289, -- Libram: Blessing of Might
     21290, -- Libram: Holy Light
     21291, -- Tablet of Healing Wave
@@ -183,6 +186,7 @@ AddonTable.junk = {
     21297, -- Manual of Heroic Strike
     21298, -- Manual of Battle Shout
     21299, -- Manual of Revenge
+    21300, -- Handbook of Backstab
     21302, -- Handbook of Deadly Poison
     21303, -- Handbook of Feint
     21304, -- Guide: Multi-Shot

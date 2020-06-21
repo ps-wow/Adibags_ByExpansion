@@ -1,5 +1,8 @@
 local AddonName, AddonTable = ...
+-- Temple of Ahn'Qiraj (AQ40)
 AddonTable.aq40 = {
+    21837,
+    21856,
     21888,
     -- Shared Boss Loot
     20928,

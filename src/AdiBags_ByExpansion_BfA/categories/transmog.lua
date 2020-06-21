@@ -1,5 +1,6 @@
 local AddonName, AddonTable = ...
 
+-- BfA Transmog
 AddonTable.transmog = {
     154142, -- Coarse Leather Leggings
     154806, -- Torgashell Breastplate
@@ -33,6 +34,7 @@ AddonTable.transmog = {
     159167, -- Freehold Bracers
     159168, -- Freehold Boots
     159171, -- Freehold Cowl
+    159172, -- Freehold Jerkin
     159173, -- Freehold Shoulderpads
     159174, -- Freehold Belt
     159184, -- Foxhollow Circlet

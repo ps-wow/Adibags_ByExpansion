@@ -50,4 +50,6 @@ AddonTable.maraudon = {
     17707,
     17714,
     17711,
+    -- Quest Rewards
+    131681,
 }

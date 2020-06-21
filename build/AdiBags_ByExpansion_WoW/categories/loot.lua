@@ -1,5 +1,5 @@
 local AddonName, AddonTable = ...
--- Loot (Soulbound Green or Higher)
+-- WoW Loot (Soulbound Green or Higher)
 AddonTable.loot = {
     36,
     1010,
@@ -21,8 +21,10 @@ AddonTable.loot = {
     12036,
     12048,
     12055,
+    12057,
     14168,
     14951,
+    21418,
     51967,
     51968,
     51969,
@@ -70,6 +72,7 @@ AddonTable.loot = {
     131207,
     131436,
     131564,
+    131574,
     131625,
     131685,
     131890,
@@ -134,7 +137,9 @@ AddonTable.loot = {
     157742,
     157744,
     157745,
+    160597,
     160601,
     160602,
+    160607,
     160608,
 }

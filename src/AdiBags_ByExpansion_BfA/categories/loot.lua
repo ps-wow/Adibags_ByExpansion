@@ -83,6 +83,7 @@ AddonTable.loot = {
     155522, -- Ritual Flayer's Wristwraps
     155524, -- Cursestone Lumberjack's Axe
     155545, -- Drustwrought Spellstaff
+    155560, -- Lazy-Baker's Ring
     155570, -- Ravenfeather Drape
 
     157871, -- Fen Spirit Footwraps
@@ -156,6 +157,7 @@ AddonTable.loot = {
     158013, -- Gravethorn Wristwraps
     158017, -- Ashenwood Helm
     158022, -- Bleakweald Chestguard
+    158024, -- Bleakweald Handguards
     158025, -- Bleakweald Greathelm
     158027, -- Bleakweald Legguards
     158028, -- Bleakweald Pauldrons
@@ -167,10 +169,12 @@ AddonTable.loot = {
     158039, -- Fairweather Boots
     158041, -- Fairweather Helm
     158057, -- Shoalbreach Helm
+    158058, -- Squallshaper Vestments
     158059, -- Shoalbreach Legguards
     158060, -- Shoalbreach Pauldrons
     158075, -- Heart of Azeroth
     158085, -- Wintersail Dirk
+    158086, -- Gnarlwood Dagger
     158093, -- Stagheart Gavel
     158095, -- Gnarlwood Hammer
     158096, -- Wavecaller Greatmace
@@ -407,7 +411,9 @@ AddonTable.loot = {
     165628, -- Sentinel's Branch [Staff]
     165664, -- Sea Giant's Tidestone
     165666, -- Moonstone of Zin-Azshari
+    165678, -- Stonemason's Guild Band
     165679, -- Ornate Elun'dris Ring
+    165683, -- Seal of Dath'Remar
 
     166336, -- 7th Legionnaire's Skullcleaver
 
@@ -454,6 +460,8 @@ AddonTable.loot = {
     173414, -- Black Empire Cloth Robes [BoA]
     173418, -- Black Empire Cloth Leggings [BoA]
     173422, -- Black Empire Plate Bracers [BoA]
+    173431, -- Vile Manipulator's Footwraps
+    173434, -- Vile Manipulator's Leggings
     173437, -- Vile Manipulator's Wristwraps
     173439, -- Footpads of the Insatiable Maw
     173464, -- Gloves of the Insatiable Maw
