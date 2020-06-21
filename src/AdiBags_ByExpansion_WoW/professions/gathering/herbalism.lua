@@ -17,6 +17,7 @@ AddonTable.herbalism = {
     3819,  -- Dragon's Teeth
     3820,  -- Stranglekelp
     3821,  -- Goldthorn
+    4625,
     8831,  -- Purple Lotus
     8838,  -- Sungrass
     8839,  -- Blindweed
@@ -37,6 +38,8 @@ AddonTable.herbalism = {
     108329, -- Dargon's Teeth Stem
     108330, -- Stranglekelp Blade
     108331, -- Goldthorn Bramble
+    108335,
     108339, -- Dreamfoil Blade
     108341, -- Mountain Silversage Stalk
+    109626,
 }

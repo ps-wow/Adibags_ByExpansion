@@ -4,9 +4,6 @@ AddonTable.trade = {
     -- Ore
     123919, -- Felslate
     123918, -- Leystone Ore
-    -- Herbs
-    124102, -- Dreamleaf
-    128304, -- Yseralline Seed
     -- Meat/Fish
     124117, -- Lean Shank
     124119, -- Big Gamy Ribs
