@@ -2,6 +2,7 @@ local AddonName, AddonTable = ...
 
 -- MoP Transmog
 AddonTable.transmog = {
+    81972, -- Stitched Robe
     81979, -- Silent Boots
     82021, -- Steppe Belt
     82027, -- Steppe Spaulders
@@ -55,11 +56,14 @@ AddonTable.transmog = {
     82271, -- Engraved Gun
     82272, -- Engraved Hammer
     82274, -- Engraved Knuckles
+    82275, -- Engraved Mace
     82276, -- Engraved Spear
     82277, -- Engraved Staff
     82278, -- Engraved Staff
+    82279, -- Engraved Sword
     82281, -- Immaculate Cloak
     82282, -- Immaculate Crystal
+    82284, -- Immaculate Scepter
     82285, -- Immaculate Spellblade
     82286, -- Immaculate Wand
     82287, -- Temple Breastplate

@@ -1,5 +1,5 @@
 local AddonName, AddonTable = ...
--- Soulbound Items (Green or higher), Questing Gear
+-- BfA Loot - Soulbound Items (Green or higher), Questing Gear
 AddonTable.loot = {
     154389,
     154461,
@@ -117,6 +117,7 @@ AddonTable.loot = {
     157939,
     157941,
     157945,
+    157948,
     157958,
     157959,
     157961,
@@ -173,6 +174,7 @@ AddonTable.loot = {
     158093,
     158095,
     158096,
+    158105,
     158106,
     158107,
     158110,
@@ -210,6 +212,7 @@ AddonTable.loot = {
     158593,
     158598,
     158624,
+    158650,
     158679,
     158680,
     158681,

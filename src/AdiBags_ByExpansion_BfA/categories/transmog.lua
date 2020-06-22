@@ -118,6 +118,7 @@ AddonTable.transmog = {
     159571, -- Deepwarden Staff
     159572, -- Zem'lan Pummeler
     159573, -- Bleached Bone Staff
+    159575, -- Warport Longstaff
     159576, -- Golden Fleet Warstaff
     159577, -- Zocali Longstaff
     159578, -- Loa-Blessed Stave

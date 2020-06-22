@@ -1,5 +1,5 @@
 local AddonName, AddonTable = ...
--- Non-soulbound green or higher
+-- Cata Transmog (Non-soulbound green or higher)
 AddonTable.transmog = {
     55041,
     55286,
@@ -8,6 +8,7 @@ AddonTable.transmog = {
     55296,
     55297,
     55306,
+    55313,
     55315,
     55331,
     55332,
@@ -82,6 +83,7 @@ AddonTable.transmog = {
     55629,
     55637,
     55638,
+    55639,
     55647,
     55648,
     55655,
@@ -120,6 +122,7 @@ AddonTable.transmog = {
     55763,
     55764,
     55765,
+    55772,
     55774,
     59460,
     59462,
@@ -140,6 +143,7 @@ AddonTable.transmog = {
     63538,
     66941,
     66972,
+    66973,
     66975,
     66989,
     66992,

@@ -19,6 +19,7 @@ AddonTable.junk = {
     106311, -- Ripped Mail Armor
     106313, -- Sun-Baked Boots
     106315, -- Jammed Pocketknife
+    106316, -- Half-Handle Mace
     106317, -- Brittle Blade
     106318, -- Blunt Logging Axe
     106319, -- Knog's Bow of Surrender

@@ -6,6 +6,7 @@ AddonTable.soo = {
     99417,  -- Mantle of the Horned Nightmare
     113220, -- Crimson Gauntlets of Death
     113221, -- Siid's Silent Stranglers
+    113222, -- Keengrip Arrowpullers
     113223, -- Turtleshell Greatcloak
     113225, -- Kalaena's Arcane Handwraps
     113226, -- Cape of the Alpha

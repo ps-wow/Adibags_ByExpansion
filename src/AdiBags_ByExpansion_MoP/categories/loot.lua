@@ -49,6 +49,7 @@ AddonTable.loot = {
     87634, -- Mazu's Robe
     87636, -- Cloak of the Forgotten Emporer
     87639, -- Tattered Guo-Lai Dynasty Cloak
+    87651, -- Pathwalker Greatstaff
 
     90350, -- Satin Robe of Eminent Domain
     90355, -- Heavy Chestpiece of Eminent Domain

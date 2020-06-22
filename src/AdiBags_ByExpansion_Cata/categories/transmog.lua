@@ -1,7 +1,6 @@
 local AddonName, AddonTable = ...
 
--- Non-soulbound green or higher
-
+-- Cata Transmog (Non-soulbound green or higher)
 AddonTable.transmog = {
     55041, -- Hardened Obsidium Shield
 
@@ -12,6 +11,7 @@ AddonTable.transmog = {
     55297, -- Irontree Broadaxe
 
     55306, -- Irontree Bow
+    55313, -- Mereldar Cloak
     55315, -- Blackwolf Cloak
     55331, -- Mardenholde Dagger
     55332, -- Bladefist Dagger
@@ -89,6 +89,7 @@ AddonTable.transmog = {
     55629, -- Thornsnarl Belt
     55637, -- Dandred Bindings
     55638, -- Haldarr Bindings
+    55639, -- Ravenholdt Bindings
     55647, -- Haldarr Jerkin
     55648, -- Ravenholdt Jerkin
     55655, -- Dandred Boots
@@ -128,6 +129,7 @@ AddonTable.transmog = {
     55763, -- Everstill Shoulderpads
     55764, -- Mystral Shoulderpads
     55765, -- Bluefen Shoulderpads
+    55772, -- Everstill Cord
     55774, -- Bluefen Cord
 
     59460, -- Theresa's Booklight (BwD)
@@ -152,6 +154,7 @@ AddonTable.transmog = {
 
     66941, -- Triple-Loop Belt (BoT)
     66972, -- Crystalline Geoknife (BoT)
+    66973, -- Ravenheard Longbow
     66975, -- Hood of the Crying Rogue
     66989, -- Endwyn's Flickering Gauntlets
     66992, -- Harbinger's Breastplate

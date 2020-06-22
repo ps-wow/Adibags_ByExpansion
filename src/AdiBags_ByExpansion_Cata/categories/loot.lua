@@ -12,11 +12,9 @@ AddonTable.loot = {
     55423, -- Blackwolf Ring
     55567, -- Talondeep Bracers (Mail)
     55619, -- Highperch Shoulders
-    55639, -- Ravenholdt Bindings
     55693, -- Ravenholdt Shoulders (Leather)
     55702, -- Ravenholdt Waistband
     55773, -- Mystical Cord
-    55772, -- Everstill Cord
 
     57283, -- Rockbreaker Robes
     57292, -- Repurposed Twilight Stave
