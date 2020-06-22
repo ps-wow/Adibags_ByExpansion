@@ -43,9 +43,10 @@ AddonTable.inscription = {
     168956, -- Contract: Ankoan
     168960, -- Contract: Rustbolt Resistance
     172008, -- Contract: Rajani
-    172010, -- Contract: Uldum Accord
+    172011, -- Contract: Uldum Accord
     -- TODO
     -- Vantus Runes
+    171202, -- Nyalotha
     -- Glyphs
     -- Blood Contracts
 }
