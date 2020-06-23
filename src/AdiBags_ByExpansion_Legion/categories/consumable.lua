@@ -14,6 +14,7 @@ AddonTable.consumable = {
     127844, -- Potion of the Old War
     127845, -- Unbending Potion
     127846, -- Leytorrent Potion
+    142117, -- Potion of Prolonged Power
     -- Flasks (Alchemy)
     127847, -- Flask of the Whispered Pact
     127848, -- Flask of the Seventh Demon

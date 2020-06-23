@@ -7,6 +7,7 @@ AddonTable.consumable = {
     116118, -- Surplus Auchenai Weaponry (100 Garrison Resources)
     116131, -- Amethyl Crystal (100 Garrison Resources)
     118695, -- Toxicfang Venom (100 Garrison Resources)
+    118710,    
     118897, -- Miner's Coffee
     118903, -- Preserved Mining Pick
     140590, -- Large Crate of Salvage

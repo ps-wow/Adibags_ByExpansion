@@ -10,4 +10,17 @@ AddonTable.garrison = {
     113822, -- ravaged-iron-horde-belt
     113823, -- crusted-iron-horde-pauldrons
     113681, -- Iron Horde Scraps
+
+    -- Trading Post
+    118337,
+    118338,
+    118339,
+    118340,
+    118341,
+    118342,
+    118343,
+    118344,
+    118345,
+    118346,
+    118347,
 }
