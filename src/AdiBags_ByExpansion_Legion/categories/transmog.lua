@@ -52,6 +52,7 @@ AddonTable.transmog = {
     121187, -- Smolderhide Jerkin
     121205, -- Dreadroot Linked Belt
     121212, -- Dreadroot Linked Vest
+    121219, -- Crescent Vale Shoulderpads
     121222, -- Jandvik Gauntlets
     121223, -- Jandvik Girdle
     121224, -- Jandvik Helm

@@ -12,6 +12,7 @@ AddonTable.junk = {
     81219, -- Vial of Moving Waters
     81220, -- Liquid Shadow
     81194, -- Sharp Fangs
+    81195, -- Crocolisk Tear
     81197, -- Enormous Tooth
 
     82300, -- Bat Guano

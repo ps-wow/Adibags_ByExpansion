@@ -27,6 +27,7 @@ AddonTable.loot = {
     86525, -- Bloodsoaked Chitin Fragment
     86527, -- Blade of the Poisoned Mind [BoA]
     86529, -- Manipulator's Talisman [BoA]
+    86572, -- Terracotta Fragment
 
     87586, -- Forest Trickster's Leggings
     87587, -- Orchard Tender's Leggings
@@ -37,8 +38,11 @@ AddonTable.loot = {
     87594, -- Leggings of Forgotten War
     87596, -- Mudmug's Mitts
     87598, -- Monstrous Silk Gloves
+    87597, -- Gloves of Congealed Mist
     87600, -- Marshsong Gloves
     87601, -- Plough Driving Grips
+    87604, -- Beachcombers Hat
+    87606, -- Tidehunter Helm
     87616, -- Mountain Trailblazer's Cuffs
     87618, -- Ice Encrusted Bracer
     87621, -- Wristguards of Great Fortune
@@ -64,6 +68,7 @@ AddonTable.loot = {
     90382, -- Captain Roger's Polite Knocking Stick
     90383, -- Skyfire Troopers Mace
     90389, -- Skyguardian's Shield
+    90719, -- Go-Kan's Golden Trousers
     90910, -- Mindfire Sollerets
 
     95212, -- Abandoned Zandalari Waterchain

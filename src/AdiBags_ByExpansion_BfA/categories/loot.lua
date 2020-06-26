@@ -178,6 +178,7 @@ AddonTable.loot = {
     158093, -- Stagheart Gavel
     158095, -- Gnarlwood Hammer
     158096, -- Wavecaller Greatmace
+    158102, -- Gnarlwood Staff
     158105, -- Coralshell Spellblade
     158106, -- Ironcrest Greatblade
     158107, -- Deepwarden Baton

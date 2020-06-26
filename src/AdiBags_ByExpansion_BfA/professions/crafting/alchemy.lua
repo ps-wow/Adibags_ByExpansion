@@ -6,4 +6,6 @@ AddonTable.alchemy = {
     -- Recipe's
     169495, -- Recipe: Superior Battle Potion of Agility (Rank 3)
     169498, -- Recipe: Superior Battle Potion of Stamina (Rank 3)
+    170209, -- Recipe: Potion of Wild Mending (Rank 3)
+    170210, -- Recipe: Abyssal Healing Potion (Rank 3)
 }

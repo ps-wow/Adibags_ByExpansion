@@ -81,6 +81,7 @@ AddonTable.junk = {
     132223, -- Elemental Droplet
     132225, -- Hardened Beak
     132229, -- Cold-Resistant Hide
+    132230, -- Mana-Charged Hide
     132231, -- Won Hooked Claw
     132232, -- Coalesced Extoplasm
     132233, -- Lingering Essence

@@ -34,6 +34,7 @@ AddonTable.loot = {
     121577, -- Rooksguard Warboots
     121580, -- Sablehide Boots
     121646, -- Witchmother Drape
+    121735, -- Nightguard Stompers
     121759, -- Feather-Notched Belt
     121761, -- Skyfire Marine Vambraces
     121796, -- Pendant of the Kaldorei
@@ -148,6 +149,7 @@ AddonTable.loot = {
     141286, -- Rite of the Val'kyr
     141287, -- Law of Strength
     141288, -- Ettin Bone Fragment
+    141291, -- Shala'nir Sproutling
     141292, -- Crystallizing Mana
     141293, -- Spellfire Oil
     141882, -- Eternal Groom's Wedding Band
