@@ -23,4 +23,10 @@ AddonTable.garrison = {
     118345,
     118346,
     118347,
+
+    -- Follower upgrades
+    114128,
+    114129,
+    114475,
+    114807,
 }

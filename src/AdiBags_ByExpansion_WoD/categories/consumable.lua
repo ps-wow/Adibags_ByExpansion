@@ -2,6 +2,7 @@ local AddonName, AddonTable = ...
 
 AddonTable.consumable = {
     -- Garrison
+    101436, -- Icemother Milk (25 GR)
     113271, -- Giant Kaliri Egg
     113388, -- Shadowmoon Astrologer's Almanac (25 Garrison Resources)
     116118, -- Surplus Auchenai Weaponry (100 Garrison Resources)
