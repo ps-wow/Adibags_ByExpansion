@@ -61,6 +61,7 @@ AddonTable.transmog = {
     116610, -- Gorian Axe
     116612, -- Gorian Bow
     116616, -- Gorian Knuckles
+    116617, -- Gorian Gun
     116618, -- Gorian Mace
     116621, -- Gorian Spear
     116624, -- Gorian Sword

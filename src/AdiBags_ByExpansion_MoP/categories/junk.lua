@@ -39,6 +39,7 @@ AddonTable.junk = {
 
     90741, -- Inferior Mail Circlet
     90742, -- Shabby Leather Helmet
+    90743, -- Dingy Plate Helmet
     90745, -- Inferior Mail Armor
     90746, -- Inferior Mail Belt
     90747, -- Dingy Plate Belt
@@ -52,6 +53,7 @@ AddonTable.junk = {
     90756, -- Inferior Mail Shoulderpads
     90757, -- Scruffy Cloth Belt
     90758, -- Scruffy Cloth Boots
+    90759, -- Scruffy Cloth Bracers
     90760, -- Scruffy Cloth Gloves
     90761, -- Scruffy Cloth Pants
     90762, -- Shabby Boots

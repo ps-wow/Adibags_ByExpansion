@@ -8,6 +8,7 @@ AddonTable.tailoring = {
     82403, -- Windwool Boots (Uncommon)
     90473, -- Windwool Boots (Rare)
     90474, -- Windwool Bracers (Rare)
+    93433, -- Crafted Dreadful Gladiator's Treads of Meditation
     -- Bandages
     72986, -- Heavy Windwool Bandage
     -- Patterns

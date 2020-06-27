@@ -13,6 +13,8 @@ AddonTable.manatombs = {
     25942, -- Faith Bearer's Gauntlets
     27813, -- Boots of the Colossus
     25941, -- Boots of the Outlander
+    --- Timewalking
+    127237, -- Starry Robes of the Crescent
     -- Tavarok
     25944, -- Shaarde the Greater
     25950, -- Staff of Polarities
@@ -49,4 +51,6 @@ AddonTable.manatombs = {
     29352, -- Cobalt Band of Tyrigosa
     25962, -- Longstider's Loop
     27828, -- Warp Scarab Brooch
+    --- Timewalking
+    127247, -- Mantle of the Unforgiven
 }

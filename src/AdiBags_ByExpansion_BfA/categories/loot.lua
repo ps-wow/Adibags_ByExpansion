@@ -476,6 +476,7 @@ AddonTable.loot = {
     173817, -- Nefarious Tormentor's Trousers
     173822, -- Malignant Leviathan's Waistguard
 
+    174509, -- Tarnished Mark
     174953, -- Vile Manipulator's Wristwraps
     174954, -- Wristwraps of the Insatiable Maw
     174956, -- Malignant Leviathan's Armguards
@@ -485,4 +486,7 @@ AddonTable.loot = {
     169478, -- Benethic Bracers
     169483, -- Benethic Treads
     169485, -- Benethic Gauntlets
+
+    -- Visions of Nzoth
+    173440, -- Grips of the Insatiable Maw
 }

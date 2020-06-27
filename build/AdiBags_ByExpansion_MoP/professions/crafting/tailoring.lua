@@ -7,6 +7,7 @@ AddonTable.tailoring = {
     82403,
     90473,
     90474,
+    93433,
     -- Bandages
     72986,
     -- Patterns

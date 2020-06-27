@@ -36,6 +36,7 @@ AddonTable.consumable = {
     -- Misc
     160053, -- Battle-Scarred Augment Rune
     163691, -- Burning Essence
+    168052, -- Scrap Grenade (Mechagon)
 }
 
 AddonTable.foodDrink = {
@@ -44,5 +45,7 @@ AddonTable.foodDrink = {
 }
 
 AddonTable.alcohol = {
+    163019, -- Drop Anchor Dunkel
+    163149, -- Anchor Drop
     163391, -- Anchormaker
 }

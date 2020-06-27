@@ -169,7 +169,8 @@ AddonTable.transmog = {
 
     71359, -- Chelley's Sterilized Scalpel
     71360, -- Spire of Scarlet Pain
-    71361, -- Ranseur of Hatred
+    71361, -- Ranseur of Hatred (Firelands)
+    71362, -- Obsidium Cleaver (Firelands)
     71365, -- Hide-Bound Chains
     71366, -- Lava Bolt Crossbow
     71640, -- Riplimb's Lost Collar
