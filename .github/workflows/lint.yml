@@ -17,5 +17,4 @@ jobs:
       - name: wow-lint
         uses: davidcraig/action-wow-lint@0.1.10
         with:
-            path-to-files:
-              - 'main.lua'
+            path-to-files: 'main.lua'
