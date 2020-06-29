@@ -1,0 +1,21 @@
+name: Lint
+# This workflow is triggered on pushes to the repository.
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+jobs:
+  lint:
+    name: Lint
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout@v2
+      # This step uses GitHub's hello-world-javascript-action: https://github.com/actions/hello-world-javascript-action
+      - name: wow-lint
+        uses: davidcraig/action-wow-lint@0.1.10
+        with:
+            path-to-files:
+              - 'main.lua'
