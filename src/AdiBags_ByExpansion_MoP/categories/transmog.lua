@@ -7,6 +7,7 @@ AddonTable.transmog = {
     82021, -- Steppe Belt
     82027, -- Steppe Spaulders
     82029, -- Reed Cord
+    82036, -- Reed Wristwraps
     82061, -- Gemmed Cloak
     82069, -- Brick Girdle
     82070, -- Brick Helm

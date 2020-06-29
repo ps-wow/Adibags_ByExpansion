@@ -8,6 +8,7 @@ AddonTable.loot = {
 
     83738, -- Sigil of Grace
 
+    84340, -- Silkmaster's Drape
     84870, -- Malevolent Gladiator's Scaled Legguards
 
     85973, -- Ancient Pandaren Fishing Charm

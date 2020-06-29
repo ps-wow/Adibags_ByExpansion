@@ -141,6 +141,7 @@ AddonTable.transmog = {
     14200, -- Thistlefur Cap
     14228, -- Embersilk Coronet
     14306, -- Bonecaster's Vest
+    14312, -- Celestial Crown
     14415, -- Stonecloth Britches
     14431, -- Windchaser Handguards
     14553, -- Sash of Mercy
@@ -150,14 +151,19 @@ AddonTable.transmog = {
     14670, -- Pridelord Armor
     14681, -- Indomitable Boots
     14788, -- Protector Armguards
+    14798, -- Bloodlust Breastplate
     14809, -- Warstrike Sabatons
+    14810, -- Warstrike Armsplints
     14862, -- Warleader's Breastplate
     14935, -- Heroic Skullcap
+    14966, -- Glorious Breastplate
+    14979, -- Exalted Helmet
 
     15144, -- Ghostwalker Rags
     15150, -- Ghostwalker Pads
     15192, -- Grand Gauntlets
     15195, -- Grand Breastplate
+    15221, -- Holy War Sword
     15227, -- Diamond-Tip Bludgeon
     15239, -- Felstone Reaver
     15241, -- Battle Knife
@@ -173,6 +179,7 @@ AddonTable.transmog = {
     15374, -- Wolf Rider's Leggings
     15383, -- Rageclaw Gloves
     15433, -- Peerless Armor
+    15435, -- Supreme Shoes
     15441, -- Supreme Shoulders
     15442, -- Supreme Breastplate
     15489, -- Bloodspattered Sabatons

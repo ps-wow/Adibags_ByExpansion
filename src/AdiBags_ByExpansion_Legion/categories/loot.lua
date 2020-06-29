@@ -29,6 +29,7 @@ AddonTable.loot = {
     121188, -- Smolderhide Shoulders
     121217, -- Crescent Vale Robe
     121247, -- Nightfall Loop
+    121425, -- Leywalker Gloves
     121480, -- Felblaze Chain
     121481, -- Tranquil Azurewing Band
     121577, -- Rooksguard Warboots

@@ -21,6 +21,9 @@ AddonTable.loot = {
 
     59520, -- Unheeded Warning
 
+    65656, -- Sea Witch Charm
+    66890, -- Finkle's Twinkle
+    66902, -- Token of Gratitude
     66974, -- Nightrend Choker
     68915, -- Scales of Life
     68972, -- Apparatus of Khaz'goroth

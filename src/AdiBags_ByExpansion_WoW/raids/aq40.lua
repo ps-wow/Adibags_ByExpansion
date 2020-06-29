@@ -24,7 +24,6 @@ AddonTable.aq40 = {
     21707, -- Ring of Swarming Thought
     21708, -- Beetle Scaled Wristguards
     21814, -- Breastplate of Annihilation
-    22222, -- Plans: Thick Obsidian Breastplate (Blacksmithing)
     -- Silithid Royalty
     21603, -- Wand of Qiraji Nobility
     21680, -- Vest of Swift Execution
@@ -86,8 +85,6 @@ AddonTable.aq40 = {
     21620, -- Ring of the Martyr
     21621, -- Cloak of the Golden Hive
     -- The Twin Emperors
-    20726, -- Formula: Enchant Cloak - Threat
-    20735, -- Formula: Enchant Cloak - Subtlety
     20926, -- Vek'nilash's Circlet
     20930, -- Vek'lor's Diadem
     21597, -- Royal Scepter of Vek'lor

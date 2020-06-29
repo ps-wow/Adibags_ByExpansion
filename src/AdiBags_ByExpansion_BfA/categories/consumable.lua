@@ -41,6 +41,7 @@ AddonTable.consumable = {
 
 AddonTable.foodDrink = {
     -- Food
+    161053, -- Salty Dog Crackers
     -- Drink
 }
 

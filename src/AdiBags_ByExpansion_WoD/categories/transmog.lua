@@ -20,6 +20,7 @@ AddonTable.transmog = {
     106679, -- Snarlthorn Belt
     106691, -- Ironfist Legplates
     106694, -- Ironfist Shield
+    106696, -- Sabermaw Bindings
     106699, -- Sabermaw Gloves
     106702, -- Sabermaw Shoulders
     106705, -- Voidwrap Cowl
@@ -54,6 +55,7 @@ AddonTable.transmog = {
     116475, -- Lunarglow Broadaxe
     116493, -- Vinewrapped Bow
     116497, -- Vinewrapped Knuckles
+    116521, -- Creeperclaw Staff
     116588, -- Longclaw Staff
     116593, -- Bloodmane Axe
     116594, -- Bloodmane Broadaxe

@@ -139,6 +139,7 @@ AddonTable.transmog = {
     159605, -- Ironcrest Baton
     159607, -- Rivermarsh Wand
     159609, -- Golden Fleet Wand
+    159797, -- Shipwrecker Shield
     159799, -- Wintersail Bulwark
     159802, -- Deepwarden Redoubt
     159803, -- Coldscale Shield

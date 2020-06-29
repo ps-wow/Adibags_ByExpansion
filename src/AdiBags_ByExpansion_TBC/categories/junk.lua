@@ -17,10 +17,13 @@ AddonTable.junk = {
     25345, -- Dilapidated Cloth Hat
     25346, -- Dilapidated Cloth Pants
     25347, -- Dilapidated Cloth Shoulderpads
+    25350, -- Moldy Leather Belt
+    25353, -- Moldy Leather Gloves
     25354, -- Moldy Leather Helmet
     25357, -- Decaying Leather Armor
     25358, -- Decaying Leather Belt
     25359, -- Decaying Leather Boots
+    25360, -- Decaying Leather Bracers
     25361, -- Decaying Leather Gloves
     25363, -- Decaying Leather Pants
     25364, -- Decaying Leather Shoulderpads
@@ -36,13 +39,16 @@ AddonTable.junk = {
     25379, -- Corroded Mail Pants
     25380, -- Corroded Mail Shoulderpads
     25381, -- Tarnished Plate Belt
+    25382, -- Tarnished Plate Boots
     25384, -- Tarnished Plate Chestpiece
+    25385, -- Tarnished Plate Gloves
     25386, -- Tarnished Plate Helmet
     25387, -- Tarnished Plate Pants
     25388, -- Tarnished PLate Shoulderpads
     25390, -- Deteriorating Plate Boots
     25391, -- Deteriorating Plate Bracers
     25392, -- Deteriorating Plate Chestpiece
+    25393, -- Deteriorating Plate Gloves
     25394, -- Deteriorating Plate Helmet
     25396, -- Deteriorating Plate Shoulderpads
     25397, -- Eroded Axe
@@ -65,6 +71,7 @@ AddonTable.junk = {
     25445, -- Wretched Ichor
     25451, -- Swamp Moss
     25456, -- Glowing Spores
+    25478, -- Loosely Threaded Bracers
 
     25813, -- Small Mushroom
 

@@ -34,12 +34,15 @@ AddonTable.loot = {
     109078, -- Killmaw's Canine
     109081, -- Ronokk's Greatcloak
 
+    110000, -- Crushto's Runic Alarm
+
     111948, -- Gruuk's Evil Eye
     111953, -- Bat-Leather Breeches
 
     112077, -- Grutush's Fur-Padded Pantaloons
     112371, -- Warpstalker-Scale Grips
     112389, -- Iron Horde Warcudgel
+    112392, -- Iron Horde Ritual Staff
     112393, -- Iron Horde Waraxe
     112440, -- Slavebreaker Robes
     112443, -- Slavebreaker Chestguard
