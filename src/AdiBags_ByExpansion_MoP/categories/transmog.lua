@@ -15,6 +15,7 @@ AddonTable.transmog = {
     82089, -- Growing Sandals
     82148, -- Swamp Boots
     82184, -- Snowy Shield
+    82196, -- Trellised Handwraps
     82197, -- Trellised Leggings
     82198, -- Trellised Robe
     82199, -- Trellised Sandals

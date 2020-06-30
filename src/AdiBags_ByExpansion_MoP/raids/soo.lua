@@ -10,6 +10,7 @@ AddonTable.soo = {
     113223, -- Turtleshell Greatcloak
     113225, -- Kalaena's Arcane Handwraps
     113226, -- Cape of the Alpha
+    113228, -- Gauntlets of Discarded Time
     113230, -- Drape of the Omega
     -- Immerseus
     110761, -- Immerseus' Crystalline Eye

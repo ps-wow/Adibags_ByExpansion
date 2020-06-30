@@ -169,6 +169,7 @@ AddonTable.loot = {
     -- Dauntless
     147215, -- Dauntless Gauntlets (BoA)
     147223, -- Dauntless Trinket
+    147234, -- Fel-Treated Boots
     147238, -- Fel-Treated Gauntlets (from 147215)
     147255, -- Galvanized Stormscale Belt
     147276, -- Spellbinder's Seal

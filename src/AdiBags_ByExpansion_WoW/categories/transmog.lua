@@ -92,6 +92,7 @@ AddonTable.transmog = {
     10156, -- Mercurial Bracers
     10158, -- Mercurial Guard
     10161, -- Mercurial Gauntlets
+    10179, -- Mystical Boots
     10185, -- Swashbuckler's Cape
     10203, -- Overlord's Chestplate
     10210, -- Elegant Mantle
@@ -170,8 +171,10 @@ AddonTable.transmog = {
     15245, -- Vorpal Dagger
     15246, -- Demon Blade
     15248, -- Gleaming Claymore
+    15254, -- Dark Espadon
     15267, -- Brutehammer
     15272, -- Razor Axe
+    15273, -- Death Striker
     15287, -- Crusader Bow
     15288, -- Blasthorn Bow
     15296, -- Hawkeye Bow

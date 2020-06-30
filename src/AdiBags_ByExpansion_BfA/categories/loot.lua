@@ -136,6 +136,7 @@ AddonTable.loot = {
     157977, -- Seafarer Headcover
     157978, -- Seafarer Breeches
     157979, -- Seafarer Shoulderpads
+    157980, -- Seafarer Belt
     157981, -- Seafarer Armguards
     157989, -- Crosswind Wristguards
     157992, -- Harbormaster Gauntlets
@@ -167,14 +168,17 @@ AddonTable.loot = {
     158035, -- Squallshaper Mantle
     158037, -- Squallshaper Cuffs
     158039, -- Fairweather Boots
+    158040, -- Fairweather Gloves
     158041, -- Fairweather Helm
     158057, -- Shoalbreach Helm
     158058, -- Squallshaper Vestments
     158059, -- Shoalbreach Legguards
     158060, -- Shoalbreach Pauldrons
     158075, -- Heart of Azeroth
+    158079, -- Stagheart Hatchet
     158085, -- Wintersail Dirk
     158086, -- Gnarlwood Dagger
+    158089, -- Deepwarden Fangs
     158093, -- Stagheart Gavel
     158095, -- Gnarlwood Hammer
     158096, -- Wavecaller Greatmace
@@ -416,6 +420,7 @@ AddonTable.loot = {
     165666, -- Moonstone of Zin-Azshari
     165678, -- Stonemason's Guild Band
     165679, -- Ornate Elun'dris Ring
+    165680, -- Igneous Winterskorn Loop
     165683, -- Seal of Dath'Remar
 
     166336, -- 7th Legionnaire's Skullcleaver

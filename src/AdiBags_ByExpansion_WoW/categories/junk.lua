@@ -160,7 +160,9 @@ AddonTable.junk = {
     18285, -- Crystallized Mana Shard
     18286, -- Condensed Mana Fragment
     18512, -- Larval Acid
+    19933, -- Glowing Scorpid Blood
     19937, -- Small Scorpid Claw
+    19938, -- Heavy Scorpid Leg
 
     20763, -- Broken Weapon
     20770, -- Bubbling Green Ichor
@@ -174,7 +176,9 @@ AddonTable.junk = {
     21227, -- Ancient Hero's Skull
     21279, -- Tome of Fireball
     21281, -- Grimoire of Shadow Bolt
+    21282, -- Grimoire of Immolate
     21283, -- Grimoire of Corruption
+    21284, -- Codex of Greater Heal
     21285, -- Codex of Renew
     21288, -- Libram: Blessing of Wisdom
     21289, -- Libram: Blessing of Might

@@ -159,6 +159,7 @@ AddonTable.loot = {
     120337, -- Novice Rylak Hunter's Horn
 
     124558, -- Baleful Ring
+    124572, -- Bladefang Boots (Baleful Leather Boots)
     124591, -- Felcast Cord (Baleful Cloth Girdle)
     124603, -- Sharemire Seal (Baleful Ring)
     124612, -- Discordant Amulet (Baleful Choker)
