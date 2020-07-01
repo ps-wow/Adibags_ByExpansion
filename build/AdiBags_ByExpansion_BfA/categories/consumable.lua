@@ -33,6 +33,7 @@ AddonTable.consumable = {
 }
 AddonTable.foodDrink = {
     -- Food
+    161053,
     -- Drink
 }
 AddonTable.alcohol = {

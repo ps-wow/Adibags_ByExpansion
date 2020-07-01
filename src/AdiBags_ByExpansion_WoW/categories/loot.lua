@@ -7,6 +7,7 @@ AddonTable.loot = {
     1010, -- Gnarled Short Staff
     1443, -- Jeweled Amulet of Cainwyn
 
+    2238, -- Urchin's Pants
     2362, -- Worn Wooden Shield
     2900, -- Stone Buckler
     2970, -- Spellbinder Pants
@@ -17,6 +18,7 @@ AddonTable.loot = {
 
     7489, -- Captain's Gauntlets
 
+    9243, -- Shriveled Troll Heart
     9743, -- Simple Shoes
     9755, -- Gypsy Gloves
     9763, -- Cadet Leggings
@@ -71,10 +73,12 @@ AddonTable.loot = {
     58909, -- Golden Sunshine Cloak [Quest: Westfall]
     59042, -- Electro-Staff
 
+    60219, -- Balanced Spell Staff
     65913, -- Hann Ibal's Epaulets
     65922, -- Warpwood Leaf Mantle
     65953, -- Dathrohan's Mace
     65975, -- Chestguard of Redemption
+    65977, -- Balnazzar's Horn
     65991, -- Boots of the Noble Path
     65992, -- Pauldrons of the Promise
     65993, -- Warpwood Shield

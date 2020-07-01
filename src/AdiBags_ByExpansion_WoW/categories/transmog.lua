@@ -49,8 +49,11 @@ AddonTable.transmog = {
     7435,  -- Twilight Mantle
     7456,  -- Knight's Headguard
     7481,  -- Ranger Boots
+    7524,  -- Gossamer Cape
+    7610,  -- Aurora Sphere
 
     8111,  -- Hibernal Mantle
+    8115,  -- Hibernal Cowl
     8199,  -- Battlefield Destroyer
     8249,  -- Imperial Red Gloves
     8250,  -- Imperial Red Mantle
@@ -78,6 +81,7 @@ AddonTable.transmog = {
     9897,  -- Jazeraint Chestguard
     9953,  -- Chieftain's Headdress
     9964,  -- Warmonger's Leggings
+    9970,  -- Embossed Plate Leggings
 
     10069, -- Righteous Bracers
     10083, -- Lord's Crown
@@ -171,6 +175,7 @@ AddonTable.transmog = {
     15245, -- Vorpal Dagger
     15246, -- Demon Blade
     15248, -- Gleaming Claymore
+    15252, -- Tuskar Sword
     15254, -- Dark Espadon
     15267, -- Brutehammer
     15272, -- Razor Axe

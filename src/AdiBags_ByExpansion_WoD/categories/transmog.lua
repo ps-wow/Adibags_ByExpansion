@@ -51,8 +51,6 @@ AddonTable.transmog = {
 
     111475, -- Beater's Beat Stick
 
-    113632, -- Gauntlets of the Heavy Hand
-
     116464, -- Frostbitten Gun
     116475, -- Lunarglow Broadaxe
     116493, -- Vinewrapped Bow

@@ -67,14 +67,17 @@ AddonTable.junk = {
     3817, -- Reinforced Buckler
     3931, -- Poisoned Spider Fang
     3937, -- Crochet Boots
+    3945, -- Twill Boots
     3949, -- Twill Pants
     3950, -- Twill Shoulderpads
     3962, -- Thick Leather Boots
     3966, -- Thick Leather Pants
     3975, -- Smooth Leather Shoulderpads
     3987, -- Deflecting Tower
+    3990, -- Crested Buckler
     3992, -- Laminated Scale Belt
     3994, -- Laminated Scale Bracers
+    3995, -- Laminated Scale Cloak
 
     4018, -- Whetted Claymore
     4093, -- Large Basilisk Tail
@@ -109,6 +112,7 @@ AddonTable.junk = {
     6444, -- Forked Tongue
     6445, -- Brittle Molting
     6518, -- Pioneer Boots
+    6826, -- Brilliant Scale
 
     7073, -- Broken Fang
     7074, -- Chipped Claw
@@ -156,11 +160,13 @@ AddonTable.junk = {
     17056, -- Light Feather
     17057, -- Shiny Fish Scales
     17058, -- Fish Oil
+    17413, -- Codex: Prayer of Fortitude
     18222, -- Thorny Vine
     18285, -- Crystallized Mana Shard
     18286, -- Condensed Mana Fragment
     18512, -- Larval Acid
     19933, -- Glowing Scorpid Blood
+    19935, -- Empty Venom Sac
     19937, -- Small Scorpid Claw
     19938, -- Heavy Scorpid Leg
 
@@ -204,9 +210,12 @@ AddonTable.junk = {
 
     23988, -- Mutated Vine
 
+    25338, -- Loosely Threaded Pants
     25372, -- Eroded Mail Shoulderpads
+    25383, -- Tarnished Plate Bracers
     25421, -- Gnarled Claw
     25425, -- Molted Feather
+    25431, -- Ripped Fin
     25441, -- Gnarled Boar Tusk
 
     32714, -- Splintered Spider Fang

@@ -23,7 +23,6 @@ AddonTable.aq40 = {
     21707,
     21708,
     21814,
-    22222,
     -- Silithid Royalty
     21603,
     21680,
@@ -85,8 +84,6 @@ AddonTable.aq40 = {
     21620,
     21621,
     -- The Twin Emperors
-    20726,
-    20735,
     20926,
     20930,
     21597,

@@ -39,5 +39,6 @@ AddonTable.cooking = {
     -- Recipe's
     2701,
     2889,
+    3678,
     3683,
 }
