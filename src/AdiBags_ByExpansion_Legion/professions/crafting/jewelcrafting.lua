@@ -5,6 +5,7 @@ AddonTable.jewelcrafting = {
     -- Misc
     129100, -- Gem Chip
     -- Gems
+    130173, -- Deep Amber
     130174, -- Azsunite
     130180, -- Dawnlight
     130181, -- Pandemonite

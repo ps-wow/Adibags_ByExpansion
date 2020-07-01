@@ -35,6 +35,8 @@ AddonTable.consumable = {
     140401, -- Blue Or'ligai Egg
     140949, -- Onyx Or'ligai Egg
     141655, -- Shimmering Ancient Mana Cluster
+
+    120257, -- Drums of Fury
 }
 
 AddonTable.foodDrink = {

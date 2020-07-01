@@ -37,6 +37,7 @@ AddonTable.consumable = {
     -- Misc
     160053, -- Battle-Scarred Augment Rune
     163691, -- Burning Essence
+    174906, -- Lightning-Forged Augmentation Rune
 }
 
 AddonTable.foodDrink = {

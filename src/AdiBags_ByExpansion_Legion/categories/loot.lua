@@ -196,6 +196,7 @@ AddonTable.loot = {
     153153, -- Unsullied Plate Pauldrons (BoA)
     153155, -- Unsullied Plate Helmet (BoA)
     153157, -- Unsullied Plate Gauntlets (BoA)
+    153158, -- Unsullied Mail Bracers (BoA)
 
     -- Order Hall Champion Equipment
     156630, -- Relinquished Armor Set

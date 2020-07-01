@@ -12,6 +12,7 @@ AddonTable.garrison = {
     113681, -- Iron Horde Scraps
 
     -- Trading Post
+    118197,
     118337,
     118338,
     118339,
@@ -28,5 +29,7 @@ AddonTable.garrison = {
     114128,
     114129,
     114475,
+    114745,
+    114616,
     114807,
 }
