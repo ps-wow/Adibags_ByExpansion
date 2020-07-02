@@ -11,5 +11,4 @@ AddonTable.enchanting = {
     22448, -- small prismatic shard
     22449, -- large prismatic shard
     22450, -- void crystal
-    34057, -- abyss crystal
 }
