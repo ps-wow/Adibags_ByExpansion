@@ -14,6 +14,7 @@ AddonTable.alchemy = {
     13423, -- Stonescale Oil
 
     -- Recipe's
-    3832, -- Recipe: Elixir of Detect Lesser Invisibility
+    3832,  -- Recipe: Elixir of Detect Lesser Invisibility
+    9297,  -- Recipe: Elixir of Dream Vision
     13486, -- Recipe: Transmute Undeath to Water
 }

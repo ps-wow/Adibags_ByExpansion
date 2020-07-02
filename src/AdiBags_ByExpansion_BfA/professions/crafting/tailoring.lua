@@ -17,6 +17,7 @@ AddonTable.tailoring = {
     161982, -- Tidespray Linen Spaulders
     161983, -- Tidespray Linen Belt
     161984, -- Tidespray Linen Bracers
+    161987, -- Tidespray Linen Cloak
     -- Bandages
     158381, -- Tidespray Linen Bandage
     -- Misc

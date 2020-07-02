@@ -12,6 +12,7 @@ AddonTable.junk = {
     81219, -- Vial of Moving Waters
     81220, -- Liquid Shadow
     81194, -- Sharp Fangs
+    81195, -- Crocolisk Tear
     81197, -- Enormous Tooth
 
     82300, -- Bat Guano
@@ -38,6 +39,8 @@ AddonTable.junk = {
 
     90741, -- Inferior Mail Circlet
     90742, -- Shabby Leather Helmet
+    90743, -- Dingy Plate Helmet
+    90745, -- Inferior Mail Armor
     90746, -- Inferior Mail Belt
     90747, -- Dingy Plate Belt
     90748, -- Dingy Plate Boots
@@ -50,6 +53,7 @@ AddonTable.junk = {
     90756, -- Inferior Mail Shoulderpads
     90757, -- Scruffy Cloth Belt
     90758, -- Scruffy Cloth Boots
+    90759, -- Scruffy Cloth Bracers
     90760, -- Scruffy Cloth Gloves
     90761, -- Scruffy Cloth Pants
     90762, -- Shabby Boots
@@ -60,6 +64,7 @@ AddonTable.junk = {
     90767, -- Scruffy Cloth Shoulderpads
     90768, -- Scruffy Cloth Vest
     90769, -- Shabby Armor
+    90770, -- Shabby Belt
     90772, -- Dingy Plate Pants
     90779, -- Moist Mail Shoulderpads
     90782, -- Slipshod Plate Bracers

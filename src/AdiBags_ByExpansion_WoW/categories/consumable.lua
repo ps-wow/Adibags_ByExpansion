@@ -121,7 +121,8 @@ AddonTable.foodDrink = {
 }
 
 AddonTable.alcohol = {
-    2723, -- Bottle of Dalaran Noir
-    4600, -- Cherry Grog
+    2595,  -- Jug of Badlands Bourbon
+    2723,  -- Bottle of Dalaran Noir
+    4600,  -- Cherry Grog
     57543, -- Stormhammer Stout
 }

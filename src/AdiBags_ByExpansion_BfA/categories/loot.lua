@@ -1,7 +1,6 @@
 local AddonName, AddonTable = ...
 
--- Soulbound Items (Green or higher), Questing Gear
-
+-- BfA Loot - Soulbound Items (Green or higher), Questing Gear
 AddonTable.loot = {
     154389, -- Abyssal-Serpent Pauldrons
     154461, -- Cursed Boarhide Helm
@@ -90,8 +89,8 @@ AddonTable.loot = {
     157872, -- Fen Spirit Handwraps
     157876, -- Fen Spirit Cinch
     157877, -- Fen Spirit Wristwraps
-    157878, -- Blood Bog Wraps [Azerite]
-    157881, -- Blood Bog Headcover [Azerite]
+    157878, -- Blood Bog Wraps
+    157881, -- Blood Bog Headcover
     157882, -- Blood Bog Legwraps
     157884, -- Blood Bog Waistband
     157889, -- Dreadmire Helm
@@ -120,7 +119,8 @@ AddonTable.loot = {
     157938, -- Sandspinner Legwraps
     157939, -- Sandspinner Mantle
     157941, -- Sandspinner Wristwraps
-    157945, -- Deathsnap Hood [Azerite]
+    157945, -- Deathsnap Hood
+    157948, -- Deathsnap Girdle
     157958, -- Dunecrawler Chestplate
     157959, -- Dunecrawler Footguards
     157961, -- Dunecrawler Faceguard
@@ -178,6 +178,8 @@ AddonTable.loot = {
     158093, -- Stagheart Gavel
     158095, -- Gnarlwood Hammer
     158096, -- Wavecaller Greatmace
+    158102, -- Gnarlwood Staff
+    158105, -- Coralshell Spellblade
     158106, -- Ironcrest Greatblade
     158107, -- Deepwarden Baton
     158110, -- Razorbone Carver
@@ -215,6 +217,7 @@ AddonTable.loot = {
     158593, -- Drust-Speaker's Pathfinder
     158598, -- Band of Seething Manifest
     158624, -- Banisher Strap
+    158650, -- Sea-Scourge Greatblade
     158679, -- Maokka's Carving
     158680, -- Rikal's Ritual Beads
     158681, -- Lightning Tether
@@ -473,6 +476,7 @@ AddonTable.loot = {
     173817, -- Nefarious Tormentor's Trousers
     173822, -- Malignant Leviathan's Waistguard
 
+    174509, -- Tarnished Mark
     174953, -- Vile Manipulator's Wristwraps
     174954, -- Wristwraps of the Insatiable Maw
     174956, -- Malignant Leviathan's Armguards
@@ -482,4 +486,7 @@ AddonTable.loot = {
     169478, -- Benethic Bracers
     169483, -- Benethic Treads
     169485, -- Benethic Gauntlets
+
+    -- Visions of Nzoth
+    173440, -- Grips of the Insatiable Maw
 }

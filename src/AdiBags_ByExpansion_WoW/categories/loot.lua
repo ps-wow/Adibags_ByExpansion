@@ -159,6 +159,16 @@ AddonTable.loot = {
     157744, -- Warsinger's Girdle (Starter Gear)
     157745, -- Warsinger's Vambraces (Starter Gear)
 
+    -- AQ Quest Items
+    21335, -- Doomcaller's Mantle
+    21336, -- Doomcaller's Trousers
+    21337, -- Doomcaller's Circlet
+    21338, -- Doomcaller's Footwraps
+
+    -- AQ Misc
+    21889, -- Gloves of the Redeemed Prophecy
+
+    -- Satchel of Helpful Goods
     160597, -- Tumultuous Cloak
     160601, -- Tumultuous Ring
     160602, -- Tumultuous Ring

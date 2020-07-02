@@ -11,4 +11,6 @@ AddonTable.blacksmithing = {
     3874,  -- Plans: Polished Steel Boots
     12713, -- Plans: Radiant Leggings
     12839, -- Plans: Heartseeker
+    22220, -- Plans: Black Grasp of the Destroyer
+    22222, -- Plans: Thick Obsidian Breastplate [AQ40]
 }

@@ -38,15 +38,19 @@ AddonTable.consumable = {
     160053, -- Battle-Scarred Augment Rune
     163691, -- Burning Essence
     174906, -- Lightning-Forged Augmentation Rune
+    168052, -- Scrap Grenade (Mechagon)
 }
 
 AddonTable.foodDrink = {
     -- Food
     168313, -- Baked Port Tato
     168314, -- Bil'Tong
+    161053, -- Salty Dog Crackers
     -- Drink
 }
 
 AddonTable.alcohol = {
+    163019, -- Drop Anchor Dunkel
+    163149, -- Anchor Drop
     163391, -- Anchormaker
 }

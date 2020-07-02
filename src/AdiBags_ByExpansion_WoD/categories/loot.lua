@@ -34,12 +34,15 @@ AddonTable.loot = {
     109078, -- Killmaw's Canine
     109081, -- Ronokk's Greatcloak
 
+    110000, -- Crushto's Runic Alarm
+
     111948, -- Gruuk's Evil Eye
     111953, -- Bat-Leather Breeches
 
     112077, -- Grutush's Fur-Padded Pantaloons
     112371, -- Warpstalker-Scale Grips
     112389, -- Iron Horde Warcudgel
+    112392, -- Iron Horde Ritual Staff
     112393, -- Iron Horde Waraxe
     112440, -- Slavebreaker Robes
     112443, -- Slavebreaker Chestguard
@@ -91,10 +94,12 @@ AddonTable.loot = {
     116795, -- Greatfeather's Down Robe
     116796, -- Malroc's Staff of Command
     116797, -- Pokhar's Eighth Axe
+    116798, -- Gaz'orda's Grim Gaze
     116800, -- Duretha's Trail Boots
     116805, -- Blug'thol's Bloody Bracers
     116806, -- Soul Fang
     116807, -- Flinthide's Impenetrable Crest
+    116809, -- Ironbeard's Blunderbuss
     116814, -- Tura'aka's Clipped Wing
     116824, -- Rabid Talbuk Horn
     116832, -- Blademasters Honor
@@ -141,6 +146,7 @@ AddonTable.loot = {
     118713, -- Iron Lookout's Aralest
     118734, -- Sneevel's Loincloth
     118735, -- Bloodbathed Outcast Robes
+    118843, -- Eleece's Braced Gorget
 
     119225, -- Studded Gronn-Stitched Girdle
     119230, -- Unpopped Pustule Pendant
@@ -165,6 +171,9 @@ AddonTable.loot = {
     128222, -- Smokeglass Lens Spyglass
     128348, -- Baleful Spaulders
     128350, -- Bladefang Spaulders (Baleful Spaulders)
+
+    -- Archaeology
+    117382, -- Beakbreaker of Terokk
 
     -- Baleful Tokens
     127784, -- Baleful Cloth Girdle (BoA)

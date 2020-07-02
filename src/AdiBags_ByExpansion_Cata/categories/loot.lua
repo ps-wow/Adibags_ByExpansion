@@ -12,17 +12,18 @@ AddonTable.loot = {
     55423, -- Blackwolf Ring
     55567, -- Talondeep Bracers (Mail)
     55619, -- Highperch Shoulders
-    55639, -- Ravenholdt Bindings
     55693, -- Ravenholdt Shoulders (Leather)
     55702, -- Ravenholdt Waistband
     55773, -- Mystical Cord
-    55772, -- Everstill Cord
 
     57283, -- Rockbreaker Robes
     57292, -- Repurposed Twilight Stave
 
     59520, -- Unheeded Warning
 
+    65656, -- Sea Witch Charm
+    66890, -- Finkle's Twinkle
+    66902, -- Token of Gratitude
     66974, -- Nightrend Choker
     68915, -- Scales of Life
     68972, -- Apparatus of Khaz'goroth

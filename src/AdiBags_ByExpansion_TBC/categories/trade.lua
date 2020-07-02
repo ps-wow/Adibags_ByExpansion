@@ -7,6 +7,7 @@ AddonTable.trade = {
     21885, -- Primal Water
     22575, -- Mote of Life
     22576, -- Mote of Mana
+    22577, -- Mote of Shadow
     22578, -- Mote of Water
     22457, -- Primal Mana
     21882, -- Soul Essence

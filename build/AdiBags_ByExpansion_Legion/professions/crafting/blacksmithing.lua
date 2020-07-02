@@ -5,4 +5,6 @@ AddonTable.blacksmithing = {
     -- Armour
     123897,
     123898,
+    -- Misc
+    151239,
 }

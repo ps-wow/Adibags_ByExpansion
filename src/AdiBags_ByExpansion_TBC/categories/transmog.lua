@@ -4,6 +4,7 @@ AddonTable.transmog = {
     24590, -- Fireheart Boots
     24602, -- Starfire Trousers
     24619, -- Vindicator Shoulderpads
+    24625, -- Slavehandler Cap
     24671, -- Eldr'naan Jerkin
     24676, -- Eldr'naan Bracelets
     24678, -- Archmage Slippers
@@ -26,6 +27,7 @@ AddonTable.transmog = {
     24801, -- Dragonhawk Gloves
     24803, -- Dragonhawk Pants
     24809, -- Unyielding Fists
+    24841, -- Wrathfin Gloves
     24853, -- Fenclaw Bindings
     24863, -- Blood Knight Boots
     24890, -- Skettis Helmet

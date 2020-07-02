@@ -15,5 +15,8 @@ AddonTable.tailoring = {
     114831, -- Sumptuous Leggings
 
     -- bandages
-    111603
+    111603,
+    
+    -- Recipe's
+    114852, -- Pattern: Hexweave Embroidery
 }

@@ -12,6 +12,8 @@ AddonTable.manatombs = {
     25942,
     27813,
     25941,
+    --- Timewalking
+    127237,
     -- Tavarok
     25944,
     25950,
@@ -48,4 +50,6 @@ AddonTable.manatombs = {
     29352,
     25962,
     27828,
+    --- Timewalking
+    127247,
 }

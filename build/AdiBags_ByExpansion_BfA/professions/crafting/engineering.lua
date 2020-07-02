@@ -8,4 +8,5 @@ AddonTable.engineering = {
     -- Crafts
     153490,
     153494,
+    153597,
 }

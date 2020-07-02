@@ -2,10 +2,12 @@ local AddonName, AddonTable = ...
 
 -- MoP Transmog
 AddonTable.transmog = {
+    81972, -- Stitched Robe
     81979, -- Silent Boots
     82021, -- Steppe Belt
     82027, -- Steppe Spaulders
     82029, -- Reed Cord
+    82036, -- Reed Wristwraps
     82061, -- Gemmed Cloak
     82069, -- Brick Girdle
     82070, -- Brick Helm
@@ -17,6 +19,7 @@ AddonTable.transmog = {
     82198, -- Trellised Robe
     82199, -- Trellised Sandals
     82204, -- Thresher Britches
+    82209, -- Thresher Waistband
     82212, -- Inlaid Broadaxe
     82226, -- Bejeweled Cloak
     82227, -- Bejeweled Crystal
@@ -50,16 +53,22 @@ AddonTable.transmog = {
     82263, -- Vine Shoulders
     82264, -- Vine Waistband
     82265, -- Engraved Axe
+    82266, -- Engraved Bow
+    82267, -- Engraved Broadaxe
+    82268, -- Engraved Crossbow
     82269, -- Engraved Dagger
     82270, -- Engraved Greatsword
     82271, -- Engraved Gun
     82272, -- Engraved Hammer
     82274, -- Engraved Knuckles
+    82275, -- Engraved Mace
     82276, -- Engraved Spear
     82277, -- Engraved Staff
     82278, -- Engraved Staff
+    82279, -- Engraved Sword
     82281, -- Immaculate Cloak
     82282, -- Immaculate Crystal
+    82284, -- Immaculate Scepter
     82285, -- Immaculate Spellblade
     82286, -- Immaculate Wand
     82287, -- Temple Breastplate

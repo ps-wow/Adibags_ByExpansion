@@ -11,4 +11,5 @@ AddonTable.engineering = {
     -- Crafts
     153490, -- F.R.I.E.D
     153494, -- Thermo-Accelerated Plague Spreader
+    153597, -- Deployable Attire Rearranger
 }

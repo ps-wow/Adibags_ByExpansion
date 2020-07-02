@@ -28,6 +28,7 @@ AddonTable.junk = {
     62085, -- Pockmarked Cloth Boots
     62086, -- Dirt-Caked Gloves
     62087, -- Dirt-Caked Bracers
+    62088, -- Dirt-Caked Boots
     62089, -- Dirt-Caked Belt
     62090, -- Perforated Plate Belt
     62091, -- Pockmarked Cloth Vest

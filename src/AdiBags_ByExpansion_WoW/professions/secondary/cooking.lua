@@ -40,5 +40,6 @@ AddonTable.cooking = {
     -- Recipe's
     2701,  -- Recipe: Seasoned Wolf Kabob
     2889,  -- Recipe: Beer Basted Boar Ribs
+    3678,  -- Recipe: Crocolisk Steak
     3683,  -- Recipe: Gooey Spider Cake
 }
