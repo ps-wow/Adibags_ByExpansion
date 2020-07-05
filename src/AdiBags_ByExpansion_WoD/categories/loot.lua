@@ -126,6 +126,7 @@ AddonTable.loot = {
     118204, -- Oskiira's Mercy
     118205, -- Blightglow Pauldrons
     118206, -- Mutafen's Mighty Maul
+    118211, -- Rolkor's Rage
     118212, -- Char's Smoldering Fist
     118213, -- Slimy Sea Serpent Skin Sabatons
     118223, -- Sunclaw

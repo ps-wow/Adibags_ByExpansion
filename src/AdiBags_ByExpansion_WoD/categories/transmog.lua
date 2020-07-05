@@ -7,6 +7,7 @@ AddonTable.transmog = {
     106408, -- Lunarglow Cowl
     106410, -- Lunarglow Leggings
     106426, -- Rimeplate Helm
+    106431, -- Rimeplate Vambraces
     106457, -- Rockspine Gauntlets
     106468, -- Tailthrasher Gloves
     106483, -- Tangleheart Gauntlets
@@ -18,6 +19,7 @@ AddonTable.transmog = {
     106669, -- Breezestrider Shoulders
     106671, -- Windswept Cord
     106679, -- Snarlthorn Belt
+    106689, -- Ironfist Girdle
     106691, -- Ironfist Legplates
     106694, -- Ironfist Shield
     106696, -- Sabermaw Bindings

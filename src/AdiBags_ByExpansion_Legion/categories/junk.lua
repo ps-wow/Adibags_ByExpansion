@@ -11,6 +11,7 @@ AddonTable.junk = {
     121348, -- Sunbleached Wristwraps
     121350, -- Rust-Encrusted Leggings
     121352, -- Weatherworn Pants
+    121357, -- Rust-Encrusted Gloves
     121358, -- Sunbleached Handwraps
     121360, -- Warped-Plate Gauntlets
     121363, -- Warped-Plate Helmet
@@ -110,6 +111,7 @@ AddonTable.junk = {
     141933, -- Citrine Telemancy Index
     141934, -- Partially Enchanted Nightborne Coin
     141935, -- Enchrgled Mlrgmlrg of Enderglment
+    141941, -- Crystallized Sablehorn Antler
     141944, -- Empowered Half-Shell
 
     142001, -- Antler of Cenarius
