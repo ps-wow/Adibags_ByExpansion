@@ -22,7 +22,11 @@ AddonTable.jewelcrafting = {
 	71809,
 	71810,
 	77951,
-	77952,       
+	77952,
+
+	-- Cut Gems
+	52086, -- Solid Zephyrite
+	
     -- Recipe's
     52303,
     52368, -- Design: Purified Nightstone

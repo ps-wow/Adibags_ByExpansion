@@ -12,7 +12,9 @@ AddonTable.garrison = {
     113681, -- Iron Horde Scraps
 
     -- Trading Post
-    118197,
+    118197, -- auction-memory-socket
+    118331, -- auction-connecting-valve
+    118332, -- auction-a-d-d-o-n-s-installer
     118337,
     118338,
     118339,
@@ -24,6 +26,10 @@ AddonTable.garrison = {
     118345,
     118346,
     118347,
+    118376, -- Auction Control Module
+    118377, -- Arcane Crystal Module
+    118378, -- Super Cooling Module
+    118379, -- Cyclical Power Module
 
     -- Follower upgrades
     114128,

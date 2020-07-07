@@ -26,5 +26,10 @@ AddonTable.jewelcrafting = {
     168190, -- Lava Lazuli [Epic]
     168191, -- Sea Currant [Epic]
     168192, -- Sand Spinel [Epic]
-    168635, -- Leviathan's Eye [Epic]    
+    168635, -- Leviathan's Eye [Epic]
+
+    -- Cut Gems
+    168636, -- Leviathon's Eye of Strength
+    168637, -- Leviathon's Eye of Agility
+    168638, -- Leviathon's Eye of Intellect
 }
