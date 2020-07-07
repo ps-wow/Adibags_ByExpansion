@@ -29,9 +29,6 @@ AddonTable.ubrs = {
     110003, -- ragewings-firefang
     118737, -- blackhand-doomcutter
     141643, -- technique-codex-of-the-clear-mind
-    118332, -- auction-a-d-d-o-n-s-installer
-    118331, -- auction-connecting-valve
-    118197, -- auction-memory-socket
     -- Warlord Zaela
     118739, -- Draconian Doomshield
     110013, -- Emberscale Talisman
