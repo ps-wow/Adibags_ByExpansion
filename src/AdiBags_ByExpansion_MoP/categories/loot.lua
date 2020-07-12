@@ -3,6 +3,7 @@ local AddonName, AddonTable = ...
 -- MoP Loot
 AddonTable.loot = {
     82225, -- Bejeweled Amulet
+    82228, -- Bejeweled Ring
     82280, -- Immaculate Amulet
     82283, -- Immaculate Ring
 
