@@ -128,6 +128,7 @@ AddonTable.transmog = {
     10379, -- Commander's Helm
     10384, -- Hyperion Armor
     10385, -- Hyperion Greaves
+    10386, -- Hyperion Gauntlets
     10389, -- Hyperion Legplates
     10390, -- Hyperion Pauldrons
 
@@ -181,6 +182,7 @@ AddonTable.transmog = {
     15241, -- Battle Knife
     15245, -- Vorpal Dagger
     15246, -- Demon Blade
+    15247, -- Bloodstrike Dagger
     15248, -- Gleaming Claymore
     15252, -- Tuskar Sword
     15254, -- Dark Espadon
