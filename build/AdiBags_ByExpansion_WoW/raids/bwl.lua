@@ -1,5 +1,7 @@
 local AddonName, AddonTable = ...
 AddonTable.bwl = {
+    19434,
+    19436,
     -- Shared Boss Loot
     16899,
     16907,
@@ -12,6 +14,7 @@ AddonTable.bwl = {
     16964,
     19353,
     19355,
+    19390,
     19394,
     19395,
     19396,
@@ -109,6 +112,7 @@ AddonTable.bwl = {
     19385,
     19387,
     -- Nefarian
+    13085,
     16897,
     16900,
     16905,

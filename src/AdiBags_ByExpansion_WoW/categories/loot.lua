@@ -38,6 +38,9 @@ AddonTable.loot = {
     14168, -- Buccaneer's Gloves
     14951, -- Bloodforged Sabatons
 
+    19358, -- Draconic Maul
+    19439, -- Interlaced Shadow Jerkin
+
     21418, -- Shroud of Unspoken Names
 
     51967, -- Enumerated Sandals
