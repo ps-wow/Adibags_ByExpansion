@@ -8,6 +8,8 @@ AddonTable.shatteredhalls = {
     27517, -- Bands of Nethekurse
     27521, -- Telaari Hunting Girdle
     27529, -- Figuine of the Colossus
+    30547, -- Reckless Fire Opal
+    123983, -- Cloak of Malice (Timewalking)
     -- Warbringer O'mrogg
     27524, -- Firemaul of Destruction
     27868, -- Runesong Dagger
@@ -16,7 +18,7 @@ AddonTable.shatteredhalls = {
     27522, -- World's End Bracers
     29254, -- Boots of the Righteous Path
     37525, -- Jeweled Booots of Sanctification
-    -- Warchief Kargath Bladefish
+    -- Warchief Kargath Bladefist
     27533, -- Demonblood Eviscerator
     27538, -- Lightsworn Hammer
     29348, -- The Bladefist
@@ -28,4 +30,7 @@ AddonTable.shatteredhalls = {
     27537, -- Gloves of Oblivion
     27531, -- Wastewalker Gloves
     27527, -- Greaves of the Shatterer
+    123999, -- Lightsworn Hammer (Timewalking)
+    --- Quest Rewards
+    25805, -- Mantle of Vivification
 }

@@ -166,4 +166,6 @@ AddonTable.loot = {
     1126649,
     112670,
     112671,
+    -- Midsummer Fire Festival
+    117374,
 }
