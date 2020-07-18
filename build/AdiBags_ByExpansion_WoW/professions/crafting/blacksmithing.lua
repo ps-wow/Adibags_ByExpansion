@@ -10,4 +10,6 @@ AddonTable.blacksmithing = {
     3874,
     12713,
     12839,
+    22220,
+    22222,
 }

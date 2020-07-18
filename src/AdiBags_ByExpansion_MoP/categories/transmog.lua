@@ -15,14 +15,22 @@ AddonTable.transmog = {
     82089, -- Growing Sandals
     82148, -- Swamp Boots
     82184, -- Snowy Shield
+    82196, -- Trellised Handwraps
     82197, -- Trellised Leggings
     82198, -- Trellised Robe
     82199, -- Trellised Sandals
+    82200, -- Trellised Shoulderpads
     82204, -- Thresher Britches
     82209, -- Thresher Waistband
     82212, -- Inlaid Broadaxe
+    82220, -- Inlaid Mace
+    82221, -- Inlaid Spear
+    82222, -- Inlaid Staff
+    82223, -- Inlaid Staff
+    82224, -- Inlaid Sword
     82226, -- Bejeweled Cloak
     82227, -- Bejeweled Crystal
+    82229, -- Bejeweled Scepter
     82230, -- Bejeweled Spellblade
     82231, -- Bejeweled Wand
     82236, -- Highpeak Legplates

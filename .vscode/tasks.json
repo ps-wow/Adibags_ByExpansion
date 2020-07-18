@@ -1,0 +1,33 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build",
+            "type": "shell",
+            "command": "php ./scripts/build.php",
+            "windows": {
+                "command": "php .\\scripts\\build.php"
+            },
+            "options": {
+                "statusbar": {
+                    "label": "Build"
+                }
+            }
+        },
+        {
+            "label": "duplicates",
+            "type": "shell",
+            "command": "php ./scripts/duplicates.php",
+            "windows": {
+                "command": "php .\\scripts\\duplicates.php"
+            },
+            "options": {
+                "statusbar": {
+                    "label": "Duplicates"
+                }
+            }
+        }
+    ]
+}

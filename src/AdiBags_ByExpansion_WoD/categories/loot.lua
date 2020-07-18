@@ -126,6 +126,7 @@ AddonTable.loot = {
     118204, -- Oskiira's Mercy
     118205, -- Blightglow Pauldrons
     118206, -- Mutafen's Mighty Maul
+    118211, -- Rolkor's Rage
     118212, -- Char's Smoldering Fist
     118213, -- Slimy Sea Serpent Skin Sabatons
     118223, -- Sunclaw
@@ -159,6 +160,7 @@ AddonTable.loot = {
     120337, -- Novice Rylak Hunter's Horn
 
     124558, -- Baleful Ring
+    124572, -- Bladefang Boots (Baleful Leather Boots)
     124591, -- Felcast Cord (Baleful Cloth Girdle)
     124603, -- Sharemire Seal (Baleful Ring)
     124612, -- Discordant Amulet (Baleful Choker)
@@ -184,4 +186,7 @@ AddonTable.loot = {
     1126649, -- Quarriers Shoulderplates
     112670, -- Quarriers Mantle
     112671, -- Quarriers Pauldrons
+
+    -- Midsummer Fire Festival
+    117374, -- Icebound Cloak
 }

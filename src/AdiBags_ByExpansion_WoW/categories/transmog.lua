@@ -49,8 +49,11 @@ AddonTable.transmog = {
     7435,  -- Twilight Mantle
     7456,  -- Knight's Headguard
     7481,  -- Ranger Boots
+    7524,  -- Gossamer Cape
+    7610,  -- Aurora Sphere
 
     8111,  -- Hibernal Mantle
+    8115,  -- Hibernal Cowl
     8199,  -- Battlefield Destroyer
     8249,  -- Imperial Red Gloves
     8250,  -- Imperial Red Mantle
@@ -78,6 +81,7 @@ AddonTable.transmog = {
     9897,  -- Jazeraint Chestguard
     9953,  -- Chieftain's Headdress
     9964,  -- Warmonger's Leggings
+    9970,  -- Embossed Plate Leggings
 
     10069, -- Righteous Bracers
     10083, -- Lord's Crown
@@ -88,10 +92,13 @@ AddonTable.transmog = {
     10137, -- High Councillor's Boots
     10140, -- High Councillor's Gloves
     10142, -- High Councillor's Mantle
+    10145, -- Mighty Girdle
+    10149, -- Mighty Gauntlets
     10153, -- Mighty Spaulders
     10156, -- Mercurial Bracers
     10158, -- Mercurial Guard
     10161, -- Mercurial Gauntlets
+    10179, -- Mystical Boots
     10185, -- Swashbuckler's Cape
     10203, -- Overlord's Chestplate
     10210, -- Elegant Mantle
@@ -104,6 +111,7 @@ AddonTable.transmog = {
     10249, -- Master's Cloak
     10250, -- Master's Hat
     10252, -- Master's Leggings
+    10254, -- Master's Robe
     10255, -- Master's Belt
     10257, -- Adventurer's Boots
     10259, -- Adventurer's Belt
@@ -113,11 +121,14 @@ AddonTable.transmog = {
     10264, -- Adventurer's Tunic
     10267, -- Masterwork Cape
     10269, -- Masterwork Girdle
+    10270, -- Masterwork Boots
     10275, -- Emerald Breastplate
     10367, -- Hyperion Shield
     10372, -- Imbued Plate Helmet
     10379, -- Commander's Helm
     10384, -- Hyperion Armor
+    10385, -- Hyperion Greaves
+    10386, -- Hyperion Gauntlets
     10389, -- Hyperion Legplates
     10390, -- Hyperion Pauldrons
 
@@ -130,8 +141,9 @@ AddonTable.transmog = {
 
     13107, -- Magiskull Cuffs
     13111, -- Sandals of the Insurgent
-    13113, -- Feathermoon Headdress (Nefarian)
-    13123, -- Dreamwalker Armor (Nefarian)
+    13113, -- Feathermoon Headdress
+    13118, -- Serpentine Sash
+    13123, -- Dreamwalker Armor
     13130, -- Windrunner Legguards
     13144, -- Serenity Belt
     13146, -- Shell Launcher Shotgun
@@ -163,15 +175,22 @@ AddonTable.transmog = {
     15150, -- Ghostwalker Pads
     15192, -- Grand Gauntlets
     15195, -- Grand Breastplate
+    15219, -- Dimensional Blade
     15221, -- Holy War Sword
     15227, -- Diamond-Tip Bludgeon
     15239, -- Felstone Reaver
     15241, -- Battle Knife
     15245, -- Vorpal Dagger
     15246, -- Demon Blade
+    15247, -- Bloodstrike Dagger
     15248, -- Gleaming Claymore
+    15252, -- Tuskar Sword
+    15254, -- Dark Espadon
+    15258, -- Divine Warblade
     15267, -- Brutehammer
     15272, -- Razor Axe
+    15273, -- Death Striker
+    15278, -- Solstice Staff
     15287, -- Crusader Bow
     15288, -- Blasthorn Bow
     15296, -- Hawkeye Bow
@@ -186,6 +205,7 @@ AddonTable.transmog = {
     15492, -- Bloodspattered Sash
     15660, -- Impenetrable Breastplate
     15677, -- Magnificent Shoudlers
+    15940, -- Elegant Scepter
     15979, -- Flamecloth Stave
 
     18337, -- Orphic Bracers
@@ -203,6 +223,7 @@ AddonTable.transmog = {
 
     -- Molten Core BoE's
     13060, -- The Needler
+    16799, -- Arcanist Bindings
     16802, -- Arcanist Belt
     16804, -- Felheart Bracers
     16806, -- Felheart Belt

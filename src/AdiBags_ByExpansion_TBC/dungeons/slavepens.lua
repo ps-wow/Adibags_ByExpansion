@@ -12,6 +12,8 @@ AddonTable.slavepens = {
     24360, -- Tracker's Belt
     27545, -- Mennu's Scaled Leggings
     24359, -- Princely Reign Leggings
+    30605, -- Nimble Chrysoprase
+    127191, -- Starlight Dagger (Timewalking)
     -- Rokmar the Crackler
     24378, -- Coilfang Hammer of Renewal
     24380, -- Calming Spore Reed
@@ -24,6 +26,7 @@ AddonTable.slavepens = {
     28124, -- Liar's Cord
     27549, -- Wavefury Boots
     24376, -- Runed Fungalcap
+    127185, -- Coilfang Hammer of Renewal (Timewalking)
     -- Quagmirran
     27741, -- Bleeding Hollow Warhammer
     27673, -- Phosphorescent Blade
@@ -48,4 +51,5 @@ AddonTable.slavepens = {
     27683, -- Quagmirran's Eye
     -- Quest Rewards
     25541, -- Cenarion Ring of Casting
+    25540, -- Dark Cloak of the Marsh
 }

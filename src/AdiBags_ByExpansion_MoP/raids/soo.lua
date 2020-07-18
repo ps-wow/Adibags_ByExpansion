@@ -10,6 +10,8 @@ AddonTable.soo = {
     113223, -- Turtleshell Greatcloak
     113225, -- Kalaena's Arcane Handwraps
     113226, -- Cape of the Alpha
+    113227, -- Marco's Crackling Gloves
+    113228, -- Gauntlets of Discarded Time
     113230, -- Drape of the Omega
     -- Immerseus
     110761, -- Immerseus' Crystalline Eye
@@ -371,4 +373,6 @@ AddonTable.soo = {
     -- Set Pieces
     --- Rogue
     99356, -- Tunic of the Barbed Assassin
+    --- Druid
+    99422, -- Breeches of the Shattered Vale
 }

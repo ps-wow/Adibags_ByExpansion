@@ -7,6 +7,8 @@ AddonTable.shatteredhalls = {
     27517,
     27521,
     27529,
+    30547,
+    123983,
     -- Warbringer O'mrogg
     27524,
     27868,
@@ -15,7 +17,8 @@ AddonTable.shatteredhalls = {
     27522,
     29254,
     37525,
-    -- Warchief Kargath Bladefish
+    123986,
+    -- Warchief Kargath Bladefist
     27533,
     27538,
     29348,
@@ -27,4 +30,7 @@ AddonTable.shatteredhalls = {
     27537,
     27531,
     27527,
+    123999,
+    --- Quest Rewards
+    25805,
 }

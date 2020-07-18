@@ -1,6 +1,8 @@
 local AddonName, AddonTable = ...
 
 AddonTable.bwl = {
+    19434, -- Band of Dark Dominion
+    19436, -- Cloak of Draconic Might
     -- Shared Boss Loot
     16899, -- Stormrage Handguards
     16907, -- Bloodfang Gloves
@@ -13,6 +15,7 @@ AddonTable.bwl = {
     16964, -- Gauntlets of Wrath
     19353, -- Drake Talon Cleaver
     19355, -- Shadow Wing Focus Staff
+    19390, -- Taut Dragonhide Gloves
     19394, -- Drake Talon Pauldrons
     19395, -- Rejuvenating Gem
     19396, -- Taut Dragonhide Belt
@@ -110,6 +113,7 @@ AddonTable.bwl = {
     19385, -- Empowered Leggings
     19387, -- Chromatic Boots
     -- Nefarian
+    13085, -- Horizon Choker
     16897, -- Stormrage Chestguard
     16900, -- Stormrage Cover
     16905, -- Bloodfang Chestpiece

@@ -78,6 +78,7 @@ AddonTable.transmog = {
     159496, -- Gol Osigr Crossbow
     159497, -- Deepwarden Flintlock
     159501, -- Coralshell Glaives
+    159504, -- Shipwrecker Crescents
     159505, -- Zocali Warglaive
     159506, -- Loa-Blessed Crescent
     159507, -- Zem'lan Warglaive
@@ -159,6 +160,7 @@ AddonTable.transmog = {
     160121, -- Direbone Frill Greatbelt
     160122, -- Direbone Frill Helmet
     160123, -- Direbone Frill Legplates
+    160129, -- Brutohide Boots
     160130, -- Brutohide Leggings
     160132, -- Brutohide Faceguard
     160133, -- Brutohide Vest

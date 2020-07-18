@@ -9,6 +9,8 @@ AddonTable.soo = {
     113223,
     113225,
     113226,
+    113227,
+    113228,
     113230,
     -- Immerseus
     110761,
@@ -370,4 +372,6 @@ AddonTable.soo = {
     -- Set Pieces
     --- Rogue
     99356,
+    --- Druid
+    99422,
 }

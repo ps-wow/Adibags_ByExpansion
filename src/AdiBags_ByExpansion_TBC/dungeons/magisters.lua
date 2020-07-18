@@ -23,6 +23,7 @@ AddonTable.magisters = {
     34707, -- Boots of Resuscitation
     34704, -- Band of Arcane Alacrity
     34706, -- Band of Determination
+    133430, -- Kharmaa's Ring of Fate (Timewalking)
     -- Priestess Delrissa
     34790, -- Battle-Mace of the High Priestess
     34788, -- Duskhallow Mantle

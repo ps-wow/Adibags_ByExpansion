@@ -61,6 +61,7 @@ AddonTable.transmog = {
     121241, -- Ambervale Hood
     121242, -- Ambervale Jerkin
     121243, -- Ambervale Shoulders
+    121244, -- Ambervale Waistband
     121264, -- Warpwind Helm
     121265, -- Warpwind Legguards
 

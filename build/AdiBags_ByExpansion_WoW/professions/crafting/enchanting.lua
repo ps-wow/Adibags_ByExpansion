@@ -1,4 +1,5 @@
 local AddonName, AddonTable = ...
+-- WoW Enchanting
 AddonTable.enchanting = {
     -- Misc
     138787,
