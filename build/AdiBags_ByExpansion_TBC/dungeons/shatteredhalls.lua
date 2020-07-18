@@ -17,6 +17,7 @@ AddonTable.shatteredhalls = {
     27522,
     29254,
     37525,
+    123986,
     -- Warchief Kargath Bladefist
     27533,
     27538,
