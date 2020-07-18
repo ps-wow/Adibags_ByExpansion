@@ -5,11 +5,6 @@ AddonTable.aq40 = {
     21837, -- Anubisath Warhammer
     21856, -- Neretzek, The Blood Drinker
     21888, -- Gloves of the Immortal
-    -- Shared Boss Loot
-    20928, -- Qiraji Bindings of Command
-    20932, -- Qiraji Bindings of Dominance
-    21232, -- Imperial Qiraji Armaments
-    21237, -- Imperial Qiraji Regalia
     -- The Prophet Skeram
     21128, -- Staff of the Qiraji Prophets
     21698, -- Leggings of Immersion
@@ -85,8 +80,6 @@ AddonTable.aq40 = {
     21620, -- Ring of the Martyr
     21621, -- Cloak of the Golden Hive
     -- The Twin Emperors
-    20926, -- Vek'nilash's Circlet
-    20930, -- Vek'lor's Diadem
     21597, -- Royal Scepter of Vek'lor
     21598, -- Royal Qiraji Belt
     21599, -- Vek'lor's Gloves of Devastation
@@ -102,7 +95,6 @@ AddonTable.aq40 = {
     21679, -- Kalimdor's Revenge
     -- Ouro
     20927, -- Ouro's Intact Hide
-    20931, -- Skin of the Great Sandworm
     21610, -- Wormscale Blocker
     21611, -- Burrower Bracers
     21615, -- Don Rigoberto's Lost Hat
@@ -110,8 +102,6 @@ AddonTable.aq40 = {
     23558, -- The Burrower's Shell
     23570, -- Jom Gabbar
     -- C'thun
-    20929, -- Carapace of the Old God
-    20933, -- Husk of the Old God
     21126, -- Death's Sting
     21134, -- Dark Edge of Insanity
     21579, -- Vanquished Tentacle of C'Thun
