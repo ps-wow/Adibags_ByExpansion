@@ -80,7 +80,6 @@ AddonTable.aq40 = {
     21620, -- Ring of the Martyr
     21621, -- Cloak of the Golden Hive
     -- The Twin Emperors
-    20926, -- Vek'nilash's Circlet
     21597, -- Royal Scepter of Vek'lor
     21598, -- Royal Qiraji Belt
     21599, -- Vek'lor's Gloves of Devastation
@@ -103,8 +102,6 @@ AddonTable.aq40 = {
     23558, -- The Burrower's Shell
     23570, -- Jom Gabbar
     -- C'thun
-    20929, -- Carapace of the Old God
-    20933, -- Husk of the Old God
     21126, -- Death's Sting
     21134, -- Dark Edge of Insanity
     21579, -- Vanquished Tentacle of C'Thun

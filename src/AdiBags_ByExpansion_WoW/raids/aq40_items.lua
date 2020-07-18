@@ -28,4 +28,7 @@ AddonTable.aq40_items = {
     21237, -- Imperial Qiraji Regalia
     20931, -- Skin of the Great Sandworm
     20930, -- Vek'lor's Diadem
+    20926, -- Vek'nilash's Circlet
+    20929, -- Carapace of the Old God
+    20933, -- Husk of the Old God
 }
