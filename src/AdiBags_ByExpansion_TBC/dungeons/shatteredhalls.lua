@@ -18,6 +18,7 @@ AddonTable.shatteredhalls = {
     27522, -- World's End Bracers
     29254, -- Boots of the Righteous Path
     37525, -- Jeweled Booots of Sanctification
+    123986, -- World's End Bracers (Timewalking)
     -- Warchief Kargath Bladefist
     27533, -- Demonblood Eviscerator
     27538, -- Lightsworn Hammer
