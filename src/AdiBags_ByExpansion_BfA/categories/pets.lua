@@ -2,6 +2,9 @@ local AddonName, AddonTable = ...
 
 -- BfA Battle Pets
 AddonTable.pets = {
+    -- From Alchemy
+    160325, -- Quivering Sac
+    
     --- DUNGEONS
     -- Temple of Sethrallis
     160702, -- Spawn of Merektha (Source: 160831 Cracking Cobra Egg)

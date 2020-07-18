@@ -30,17 +30,4 @@ AddonTable.garrison = {
     118377, -- Arcane Crystal Module
     118378, -- Super Cooling Module
     118379, -- Cyclical Power Module
-
-    -- Follower upgrades
-    114128,
-    114129,
-    114131,
-    114475,
-    114745,
-    114616,
-    114806,
-    114807,
-    114808,
-    114822,
-    120302,
 }
