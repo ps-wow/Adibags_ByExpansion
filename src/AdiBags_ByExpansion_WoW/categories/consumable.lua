@@ -124,5 +124,6 @@ AddonTable.alcohol = {
     2595,  -- Jug of Badlands Bourbon
     2723,  -- Bottle of Dalaran Noir
     4600,  -- Cherry Grog
+    8948,  -- Dried King Bolete
     57543, -- Stormhammer Stout
 }

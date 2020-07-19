@@ -36,6 +36,7 @@ AddonTable.loot = {
     50447, -- Harbinger's Bone Band
 
     51977, -- Earthbound Girdle [Satchel of Helpful Goods (52003)]
+    51979, -- Earthbound Grips
     51983, -- Stalwart Shoulderguards
 
     112346, -- Ice-Encrusted Plate Headguard

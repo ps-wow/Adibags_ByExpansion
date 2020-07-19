@@ -17,6 +17,7 @@ AddonTable.consumable = {
 AddonTable.foodDrink = {
     81403, -- Dried Peaches
     81405, -- Boiled Silkworm Pupa
+    81406, -- Roasted Barley Tea
     81408, -- Red Bean Bun
     81409, -- Tangy Yogurt
     81410, -- Green Curry Fish

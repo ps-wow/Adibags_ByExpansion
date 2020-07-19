@@ -4,6 +4,8 @@ AddonTable.consumable = {
     33447,
     33448,
     -- Scrolls
+    33461,
+    33462,
     37093,
     37094,
     37097,
@@ -12,6 +14,7 @@ AddonTable.consumable = {
 }
 AddonTable.foodDrink = {
     33445,
+    33451,
     33452,
     35947,
     35953,
