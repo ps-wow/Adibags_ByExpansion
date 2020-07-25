@@ -9,6 +9,7 @@ AddonTable.jewelcrafting = {
     153715, -- Straddling Viridium
     153712, -- Versatile Kyanite
     -- Gems
+    153700, -- Golden Beryl
     153701, -- Rubellite [Uncommon]
     153702, -- Kubiline [Uncommon]
     153703, -- Solstone [Uncommon]
