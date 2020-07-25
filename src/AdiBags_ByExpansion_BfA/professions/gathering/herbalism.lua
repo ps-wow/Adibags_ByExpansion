@@ -1,5 +1,6 @@
 local AddonName, AddonTable = ...
 
+-- BfA Herbalism
 AddonTable.herbalism = {
     152505, -- Riverbud
     152506, -- Star Moss

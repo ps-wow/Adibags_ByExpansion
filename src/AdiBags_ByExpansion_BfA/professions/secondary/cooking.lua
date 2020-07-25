@@ -1,5 +1,6 @@
 local AddonName, AddonTable = ...
 
+-- BfA Cooking
 AddonTable.cooking = {
     -- Meat
     152631, -- Briny Flesh
