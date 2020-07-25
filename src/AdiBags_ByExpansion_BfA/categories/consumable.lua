@@ -45,7 +45,7 @@ AddonTable.foodDrink = {
     154881, -- Kul Tiramisu
     154887 ,-- Loa Loaf
     154885, -- Mon'Dazi
-    154885, -- Ravenberry Tarts
+    154883, -- Ravenberry Tarts
     166343, -- Wild Berry Bread
     154884, -- Swamp Fish 'n Chips
     154882, -- Honey-Glazed Haunches
