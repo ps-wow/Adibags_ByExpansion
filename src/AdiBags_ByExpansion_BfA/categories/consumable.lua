@@ -59,7 +59,6 @@ AddonTable.foodDrink = {
     163781, -- Heartsbane Hexwurst
     165755, -- Honey Potpie
 
-
     -- Nzoth/Visions
     174352, -- Baked Voidfin
     174350, -- Dubious Delight
