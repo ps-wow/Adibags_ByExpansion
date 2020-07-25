@@ -1,5 +1,6 @@
 local AddonName, AddonTable = ...
 
+-- BfA Fishing
 AddonTable.fishing = {
     152543, -- Sand Shifter
     152544, -- Slimy Mackerel

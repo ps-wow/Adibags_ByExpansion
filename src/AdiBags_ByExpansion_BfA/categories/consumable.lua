@@ -1,5 +1,6 @@
 local AddonName, AddonTable = ...
 
+-- BfA Consumables
 AddonTable.consumable = {
     -- Flasks
     152638, -- Flask of the Currents [8.0]
