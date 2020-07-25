@@ -34,6 +34,26 @@ AddonTable.consumable = {
 AddonTable.foodDrink = {
     -- Food
     161053,
+    154881,
+    154887 ,-- Loa Loaf
+    154885,
+    154883,
+    166343,
+    154884,
+    154882,
+    154888,
+    154886,
+    166344,
+    166804,
+    154889,
+    163781,
+    165755,
+    -- Nzoth/Visions
+    174352,
+    174350,
+    174349,
+    174348,
+    174351,
     -- Drink
 }
 AddonTable.alcohol = {

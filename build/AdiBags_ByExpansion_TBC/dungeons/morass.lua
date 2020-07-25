@@ -32,4 +32,10 @@ AddonTable.morass = {
     27839,
     28190,
     127448,
+    -- Quest Rewards
+    --- The Opening of the Dark Portal
+    29320,
+    29321,
+    29322,
+    29323,
 }
