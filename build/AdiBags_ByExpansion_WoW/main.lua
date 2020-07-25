@@ -16,6 +16,7 @@ local module = {
     ["raids"] = {
         ["aq20"] = "Ruins of Ahn'Qiraj",
         ["aq40"] = "Temple of Ahn'Qiraj",
+        ["aq40_items"] = "Temple of Ahn'Qiraj Items",
         ["mc"] = "Molten Core",
         ["bwl"] = "Blackwing Lair"
     },

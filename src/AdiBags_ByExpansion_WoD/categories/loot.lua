@@ -186,4 +186,7 @@ AddonTable.loot = {
     1126649, -- Quarriers Shoulderplates
     112670, -- Quarriers Mantle
     112671, -- Quarriers Pauldrons
+
+    -- Midsummer Fire Festival
+    117374, -- Icebound Cloak
 }

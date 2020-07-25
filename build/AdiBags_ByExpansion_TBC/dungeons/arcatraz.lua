@@ -23,6 +23,7 @@ AddonTable.arcatraz = {
     28391,
     28398,
     28394,
+    30582,
     -- Harbinger Skyriss
     29360,
     28412,
@@ -35,4 +36,7 @@ AddonTable.arcatraz = {
     28406,
     28407,
     28418,
+    127150,
+    --- Quest Rewards
+    31747,
 }

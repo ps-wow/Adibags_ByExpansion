@@ -1,8 +1,10 @@
 local AddonName, AddonTable = ...
 
+-- TBC Transmog
 AddonTable.transmog = {
     24590, -- Fireheart Boots
     24602, -- Starfire Trousers
+    24607, -- Laughing Skull Tunic
     24619, -- Vindicator Shoulderpads
     24625, -- Slavehandler Cap
     24671, -- Eldr'naan Jerkin
@@ -27,9 +29,12 @@ AddonTable.transmog = {
     24801, -- Dragonhawk Gloves
     24803, -- Dragonhawk Pants
     24809, -- Unyielding Fists
+    24828, -- Netherstalker Mantle
     24841, -- Wrathfin Gloves
     24853, -- Fenclaw Bindings
     24863, -- Blood Knight Boots
+    24877, -- Ironspine Bracelets
+    24880, -- Derizu Chestpiece
     24890, -- Skettis Helmet
     24900, -- Sundered Spaulders
     24902, -- Talhide Stitched-Belt
@@ -59,5 +64,11 @@ AddonTable.transmog = {
     25225, -- Deepforge Broadaxe [2H Axe]
     25243, -- Windtalker Bow
     25286, -- Yew Wand
+    25293, -- Draenethyst Wand
     25322, -- Lordly Scepter
+
+    29919, -- Adamantine Kite Shield
+    29943, -- Legionnaire's Studded Helm
+
+    31297, -- Robe of the Crimson Order
 }

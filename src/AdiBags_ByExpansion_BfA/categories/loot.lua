@@ -98,6 +98,7 @@ AddonTable.loot = {
     157895, -- Bone-Fetished Stompers
     157896, -- Bone-Fetished Crushers
     157897, -- Bone-Fetished Faceguard
+    157898, -- Fen Spirit Wraps
     157899, -- Bone-Fetished Wargreaves
     157900, -- Bone-Fetished Shoulderplates
     157902, -- Bone-Fetished Armguards

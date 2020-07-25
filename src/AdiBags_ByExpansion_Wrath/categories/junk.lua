@@ -50,6 +50,7 @@ AddonTable.junk = {
     33434, -- Frozen Leather Helmet
     33435, -- Frost-Worn Plate Helmet
     33436, -- Frost-Rimed Cloth Hat
+    33556, -- Pearly Seashell Fragment
     33561, -- Hardened Flipper
     33631, -- Frosted Claw
     33632, -- Icicle Fang

@@ -35,12 +35,14 @@ AddonTable.loot = {
 
     50447, -- Harbinger's Bone Band
 
+    51977, -- Earthbound Girdle [Satchel of Helpful Goods (52003)]
     51983, -- Stalwart Shoulderguards
 
     112346, -- Ice-Encrusted Plate Headguard
     112348, -- Snow-Coated Cloth Cap
     112354, -- Ice-Encrusted Plate Legguards
     112355, -- Snow-Coated Cloth Leggings
+    112357, -- Icefall Mail Leggings
     112361, -- Ice-Encrusted plate belt
     112367, -- Snow-Coated Cloth Belt
     113684, -- Icecrust Cloak

@@ -24,6 +24,7 @@ AddonTable.arcatraz = {
     28391, -- Worldfire Chestguard
     28398, -- The Sleeper's Cord
     28394, -- Ryngo's Band of Ingenuity
+    30582, -- Deadly Fire Opal
     -- Harbinger Skyriss
     29360, -- Vileblade of the Betrayer
     28412, -- Lamp of Peaceful Radiance
@@ -36,4 +37,7 @@ AddonTable.arcatraz = {
     28406, -- Sigil-Laced Boots
     28407, -- Elementium Band of the Sentry
     28418, -- Shiffar's Nexus-Horn
+    127150, -- Tidefury Chestpiece (Timewalking)
+    --- Quest Rewards
+    31747, -- Potent Shatari Pendant
 }

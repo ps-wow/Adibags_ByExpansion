@@ -373,4 +373,6 @@ AddonTable.soo = {
     -- Set Pieces
     --- Rogue
     99356, -- Tunic of the Barbed Assassin
+    --- Druid
+    99422, -- Breeches of the Shattered Vale
 }

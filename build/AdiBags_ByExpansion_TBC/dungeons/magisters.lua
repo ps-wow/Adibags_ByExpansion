@@ -22,6 +22,7 @@ AddonTable.magisters = {
     34707,
     34704,
     34706,
+    133430,
     -- Priestess Delrissa
     34790,
     34788,

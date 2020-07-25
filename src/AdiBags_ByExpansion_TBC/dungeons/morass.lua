@@ -32,4 +32,5 @@ AddonTable.morass = {
     30531, -- Breeches of the Occultist
     27839, -- Legplates of the Righteous
     28190, -- Scarab of the Infinite Cycle
+    127448, -- Scarab of the Infinite Cycle (Timewalking)
 }

@@ -2,6 +2,7 @@ local AddonName, AddonTable = ...
 -- MoP Loot
 AddonTable.loot = {
     82225,
+    82228,
     82280,
     82283,
     83738,
@@ -76,6 +77,7 @@ AddonTable.loot = {
     113738,
     113744,
     113750,
+    113756,
     113764,
     113765,
     113766,

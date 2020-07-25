@@ -3,6 +3,7 @@ local AddonName, AddonTable = ...
 -- MoP Loot
 AddonTable.loot = {
     82225, -- Bejeweled Amulet
+    82228, -- Bejeweled Ring
     82280, -- Immaculate Amulet
     82283, -- Immaculate Ring
 
@@ -88,6 +89,7 @@ AddonTable.loot = {
     113738, -- Kyparite Chestguard
     113744, -- Kyparite Gauntlets
     113750, -- Kyparite Shoulderguards
+    113756, -- Loop of Inner Clarity
     113764, -- Blossoming Cap
     113765, -- Blossoming Robe
     113766, -- Blossoming Gloves

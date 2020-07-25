@@ -11,6 +11,8 @@ AddonTable.slavepens = {
     24360,
     27545,
     24359,
+    30605,
+    127191,
     -- Rokmar the Crackler
     24378,
     24380,
@@ -23,6 +25,7 @@ AddonTable.slavepens = {
     28124,
     27549,
     24376,
+    127185,
     -- Quagmirran
     27741,
     27673,
@@ -47,4 +50,5 @@ AddonTable.slavepens = {
     27683,
     -- Quest Rewards
     25541,
+    25540,
 }

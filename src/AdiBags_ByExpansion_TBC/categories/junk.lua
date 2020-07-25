@@ -28,6 +28,7 @@ AddonTable.junk = {
     25363, -- Decaying Leather Pants
     25364, -- Decaying Leather Shoulderpads
     25366, -- Eroded Mail Belt
+    24368, -- Coilfang Armaments
     25369, -- Eroded Mail Circlet
     25370, -- Eroded Mail Gloves
     25371, -- Eroded Mail Pants
@@ -68,12 +69,16 @@ AddonTable.junk = {
     25426, -- Brilliant Feather
     25428, -- Savage Talon
     25429, -- Grime-Encrusted Scale
+    25435, -- Hardened Carapace
     25445, -- Wretched Ichor
     25451, -- Swamp Moss
     25456, -- Glowing Spores
     25478, -- Loosely Threaded Bracers
 
     25813, -- Small Mushroom
+
+    28058, -- Shredded Wyrm Wing
+    28059, -- Iridescent Eye
 
     30812, -- Iridescent Scale
     31501, -- Tome of Conjure Food
