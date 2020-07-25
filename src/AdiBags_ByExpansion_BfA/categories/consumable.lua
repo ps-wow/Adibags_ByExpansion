@@ -42,6 +42,11 @@ AddonTable.consumable = {
 AddonTable.foodDrink = {
     -- Food
     161053, -- Salty Dog Crackers
+    154881, -- Kul Tiramisu
+    154887 ,-- Loa Loaf
+    154885, -- Mon'Dazi
+    154885, -- Ravenberry Tarts
+    166343, -- Wild Berry Bread
     -- Drink
 }
 
