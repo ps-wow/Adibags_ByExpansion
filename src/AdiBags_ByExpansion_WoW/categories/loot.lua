@@ -43,6 +43,8 @@ AddonTable.loot = {
 
     21418, -- Shroud of Unspoken Names
 
+    51964, -- Vigorous Belt
+    51966, -- Vigorous Spaulders
     51967, -- Enumerated Sandals
     51968, -- Enumerated Wrap
     51969, -- Enumerated Shoulders
@@ -79,6 +81,8 @@ AddonTable.loot = {
     60219, -- Balanced Spell Staff
     65913, -- Hann Ibal's Epaulets
     65922, -- Warpwood Leaf Mantle
+    65939, -- Murd Doc's Leggings
+    65951, -- Razorfen Spaulders
     65953, -- Dathrohan's Mace
     65975, -- Chestguard of Redemption
     65977, -- Balnazzar's Horn
@@ -87,6 +91,7 @@ AddonTable.loot = {
     65993, -- Warpwood Shield
     65994, -- Staff of Athen'a
     65996, -- Belt of Tyrannic Rule
+    65998, -- Balnazzar's Hide
     66008, -- Shield of Maraudon
 
     89553, -- Aspirant's Staff of Grace (Monk level 20 Staff)
@@ -96,6 +101,8 @@ AddonTable.loot = {
     131436, -- Wendigo Pantaloons
     131564, -- Night Watch Hauberk
     131574, -- Drifter's Cinch
+    131577, -- The Clerk's Chain
+    131582, -- Callous Greaves
     131625, -- Hann Ibal's Chain Dungarees
     131685, -- Boots of Painful Cost
     131890, -- Plundered Rockjaw Chestguard

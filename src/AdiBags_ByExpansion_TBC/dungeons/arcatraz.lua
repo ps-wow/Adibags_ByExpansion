@@ -3,6 +3,7 @@ local AddonName, AddonTable = ...
 AddonTable.arcatraz = {
     -- Multiple Bosses
     28384, -- Outland Striders
+    127154, -- Outland Striders (Timewalking)
     -- Zereketh the Unbound
     28415, -- Hood of Oblivion
     28374, -- Mana-Sphere Shoulderguards

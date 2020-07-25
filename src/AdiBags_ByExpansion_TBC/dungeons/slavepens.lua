@@ -14,6 +14,7 @@ AddonTable.slavepens = {
     24359, -- Princely Reign Leggings
     30605, -- Nimble Chrysoprase
     127191, -- Starlight Dagger (Timewalking)
+    127182, -- Tracker's Belt (Timewalking)
     -- Rokmar the Crackler
     24378, -- Coilfang Hammer of Renewal
     24380, -- Calming Spore Reed

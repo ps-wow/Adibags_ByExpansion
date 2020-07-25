@@ -4,7 +4,8 @@ local AddonName, AddonTable = ...
 
 AddonTable.loot = {
     55314, -- Thondroril Cloak
-    55403, -- Mereldar Amulet [BoE Neck]
+    55401, -- Mirkfallon Amulet
+    55403, -- Mereldar Amulet
     55404, -- Thondroril Amulet
     55405, -- Blackwolf Amulet
     55421, -- Mereldar Ring
@@ -16,6 +17,7 @@ AddonTable.loot = {
     55702, -- Ravenholdt Waistband
     55773, -- Mystical Cord
 
+    57281, -- Scalded Rockscale Shoulderpads
     57283, -- Rockbreaker Robes
     57292, -- Repurposed Twilight Stave
 

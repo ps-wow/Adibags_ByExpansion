@@ -78,6 +78,7 @@ AddonTable.loot = {
 
     101810, -- Amaranthine Wristwraps (Timeless Cloth Bracers)
 
+    113711, -- Sparkmail Legguards
     113785, -- Kyparite Girdle
 
     -- Sets (Warlock)
