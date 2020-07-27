@@ -33,8 +33,10 @@ AddonTable.junk = {
     1817, -- Stock Shortsword
 
     2057, -- Pitted Defias Shortsword
+    2154, -- The Story of Morgan Ladimore
     2212, -- Cracked Buckler
     2295, -- Large Boar Tusk
+    2608, -- Threshadon Ambergris
     2959, -- Journeyman's Boots
 
     3167, -- Thick Spider Hair
@@ -80,6 +82,7 @@ AddonTable.junk = {
     3995, -- Laminated Scale Cloak
 
     4018, -- Whetted Claymore
+    4019, -- Heavy Flint Axe
     4093, -- Large Basilisk Tail
     4361, -- Bent Copper Tube
     4428, -- Spider Palp
@@ -91,6 +94,7 @@ AddonTable.junk = {
     4585, -- Driping Spider Mandible
     4662, -- Journeyman's Cloak
     4663, -- Journeyman's Belt
+    4684, -- Spellbinder Belt
     4698, -- Seer's Mantle
     4784, -- Lifeless Stone
     4787, -- Burning Pitch
@@ -104,6 +108,7 @@ AddonTable.junk = {
     5115, -- Broken Wishbone
     5117, -- Vibrant Plume
     5124, -- Small Raptor Tooth
+    5125, -- Charged Scale
     5128, -- Shed Lizard Skin
     5133, -- Seeping Gizzard
     5263, -- Pocket Lint
@@ -132,6 +137,7 @@ AddonTable.junk = {
 
     9242, -- Ancient Tablet
     9308, -- Grime-Encrusted Object (Gnomeregen Quest Item)
+    9752, -- Gypsy Bands
 
     11191, -- Farmer's Boots
     11385, -- Basilisk Scale
@@ -162,6 +168,7 @@ AddonTable.junk = {
     17058, -- Fish Oil
     17413, -- Codex: Prayer of Fortitude
     18222, -- Thorny Vine
+    18223, -- Serrated Petal
     18285, -- Crystallized Mana Shard
     18286, -- Condensed Mana Fragment
     18512, -- Larval Acid
@@ -260,6 +267,7 @@ AddonTable.junk = {
 
     59038, -- Fallout Cover
 
+    60336, -- Ruined Bear Skull
     60398, -- Roasted Basilisk Skin
 
     62328, -- Shed Fur

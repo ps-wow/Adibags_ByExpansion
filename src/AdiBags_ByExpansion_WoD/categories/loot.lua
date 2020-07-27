@@ -48,6 +48,7 @@ AddonTable.loot = {
     112443, -- Slavebreaker Chestguard
     112663, -- Voidgazer Headguard
     112664, -- Voidgazer Cap
+    112665, -- Voidgazer Chain Hood
     112669, -- Quarrier's Shoulderplates
     112798, -- Mindsworn Band
     112810, -- Windowhanger Wraps (From: 114053)
@@ -70,6 +71,7 @@ AddonTable.loot = {
     113561, -- Staff of the Mad Bramble King
     113563, -- Shadowmoon Sacrificial Dagger
     113571, -- Boots of the Shadowborn
+    113699, -- Sparkmail Headguard
     113726, -- Burning Slagstone Ring
     113762, -- Smoldercloth Robe
     113767, -- Blossoming Mantle

@@ -22,7 +22,10 @@ AddonTable.transmog = {
     3652,  -- Hunting Buckler
     3740,  -- Decapitating Sword
 
+    4083,  -- Blackforge Gauntlets
+    4564,  -- Spiked Club
     4567,  -- Merc Sword
+    4569,  -- Staunch Hammer
     4576,  -- Light Bow
     4577,  -- Compact Shotgun
     4695,  -- Burnished Cloak
@@ -43,12 +46,14 @@ AddonTable.transmog = {
     6584,  -- Scouting Tunic
     6586,  -- Scouting Gloves
     6595,  -- Battleforge Gauntlets
+    6603,  -- Dervish Tunic
     6622,  -- Sword of Zeal
 
     7432,  -- Twilight Cowl
     7435,  -- Twilight Mantle
     7456,  -- Knight's Headguard
     7481,  -- Ranger Boots
+    7494,  -- Captain's Waistguard
     7524,  -- Gossamer Cape
     7610,  -- Aurora Sphere
 
@@ -62,6 +67,7 @@ AddonTable.transmog = {
     8309,  -- Hero's Leggings
     8310,  -- Hero's Pauldrons
 
+    9386,  -- Excavator's Brand
     9770,  -- Greenweave Cloak
     9774,  -- Greenweave Vest
     9778,  -- Bandit Buckler
@@ -77,8 +83,12 @@ AddonTable.transmog = {
     9824,  -- Durable Shoulders
     9835,  -- Scaled Leather Tunic
     9852,  -- Conjurer's Robe
+    9875,  -- Sorcerer Sash
     9877,  -- Sorcerer Cloak
     9897,  -- Jazeraint Chestguard
+    9898,  -- Jazeraint Cloak
+    9902,  -- Jazeraint Helm
+    9947,  -- Chieftain's Belt
     9953,  -- Chieftain's Headdress
     9964,  -- Warmonger's Leggings
     9970,  -- Embossed Plate Leggings
@@ -153,6 +163,7 @@ AddonTable.transmog = {
     14200, -- Thistlefur Cap
     14228, -- Embersilk Coronet
     14306, -- Bonecaster's Vest
+    14309, -- Celestial Belt
     14312, -- Celestial Crown
     14415, -- Stonecloth Britches
     14431, -- Windchaser Handguards
@@ -168,6 +179,7 @@ AddonTable.transmog = {
     14810, -- Warstrike Armsplints
     14862, -- Warleader's Breastplate
     14935, -- Heroic Skullcap
+    14952, -- Bloodforged Helmet
     14966, -- Glorious Breastplate
     14979, -- Exalted Helmet
 

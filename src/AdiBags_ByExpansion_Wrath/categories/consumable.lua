@@ -6,6 +6,8 @@ AddonTable.consumable = {
     33448, -- Runic Mana Potion
 
     -- Scrolls
+    33461, -- Scroll of Stamina VI
+    33462, -- Scroll of Strength VI
     37093, -- Scroll of Stamina VII
     37094, -- Scroll of Stamina VIII
     37097, -- Scroll of Versatility VII
@@ -15,6 +17,7 @@ AddonTable.consumable = {
 
 AddonTable.foodDrink = {
     33445, -- Honeymind Tea (mana)
+    33451, -- Fillet of Icefin
     33452, -- Honey-Spiced Lichen
     35947, -- Sparkling Frostcap (hp)
     35953, -- Mead Basted Caribou (hp)

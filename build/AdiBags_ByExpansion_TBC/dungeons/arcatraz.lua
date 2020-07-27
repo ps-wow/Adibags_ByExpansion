@@ -2,6 +2,7 @@ local AddonName, AddonTable = ...
 AddonTable.arcatraz = {
     -- Multiple Bosses
     28384,
+    127154,
     -- Zereketh the Unbound
     28415,
     28374,

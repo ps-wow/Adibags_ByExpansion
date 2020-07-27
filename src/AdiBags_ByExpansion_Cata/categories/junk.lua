@@ -21,6 +21,7 @@ AddonTable.junk = {
     62077, -- Perforated Plate Gloves
     62078, -- Perforated Plate Chestpiece
     62079, -- Dirt-Caked Shoulderpads
+    62080, -- Perforated Plate Boots
     62081, -- Dirt-Caked Armor
     62082, -- Dirt-Caked Pants
     62083, -- Clammy Mail Boots

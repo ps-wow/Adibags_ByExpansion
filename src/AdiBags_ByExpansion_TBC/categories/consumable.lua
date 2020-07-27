@@ -15,5 +15,6 @@ AddonTable.foodDrink = {
     27859, -- Zangar Caps
     27860, -- Purified Draenic Water
     29449, -- Bladespire Bagel
+    29451, -- Clefthoof Ribs
     29452, -- Zangar Trout
 }

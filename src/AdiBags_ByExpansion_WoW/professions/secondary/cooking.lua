@@ -3,6 +3,7 @@ local AddonName, AddonTable = ...
 -- WoW Cooking
 AddonTable.cooking = {
     -- Food
+    1017,  -- Seasoned Wolf Kabob
     2679,  -- Charred Wolf Meat
     2681,  -- Roasted Boar Meat
     2888,  -- Beer Basted Boar Ribs

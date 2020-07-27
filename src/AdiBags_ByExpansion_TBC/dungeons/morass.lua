@@ -33,4 +33,10 @@ AddonTable.morass = {
     27839, -- Legplates of the Righteous
     28190, -- Scarab of the Infinite Cycle
     127448, -- Scarab of the Infinite Cycle (Timewalking)
+    -- Quest Rewards
+    --- The Opening of the Dark Portal
+    29320, -- Band of the Guardian
+    29321, -- Time-Bending Gem
+    29322, -- Keeper's Ring of Piety
+    29323, -- Andormu's Tear
 }

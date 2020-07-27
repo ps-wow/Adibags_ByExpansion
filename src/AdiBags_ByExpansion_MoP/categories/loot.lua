@@ -58,6 +58,7 @@ AddonTable.loot = {
     87651, -- Pathwalker Greatstaff
 
     90350, -- Satin Robe of Eminent Domain
+    90352, -- Ringmail Armor of Eminent Domain
     90355, -- Heavy Chestpiece of Eminent Domain
     90374, -- Sully's Hotwiring Knife
     90375, -- Airship Marine's Sharpshooter
@@ -77,6 +78,7 @@ AddonTable.loot = {
 
     101810, -- Amaranthine Wristwraps (Timeless Cloth Bracers)
 
+    113711, -- Sparkmail Legguards
     113785, -- Kyparite Girdle
 
     -- Sets (Warlock)
@@ -87,7 +89,9 @@ AddonTable.loot = {
     113729, -- Kyparite Headguard
     113735, -- Drifting Cloud Necklace
     113738, -- Kyparite Chestguard
+    113741, -- Venomtail Chestguard
     113744, -- Kyparite Gauntlets
+    113747, -- Venomtail Gauntlets
     113750, -- Kyparite Shoulderguards
     113756, -- Loop of Inner Clarity
     113764, -- Blossoming Cap

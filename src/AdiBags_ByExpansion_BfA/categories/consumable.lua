@@ -46,6 +46,29 @@ AddonTable.foodDrink = {
     168313, -- Baked Port Tato
     168314, -- Bil'Tong
     161053, -- Salty Dog Crackers
+    154881, -- Kul Tiramisu
+    154887 ,-- Loa Loaf
+    154885, -- Mon'Dazi
+    154883, -- Ravenberry Tarts
+    166343, -- Wild Berry Bread
+    154884, -- Swamp Fish 'n Chips
+    154882, -- Honey-Glazed Haunches
+    154888, -- Sailor's Pie
+    154886, -- Spiced Snapper
+    166344, -- Seasoned Steak and Potatoes
+    166804, -- Boralus Blood Sausage
+
+    154889, -- Grilled Catfish
+    163781, -- Heartsbane Hexwurst
+    165755, -- Honey Potpie
+
+
+    -- Nzoth/Visions
+    174352, -- Baked Voidfin
+    174350, -- Dubious Delight
+    174349, -- Ghastly Goulash
+    174348, -- Grilled Gnasher
+    174351, -- K'Bab
     -- Drink
 }
 

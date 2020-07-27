@@ -73,6 +73,7 @@ AddonTable.transmog = {
     36494, -- Barbed Star
     36498, -- Nerubian Mace
     36499, -- Frigid War-Mace
+    36512, -- Onerous Mallet
     36513, -- Lode-Headed Hammer
     36526, -- Sleeted Longsword
     36527, -- Blackened Blade

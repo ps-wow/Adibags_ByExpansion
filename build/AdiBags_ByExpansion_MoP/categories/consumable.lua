@@ -15,6 +15,7 @@ AddonTable.consumable = {
 AddonTable.foodDrink = {
     81403,
     81405,
+    81406,
     81408,
     81409,
     81410,
