@@ -116,6 +116,7 @@ AddonTable.loot = {
     157932, -- Pauldrons of Rezan's Bladeguard
     157934, -- Vambraces of Rezan's Bladeguard
     157935, -- Sandspinner Footwraps
+    157936, -- Sandspinner Gloves
     157937, -- Sandspinner Headdress
     157938, -- Sandspinner Legwraps
     157939, -- Sandspinner Mantle
@@ -130,6 +131,7 @@ AddonTable.loot = {
     157964, -- Dunecrawler Spaulders
     157965, -- Dunecrawler Waistguard
     157968, -- Sirensong Handwraps
+    157969, -- Sirensong Headdress
     157971, -- Sirensong Amice
     157974, -- Seafarer Vest
     157975, -- Seafarer Striders
@@ -165,6 +167,7 @@ AddonTable.loot = {
     158028, -- Bleakweald Pauldrons
     158029, -- Bleakweald Waistguard
     158030, -- Bleakweald Vambraces
+    158033, -- Squallshaper Hood
     158034, -- Squallshaper Leggings
     158035, -- Squallshaper Mantle
     158037, -- Squallshaper Cuffs
@@ -475,13 +478,16 @@ AddonTable.loot = {
     173439, -- Footpads of the Insatiable Maw
     173464, -- Gloves of the Insatiable Maw
     173466, -- Malignant Leviathan's Gauntlets
+    173511, -- Vile Manipulator's Belt
     173572, -- Staff of Swelling Agony
     173669, -- Dull Onyx Band
+    173811, -- Vile Manipulator's Trousers
     173812, -- Vile Manipulator's Cord
     173815, -- Girdle of the Insatiable Maw
     173817, -- Nefarious Tormentor's Trousers
     173822, -- Malignant Leviathan's Waistguard
 
+    174469, -- Band of Insidious Ruminations
     174509, -- Tarnished Mark
     174953, -- Vile Manipulator's Wristwraps
     174954, -- Wristwraps of the Insatiable Maw

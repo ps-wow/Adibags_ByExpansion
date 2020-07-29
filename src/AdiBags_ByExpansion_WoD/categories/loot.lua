@@ -45,6 +45,7 @@ AddonTable.loot = {
     112392, -- Iron Horde Ritual Staff
     112393, -- Iron Horde Waraxe
     112440, -- Slavebreaker Robes
+    112442, -- Slavebreaker Chainmail
     112443, -- Slavebreaker Chestguard
     112663, -- Voidgazer Headguard
     112664, -- Voidgazer Cap

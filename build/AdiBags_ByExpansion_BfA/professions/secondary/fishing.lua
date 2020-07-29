@@ -1,4 +1,5 @@
 local AddonName, AddonTable = ...
+-- BfA Fishing
 AddonTable.fishing = {
     152543,
     152544,

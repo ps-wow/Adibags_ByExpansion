@@ -16,9 +16,11 @@ AddonTable.transmog = {
     106500, -- Steamscar Britches
     106502, -- Steamscar Hood
     106520, -- Highland Spaulders
+    106659, -- Talon Guard Pauldrons
     106669, -- Breezestrider Shoulders
     106671, -- Windswept Cord
     106679, -- Snarlthorn Belt
+    106683, -- Snarlthorn Helm
     106689, -- Ironfist Girdle
     106691, -- Ironfist Legplates
     106694, -- Ironfist Shield

@@ -2,6 +2,7 @@ local AddonName, AddonTable = ...
 -- WoW Loot (Soulbound Green or Higher)
 AddonTable.loot = {
     36,
+    833,
     1010,
     1443,
     2238,

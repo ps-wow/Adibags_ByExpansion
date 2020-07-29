@@ -87,7 +87,6 @@ AddonTable.loot = {
     131799, -- Zugdug's Piece of Paradise
     131921, -- Dreamflow Collar
 
-    132234, -- Spectral Dust
     132243, -- Fel-Etched Glaive
     132906, -- Leywalker Cord
     132947, -- Nar'thalas Sabatons

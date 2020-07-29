@@ -52,6 +52,7 @@ AddonTable.foodDrink = {
 }
 
 AddonTable.alcohol = {
+    111522, -- Tikari & K.A.Y.T.
     114015, -- Lavastone Pale
     114016, -- Lavastone Jack
     116917, -- Sailor Zazzuk's 180-Proof Rum

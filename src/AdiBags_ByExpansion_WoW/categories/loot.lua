@@ -4,6 +4,8 @@ local AddonName, AddonTable = ...
 AddonTable.loot = {
     36,   -- Worn Mace
 
+    833,  -- Lifestone
+
     1010, -- Gnarled Short Staff
     1443, -- Jeweled Amulet of Cainwyn
 
