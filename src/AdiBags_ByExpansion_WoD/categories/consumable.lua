@@ -51,9 +51,41 @@ AddonTable.consumable = {
 }
 
 AddonTable.foodDrink = {
+    111431, -- Hearty Elekk Steak
+    111433, -- Blackrock Ham
+    111434, -- Pan-Seared Talbuk
+    111436, -- Braised Riverbeast
+    111437, -- Rylak Crepes
+    111438, -- Clefthoof Sausages
+    111439, -- Steamed Scorpion
+    111441, -- Grilled Gulper
+    111442, -- Sturgeon Stew
+    111444, -- Fat Sleeper Cakes
+    111445, -- Fiery Calamari
+    111446, -- Skulker Chowder
+    111447, -- Talador Surf and Turf
+    111449, -- Blackrock Barbecue
+    111450, -- Frosty Stew
+    111452, -- Sleeper Surprise
+    111453, -- Calamari Crepes
+    111454, -- Gorgrond Chowder
+    111455, -- Saberfish Broth
+    111456, -- Grilled Saberfish
+    111457, -- Feast of Blood
+    111458, -- Feast of the Waters
     112449, -- Iron Horde Rations
     118565, -- Savage Piranha
+    122343, -- Sleeper Sushi    
+    122344, -- Salty Squid Roll
+    122345, -- Pickled Eel
+    122346, -- Jumbo Sea Dog
+    122347, -- Whiptail Fillet
+    122348, -- Buttered Sturgeon
+    126934, -- Lemon Herb Filet
+    126935, -- Fancy Darkmoon Feast
+    126936, -- Sugar-Crusted Fish Feast
     127991, -- Felmouth Frenzy
+    128498, -- Fel Eggs and Ham    
 }
 
 AddonTable.alcohol = {
