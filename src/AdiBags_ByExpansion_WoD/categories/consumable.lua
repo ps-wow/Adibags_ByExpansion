@@ -52,6 +52,8 @@ AddonTable.consumable = {
 
 AddonTable.foodDrink = {
     112449, -- Iron Horde Rations
+    118565, -- Savage Piranha
+    127991, -- Felmouth Frenzy
 }
 
 AddonTable.alcohol = {

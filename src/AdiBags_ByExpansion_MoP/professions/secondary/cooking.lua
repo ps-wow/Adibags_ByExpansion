@@ -24,4 +24,5 @@ AddonTable.cooking = {
     
     -- Recipies
     86393, -- Tablet of Ren-Yu
+    101769, -- Recipe: Stuffed Lushrooms    
 }
