@@ -6,4 +6,6 @@ AddonTable.follower = {
     139811,
     139812,
     140583,
+    -- upgrades
+    147349,
 }

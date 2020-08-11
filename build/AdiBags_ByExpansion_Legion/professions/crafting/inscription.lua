@@ -1,7 +1,9 @@
 local AddonName, AddonTable = ...
 AddonTable.inscription = {
+    119297,
     129032,
     129034,
+    136926,
     -- Recipe's
     139635,
     139636,

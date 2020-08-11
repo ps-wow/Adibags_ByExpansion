@@ -20,4 +20,6 @@ AddonTable.cooking = {
     102542,
     102543,
     -- Recipies
+    86393,
+    101769,
 }

@@ -42,5 +42,5 @@ core:AddExpansion(module)
 core:LoadCategories(AddonTable, module)
 
 -- core:AddCategoryItems(AddonTable.artifacts, "ArtifactWeapons", module) This needs filter to work
-
+core:AddCategoryItems(AddonTable.follower, "TradeMaterials", module)
 core:LoadExpansion(module)

@@ -180,6 +180,7 @@ AddonTable.loot = {
     153153,
     153155,
     153157,
+    153158,
     -- Order Hall Champion Equipment
     156630,
     -- BfA War of the Thorns
