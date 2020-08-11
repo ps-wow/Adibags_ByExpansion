@@ -1,5 +1,6 @@
 local AddonName, AddonTable = ...
 
+-- BfA Consumables
 AddonTable.consumable = {
     -- Flasks
     152638, -- Flask of the Currents [8.0]
@@ -61,7 +62,6 @@ AddonTable.foodDrink = {
     154889, -- Grilled Catfish
     163781, -- Heartsbane Hexwurst
     165755, -- Honey Potpie
-
 
     -- Nzoth/Visions
     174352, -- Baked Voidfin

@@ -1,5 +1,6 @@
 local AddonName, AddonTable = ...
 
+-- BfA Mining
 AddonTable.mining = {
     -- Ore
     152512, -- Monelite Ore [Common]

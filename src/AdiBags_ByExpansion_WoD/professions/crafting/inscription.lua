@@ -21,4 +21,5 @@ AddonTable.inscription = {
     113351, -- Blood Card (100g)
     113355, -- Card of Omens
     113992, -- Scribe's Research Notes
+    119297, -- Secret of Draenor Inscription
 }

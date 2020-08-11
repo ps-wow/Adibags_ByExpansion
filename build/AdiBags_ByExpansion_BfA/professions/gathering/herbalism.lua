@@ -1,4 +1,5 @@
 local AddonName, AddonTable = ...
+-- BfA Herbalism
 AddonTable.herbalism = {
     152505,
     152506,

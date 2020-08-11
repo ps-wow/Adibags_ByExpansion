@@ -63,6 +63,7 @@ AddonTable.transmog = {
     8249,  -- Imperial Red Gloves
     8250,  -- Imperial Red Mantle
     8287,  -- Arcane Gloves
+    8289,  -- Arcane Leggings
     8296,  -- Traveler's Jerkin
     8309,  -- Hero's Leggings
     8310,  -- Hero's Pauldrons

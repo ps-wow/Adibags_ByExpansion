@@ -1,22 +1,25 @@
 local AddonName, AddonTable = ...
 
 AddonTable.tailoring = {
-    -- bolts etc
-    41510,
-    41511,
-    41593,
-    41594,
-    41595,
+    -- Materials
+    41510, -- Bolt of Frostweave
+    41511, -- Bolt of Imbued Frostweave
+    41593, -- Ebonweave
+    41594, -- Moonshroud
+    41595, -- Spellweave
 
-    -- spellthreads
-    41601,
-    41603,
+    -- Spellthreads
+    41601, -- Shining Spellthread
+    41602, -- Brilliant Spellthread
+    41603, -- Azure Spellthread
+    41604, -- Sapphire Spellthread
 
-    -- crafted items
-    41984,
-    43971,
+    -- Crafted Items
+    41512, -- Frostwoven Wristwraps
+    41984, -- Hat of Wintry Doom
+    43971, -- Frostsavage Cowl
 
-    -- bandages
-    34721,
-    34722,
+    -- Bandages
+    34721, -- Frostweave Bandage
+    34722, -- Heavy Frostweave Bandage
 }

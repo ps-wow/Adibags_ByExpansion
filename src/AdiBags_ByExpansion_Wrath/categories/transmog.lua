@@ -94,5 +94,6 @@ AddonTable.transmog = {
 
     37781, -- Grips of the Warming Heart
 
+    50444, -- Rowan's Rifle of Silver Bullets
     50451, -- Belt of the Lonely Noble
 }

@@ -1,4 +1,5 @@
 local AddonName, AddonTable = ...
+-- BfA Consumables
 AddonTable.consumable = {
     -- Flasks
     152638,
@@ -12,6 +13,7 @@ AddonTable.consumable = {
     -- Potions
     152494,
     152495,
+    152496,
     152557,
     152561,
     163082,
@@ -29,10 +31,13 @@ AddonTable.consumable = {
     -- Misc
     160053,
     163691,
+    174906,
     168052,
 }
 AddonTable.foodDrink = {
     -- Food
+    168313,
+    168314,
     161053,
     154881,
     154887 ,-- Loa Loaf

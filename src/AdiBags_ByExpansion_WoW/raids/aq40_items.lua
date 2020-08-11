@@ -12,14 +12,14 @@ AddonTable.aq40_items = {
     20860, -- Silver Scarab
     20858, -- Stone Scarab
     -- Idols
-    20876, -- Idol of Death
-    20879, -- Idol of Life
+    20874, -- Idol of Sun
     20875, -- Idol of Night
+    20876, -- Idol of Death
+    20877, -- Idol of Sage
     20878, -- Idol of Rebirth
+    20879, -- Idol of Life
     20881, -- Idol of Strife
     20882, -- Idol of War
-    20877, -- Idol of Sage
-    20874, -- Idol of Sun
 
     -- Boss loot
     20928, -- Qiraji Bindings of Command

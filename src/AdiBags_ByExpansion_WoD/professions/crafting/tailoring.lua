@@ -1,22 +1,22 @@
 local AddonName, AddonTable = ...
 
 AddonTable.tailoring = {
-    -- cloth
-    111556,
+    -- Cloth
+    111556, -- Hexweave Cloth
 
-    -- crafted items
-    114809,
-    114810,
-    114817,
-    114818,
-    114819,
-    114828,
-    114829,
+    -- Crafted Items
+    114809, -- Hexweave Mantle
+    114810, -- Hexweave Cowl
+    114817, -- Powerful Hexweave Cloak
+    114818, -- Nimble Hexweave Cloak
+    114819, -- Brilliant Hexweave Cloak
+    114828, -- Sumptuous Cowl
+    114829, -- Sumptuous Robes
     114831, -- Sumptuous Leggings
 
-    -- bandages
-    111603,
-    
+    -- Bandages
+    111603, -- Antiseptic Bandage
+
     -- Recipe's
     114852, -- Pattern: Hexweave Embroidery
 }

@@ -1,5 +1,6 @@
 local AddonName, AddonTable = ...
 AddonTable.alchemy = {
+    156631,
     -- Items
     168674,
     -- Recipe's

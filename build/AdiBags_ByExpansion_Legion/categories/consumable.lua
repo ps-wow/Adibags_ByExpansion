@@ -13,6 +13,7 @@ AddonTable.consumable = {
     127844,
     127845,
     127846,
+    142117,
     -- Flasks (Alchemy)
     127847,
     127848,
@@ -33,6 +34,7 @@ AddonTable.consumable = {
     140401,
     140949,
     141655,
+    120257,
 }
 AddonTable.foodDrink = {
     128843,

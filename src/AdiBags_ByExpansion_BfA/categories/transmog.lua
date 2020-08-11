@@ -8,10 +8,12 @@ AddonTable.transmog = {
     154813, -- Torgashell Armplates
     154815, -- Festerroot Bindings
     154817, -- Festerroot Breeches
+    154818, -- Festerroot Grasps
     154819, -- Festerroot Helm
     154820, -- Festerroot Jerkin
     154821, -- Festerroot Shoulderpads
     154822, -- Festerroot Belt
+    154824, -- Zalamar Chain
     154826, -- Zala'mar Gauntlets
     154828, -- Zala'mar Helm
     154829, -- Zala'mar Legguards

@@ -86,6 +86,7 @@ AddonTable.junk = {
     132231, -- Won Hooked Claw
     132232, -- Coalesced Extoplasm
     132233, -- Lingering Essence
+    132234, -- Spectral Dust
     132237, -- Large Leg Bone
     132239, -- Bone Splinters
 

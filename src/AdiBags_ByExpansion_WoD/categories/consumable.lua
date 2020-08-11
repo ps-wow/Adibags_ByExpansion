@@ -9,7 +9,7 @@ AddonTable.consumable = {
     116118, -- Surplus Auchenai Weaponry (100 Garrison Resources)
     116131, -- Amethyl Crystal (100 Garrison Resources)
     118695, -- Toxicfang Venom (100 Garrison Resources)
-    118710,    
+    118710, -- Exploratron 2000 Spare Parts (50 Garrison Resources)
     118897, -- Miner's Coffee
     118903, -- Preserved Mining Pick
     140590, -- Large Crate of Salvage
@@ -89,6 +89,7 @@ AddonTable.foodDrink = {
 }
 
 AddonTable.alcohol = {
+    111522, -- Tikari & K.A.Y.T.
     114015, -- Lavastone Pale
     114016, -- Lavastone Jack
     116917, -- Sailor Zazzuk's 180-Proof Rum

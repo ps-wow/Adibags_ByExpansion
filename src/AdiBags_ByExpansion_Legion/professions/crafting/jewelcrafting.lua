@@ -19,21 +19,23 @@ AddonTable.jewelcrafting = {
     130183, -- Shadowruby
     151579, -- Labradorite
 
+    151718, -- Argulite [7.3]
+    151719, -- Lightsphene [7.3]
+    151721, -- Hesselian [7.3]
+    151722, -- Florid Malachite [7.3]
     -- Cut Gems
     130215, -- Deadly Deep Amber
     130217, -- Versatile Skystone
     151580, -- Deadly Deep Chemirine
     151583, -- Quick Lightsphene
     151585, -- Versatile Labradorite
-    151718,
-    151719,
-    151721,
-    151722,
 
     -- Rings
     130223, -- Deep Amber Loop
+
     -- Necklaces
     130227, -- Skystone Pendant
+
     -- Recipe's
     132467, -- Design: Skystone Pendant
 }

@@ -1,5 +1,6 @@
 local AddonName, AddonTable = ...
 
+-- BfA Skinning
 AddonTable.skinning = {
     -- Leather
     152541, -- Coarse Leather
