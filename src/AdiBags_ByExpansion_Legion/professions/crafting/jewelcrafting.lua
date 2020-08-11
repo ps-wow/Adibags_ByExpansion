@@ -17,6 +17,8 @@ AddonTable.jewelcrafting = {
     130181, -- Pandemonite
     130182, -- Maelstrom Saphhire
     130183, -- Shadowruby
+    151579, -- Labradorite
+
     -- Cut Gems
     130215, -- Deadly Deep Amber
     130217, -- Versatile Skystone
