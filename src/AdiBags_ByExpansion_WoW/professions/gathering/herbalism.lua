@@ -38,6 +38,8 @@ AddonTable.herbalism = {
     108329, -- Dargon's Teeth Stem
     108330, -- Stranglekelp Blade
     108331, -- Goldthorn Bramble
+    108335,
     108339, -- Dreamfoil Blade
     108341, -- Mountain Silversage Stalk
+    109626,
 }

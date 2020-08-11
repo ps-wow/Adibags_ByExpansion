@@ -16,6 +16,7 @@ AddonTable.consumable = {
     -- Potions
     152494, -- Coastal Healing Potion [8.0]
     152495, -- Coastal Mana Potion [8.0]
+    152496, -- Dimitri's Draught of Deception
     152557, -- Steelskin Potion [8.0]
     152561, -- Potion of Replenishment [8.0]
 
@@ -37,11 +38,14 @@ AddonTable.consumable = {
     -- Misc
     160053, -- Battle-Scarred Augment Rune
     163691, -- Burning Essence
+    174906, -- Lightning-Forged Augmentation Rune
     168052, -- Scrap Grenade (Mechagon)
 }
 
 AddonTable.foodDrink = {
     -- Food
+    168313, -- Baked Port Tato
+    168314, -- Bil'Tong
     161053, -- Salty Dog Crackers
     154881, -- Kul Tiramisu
     154887 ,-- Loa Loaf

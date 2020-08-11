@@ -9,6 +9,4 @@ AddonTable.mining = {
     -- Bars
     72096, -- Ghost Iron Bar
     72095, -- Trillium Bar
-    -- Gems
-    76134, -- Sunstone
 }

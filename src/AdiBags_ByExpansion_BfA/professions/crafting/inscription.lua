@@ -44,8 +44,47 @@ AddonTable.inscription = {
     168960, -- Contract: Rustbolt Resistance
     172008, -- Contract: Rajani
     172010, -- Contract: Uldum Accord
+    -- Recipe's
+    162352, -- Recipe: Inscribed Vessel of Mysticism
+    162353, -- Recipe: Honorable Combatant's Etched Vessel
+    162354, -- Recipe: Honorable Combatant's Etched Vessel
+    162355, -- Recipe: Inked Vessel of Robust Regeneration
+    162358, -- Recipe: Codex of the Quiet Mind
+    162359, -- Recipe: Contract: Proudmoore Admiralty
+    162360, -- Recipe: Contract: Proudmoore Admiralty
+    162361, -- Recipe: Contract: Order of Embers
+    162362, -- Recipe: Contract: Order of Embers
+    162363, -- Recipe: Contract: Storm's Wake
+    162364, -- Recipe: Contract: Storm's Wake
+    162366, -- Recipe: Contract: Zandalari Empire
+    162368, -- Recipe: Contract: Talanji's Expedition
+    162370, -- Recipe: Contract: Voldunai
+    162371, -- Recipe: Contract: Tortollan Seekers
+    162372, -- Recipe: Contract: Tortollan Seekers
+    162373, -- Recipe: Contract: Champions of Azeroth
+    162374, -- Recipe: Contract: Champions of Azeroth
+    162376, -- Recipe: Tome of the Quiet Mind
+    162377, -- Recipe: Darkmoon Card of War
+    162753, -- Recipe: Contract: Zandalari Empire
+    162754, -- Recipe: Contract: Talanji's Expedition
+    162755, -- Recipe: Contract: Voldunai
+    165306, -- Recipe: Sinister Combatant's Etched Vessel
+    165307, -- Recipe: Sinister Combatant's Etched Vessel
+    166278, -- Recipe: Contract: 7th Legion
+    166279, -- Recipe: Contract: 7th Legion
+    166310, -- Recipe: Contract: The Honorbound
+    166311, -- Recipe: Contract: The Honorbound
+    168026, -- Recipe Book: Sanguine Feather Quill of Lana'thel
+    169545, -- Recipe: Notorious Combatant's Etched Vessel
+    169546, -- Recipe: Notorious Combatant's Etched Vessel
+    169547, -- Recipe: Contract: Rustbolt Resistance
+    169548, -- Recipe: Contract: Ankoan
+    169549, -- Recipe: Contract: Unshackled
+    172009, -- Recipe: Contract: Rajani
+    172011, -- Recipe: Contract: Uldum Accord
     -- TODO
     -- Vantus Runes
+    171202, -- Nyalotha
     -- Glyphs
     -- Blood Contracts
 }

@@ -21,5 +21,8 @@ AddonTable.cooking = {
     102541, -- Aged Balsamic Vinegar
     102542, -- Ancient Pandaren Spices
     102543, -- Aged Mogu'shan Cheese
+    
     -- Recipies
+    86393, -- Tablet of Ren-Yu
+    101769, -- Recipe: Stuffed Lushrooms    
 }

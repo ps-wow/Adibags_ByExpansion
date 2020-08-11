@@ -36,4 +36,6 @@ core:AddExpansion(module)
 core:LoadCategories(AddonTable, module)
 core:AddCategoryItems(AddonTable.garrison, "TradeMaterials", module)
 
+core:AddCategoryItems(AddonTable.follower, "TradeMaterials", module)
+
 core:LoadExpansion(module)

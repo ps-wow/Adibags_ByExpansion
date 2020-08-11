@@ -3,6 +3,8 @@ local AddonName, AddonTable = ...
 AddonTable.tailoring = {
     -- Materials
     82441, -- Bolt of Windwool Cloth
+    82447,
+    98619,
     -- Crafts
     82402, -- Windwool Bracers (Uncommon)
     82403, -- Windwool Boots (Uncommon)
@@ -10,6 +12,7 @@ AddonTable.tailoring = {
     90474, -- Windwool Bracers (Rare)
     93433, -- Crafted Dreadful Gladiator's Treads of Meditation
     -- Bandages
+    72985,
     72986, -- Heavy Windwool Bandage
     -- Patterns
     86379, -- Pattern: Robe of Eternal Rule
