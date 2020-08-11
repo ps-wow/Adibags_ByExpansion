@@ -1,9 +1,13 @@
 local AddonName, AddonTable = ...
 AddonTable.inscription = {
-    119297,
+    -- Pigments
     129032,
     129034,
     136926,
+    -- Glyphs
+    129018,
+    129028,
+    139310,
     -- Recipe's
     139635,
     139636,
