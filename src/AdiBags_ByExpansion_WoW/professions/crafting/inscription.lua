@@ -8,11 +8,11 @@ AddonTable.inscription = {
     39339,  -- Emerald Pigment
     39340,  -- Violet Pigment
     39341,  -- Silvery Pigment
-    39342,  -- Nether Pigment
     43103,  -- Verdant Pigment
     43104,  -- Burnt Pigment
+    43105,  -- Indigo Pigment
     43106,  -- Ruby Pigment
-    43108,  -- Ebon Pigment
+    43107,  -- Sapphire Pigment
     -- Inks
     39469,  -- Moonglow Ink
     43115,  -- Hunter's Ink
