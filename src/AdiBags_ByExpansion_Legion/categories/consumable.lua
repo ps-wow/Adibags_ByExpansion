@@ -61,4 +61,5 @@ AddonTable.foodDrink = {
     133577, -- Fighter Chow
     133578, -- Hearty Feast
     133579, -- Lavish Suramar Feast
+    133681, -- Crispy Bacon
 }
