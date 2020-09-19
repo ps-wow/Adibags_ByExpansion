@@ -25,7 +25,15 @@
     <Script file="professions\secondary\cooking.lua"/>
     <Script file="professions\secondary\fishing.lua"/>
 
+    <Script file="dungeons\deotherside.lua"/>
+    <Script file="dungeons\hallsofattonement.lua"/>
+    <Script file="dungeons\mistsoftirna.lua"/>
     <Script file="dungeons\necroticwake.lua"/>
+    <Script file="dungeons\plaguefall.lua"/>
+    <Script file="dungeons\sanguinedepths.lua"/>
+    <Script file="dungeons\spiresofascension.lua"/>
+    <Script file="dungeons\theatreofpain.lua"/>
+    <Script file="dungeons\torghast.lua"/>
 
     <Script file="main.lua"/>
 

@@ -10,7 +10,14 @@ local module = {
     ["prefix"] = "09. Shadowlands - ",
     ["description"] = "Shadowlands",
     ["dungeons"] = {
+        ["deotherside"] = "De Other Side",
+        ["hallsofattonement"] = "Halls of Attonement",
+        ["mistsoftirna"] = "Mists of Tirna",
         ["necroticwake"] = "Necrotic Wake",
+        ["plaguefall"] = "Plaguefall",
+        ["sanguinedepths"] = "Sanguine Depths",
+        ["spiresofascension"] = "Spires of Ascension",
+        ["theatreofpain"] = "Theatre of Pain",
         ["torghast"] = "Torghast"
     },
     ["raids"] = {}
