@@ -35,6 +35,8 @@
     <Script file="dungeons\theatreofpain.lua"/>
     <Script file="dungeons\torghast.lua"/>
 
+    <Script file="raids\castlenathria.lua"/>
+
     <Script file="main.lua"/>
 
 </Ui>
