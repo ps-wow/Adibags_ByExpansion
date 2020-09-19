@@ -118,9 +118,12 @@ AddonTable.foodDrink = {
     4608, -- Raw Black Truffle
     4791, -- Enchanted Water
     8766, -- Morning Glory Dew
+    8932, -- Alterac Swiss
     8952, -- Roasted Quail
+    8953, -- Deep Fried Plantains
     9451, -- Bubbling Water
     11415, -- Mixed Berries
+    17747, -- Razorlash Root
     57544, -- Leftover Boar Meat
 }
 

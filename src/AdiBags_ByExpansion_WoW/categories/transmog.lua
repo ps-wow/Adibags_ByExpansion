@@ -84,6 +84,7 @@ AddonTable.transmog = {
     9824,  -- Durable Shoulders
     9835,  -- Scaled Leather Tunic
     9852,  -- Conjurer's Robe
+    9873,  -- Renegade Shield
     9875,  -- Sorcerer Sash
     9877,  -- Sorcerer Cloak
     9897,  -- Jazeraint Chestguard
@@ -163,6 +164,7 @@ AddonTable.transmog = {
     14167, -- Buccaneer's Cape
     14200, -- Thistlefur Cap
     14228, -- Embersilk Coronet
+    14269, -- Gaea's Slippers
     14306, -- Bonecaster's Vest
     14309, -- Celestial Belt
     14312, -- Celestial Crown
@@ -204,6 +206,7 @@ AddonTable.transmog = {
     15272, -- Razor Axe
     15273, -- Death Striker
     15278, -- Solstice Staff
+    15285, -- Archer's Longbow
     15287, -- Crusader Bow
     15288, -- Blasthorn Bow
     15296, -- Hawkeye Bow

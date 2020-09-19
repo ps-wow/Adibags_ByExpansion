@@ -24,6 +24,7 @@ AddonTable.junk = {
     1739, -- Laced Mail Boots
     1740, -- Laced Mail Bracers
     1745, -- Laced Mail Vest
+    1758, -- Reinforced Chain Gloves
     1766, -- Canvas Cloak
     1776, -- Brocade Pants
     1777, -- Brocade Shoulderpads
@@ -61,6 +62,7 @@ AddonTable.junk = {
     3674, -- Decomposed Boot
     3676, -- Slimy Ichor
     3781, -- Broad Claymore
+    3782, -- Large War Club
     3783, -- Light Scimitar
     3793, -- Interlaced Boots
     3794, -- Interlaced Bracers
@@ -80,6 +82,7 @@ AddonTable.junk = {
     3992, -- Laminated Scale Belt
     3994, -- Laminated Scale Bracers
     3995, -- Laminated Scale Cloak
+    3997, -- Laminated Scale Pants
 
     4018, -- Whetted Claymore
     4019, -- Heavy Flint Axe
@@ -217,12 +220,15 @@ AddonTable.junk = {
 
     23988, -- Mutated Vine
 
+    24577, -- Loosely Threaded Boots
+
     25338, -- Loosely Threaded Pants
     25372, -- Eroded Mail Shoulderpads
     25383, -- Tarnished Plate Bracers
     25421, -- Gnarled Claw
     25425, -- Molted Feather
     25431, -- Ripped Fin
+    25434, -- Fractured Carapace
     25441, -- Gnarled Boar Tusk
 
     32714, -- Splintered Spider Fang
@@ -230,6 +236,9 @@ AddonTable.junk = {
     33546, -- Viscious Fang
 
     35691, -- Ruined Metal Parts
+
+    44754, -- Severed Boar Tusk
+    44755, -- Gory Snout
 
     49406, -- Gilnean Neophyte's Boots
 
@@ -248,10 +257,12 @@ AddonTable.junk = {
     55982, -- Inert Elemental Granule
     55983, -- Inert Elemental Scintilla
     55984, -- Inert Elemental Shard
+    55985, -- Inert Elemental Piece
 
     56033, -- Pretty Pebble
     56034, -- Tinted Rock
     56035, -- Colorful Rock
+    56036, -- Interesting Rock
     56047, -- Strange Pebble
     56151, -- Broken Hoof Piece
     56156, -- Torn Cartilage

@@ -32,6 +32,7 @@ AddonTable.transmog = {
     24828, -- Netherstalker Mantle
     24841, -- Wrathfin Gloves
     24853, -- Fenclaw Bindings
+    24856, -- Marshcreeper Fen-Vest
     24863, -- Blood Knight Boots
     24877, -- Ironspine Bracelets
     24880, -- Derizu Chestpiece
