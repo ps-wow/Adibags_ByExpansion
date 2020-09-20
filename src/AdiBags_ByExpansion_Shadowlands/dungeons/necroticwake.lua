@@ -4,7 +4,6 @@ AddonTable.necroticwake = {
     -- Blightbone
     183505, -- Maim, Mangle [Potency Conduit]
     181641, -- Rising Sun Revival [Potency Conduit]
-    181709, -- Unnerving Focus [Endurance Conduit]
     178730, -- Engorged Worm Smasher
     178735, -- Blight Belcher
     178732, -- Abominable Visage
