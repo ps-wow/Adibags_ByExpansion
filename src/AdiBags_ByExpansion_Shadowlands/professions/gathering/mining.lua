@@ -10,4 +10,6 @@ AddonTable.mining = {
     171832, -- Sinvyr Ore
     171829, -- Solenium Ore
     171833, -- Elethium Ore
+    -- Misc
+    177061, -- Twilight Bark
 }
