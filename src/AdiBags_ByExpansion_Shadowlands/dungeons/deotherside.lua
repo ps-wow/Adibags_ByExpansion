@@ -18,7 +18,6 @@ AddonTable.deotherside = {
     -- The Manastorms
     181509, -- Arcane Prodigy [Potency Conduit]
     182748, -- Borne of Blood [Potency Conduit]
-    182385, -- Growing Inferno [Potency Conduit]
     179339, -- Whizblast Walking Stick
     179340, -- Supercollider
     179335, -- Manastorm's Magnificent Threads

@@ -34,6 +34,7 @@
     <Script file="dungeons\spiresofascension.lua"/>
     <Script file="dungeons\theatreofpain.lua"/>
     <Script file="dungeons\torghast.lua"/>
+    <Script file="dungeons\multiple.lua"/>
 
     <Script file="raids\castlenathria.lua"/>
 

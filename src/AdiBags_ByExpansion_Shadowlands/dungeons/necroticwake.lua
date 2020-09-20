@@ -28,7 +28,6 @@ AddonTable.necroticwake = {
     -- Surgeon Stitchflesh
     181738, -- Artifice of the Archmage [Potency Conduit]
     182750, -- Carnivorous Stalkers [Potency Conduit]
-    182385, -- Growing Inferno [Potency Conduit]
     183512, -- Planned Execution [Potency Conduit]
     181700, -- Scalding Brew [Potency Conduit]
     178743, -- Stitchflesh's Scalpel
