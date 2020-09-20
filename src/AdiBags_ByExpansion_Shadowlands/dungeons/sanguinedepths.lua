@@ -37,7 +37,6 @@ AddonTable.sanguinedepths = {
     178838, -- Beryllia's Leggings of Endless Torment
     178850, -- Lingering Sunmote
     -- General Kaal
-    182125, -- Earth and Sky [Potency Conduit]
     182677, -- Punish the Guilty [Potency Conduit]
     183507, -- Triple Threat [Potency Conduit]
     178856, -- Kaal's Gloomblade

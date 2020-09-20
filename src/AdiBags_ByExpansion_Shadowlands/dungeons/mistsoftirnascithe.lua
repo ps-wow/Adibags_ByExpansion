@@ -36,7 +36,6 @@ AddonTable.mistsoftirnascithe = {
     183132, -- Echoing Call [Potency Conduit]
     182142, -- Embrace of Earth [Potency Conduit]
     183485, -- Savage Combatant [Potency Conduit]
-    182471, -- Soul Furnace [Potency Conduit]
     178714, -- Lakali's Spire of Knowledge
     178711, -- Axe of the Deadgrove
     178712, -- Acidslough Bulwark
