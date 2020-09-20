@@ -29,7 +29,6 @@ AddonTable.hallsofattonement = {
     181963, -- Blood Bond [Endurance Conduit]
     181867, -- Swift Penitence [Potency Conduit]
     182675, -- Untemptered Dedication [Potency Conduit]
-    181742, -- Walk with the Ox [Potency Conduit]
     178828, -- Nathrian Tabernacle
     178821, -- Mantle of Ephemeral Visages
     178814, -- Breastplate of Otherworldly Influence
