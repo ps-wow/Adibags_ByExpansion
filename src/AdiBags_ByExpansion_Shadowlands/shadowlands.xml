@@ -27,7 +27,7 @@
 
     <Script file="dungeons\deotherside.lua"/>
     <Script file="dungeons\hallsofattonement.lua"/>
-    <Script file="dungeons\mistsoftirna.lua"/>
+    <Script file="dungeons\mistsoftirnascithe.lua"/>
     <Script file="dungeons\necroticwake.lua"/>
     <Script file="dungeons\plaguefall.lua"/>
     <Script file="dungeons\sanguinedepths.lua"/>
