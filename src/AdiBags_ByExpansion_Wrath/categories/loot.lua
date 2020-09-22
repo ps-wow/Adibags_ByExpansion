@@ -39,9 +39,11 @@ AddonTable.loot = {
 
     112346, -- Ice-Encrusted Plate Headguard
     112348, -- Snow-Coated Cloth Cap
+    112350, -- Icefall Mail Helm
     112354, -- Ice-Encrusted Plate Legguards
     112355, -- Snow-Coated Cloth Leggings
     112361, -- Ice-Encrusted plate belt
+    112364, -- Icefall Mail Girdle
     112367, -- Snow-Coated Cloth Belt
     113684, -- Icecrust Cloak
     113685, -- Coldblood Longcloak
