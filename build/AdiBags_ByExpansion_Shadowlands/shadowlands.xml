@@ -32,7 +32,7 @@
     <Script file="dungeons\plaguefall.lua"/>
     <Script file="dungeons\sanguinedepths.lua"/>
     <Script file="dungeons\spiresofascension.lua"/>
-    <Script file="dungeons\theatreofpain.lua"/>
+    <Script file="dungeons\theaterofpain.lua"/>
     <Script file="dungeons\torghast.lua"/>
     <Script file="dungeons\multiple.lua"/>
 

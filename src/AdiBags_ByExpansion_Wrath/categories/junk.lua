@@ -10,6 +10,7 @@ AddonTable.junk = {
     33369, -- Frost-Rimed Cloth Pants
     33370, -- Frost-Rimed Cloth Shoulderpads
     33371, -- Frost-Rimed Cloth Vest
+    33372, -- Fur-Lined Armor
     33376, -- Fur-Lined Gloves
     33378, -- Fur-Lined Shoulderpads
     33379, -- Frozen Armor

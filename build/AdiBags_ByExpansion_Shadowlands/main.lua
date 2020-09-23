@@ -17,7 +17,7 @@ local module = {
         ["plaguefall"] = "Plaguefall",
         ["sanguinedepths"] = "Sanguine Depths",
         ["spiresofascension"] = "Spires of Ascension",
-        ["theatreofpain"] = "Theatre of Pain",
+        ["theaterofpain"] = "Theater of Pain",
         ["multiple"] = "Multiple",
         ["torghast"] = "Torghast"
     },

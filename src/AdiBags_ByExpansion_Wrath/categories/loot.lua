@@ -45,6 +45,7 @@ AddonTable.loot = {
     112361, -- Ice-Encrusted plate belt
     112364, -- Icefall Mail Girdle
     112367, -- Snow-Coated Cloth Belt
+    113683, -- Coldwrap Cloak
     113684, -- Icecrust Cloak
     113685, -- Coldblood Longcloak
     113687, -- Dark Rune Lavalliere
