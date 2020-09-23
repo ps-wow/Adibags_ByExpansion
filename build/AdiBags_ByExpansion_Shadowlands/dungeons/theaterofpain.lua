@@ -1,6 +1,6 @@
 local AddonName, AddonTable = ...
 -- Theatre of Pain
-AddonTable.theatreofpain = {
+AddonTable.theaterofpain = {
     -- An Affront of Challengers
     181705,
     183197,
