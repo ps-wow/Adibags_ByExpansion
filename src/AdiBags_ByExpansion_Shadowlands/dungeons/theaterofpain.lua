@@ -1,7 +1,7 @@
 local AddonName, AddonTable = ...
 
 -- Theatre of Pain
-AddonTable.theatreofpain = {
+AddonTable.theaterofpain = {
     -- An Affront of Challengers
     181705, -- Celestial Effervescence [Endurance Conduit]
     183197, -- Controlled Destruction [Potency Conduit]
