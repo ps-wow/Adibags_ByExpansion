@@ -7,7 +7,11 @@ local module = {
     ["name"] = "shadowlands",
     ["categories"] = core:GetDefaultCategories(),
     ["namespace"] = "Shadowlands",
-    ["prefix"] = "09. Shadowlands - ",
+    ["prefix"] = {
+        ["num"] = "09. ",
+        ["title"] = "SL",
+        ["icon"] = "",
+    },
     ["description"] = "Shadowlands",
     ["dungeons"] = {
         ["deotherside"] = "De Other Side",
