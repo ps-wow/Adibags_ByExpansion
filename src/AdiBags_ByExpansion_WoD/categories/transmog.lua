@@ -3,10 +3,12 @@ local AddonName, AddonTable = ...
 -- WoD Transmog
 AddonTable.transmog = {
     106392, -- Bladespire Girdle
+    106398, -- Bladespire Vambraces
     106407, -- Lunarglow Cord
     106408, -- Lunarglow Cowl
     106410, -- Lunarglow Leggings
     106426, -- Rimeplate Helm
+    106429, -- Rimeplate Sabatons
     106457, -- Rockspine Gauntlets
     106468, -- Tailthrasher Gloves
     106483, -- Tangleheart Gauntlets
@@ -52,6 +54,7 @@ AddonTable.transmog = {
 
     116464, -- Frostbitten Gun
     116475, -- Lunarglow Broadaxe
+    116480, -- Lunarglow Knuckles
     116493, -- Vinewrapped Bow
     116497, -- Vinewrapped Knuckles
     116588, -- Longclaw Staff
@@ -78,6 +81,7 @@ AddonTable.transmog = {
     116638, -- Howling Spear
     116640, -- Howling Staff
     116641, -- Howling Sword
+    116699, -- Growthshaper Cloak
     116721, -- Ancestral Branch
 
     118803, -- Kihrawr's Scratching Post

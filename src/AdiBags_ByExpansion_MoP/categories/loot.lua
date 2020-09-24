@@ -29,6 +29,7 @@ AddonTable.loot = {
     86529, -- Manipulator's Talisman [BoA]
     86572, -- Terracotta Fragment
 
+    87500, -- Brooch of Munificient Deeds [BoA]
     87586, -- Forest Trickster's Leggings
     87587, -- Orchard Tender's Leggings
     87588, -- Leggings of Spiritsong Melody

@@ -2,10 +2,12 @@ local AddonName, AddonTable = ...
 -- WoD Transmog
 AddonTable.transmog = {
     106392,
+    106398,
     106407,
     106408,
     106410,
     106426,
+    106429,
     106457,
     106468,
     106483,
@@ -49,6 +51,7 @@ AddonTable.transmog = {
     111475,
     116464,
     116475,
+    116480,
     116493,
     116497,
     116588,
@@ -75,6 +78,7 @@ AddonTable.transmog = {
     116638,
     116640,
     116641,
+    116699,
     116721,
     118803,
     -- Highmaul

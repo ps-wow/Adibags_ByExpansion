@@ -34,6 +34,7 @@ AddonTable.loot = {
     121577, -- Rooksguard Warboots
     121580, -- Sablehide Boots
     121646, -- Witchmother Drape
+    121658, -- Whitewater Sabatons
     121735, -- Nightguard Stompers
     121759, -- Feather-Notched Belt
     121761, -- Skyfire Marine Vambraces
@@ -81,6 +82,7 @@ AddonTable.loot = {
     130133, -- Undergrell Mobilehelm
     130135, -- Mana-Prowler Leggings
 
+    131773, -- Flamescale Mail
     131781, -- Plate Hiking Boots
     131797, -- Swamprock Salvage Band
     131799, -- Zugdug's Piece of Paradise
@@ -131,6 +133,7 @@ AddonTable.loot = {
 
     137497, -- Footpads of the Swift Balestra
 
+    138450, -- Signet of Stormwind
     138970, -- Helm of Reaffirmed Purpose
 
     139072, -- Tranquil Bough Spaulders

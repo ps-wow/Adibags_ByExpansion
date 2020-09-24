@@ -44,6 +44,7 @@ AddonTable.loot = {
     113717, -- Sparkmail Chestguard
     113760, -- Smoldercloth Bracers
     113761, -- Smoldercloth Leggings
+    113775, -- Sparkmail Sabatons
     113786, -- Smoldercloth Slippers
     156689, -- Scorched Satchel of Helpful Goods
 

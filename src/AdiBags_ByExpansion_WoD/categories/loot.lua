@@ -21,11 +21,13 @@ AddonTable.loot = {
     108904, -- Fingers of the Void
     108906, -- Sporebat Larval Pod
     108907, -- Mushroom of Destiny
+    108909, -- Karabor Footman's Pike
     108912, -- Karabor Greatsword
     108918, -- Karabor Arcanist Rod
     108945, -- Void-Boiled Squirrel
     108957, -- Venomshade Skin Boots
     108972, -- Blind Fel-Eye Ring
+    108976, -- Sanctified Fel-Wrap Ring
 
     109060, -- Rylak-Scale Vest
     109061, -- Ku'targ's Merciless Grips
@@ -41,7 +43,9 @@ AddonTable.loot = {
     112371, -- Warpstalker-Scale Grips
     112389, -- Iron Horde Warcudgel
     112393, -- Iron Horde Waraxe
+    112395, -- Iron Horde Bramblestaff
     112440, -- Slavebreaker Robes
+    112442, -- Slavebreaker Chainmail
     112443, -- Slavebreaker Chestguard
     112663, -- Voidgazer Headguard
     112664, -- Voidgazer Cap
@@ -53,13 +57,17 @@ AddonTable.loot = {
     113082, -- Precious Bloodthorn Loop
     113145, -- Karabor Guardian Gorget
     113147, -- Rangari Luck Charm
+    113148, -- Foulspawn Drape
     113160, -- Moonstone Luck Token
+    113163, -- Kliaa's Venomclaws
     113378, -- Rovo's Dagger
     113408, -- Greka's Dentures
+    113527, -- Legacy of Om'ra
     113531, -- Ashes of A'kumbo
     113541, -- Darktalon's Drape
     113546, -- Uzko's Dusty Boots
     113547, -- Bouquet of Dried Flowers
+    113548, -- Darktide Summoner Staff
     113553, -- Windfang Sabre
     113556, -- Varandi Family Chest
     113557, -- Dragonrider's Tinkered Leggings
