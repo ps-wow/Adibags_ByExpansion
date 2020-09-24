@@ -55,7 +55,9 @@ AddonTable.loot = {
     87639, -- Tattered Guo-Lai Dynasty Cloak
     87651, -- Pathwalker Greatstaff
 
+    90348, -- Chain Armor of Eminent Domain
     90350, -- Satin Robe of Eminent Domain
+    90352, -- Ringmail Armor of Eminent Domain
     90355, -- Heavy Chestpiece of Eminent Domain
     90374, -- Sully's Hotwiring Knife
     90375, -- Airship Marine's Sharpshooter
@@ -82,11 +84,15 @@ AddonTable.loot = {
     87191, -- Sha-Skin Mantle
 
     -- Tranquil Satchel of Helpful Goods (Random MoP Dungeon Bonus Loot)
+    113723, -- Sparkmail Gauntlets
     113729, -- Kyparite Headguard
     113735, -- Drifting Cloud Necklace
     113738, -- Kyparite Chestguard
+    113741, -- Venomtail Chestguard
     113744, -- Kyparite Gauntlets
     113750, -- Kyparite Shoulderguards
+    113753, -- Venomtail Shoulderguards
+    113755, -- Ring of Flowing Water
     113764, -- Blossoming Cap
     113765, -- Blossoming Robe
     113766, -- Blossoming Gloves

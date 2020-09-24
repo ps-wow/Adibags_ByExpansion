@@ -3,6 +3,8 @@ local AddonName, AddonTable = ...
 -- Soulbound Items (Green or higher)
 
 AddonTable.loot = {
+    44360, -- Husk Shard Sabatons
+
     55314, -- Thondroril Cloak
     55403, -- Mereldar Amulet [BoE Neck]
     55404, -- Thondroril Amulet
@@ -21,6 +23,10 @@ AddonTable.loot = {
 
     59520, -- Unheeded Warning
 
+    65655, -- Leggings of Opportune Strikes
+    65658, -- Stonespeaker's Belt
+
+    66885, -- Diamond-Studded Helm
     66974, -- Nightrend Choker
     68915, -- Scales of Life
     68972, -- Apparatus of Khaz'goroth
@@ -35,6 +41,7 @@ AddonTable.loot = {
 
     -- Scorched Satchel of Helpful Goods
     113713, -- Emberspark Chestplate
+    113717, -- Sparkmail Chestguard
     113760, -- Smoldercloth Bracers
     113761, -- Smoldercloth Leggings
     113786, -- Smoldercloth Slippers

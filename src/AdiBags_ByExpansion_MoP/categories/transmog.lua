@@ -4,6 +4,7 @@ local AddonName, AddonTable = ...
 AddonTable.transmog = {
     81972, -- Stitched Robe
     81979, -- Silent Boots
+    82014, -- Polished Staff
     82021, -- Steppe Belt
     82027, -- Steppe Spaulders
     82029, -- Reed Cord

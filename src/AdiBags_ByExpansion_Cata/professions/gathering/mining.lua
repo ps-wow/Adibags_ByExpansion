@@ -10,5 +10,6 @@ AddonTable.mining = {
     -- Gems
     52177, -- Carnelian
     52178, -- Zephyrite
+    52179, -- Alicite
     52180, -- Nightstone
 }

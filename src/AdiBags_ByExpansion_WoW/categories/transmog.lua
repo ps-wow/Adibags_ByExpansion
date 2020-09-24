@@ -15,6 +15,7 @@ AddonTable.transmog = {
     2983,  -- Seer's Boots
     2984,  -- Seer's Gloves
 
+    3042,  -- BKP "Sparrow" Smallbore
     3184,  -- Hook Dagger
     3193,  -- Oak Mallet
     3196,  -- Edged Bastard Sword
@@ -178,7 +179,9 @@ AddonTable.transmog = {
     15489, -- Bloodspattered Sabatons
     15492, -- Bloodspattered Sash
     15660, -- Impenetrable Breastplate
+    15673, -- Watcher's Star
     15677, -- Magnificent Shoudlers
+    15973, -- Watcher's Star
     15979, -- Flamecloth Stave
 
     18337, -- Orphic Bracers
