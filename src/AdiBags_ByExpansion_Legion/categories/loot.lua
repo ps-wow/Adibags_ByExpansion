@@ -146,7 +146,10 @@ AddonTable.loot = {
 
     140019, -- Eel Collars
     140533, -- Huntmaster's Injector
+    140607, -- Elementally-Infused Boots
     140611, -- Fel Commander's Vambraces [Q: Bringer of the Light]
+    140612, -- Bracers of the Fallen [Q: Bringer of the Light]
+    140616, -- Annihilator's Mantle [Q: Bringer of the Light]
     140660, -- Haft of the God-King
 
     141286, -- Rite of the Val'kyr

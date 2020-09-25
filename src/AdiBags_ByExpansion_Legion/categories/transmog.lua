@@ -49,6 +49,7 @@ AddonTable.transmog = {
     121168, -- Kal'delar Helm
     121170, -- Kal'delar Legplates
     121173, -- Kal'delar Vambraces
+    121184, -- Smolderhide Britches
     121186, -- Smolderhide Hood
     121187, -- Smolderhide Jerkin
     121205, -- Dreadroot Linked Belt
