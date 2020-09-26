@@ -30,6 +30,7 @@ AddonTable.transmog = {
     121057, -- Ettinbone Gauntlets
     121058, -- Ettinbone Girdle
     121061, -- Ettinbone Pauldrons
+    121062, -- Ettinbone Sabatons
     121063, -- Ettinbone Vambraces
     121072, -- Icepine Bindings
     121074, -- Icepine Britches

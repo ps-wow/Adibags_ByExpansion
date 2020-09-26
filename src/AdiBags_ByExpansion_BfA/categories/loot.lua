@@ -12,8 +12,12 @@ AddonTable.loot = {
     154823, -- Etched Bone Ring
     154825, -- Zala'mar Vambraces
 
+    155025, -- Outrigger Boots
+    155030, -- Outrigger Gloves
+    155037, -- Outrigger Legguards
     155055, -- Soul-Curse Executioner
     155072, -- Wavetamer Trident
+    155086, -- Keelson's Bloody Drape
     155095, -- Banisher Tunic
     155148, -- Silverwood Spire
     155156, -- First-Watcher's Lantern
@@ -202,11 +206,13 @@ AddonTable.loot = {
     158218, -- Dadalea's Wing
     158219, -- Petula's Locket
     158246, -- Sea Raider's Chausses
+    158248, -- Outrigger Links
     158256, -- Navigator's Mitts
     158258, -- Freebooter Handwraps
     158266, -- Southport Searchlight
     158276, -- Navigator's Bindings
     158277, -- Sea Raider's Wristguard
+    158278, -- Outrigger Bindings
     158387, -- Rastari Footguards
     158411, -- Jambani Girdle
     158423, -- Jambani Gloves
@@ -269,6 +275,7 @@ AddonTable.loot = {
     159820, -- Ironcrest Lantern [Off-Hand]
     159901, -- Breastplate of the Champion [A]
     159902, -- Vest of the Champion [A]
+    159903, -- Mail of the Champion [A]
     159904, -- Robes of the Champion [A]
     159908, -- Robes of the Champion [H]
     159977, -- Vindictive Golem Core
@@ -316,9 +323,11 @@ AddonTable.loot = {
     160885, -- Fort Daelin Lantern
     160888, -- Banisher Jerkin
     160907, -- Cowl of the Champion [A]
+    160908, -- Helm of the Champion [A]
     160910, -- Greathelm of the Champion
     160911, -- Cowl of the Champion [H]
     160913, -- Crown of the Champion
+    160916, -- Spaulders of the Champion [A]
     160963, -- Blood Jungle Stinger
     160972, -- Herculean Golden Sword
     160979, -- Ancient Chronicler's Focus
@@ -388,9 +397,14 @@ AddonTable.loot = {
     163533, -- Footman's Cleaver
     163536, -- Warmage's Spire
     163538, -- Footman's Gladius
+    163539, -- Spear of the Hunt
     163540, -- Footman's Boot Knife
+    163541, -- Longbow of the Hunt
     163542, -- Footman's Warmace
     163657, -- 7th Legionnaire's Tunic
+    163658, -- 7th Legionnaire's Spaulders
+    163659, -- 7th Legionnaire's Skullcap
+    163660, -- 7th Legionnaire's Chainmail
     163666, -- Honorbound Artificer's Mantle
     163668, -- Honorbound Outrider's Mantle
     163669, -- Honorbound Outrider's Faceguard
@@ -476,6 +490,7 @@ AddonTable.loot = {
     173817, -- Nefarious Tormentor's Trousers
     173822, -- Malignant Leviathan's Waistguard
 
+    174017, -- Corrupted Aspirant's Rifle
     174509, -- Tarnished Mark
     174953, -- Vile Manipulator's Wristwraps
     174954, -- Wristwraps of the Insatiable Maw

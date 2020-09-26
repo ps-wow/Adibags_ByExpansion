@@ -46,6 +46,8 @@ AddonTable.transmog = {
     159191, -- Brineworks Breastplate
     159192, -- Brineworks Gauntlets
     159193, -- Brineworks Girdle
+    159194, -- Brineworks Helmet
+    159196, -- Brineworks Pauldrons
     159199, -- Sagehold Cloak
     159204, -- Briarback Hood
     159206, -- Briarback Shoulderpads
@@ -198,6 +200,7 @@ AddonTable.transmog = {
     164446, -- Spiritbough Grasps
     164447, -- Mrrglurggl Girdle
     164469, -- Mrrglurggl Grips
+    164473, -- Mrrglurggl Spaulders
     164522, -- Voodoo Stalker's Chestguard
     164550, -- Whirling Dervish Gloves
     164570, -- Miststalker's Belt

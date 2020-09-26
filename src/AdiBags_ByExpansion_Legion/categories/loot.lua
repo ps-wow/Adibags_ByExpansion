@@ -22,6 +22,7 @@ AddonTable.loot = {
     121015, -- Academy Faculty Pin
     121028, -- Azurewing Pendant
     121055, -- Temporal Scholar's Wristwraps
+    121082, -- Thunder Totem Band
     121106, -- Hagfeather Leggings
     121124, -- Stormforged Idol
     121137, -- Stormwing Band
@@ -35,6 +36,12 @@ AddonTable.loot = {
     121580, -- Sablehide Boots
     121646, -- Witchmother Drape
     121658, -- Whitewater Sabatons
+    121663, -- Whitewater Gauntlets
+    121670, -- Whitewater Leggings
+    121679, -- Whitewater Cinch
+    121722, -- Staunch Warbrave Loop
+    121724, -- Whitewater Safety Blanket
+    121730, -- Ironbull's Sacrifice
     121735, -- Nightguard Stompers
     121759, -- Feather-Notched Belt
     121761, -- Skyfire Marine Vambraces
@@ -81,6 +88,11 @@ AddonTable.loot = {
     130125, -- Dreadbog Fungalflesh Cape
     130133, -- Undergrell Mobilehelm
     130135, -- Mana-Prowler Leggings
+    130282, -- Highmountain Trueshot Cape
+    130289, -- Whitewater Wristguards
+    130301, -- Whitewater Legwraps
+    130309, -- Band of Malorne's Chosen
+    130312, -- Explorer's Delving Loop
 
     131773, -- Flamescale Mail
     131781, -- Plate Hiking Boots
@@ -97,6 +109,14 @@ AddonTable.loot = {
     132963, -- Young Drake's Impulse
     132990, -- Fel-Resistant Clipping
 
+    133115, -- Stonedark Focus
+    133116, -- Bloodsinger Essence
+    133120, -- Frag's Core
+    133124, -- Ironbull's Last Words
+    133137, -- Wisps of Illusion
+    133138, -- Time-Lost Dragon Heart
+    133142, -- Stonedark Brul Brand
+    133146, -- The Four Winds
     133310, -- The Brood Queen's Veil
     133311, -- Demon-Rend Shoulderblades
     133312, -- Torment Ender's Chestguard

@@ -8,9 +8,11 @@ AddonTable.junk = {
     121336, -- Mossy Longbow
     121337, -- Permanently Jammed Blunderbuss
     121345, -- Weatherworn Belt
+    121347, -- Rust-Encrusted Wristguards
     121348, -- Sunbleached Wristwraps
     121350, -- Rust-Encrusted Leggings
     121352, -- Weatherworn Pants
+    121355, -- Weatherworn Shoulders
     121358, -- Sunbleached Handwraps
     121360, -- Warped-Plate Gauntlets
     121363, -- Warped-Plate Helmet
@@ -40,8 +42,10 @@ AddonTable.junk = {
     121388, -- Unseen Bindings
     121389, -- Fossilized Egg
     121390, -- Anund's Bandages
+    121393, -- Vexing Armada
     121397, -- Heavily Weighted Shoulderpads
     121402, -- Old Bloodsoaked Gauntlets
+    121405, -- Damaged Berserker's Plate Helm
     121407, -- Empty Rocket-Propelled Legplates
     121414, -- The Dreamweavers Ignorance
 
@@ -104,7 +108,11 @@ AddonTable.junk = {
     138307, -- Expired Stinky Cheese
     138480, -- Black Harvest Tome
 
+    140384, -- Azsharan Court Scepter
+
     141322, -- Shiny Silver Necklace
+    141396, -- The River's Blessing
+    141397, -- The Spiritwalker's Wisdom
     141876, -- Soul-Powered Containment Unit
     141888, -- Discarded Aristocrat's Censer
     141933, -- Citrine Telemancy Index

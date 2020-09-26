@@ -27,6 +27,7 @@ AddonTable.loot = {
     65658, -- Stonespeaker's Belt
 
     66885, -- Diamond-Studded Helm
+    66887, -- Beauty Jr.'s Collar
     66974, -- Nightrend Choker
     68915, -- Scales of Life
     68972, -- Apparatus of Khaz'goroth
