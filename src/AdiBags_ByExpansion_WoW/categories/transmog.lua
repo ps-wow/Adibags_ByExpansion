@@ -57,6 +57,7 @@ AddonTable.transmog = {
     8250,  -- Imperial Red Mantle
     8287,  -- Arcane Gloves
     8296,  -- Traveler's Jerkin
+    8307,  -- Hero's Boots
     8309,  -- Hero's Leggings
     8310,  -- Hero's Pauldrons
 
@@ -87,10 +88,12 @@ AddonTable.transmog = {
     10105, -- Wanderer's Armor
     10107, -- Wanderer's Bracers
     10135, -- High Councillor's Tunic
+    10136, -- High Councillor's Bracers
     10137, -- High Councillor's Boots
     10140, -- High Councillor's Gloves
     10142, -- High Councillor's Mantle
     10153, -- Mighty Spaulders
+    10154, -- Mercurial Girdle
     10156, -- Mercurial Bracers
     10158, -- Mercurial Guard
     10161, -- Mercurial Gauntlets
@@ -120,6 +123,7 @@ AddonTable.transmog = {
     10372, -- Imbued Plate Helmet
     10379, -- Commander's Helm
     10384, -- Hyperion Armor
+    10385, -- Hyperion Greaves
     10389, -- Hyperion Legplates
     10390, -- Hyperion Pauldrons
 
@@ -200,14 +204,18 @@ AddonTable.transmog = {
 
     -- Molten Core BoE's
     13060, -- The Needler
+    13126, -- Battlecaller Gauntlets
+    16799, -- Arcanist Bindings
     16802, -- Arcanist Belt
     16804, -- Felheart Bracers
     16806, -- Felheart Belt
     16817, -- Girdle of Prophecy
     16819, -- Vambraces of Prophecy
+    16825, -- Nightslayer Bracelets
     16827, -- Nightslayer Belt
     16828, -- Cenarion Belt
     16840, -- Earthfury Bracers
+    16850, -- Giantstalker's Bracers
     16851, -- Giantstalker's Belt
     16857, -- Lawbringer Bracers
     16858, -- Lawbringer Belt

@@ -8,8 +8,11 @@ AddonTable.loot = {
     34659, -- Acherus Knight's Shroud
 
     35683, -- Palladium Ring
+
     36173, -- Geist Tunic
     36385, -- Golem Pauldrons
+    36420, -- Gemstone Ring
+    36423, -- Posy Ring
     36428, -- Bouquet Ring
     36429, -- Spur Ring
     36444, -- Ice Encrusted Amulet
@@ -29,6 +32,7 @@ AddonTable.loot = {
 
     42767, -- Invigorating Sabatons
 
+    44358, -- Kilix's Silk Slippers
     44361, -- Greaves of the Traitor
 
     44683, -- King's Eyesocket

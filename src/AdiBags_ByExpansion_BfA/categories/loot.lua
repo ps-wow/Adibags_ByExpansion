@@ -117,6 +117,7 @@ AddonTable.loot = {
     157910, -- Gonk Outrunner Vest
     157911, -- Gonk Outrunner Striders
     157915, -- Gonk Outrunner Shoulderguards
+    157921, -- Pa'ku Windrider Helm
     157926, -- Breastplate of Rezan's Bladeguard
     157929, -- Greathelm of Rezan's Bladeguard
     157930, -- Shadra Silk Robes
@@ -371,6 +372,7 @@ AddonTable.loot = {
     162802, -- Spell-Splintered Pantaloons
     162803, -- Spell-Splintered Robes
     162804, -- Spell-Splintered Mantle
+    162824, -- Faithsworn Mitts (BfA PrePatch Event)
     162831, -- Ambuscade Tunic
     162835, -- Ambuscade Breeches
     162876, -- Dread Aspirant's Wand
@@ -378,6 +380,7 @@ AddonTable.loot = {
     162943, -- Dread Aspirant's Silk Gloves
     162946, -- Dread Aspirant's Chain Helm
     162959, -- Dread Aspirant's Silk Cuffs
+    162996, -- Faithsworn Staff (BfA PrePatch Event)
 
     163001, -- Ambuscade Sword
     163275, -- 7th Legionnaire's Cuffs

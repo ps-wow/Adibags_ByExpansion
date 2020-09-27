@@ -5,6 +5,7 @@ AddonTable.transmog = {
     154142, -- Coarse Leather Leggings
     154806, -- Torgashell Breastplate
     154808, -- Torgashell Greatbelt
+    154812, -- Torhashell Warboots
     154813, -- Torgashell Armplates
     154815, -- Festerroot Bindings
     154817, -- Festerroot Breeches
@@ -165,6 +166,7 @@ AddonTable.transmog = {
     160133, -- Brutohide Vest
     160135, -- Brutohide Belt
     160136, -- Golden City Signet
+    160137, -- Ravascale Belt
     160138, -- Ravascale Bracers
     160141, -- Ravascale Helm
     160142, -- Ravascale Legguards
@@ -186,6 +188,7 @@ AddonTable.transmog = {
     160171, -- Bonepicker Cinch
     160172, -- Bonepicker Armguards
     160174, -- Bonepicker Footguards
+    160175, -- Bonepicker Helmet
     160176, -- Bonepicker Legguards
     160178, -- Bonepicker Undermail
     160180, -- Skycaller Cowl

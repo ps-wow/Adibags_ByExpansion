@@ -17,6 +17,7 @@ AddonTable.junk = {
     25345, -- Dilapidated Cloth Hat
     25346, -- Dilapidated Cloth Pants
     25347, -- Dilapidated Cloth Shoulderpads
+    25350, -- Moldy Leather Belt
     25354, -- Moldy Leather Helmet
     25357, -- Decaying Leather Armor
     25358, -- Decaying Leather Belt
@@ -62,17 +63,25 @@ AddonTable.junk = {
     25426, -- Brilliant Feather
     25428, -- Savage Talon
     25429, -- Grime-Encrusted Scale
+    25435, -- Hardened Carapace
+    25437, -- Barbed Leg
     25445, -- Wretched Ichor
     25451, -- Swamp Moss
+    25453, -- Death Cap Fungus
+    25454, -- Liminescent Globe
     25456, -- Glowing Spores
 
     25813, -- Small Mushroom
+
+    27676, -- Strange Spores
 
     30812, -- Iridescent Scale
     31501, -- Tome of Conjure Food
     31944, -- Demonic Capacitor
 
     33547, -- Hardened Claw
+
+    36801, -- Crooked Fang
 
     56206, -- Insect nociceptor Sample
 }

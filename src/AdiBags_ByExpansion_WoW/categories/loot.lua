@@ -17,6 +17,7 @@ AddonTable.loot = {
 
     7489, -- Captain's Gauntlets
 
+    9243, -- Shriveled Troll Heart
     9743, -- Simple Shoes
     9755, -- Gypsy Gloves
     9763, -- Cadet Leggings

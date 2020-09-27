@@ -1,5 +1,6 @@
 local AddonName, AddonTable = ...
 AddonTable.bwl = {
+    19438,
     -- Shared Boss Loot
     16899,
     16907,

@@ -14,6 +14,7 @@ AddonTable.consumable = {
 }
 
 AddonTable.foodDrink = {
+    33444, -- Pungent Seal Whey
     33445, -- Honeymind Tea (mana)
     33452, -- Honey-Spiced Lichen
     35947, -- Sparkling Frostcap (hp)

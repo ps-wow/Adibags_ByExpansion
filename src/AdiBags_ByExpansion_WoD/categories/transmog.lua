@@ -81,6 +81,7 @@ AddonTable.transmog = {
     116638, -- Howling Spear
     116640, -- Howling Staff
     116641, -- Howling Sword
+    116643, -- Oshu'gun Wand
     116699, -- Growthshaper Cloak
     116721, -- Ancestral Branch
 

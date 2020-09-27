@@ -4,6 +4,7 @@ AddonTable.transmog = {
     24590, -- Fireheart Boots
     24602, -- Starfire Trousers
     24613, -- Vindicator Belt
+    24614, -- Vindicator Boots
     24619, -- Vindicator Shoulderpads
     24625, -- Slavehandler Cap
     24671, -- Eldr'naan Jerkin
@@ -21,6 +22,7 @@ AddonTable.transmog = {
     24692, -- Elementalist Bracelets
     24699, -- Bonechewer Shoulderguards
     24709, -- Vengeance Belt
+    24748, -- Ranger Armguards
     24772, -- Clefthoof Bracers
     24778, -- Boneshredder Britches
     24788, -- Murkblood Shoulderguards
@@ -31,6 +33,7 @@ AddonTable.transmog = {
     24841, -- Wrathfin Gloves
     24853, -- Fenclaw Bindings
     24863, -- Blood Knight Boots
+    24869, -- Blood Knight Bracers
     24890, -- Skettis Helmet
     24900, -- Sundered Spaulders
     24902, -- Talhide Stitched-Belt
@@ -57,11 +60,11 @@ AddonTable.transmog = {
     25125, -- Retro-Spike Club
     25153, -- Gladiator Greatblade
     25189, -- Ironspine Point
+    25190, -- Wight's Claws
     25208, -- Bladespire Broadaxe
     25225, -- Deepforge Broadaxe [2H Axe]
     25243, -- Windtalker Bow
     25286, -- Yew Wand
+    25303, -- Amplifying Blade
     25322, -- Lordly Scepter
-
-    35965, -- Bloodspore Robe
 }

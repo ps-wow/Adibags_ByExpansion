@@ -1,6 +1,7 @@
 local AddonName, AddonTable = ...
 
 AddonTable.bwl = {
+    19438, -- Ringo's Blizzard Boots
     -- Shared Boss Loot
     16899, -- Stormrage Handguards
     16907, -- Bloodfang Gloves
