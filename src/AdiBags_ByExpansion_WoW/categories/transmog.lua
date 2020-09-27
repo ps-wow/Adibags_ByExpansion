@@ -85,6 +85,7 @@ AddonTable.transmog = {
     10101, -- Councillor's Pants
     10104, -- Councillor's Tunic
     10105, -- Wanderer's Armor
+    10107, -- Wanderer's Bracers
     10135, -- High Councillor's Tunic
     10137, -- High Councillor's Boots
     10140, -- High Councillor's Gloves

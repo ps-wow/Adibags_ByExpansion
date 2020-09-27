@@ -24,9 +24,13 @@ AddonTable.loot = {
     155158, -- Alderwood Loop
     155159, -- Waycrest Inquisitor's Cloak
     155168, -- Darkwater Tunic (Quest)
+    155171, -- Stormchaster Boots
     155172, -- Darkwater Boots
+    155176, -- Stormchaser Gloves
     155180, -- Darkwater Hood
+    155183, -- Stormchaser Legguards
     155184, -- Darkwater Breeches
+    155192, -- Stormchaster Belt
     155218, -- Kraulguard Poleaxe
     155219, -- Zeth'jir Scaleguard Pillar
     155221, -- Stormfused Spire
@@ -141,6 +145,8 @@ AddonTable.loot = {
     157978, -- Seafarer Breeches
     157979, -- Seafarer Shoulderpads
     157981, -- Seafarer Armguards
+    157985, -- Crosswind Helmet
+    157986, -- Crosswind Legguards
     157989, -- Crosswind Wristguards
     157992, -- Harbormaster Gauntlets
     157993, -- Harbormaster Faceguard
@@ -160,6 +166,7 @@ AddonTable.loot = {
     158012, -- Gravethorn Belt
     158013, -- Gravethorn Wristwraps
     158017, -- Ashenwood Helm
+    158021, -- Ashenwood Bracers
     158022, -- Bleakweald Chestguard
     158024, -- Bleakweald Handguards
     158025, -- Bleakweald Greathelm
@@ -172,6 +179,7 @@ AddonTable.loot = {
     158037, -- Squallshaper Cuffs
     158039, -- Fairweather Boots
     158041, -- Fairweather Helm
+    158050, -- Deadwash Greaves
     158057, -- Shoalbreach Helm
     158058, -- Squallshaper Vestments
     158059, -- Shoalbreach Legguards
@@ -418,6 +426,8 @@ AddonTable.loot = {
     163870, -- Honorbound Bonebreaker
     163874, -- Honorbound Decapitator
     163876, -- Honorbound Focus
+    163881, -- 7th Legionnaire's Longbow
+    163885, -- 7th Legionnaire's Halberd
     163886, -- 7th Legionnaire's Stave
     163890, -- 7th Legionnaire's Claymore
     163892, -- 7th Legionnaire's Censer
@@ -449,13 +459,16 @@ AddonTable.loot = {
 
     170110, -- Zanj'ir Scaleguard Legplates (Benethic)
     170133, -- Shirakess Grips
-    170140, -- Akana's Reefstrider Soles (Benethic)
+    170140, -- Akana's Reefstrider Soles / Treads (Benethic)
     170515, -- 7th Legionnaire's Vest
     170516, -- Honorbound Artificer's Robes
     170517, -- Honorbound Vanguard's Chainmail
     170520, -- 7th Legionnaire's Hood
     170521, -- 7th Legionnaire's Leather Mantle
     170522, -- 7th Legionnaire's Visage
+    170523, -- 7th Legionnaire's Monnion
+    170524, -- 7th Legionnaire's Helm
+    170525, -- 7th Legionnaire's Chainmail
     170526, -- 7th Legionnaire's Shoulderplates
     170528, -- 7th Legionnaire's Chestguard
     170537, -- Honorbound Centurion's Breastplate
