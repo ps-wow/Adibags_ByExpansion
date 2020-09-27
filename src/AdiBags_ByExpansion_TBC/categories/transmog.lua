@@ -3,6 +3,7 @@ local AddonName, AddonTable = ...
 AddonTable.transmog = {
     24590, -- Fireheart Boots
     24602, -- Starfire Trousers
+    24613, -- Vindicator Belt
     24619, -- Vindicator Shoulderpads
     24625, -- Slavehandler Cap
     24671, -- Eldr'naan Jerkin
@@ -55,9 +56,12 @@ AddonTable.transmog = {
     25112, -- Fel Ripper
     25125, -- Retro-Spike Club
     25153, -- Gladiator Greatblade
+    25189, -- Ironspine Point
     25208, -- Bladespire Broadaxe
     25225, -- Deepforge Broadaxe [2H Axe]
     25243, -- Windtalker Bow
     25286, -- Yew Wand
     25322, -- Lordly Scepter
+
+    35965, -- Bloodspore Robe
 }
