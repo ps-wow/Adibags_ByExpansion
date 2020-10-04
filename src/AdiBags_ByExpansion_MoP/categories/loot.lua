@@ -71,6 +71,7 @@ AddonTable.loot = {
     90382, -- Captain Roger's Polite Knocking Stick
     90383, -- Skyfire Troopers Mace
     90389, -- Skyguardian's Shield
+    90449, -- Belt of Detonation
     90719, -- Go-Kan's Golden Trousers
     90910, -- Mindfire Sollerets
 
@@ -79,6 +80,7 @@ AddonTable.loot = {
     101810, -- Amaranthine Wristwraps (Timeless Cloth Bracers)
 
     113785, -- Kyparite Girdle
+    113788, -- Blossoming Belt
 
     -- Sets (Warlock)
     87189, -- Sha-Skin Leggings

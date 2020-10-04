@@ -6,12 +6,14 @@ AddonTable.junk = {
 
     23938, -- Pristine Ravager Carapace
 
+    24368, -- Coilfang Armaments
     24508, -- Elemental Fragment
     24511, -- Primordial Essence
     24576, -- Loosely Threaded Belt
 
     25340, -- Loosely Threaded Vest
     25341, -- Dilapidated Cloth Belt
+    25342, -- Dilapidated Cloth Boots
     25343, -- Dilapidated Cloth Bracers
     25344, -- Dilapidated Cloth Gloves
     25345, -- Dilapidated Cloth Hat
@@ -41,6 +43,7 @@ AddonTable.junk = {
     25386, -- Tarnished Plate Helmet
     25387, -- Tarnished Plate Pants
     25388, -- Tarnished PLate Shoulderpads
+    25389, -- Deteriorating Plate Belt
     25390, -- Deteriorating Plate Boots
     25391, -- Deteriorating Plate Bracers
     25392, -- Deteriorating Plate Chestpiece
@@ -75,7 +78,10 @@ AddonTable.junk = {
 
     27676, -- Strange Spores
 
+    29549, -- Codex: Prayer of Fortitude
+
     30812, -- Iridescent Scale
+    30814, -- Enormous Molar
     31501, -- Tome of Conjure Food
     31944, -- Demonic Capacitor
 

@@ -27,4 +27,8 @@ AddonTable.shatteredhalls = {
     27537,
     27531,
     27527,
+    -- Quest Rewards
+    25806,
+    --- How to Save a Life
+    25792,
 }

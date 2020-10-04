@@ -5,7 +5,6 @@ AddonTable.loot = {
     112431, -- Hollowheart Legguards
     112432, -- Hollowheart Chain Leggings
     112433, -- Hollowheart Trousers
-    112434, -- Hollowheart Pantaloons
     112450, -- Illidari Blindfold
     112451, -- Illidari Leggings
     112452, -- Illidari Bracers
@@ -191,6 +190,8 @@ AddonTable.loot = {
 
     150997, -- Crystallized Aether [Arcane Artifact Relic]
 
+    152783, -- Mac'Aree Focusing Amethyst
+
     -- Dauntless
     147215, -- Dauntless Gauntlets (BoA)
     147223, -- Dauntless Trinket
@@ -224,6 +225,7 @@ AddonTable.loot = {
     153153, -- Unsullied Plate Pauldrons (BoA)
     153155, -- Unsullied Plate Helmet (BoA)
     153157, -- Unsullied Plate Gauntlets (BoA)
+    153343, -- Triumvirate High Guard's Gauntlets
 
     -- Order Hall Champion Equipment
     156630, -- Relinquished Armor Set
@@ -246,4 +248,7 @@ AddonTable.loot = {
     153764, -- Springrain Idol (Trinket/Driud)
     153767, -- Springrain Stone (Trinket/Driud)
     153783, -- Springrain Cloak (Leather/Druid)
+
+    -- Legendaries
+    143728, -- Timeless Stratagem
 }

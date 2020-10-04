@@ -12,6 +12,7 @@ AddonTable.loot = {
     107308, -- Karabor Skirmisher Belt
     107313, -- Karabor Honor Guard Girdle
     107318, -- Karabor Sage Cord
+    107658, -- Thunderlord Longspear
     107662, -- Primalist's Prismatic Pendant
 
     108900, -- Cragsman Gloves
@@ -24,6 +25,7 @@ AddonTable.loot = {
     108909, -- Karabor Footman's Pike
     108912, -- Karabor Greatsword
     108918, -- Karabor Arcanist Rod
+    108919, -- Karabor Augury Mace
     108945, -- Void-Boiled Squirrel
     108957, -- Venomshade Skin Boots
     108972, -- Blind Fel-Eye Ring
@@ -36,14 +38,18 @@ AddonTable.loot = {
     109078, -- Killmaw's Canine
     109081, -- Ronokk's Greatcloak
 
+    111415, -- Gnawbone Knife
     111948, -- Gruuk's Evil Eye
     111953, -- Bat-Leather Breeches
 
     112077, -- Grutush's Fur-Padded Pantaloons
     112371, -- Warpstalker-Scale Grips
     112389, -- Iron Horde Warcudgel
+    112392, -- Iron Horde Ritual Staff
     112393, -- Iron Horde Waraxe
     112395, -- Iron Horde Bramblestaff
+    112096, -- Dented Ogre Skullcap
+    112434, -- Hollowheart Pantaloons
     112440, -- Slavebreaker Robes
     112442, -- Slavebreaker Chainmail
     112443, -- Slavebreaker Chestguard
@@ -89,6 +95,7 @@ AddonTable.loot = {
     114984, -- Mysterious Satchel (Quest Item)
 
     116112, -- Ra'kahn's Bite
+    116116, -- Blazegrease Greatsword
     116124, -- Scaled Riverbeast
     116132, -- Snail Shell Necklace
     116687, -- Oshu'gun Amulet
@@ -146,9 +153,13 @@ AddonTable.loot = {
     118253, -- Trophy Band of Telaar
     118254, -- Trophy Signet of the Sabermaw
     118255, -- Trophy Ring of Gordal
+    118264, -- Serrated Void Crystal
     118279, -- Hermit's Hood
     118687, -- Grizzled Wolfskin Cloak
+    118702, -- Brokor's Walking Stick
+    118712, -- Huurand's Huge Hammer
     118713, -- Iron Lookout's Aralest
+    118717, -- Beastskull Vessel
     118734, -- Sneevel's Loincloth
     118735, -- Bloodbathed Outcast Robes
     118843, -- Eleece's Braced Gorget

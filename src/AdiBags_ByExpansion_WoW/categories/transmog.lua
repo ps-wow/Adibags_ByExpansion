@@ -7,6 +7,7 @@ AddonTable.transmog = {
 
     1203,  -- Aegis of Stormwind
     1625,  -- Exquisite Flamberge
+    1994,  -- Ebonclaw Reaver
 
     2034,  -- Scholarly Robes
     2078,  -- Northern Shortsword
@@ -17,12 +18,15 @@ AddonTable.transmog = {
 
     3042,  -- BKP "Sparrow" Smallbore
     3184,  -- Hook Dagger
+    3186,  -- Viking Sword
     3193,  -- Oak Mallet
     3196,  -- Edged Bastard Sword
+    3197,  -- Stonecutter Claymore
     3651,  -- Veteran Shield
     3652,  -- Hunting Buckler
     3740,  -- Decapitating Sword
 
+    4073,  -- Glimmering Mail Greaves
     4567,  -- Merc Sword
     4576,  -- Light Bow
     4577,  -- Compact Shotgun
@@ -30,12 +34,15 @@ AddonTable.transmog = {
     4721,  -- Insignia Mantle
     4733,  -- Blackforge Pauldrons
 
+    5071,  -- Shadow Wand
     5207,  -- Opaque Wand
     5267,  -- Scarlet Kris
 
     6386,  -- Glimmering Mail Legguards
+    6413,  -- Chief Brigadier Bracers
     6540,  -- Willow Pants
     6542,  -- Willow Cape
+    6547,  -- Soldier's Gauntlets
     6557,  -- Bard's Boots
     6558,  -- Bard's Belt
     6565,  -- Shimmering Gloves
@@ -49,13 +56,16 @@ AddonTable.transmog = {
     7432,  -- Twilight Cowl
     7435,  -- Twilight Mantle
     7456,  -- Knight's Headguard
+    7459,  -- Knight's Pauldrons
     7481,  -- Ranger Boots
+    7526,  -- Gossamer Belt
 
     8111,  -- Hibernal Mantle
     8199,  -- Battlefield Destroyer
     8249,  -- Imperial Red Gloves
     8250,  -- Imperial Red Mantle
     8287,  -- Arcane Gloves
+    8289,  -- Arcane Leggings
     8296,  -- Traveler's Jerkin
     8307,  -- Hero's Boots
     8309,  -- Hero's Leggings
@@ -66,6 +76,7 @@ AddonTable.transmog = {
     9778,  -- Bandit Buckler
     9782,  -- Bandit Jerkin
     9785,  -- Raider's Bracers
+    9786,  -- Raider's Cloak
     9787,  -- Raider's Gauntlets
     9791,  -- Ivycloth Tunic
     9799,  -- Ivycloth Sash
@@ -75,9 +86,13 @@ AddonTable.transmog = {
     9814,  -- Fortified Belt
     9824,  -- Durable Shoulders
     9835,  -- Scaled Leather Tunic
+    9848,  -- Conjurer's Gloves
     9852,  -- Conjurer's Robe
     9877,  -- Sorcerer Cloak
+    9879,  -- Sorcerer Bracelets
     9897,  -- Jazeraint Chestguard
+    9907,  -- Royal Boots
+    9940,  -- Abjurer's Hood
     9953,  -- Chieftain's Headdress
     9964,  -- Warmonger's Leggings
 
@@ -99,6 +114,7 @@ AddonTable.transmog = {
     10161, -- Mercurial Gauntlets
     10185, -- Swashbuckler's Cape
     10203, -- Overlord's Chestplate
+    10209, -- Overlord's Spaulders
     10210, -- Elegant Mantle
     10217, -- Elegant Leggings
     10226, -- Nightshade Helmet
@@ -149,6 +165,7 @@ AddonTable.transmog = {
     14306, -- Bonecaster's Vest
     14415, -- Stonecloth Britches
     14431, -- Windchaser Handguards
+    14551, -- Edgemaster's Handguards
     14553, -- Sash of Mercy
     14559, -- Prospector's Sash
     14562, -- Prospector's Chestpiece
@@ -167,11 +184,13 @@ AddonTable.transmog = {
     15227, -- Diamond-Tip Bludgeon
     15239, -- Felstone Reaver
     15241, -- Battle Knife
+    15244, -- Razor Blade
     15245, -- Vorpal Dagger
     15246, -- Demon Blade
     15248, -- Gleaming Claymore
     15267, -- Brutehammer
     15272, -- Razor Axe
+    15279, -- Ivory Wand
     15287, -- Crusader Bow
     15288, -- Blasthorn Bow
     15296, -- Hawkeye Bow
@@ -233,4 +252,5 @@ AddonTable.transmog = {
     13077, -- Girdle of Uther
     14982, -- Exalted Shield
     13125, -- Elven Chain Boots
+    13006, -- Mass of McGowan
 }

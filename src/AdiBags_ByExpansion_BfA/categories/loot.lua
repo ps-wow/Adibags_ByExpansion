@@ -491,6 +491,7 @@ AddonTable.loot = {
     172854, -- Corrupted Aspirant's Shawl
 
     173414, -- Black Empire Cloth Robes [BoA]
+    173416, -- Black Empire Cloth Gloves [BoA]
     173418, -- Black Empire Cloth Leggings [BoA]
     173422, -- Black Empire Plate Bracers [BoA]
     173431, -- Vile Manipulator's Footwraps

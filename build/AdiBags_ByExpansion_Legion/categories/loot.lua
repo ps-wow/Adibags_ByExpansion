@@ -4,7 +4,6 @@ AddonTable.loot = {
     112431,
     112432,
     112433,
-    112434,
     112450,
     112451,
     112452,
@@ -173,6 +172,7 @@ AddonTable.loot = {
     146769,
     146775,
     150997,
+    152783,
     -- Dauntless
     147215,
     147223,
@@ -205,6 +205,7 @@ AddonTable.loot = {
     153153,
     153155,
     153157,
+    153343,
     -- Order Hall Champion Equipment
     156630,
     -- BfA War of the Thorns
@@ -224,4 +225,6 @@ AddonTable.loot = {
     153764,
     153767,
     153783,
+    -- Legendaries
+    143728,
 }

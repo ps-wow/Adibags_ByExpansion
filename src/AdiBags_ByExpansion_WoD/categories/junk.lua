@@ -115,6 +115,7 @@ AddonTable.junk = {
     118692, -- Sethekk Idol
     118693, -- Rukhmar's Image
     118694, -- Statue of Anzu
+    118703, -- Diary of Balldir Deeprock
     118715, -- Cracked Femur
     118898, -- Rusted Canary Cage
     118899, -- Crumbled Gem Shards

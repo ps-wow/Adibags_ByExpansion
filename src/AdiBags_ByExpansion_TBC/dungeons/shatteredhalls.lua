@@ -28,4 +28,8 @@ AddonTable.shatteredhalls = {
     27537, -- Gloves of Oblivion
     27531, -- Wastewalker Gloves
     27527, -- Greaves of the Shatterer
+    -- Quest Rewards
+    25806, -- Nethekurse's Rod of Torment
+    --- How to Save a Life
+    25792, -- Curate's Boots
 }

@@ -89,6 +89,7 @@ AddonTable.junk = {
     39552, -- Dissolved Skull
     39567, -- Rubicund Scale
     39568, -- Hollow Fang
+    39569, -- Bent Basilisk Fang
 
     43851, -- Fur Clothing Scraps
     43852, -- Thick Fur Clothing Scraps
