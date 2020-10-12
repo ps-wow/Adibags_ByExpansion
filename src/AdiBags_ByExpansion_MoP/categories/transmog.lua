@@ -4,6 +4,7 @@ local AddonName, AddonTable = ...
 AddonTable.transmog = {
     81972, -- Stitched Robe
     81979, -- Silent Boots
+    82014, -- Polished Staff
     82021, -- Steppe Belt
     82027, -- Steppe Spaulders
     82029, -- Reed Cord
@@ -12,9 +13,14 @@ AddonTable.transmog = {
     82069, -- Brick Girdle
     82070, -- Brick Helm
     82073, -- Brick Sabatons
+    82076, -- Snake Belt
     82089, -- Growing Sandals
+    82095, -- Mushan Hide Gloves
+    82099, -- Mushan Hide Waistband
     82148, -- Swamp Boots
     82184, -- Snowy Shield
+    82192, -- Mountain Spaulders
+    82193, -- Mountain Vest
     82196, -- Trellised Handwraps
     82197, -- Trellised Leggings
     82198, -- Trellised Robe

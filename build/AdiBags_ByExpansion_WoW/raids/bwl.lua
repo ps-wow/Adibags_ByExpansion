@@ -3,6 +3,7 @@ AddonTable.bwl = {
     19434,
     19436,
     19435,
+    19438,
     -- Shared Boss Loot
     16899,
     16907,
@@ -92,6 +93,7 @@ AddonTable.bwl = {
     19432,
     19431,
     -- Chromaggus
+    19390,
     16832,
     16902,
     16917,

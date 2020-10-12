@@ -11,6 +11,7 @@ AddonTable.loot = {
     25059, -- Fire Opal Collar
     25069, -- Epidote Stone Necklace
 
+    28029, -- Goldenvine Wraps
     28052, -- Goldweave Tunic
 
     29910, -- The Staff of Twin Worlds

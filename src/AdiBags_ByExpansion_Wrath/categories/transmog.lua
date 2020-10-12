@@ -2,6 +2,7 @@ local AddonName, AddonTable = ...
 
 AddonTable.transmog = {
     35579, -- Vrykul Shackles [Utgarde Keep]
+    35965, -- Bloodspore Robe
     35993, -- Bristlepine Shoulderpads
 
     36006, -- Icemist Gloves
@@ -37,6 +38,7 @@ AddonTable.transmog = {
     36167, -- Webspinner Hood
     36169, -- Webspinner Shoulderguards
     36170, -- Webspinner Bindings
+    36200, -- Skom Leggings
     36233, -- Trapper Shoulderguards
     36262, -- Cormorant Gloves
     36264, -- Cormorant Leggings

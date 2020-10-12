@@ -4,6 +4,7 @@ AddonTable.bwl = {
     19434, -- Band of Dark Dominion
     19436, -- Cloak of Draconic Might
     19435, -- Essence Gatherer
+    19438, -- Ringo's Blizzard Boots
     -- Shared Boss Loot
     16899, -- Stormrage Handguards
     16907, -- Bloodfang Gloves
@@ -93,6 +94,7 @@ AddonTable.bwl = {
     19432, -- Circle of Applied Force
     19431, -- Styleen's Impeding Scarab
     -- Chromaggus
+    19390, -- Taut Dragonhide Gloves
     16832, -- Bloodfang Spaulders
     16902, -- Stormrage Pauldrons
     16917, -- Netherwind Mantle

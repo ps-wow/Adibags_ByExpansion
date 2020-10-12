@@ -27,4 +27,6 @@ AddonTable.gnomeregan = {
     9458,
     9492,
     9461,
+    -- Quest Rewards
+    65987,
 }

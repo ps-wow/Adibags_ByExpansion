@@ -10,6 +10,8 @@ AddonTable.junk = {
     33369, -- Frost-Rimed Cloth Pants
     33370, -- Frost-Rimed Cloth Shoulderpads
     33371, -- Frost-Rimed Cloth Vest
+    33372, -- Fur-Lined Armor
+    33375, -- Fur-Lined Bracers
     33376, -- Fur-Lined Gloves
     33378, -- Fur-Lined Shoulderpads
     33379, -- Frozen Armor
@@ -21,6 +23,7 @@ AddonTable.junk = {
     33391, -- Icy Mail Belt
     33393, -- Icy Mail Bracers
     33395, -- Icy Mail Pants
+    33396, -- Icy Mail Shoulderpads
     33397, -- Frigid Mail Armor
     33398, -- Frigid Mail Belt
     33399, -- Frigid Mail Boots
@@ -29,6 +32,7 @@ AddonTable.junk = {
     33402, -- Frigid Mail Pants
     33403, -- Frigid Mail Shoulderpads
     33406, -- Ice-Bound Plate Bracers
+    33410, -- Ice-Bound Plate Shoulderpads
     33412, -- Frost-Worn Plate Belt
     33413, -- Frost-Worn Plate Boots
     33414, -- Frost-Worn Plate Bracers
@@ -52,6 +56,7 @@ AddonTable.junk = {
     33436, -- Frost-Rimed Cloth Hat
     33556, -- Pearly Seashell Fragment
     33561, -- Hardened Flipper
+    33629, -- Frosty Spinneret
     33631, -- Frosted Claw
     33632, -- Icicle Fang
 
@@ -70,6 +75,7 @@ AddonTable.junk = {
     39210, -- Shattered Stone
     39211, -- Serrated Fang
     39212, -- Indurate Claw
+    39218, -- Reticulated Fang
     39219, -- Sawtooth Talon
     39220, -- Geodesic Fragments
     39317, -- News From The North
@@ -84,6 +90,7 @@ AddonTable.junk = {
     39552, -- Dissolved Skull
     39567, -- Rubicund Scale
     39568, -- Hollow Fang
+    39569, -- Bent Basilisk Fang
 
     43851, -- Fur Clothing Scraps
     43852, -- Thick Fur Clothing Scraps
@@ -100,6 +107,7 @@ AddonTable.junk = {
     44777, -- Spiral Fang
     44778, -- Hefty Barrel
     44781, -- Sparkly Raptor War Feather
+    44782, -- Bent Raptor Talon
 
     45199, -- Old Boot
 

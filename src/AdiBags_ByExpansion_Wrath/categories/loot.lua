@@ -8,8 +8,11 @@ AddonTable.loot = {
     34659, -- Acherus Knight's Shroud
 
     35683, -- Palladium Ring
+
     36173, -- Geist Tunic
     36385, -- Golem Pauldrons
+    36420, -- Gemstone Ring
+    36423, -- Posy Ring
     36428, -- Bouquet Ring
     36429, -- Spur Ring
     36444, -- Ice Encrusted Amulet
@@ -29,6 +32,7 @@ AddonTable.loot = {
 
     42767, -- Invigorating Sabatons
 
+    44358, -- Kilix's Silk Slippers
     44361, -- Greaves of the Traitor
 
     44683, -- King's Eyesocket
@@ -41,10 +45,12 @@ AddonTable.loot = {
 
     112346, -- Ice-Encrusted Plate Headguard
     112348, -- Snow-Coated Cloth Cap
+    112350, -- Icefall Mail Helm
     112354, -- Ice-Encrusted Plate Legguards
     112355, -- Snow-Coated Cloth Leggings
     112357, -- Icefall Mail Leggings
     112361, -- Ice-Encrusted plate belt
+    112364, -- Icefall Mail Girdle
     112367, -- Snow-Coated Cloth Belt
     113683, -- Coldwrap Cloak
     113684, -- Icecrust Cloak

@@ -93,4 +93,7 @@ AddonTable.throne = {
     56277, -- decapod-slippers
     56278, -- anomuran-helm
     56280, -- porcelain-crab
+    -- Quest Rewards
+    --- Sins of the Sea Witch
+    65657, -- Deepmist Robes
 }

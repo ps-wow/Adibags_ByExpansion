@@ -31,6 +31,7 @@ AddonTable.loot = {
     86529, -- Manipulator's Talisman [BoA]
     86572, -- Terracotta Fragment
 
+    87500, -- Brooch of Munificient Deeds [BoA]
     87586, -- Forest Trickster's Leggings
     87587, -- Orchard Tender's Leggings
     87588, -- Leggings of Spiritsong Melody
@@ -57,6 +58,7 @@ AddonTable.loot = {
     87639, -- Tattered Guo-Lai Dynasty Cloak
     87651, -- Pathwalker Greatstaff
 
+    90348, -- Chain Armor of Eminent Domain
     90350, -- Satin Robe of Eminent Domain
     90352, -- Ringmail Armor of Eminent Domain
     90355, -- Heavy Chestpiece of Eminent Domain
@@ -71,6 +73,7 @@ AddonTable.loot = {
     90382, -- Captain Roger's Polite Knocking Stick
     90383, -- Skyfire Troopers Mace
     90389, -- Skyguardian's Shield
+    90449, -- Belt of Detonation
     90719, -- Go-Kan's Golden Trousers
     90910, -- Mindfire Sollerets
 
@@ -80,12 +83,14 @@ AddonTable.loot = {
 
     113711, -- Sparkmail Legguards
     113785, -- Kyparite Girdle
+    113788, -- Blossoming Belt
 
     -- Sets (Warlock)
     87189, -- Sha-Skin Leggings
     87191, -- Sha-Skin Mantle
 
     -- Tranquil Satchel of Helpful Goods (Random MoP Dungeon Bonus Loot)
+    113723, -- Sparkmail Gauntlets
     113729, -- Kyparite Headguard
     113735, -- Drifting Cloud Necklace
     113738, -- Kyparite Chestguard
@@ -93,6 +98,8 @@ AddonTable.loot = {
     113744, -- Kyparite Gauntlets
     113747, -- Venomtail Gauntlets
     113750, -- Kyparite Shoulderguards
+    113753, -- Venomtail Shoulderguards
+    113755, -- Ring of Flowing Water
     113756, -- Loop of Inner Clarity
     113764, -- Blossoming Cap
     113765, -- Blossoming Robe

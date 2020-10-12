@@ -3,6 +3,7 @@ local AddonName, AddonTable = ...
 -- WoD Transmog
 AddonTable.transmog = {
     106392, -- Bladespire Girdle
+    106398, -- Bladespire Vambraces
     106407, -- Lunarglow Cord
     106408, -- Lunarglow Cowl
     106410, -- Lunarglow Leggings
@@ -12,11 +13,17 @@ AddonTable.transmog = {
     106457, -- Rockspine Gauntlets
     106468, -- Tailthrasher Gloves
     106470, -- Tailthrasher Jerkin
+    106427, -- Rimeplate Legplates
+    106429, -- Rimeplate Sabatons
+    106433, -- Voidcaller Boots
+    106457, -- Rockspine Gauntlets
+    106468, -- Tailthrasher Gloves
     106475, -- Iyun Handwraps
     106483, -- Tangleheart Gauntlets
     106484, -- Tangleheart Greaves
     106485, -- Tangleheart Helm
     106488, -- Tangleheart Vest
+    106494, -- Shardback Pauldrons
     106500, -- Steamscar Britches
     106502, -- Steamscar Hood
     106520, -- Highland Spaulders
@@ -28,6 +35,7 @@ AddonTable.transmog = {
     106683, -- Snarlthorn Helm
     106689, -- Ironfist Girdle
     106691, -- Ironfist Legplates
+    106692, -- Ironfist Pauldrons
     106694, -- Ironfist Shield
     106696, -- Sabermaw Bindings
     106697, -- Sabermaw Boots
@@ -67,12 +75,15 @@ AddonTable.transmog = {
 
     116464, -- Frostbitten Gun
     116475, -- Lunarglow Broadaxe
+    116480, -- Lunarglow Knuckles
     116493, -- Vinewrapped Bow
     116497, -- Vinewrapped Knuckles
     116514, -- Creeperclaw Knuckles
     116515, -- Creeperclaw Gun
     116517, -- Evermorn Scepter
+    116511, -- Creeperclaw Crossbow
     116521, -- Creeperclaw Staff
+    116522, -- Creeperclaw Sword
     116588, -- Longclaw Staff
     116593, -- Bloodmane Axe
     116594, -- Bloodmane Broadaxe
@@ -97,6 +108,9 @@ AddonTable.transmog = {
     116638, -- Howling Spear
     116640, -- Howling Staff
     116641, -- Howling Sword
+    116643, -- Oshu'gun Wand
+    116699, -- Growthshaper Cloak
+    116703, -- Evermorn Twig
     116721, -- Ancestral Branch
 
     118803, -- Kihrawr's Scratching Post

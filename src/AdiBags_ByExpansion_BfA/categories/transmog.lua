@@ -5,6 +5,7 @@ AddonTable.transmog = {
     154142, -- Coarse Leather Leggings
     154806, -- Torgashell Breastplate
     154808, -- Torgashell Greatbelt
+    154812, -- Torhashell Warboots
     154813, -- Torgashell Armplates
     154815, -- Festerroot Bindings
     154817, -- Festerroot Breeches
@@ -49,6 +50,8 @@ AddonTable.transmog = {
     159191, -- Brineworks Breastplate
     159192, -- Brineworks Gauntlets
     159193, -- Brineworks Girdle
+    159194, -- Brineworks Helmet
+    159196, -- Brineworks Pauldrons
     159199, -- Sagehold Cloak
     159204, -- Briarback Hood
     159206, -- Briarback Shoulderpads
@@ -171,6 +174,7 @@ AddonTable.transmog = {
     160133, -- Brutohide Vest
     160135, -- Brutohide Belt
     160136, -- Golden City Signet
+    160137, -- Ravascale Belt
     160138, -- Ravascale Bracers
     160141, -- Ravascale Helm
     160142, -- Ravascale Legguards
@@ -192,6 +196,7 @@ AddonTable.transmog = {
     160171, -- Bonepicker Cinch
     160172, -- Bonepicker Armguards
     160174, -- Bonepicker Footguards
+    160175, -- Bonepicker Helmet
     160176, -- Bonepicker Legguards
     160178, -- Bonepicker Undermail
     160180, -- Skycaller Cowl
@@ -209,6 +214,7 @@ AddonTable.transmog = {
     164446, -- Spiritbough Grasps
     164447, -- Mrrglurggl Girdle
     164469, -- Mrrglurggl Grips
+    164473, -- Mrrglurggl Spaulders
     164522, -- Voodoo Stalker's Chestguard
     164550, -- Whirling Dervish Gloves
     164570, -- Miststalker's Belt

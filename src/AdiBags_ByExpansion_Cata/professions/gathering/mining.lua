@@ -9,4 +9,9 @@ AddonTable.mining = {
     -- Bars
     52186, -- Elementium Bar
     54849, -- Obsidium Bar
+    -- Gems
+    52177, -- Carnelian
+    52178, -- Zephyrite
+    52179, -- Alicite
+    52180, -- Nightstone
 }

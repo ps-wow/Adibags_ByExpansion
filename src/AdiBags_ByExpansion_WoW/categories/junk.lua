@@ -13,6 +13,7 @@ AddonTable.junk = {
     1420, -- Worn Leather Bracers
     1429, -- Patchwork Cloak
     1433, -- Patchwork Armor
+    1497, -- Calico Cloak
     1507, -- Warped Leather Pants
     1510, -- Heavy Hammer
     1511, -- Commoner's Sword
@@ -25,12 +26,15 @@ AddonTable.junk = {
     1740, -- Laced Mail Bracers
     1745, -- Laced Mail Vest
     1758, -- Reinforced Chain Gloves
+    1760, -- Reinforced Chain Shoulderpads
     1766, -- Canvas Cloak
     1776, -- Brocade Pants
     1777, -- Brocade Shoulderpads
+    1788, -- Patched Leather Boots
     1789, -- Patched Leather Bracers
     1806, -- Tough Cloak
     1814, -- Battered Mallet
+    1816, -- Unbalanced Axe
     1817, -- Stock Shortsword
 
     2057, -- Pitted Defias Shortsword
@@ -39,7 +43,9 @@ AddonTable.junk = {
     2295, -- Large Boar Tusk
     2608, -- Threshadon Ambergris
     2959, -- Journeyman's Boots
+    2972, -- Spellbinder Gloves
 
+    3010, -- Fine Sand
     3167, -- Thick Spider Hair
     3169, -- Chipped Bear Tooth
     3170, -- Large Bear Tooth
@@ -85,6 +91,7 @@ AddonTable.junk = {
     3994, -- Laminated Scale Bracers
     3995, -- Laminated Scale Cloak
     3997, -- Laminated Scale Pants
+    3999, -- Laminated Scale Armor
 
     4018, -- Whetted Claymore
     4019, -- Heavy Flint Axe

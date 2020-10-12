@@ -31,6 +31,7 @@ AddonTable.loot = {
     11994, -- Coral Band
     11999, -- Lodestone Hoop
 
+    12005, -- Granite Ring
     12020, -- Thallium Choker
     12036, -- Granite Necklace
     12044, -- Arctic Pendant
@@ -193,6 +194,7 @@ AddonTable.loot = {
 
     -- Satchel of Helpful Goods
     160597, -- Tumultuous Cloak
+    160598, -- Tumultuous Cloak
     160601, -- Tumultuous Ring
     160602, -- Tumultuous Ring
     160607, -- Tumultuous Necklace
