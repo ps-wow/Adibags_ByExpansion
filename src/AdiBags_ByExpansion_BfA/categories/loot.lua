@@ -183,6 +183,7 @@ AddonTable.loot = {
     158085, -- Wintersail Dirk
     158086, -- Gnarlwood Dagger
     158089, -- Deepwarden Fangs
+    158090, -- Ironcrest Longrifle
     158093, -- Stagheart Gavel
     158095, -- Gnarlwood Hammer
     158096, -- Wavecaller Greatmace
@@ -395,6 +396,7 @@ AddonTable.loot = {
     163530, -- Warmage's Spire
     163533, -- Footman's Cleaver
     163536, -- Warmage's Spire
+    163537, -- Footman's Warhammer
     163538, -- Footman's Gladius
     163540, -- Footman's Boot Knife
     163542, -- Footman's Warmace
@@ -470,6 +472,7 @@ AddonTable.loot = {
     172854, -- Corrupted Aspirant's Shawl
 
     173414, -- Black Empire Cloth Robes [BoA]
+    173416, -- Black Empire Cloth Gloves [BoA]
     173418, -- Black Empire Cloth Leggings [BoA]
     173422, -- Black Empire Plate Bracers [BoA]
     173431, -- Vile Manipulator's Footwraps

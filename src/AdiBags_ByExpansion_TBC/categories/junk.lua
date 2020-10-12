@@ -3,6 +3,7 @@ local AddonName, AddonTable = ...
 -- TBC Junk
 AddonTable.junk = {
     22153, -- Tome of Arcane Brilliance
+    22980, -- Tome of Frost Ward
 
     23938, -- Pristine Ravager Carapace
 
@@ -25,13 +26,16 @@ AddonTable.junk = {
     25359, -- Decaying Leather Boots
     25360, -- Decaying Leather Bracers
     25361, -- Decaying Leather Gloves
+    25362, -- Decaying Leather Helmet
     25363, -- Decaying Leather Pants
     25364, -- Decaying Leather Shoulderpads
     25366, -- Eroded Mail Belt
+    25367, -- Eroded Mail Boots
     24368, -- Coilfang Armaments
     25369, -- Eroded Mail Circlet
     25370, -- Eroded Mail Gloves
     25371, -- Eroded Mail Pants
+    25373, -- Corroded Mail Armor
     25374, -- Corroded Mail Belt
     25375, -- Corroded Mail Boots
     25376, -- Corroded Mail Bracers
@@ -70,8 +74,10 @@ AddonTable.junk = {
     25428, -- Savage Talon
     25429, -- Grime-Encrusted Scale
     25435, -- Hardened Carapace
+    25437, -- Barbed Leg
     25445, -- Wretched Ichor
     25451, -- Swamp Moss
+    25453, -- Death Cap Fungus
     25456, -- Glowing Spores
     25478, -- Loosely Threaded Bracers
 

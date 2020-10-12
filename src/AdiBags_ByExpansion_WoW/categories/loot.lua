@@ -33,6 +33,8 @@ AddonTable.loot = {
 
     12020, -- Thallium Choker
     12036, -- Granite Necklace
+    12044, -- Arctic Pendant
+    12052, -- Ring of the Moon
     12048, -- Prismatic Pendant
     12055, -- Stardust Band
     12057, -- Dragonscale Band
@@ -45,6 +47,7 @@ AddonTable.loot = {
 
     21418, -- Shroud of Unspoken Names
 
+    51962, -- Vigorous Bracers
     51964, -- Vigorous Belt
     51966, -- Vigorous Spaulders
     51967, -- Enumerated Sandals
@@ -84,6 +87,7 @@ AddonTable.loot = {
     65913, -- Hann Ibal's Epaulets
     65922, -- Warpwood Leaf Mantle
     65939, -- Murd Doc's Leggings
+    65948, -- Warpwood Bark Vest
     65951, -- Razorfen Spaulders
     65953, -- Dathrohan's Mace
     65975, -- Chestguard of Redemption
@@ -151,11 +155,14 @@ AddonTable.loot = {
     157689, -- Spellsculptor's Wristwraps
     157690, -- Ascetic's Vest (Starter Gear)
     157691, -- Ascetic's Footpads (Starter Gear)
+    157692, -- Ascetic's Handguards (Starter Gear)
     157694, -- Ascetic's Legguards (Starter Gear)
     157697, -- Ascetic's Cuffs (Starter Gear)
     157699, -- Lightsoul Sabatons
     157704, -- Lightsoul Girdle
     157705, -- Lightsoul Vambraces
+    157707, -- Curate's Gloves (Starter Gear)
+    157712, -- Curate's Sash (Starter Gear)
     157722, -- Totem-Caller Tunic (Starter Gear)
     157723, -- Totem-Caller Boots (Starter Gear)
     157724, -- Totem-Caller Gloves (Starter Gear)

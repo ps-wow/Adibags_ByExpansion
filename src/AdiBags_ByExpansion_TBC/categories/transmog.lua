@@ -3,6 +3,7 @@ local AddonName, AddonTable = ...
 -- TBC Transmog
 AddonTable.transmog = {
     24590, -- Fireheart Boots
+    24597, -- Starfire Sash
     24602, -- Starfire Trousers
     24607, -- Laughing Skull Tunic
     24619, -- Vindicator Shoulderpads
@@ -24,6 +25,7 @@ AddonTable.transmog = {
     24709, -- Vengeance Belt
     24772, -- Clefthoof Bracers
     24778, -- Boneshredder Britches
+    24781, -- Murkblood Belt
     24788, -- Murkblood Shoulderguards
     24797, -- Expedition Bracers
     24801, -- Dragonhawk Gloves
@@ -34,9 +36,11 @@ AddonTable.transmog = {
     24853, -- Fenclaw Bindings
     24856, -- Marshcreeper Fen-Vest
     24863, -- Blood Knight Boots
+    24870, -- Ironspine Belt
     24877, -- Ironspine Bracelets
     24880, -- Derizu Chestpiece
     24890, -- Skettis Helmet
+    24891, -- Skettis Legguards
     24900, -- Sundered Spaulders
     24902, -- Talhide Stitched-Belt
     24903, -- Talhide Lined-Boots
@@ -45,6 +49,7 @@ AddonTable.transmog = {
     24913, -- Netherstorm Gauntlets
     24916, -- Netherstorm Shoulderguards
     24917, -- Netherstorm Bracer
+    24965, -- Khan'aish Bracers
 
     25008, -- Conqueror's Breastplate
     25012, -- Conqueror's Epaulets
@@ -52,18 +57,22 @@ AddonTable.transmog = {
     25018, -- Shattered Hand Helmet
     25019, -- Shattered Hand Legplates
     25020, -- Shattered Hand Epaulets
+    25021, -- Shattered Hand Vambraces
     25024, -- Warlord's Iron-Breastplate
     25028, -- Warlord's Iron-Epaulets
     25042, -- Nether Cloak [Back]
     25043, -- Amber Cape
     25080, -- Spell-Breaker Shield [OffHand][Shield]
+    25082, -- Fel-Iron Shield
     25097, -- Astralaan Orb
+    25106, -- Cobra Shortblade
     25112, -- Fel Ripper
     25125, -- Retro-Spike Club
     25153, -- Gladiator Greatblade
     25208, -- Bladespire Broadaxe
     25225, -- Deepforge Broadaxe [2H Axe]
     25243, -- Windtalker Bow
+    25265, -- Barreled Crossbow
     25286, -- Yew Wand
     25293, -- Draenethyst Wand
     25322, -- Lordly Scepter

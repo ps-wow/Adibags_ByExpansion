@@ -15,9 +15,11 @@ AddonTable.transmog = {
     2983,  -- Seer's Boots
     2984,  -- Seer's Gloves
 
+    3042,  -- BKP "Sparrow" Smallbore
     3184,  -- Hook Dagger
     3193,  -- Oak Mallet
     3196,  -- Edged Bastard Sword
+    3430,  -- Sniper Rifle
     3651,  -- Veteran Shield
     3652,  -- Hunting Buckler
     3740,  -- Decapitating Sword
@@ -36,6 +38,7 @@ AddonTable.transmog = {
     5267,  -- Scarlet Kris
 
     6386,  -- Glimmering Mail Legguards
+    6417,  -- Aurora Cloak
     6540,  -- Willow Pants
     6542,  -- Willow Cape
     6557,  -- Bard's Boots
@@ -55,10 +58,13 @@ AddonTable.transmog = {
     7481,  -- Ranger Boots
     7494,  -- Captain's Waistguard
     7524,  -- Gossamer Cape
+    7543,  -- Champion's Pauldrons
     7610,  -- Aurora Sphere
 
     8111,  -- Hibernal Mantle
     8115,  -- Hibernal Cowl
+    8141,  -- Chromite Greaves
+    8183,  -- Precision Bow
     8199,  -- Battlefield Destroyer
     8249,  -- Imperial Red Gloves
     8250,  -- Imperial Red Mantle
@@ -90,6 +96,7 @@ AddonTable.transmog = {
     9897,  -- Jazeraint Chestguard
     9898,  -- Jazeraint Cloak
     9902,  -- Jazeraint Helm
+    9937,  -- Abjurer's Bands
     9947,  -- Chieftain's Belt
     9953,  -- Chieftain's Headdress
     9964,  -- Warmonger's Leggings
@@ -100,6 +107,7 @@ AddonTable.transmog = {
     10101, -- Councillor's Pants
     10104, -- Councillor's Tunic
     10105, -- Wanderer's Armor
+    10131, -- Revenant Boots
     10135, -- High Councillor's Tunic
     10137, -- High Councillor's Boots
     10140, -- High Councillor's Gloves
@@ -122,6 +130,7 @@ AddonTable.transmog = {
     10247, -- Master's Boots
     10249, -- Master's Cloak
     10250, -- Master's Hat
+    10251, -- Master's Gloves
     10252, -- Master's Leggings
     10254, -- Master's Robe
     10255, -- Master's Belt
@@ -146,6 +155,7 @@ AddonTable.transmog = {
 
     13013, -- Elder Wizard's Mantle
     13036, -- Assassination Blade
+    13039, -- Skull Splitting Crossbow
     13047, -- Twig of the World Tree
     13072, -- Stonegrip Gauntlets
     13073, -- Mugthol's Helm
@@ -222,6 +232,7 @@ AddonTable.transmog = {
     15660, -- Impenetrable Breastplate
     15677, -- Magnificent Shoudlers
     15940, -- Elegant Scepter
+    15973, -- Watcher's Star
     15979, -- Flamecloth Stave
 
     18337, -- Orphic Bracers

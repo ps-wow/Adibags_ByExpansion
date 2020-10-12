@@ -71,10 +71,12 @@ AddonTable.junk = {
     3817, -- Reinforced Buckler
     3931, -- Poisoned Spider Fang
     3937, -- Crochet Boots
+    3943, -- Crochet Vest
     3945, -- Twill Boots
     3949, -- Twill Pants
     3950, -- Twill Shoulderpads
     3962, -- Thick Leather Boots
+    3965, -- Thick Leather Gloves
     3966, -- Thick Leather Pants
     3975, -- Smooth Leather Shoulderpads
     3987, -- Deflecting Tower
@@ -86,6 +88,8 @@ AddonTable.junk = {
 
     4018, -- Whetted Claymore
     4019, -- Heavy Flint Axe
+    4022, -- Crushing Maul
+    4023, -- Fine Pointed Dagger
     4093, -- Large Basilisk Tail
     4361, -- Bent Copper Tube
     4428, -- Spider Palp
@@ -156,6 +160,11 @@ AddonTable.junk = {
     11414, -- Grizzled Mane
     11418, -- Hollow Wing Bone
     12735, -- Frayed Abomination Stitching
+    13362, -- Letter from the Front
+    13363, -- Municipal Proclamation
+    13364, -- Fras Siabi's Advertisement
+    13365, -- Town Meeting Notice
+    13366, -- Ingenious Toy
     13816, -- Fine Longsword
     13817, -- Tapered Greatsword
     13819, -- Balanced War Axe
@@ -170,8 +179,11 @@ AddonTable.junk = {
     17057, -- Shiny Fish Scales
     17058, -- Fish Oil
     17413, -- Codex: Prayer of Fortitude
+
     18222, -- Thorny Vine
     18223, -- Serrated Petal
+    18224, -- Lasher Blossom
+    18237, -- Mastiff Jawbone
     18285, -- Crystallized Mana Shard
     18286, -- Condensed Mana Fragment
     18512, -- Larval Acid
@@ -252,6 +264,7 @@ AddonTable.junk = {
     55020, -- Lorna's Gloves
     55974, -- Inert Elemental Particle
     55975, -- Inert Elemental Grain
+    55976, -- Inert Elemental Mass
     55978, -- Inert Elemental Flake
     55981, -- Inert Elemental Fragment
     55982, -- Inert Elemental Granule
