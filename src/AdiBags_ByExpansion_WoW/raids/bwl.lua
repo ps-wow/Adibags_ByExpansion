@@ -94,7 +94,6 @@ AddonTable.bwl = {
     19432, -- Circle of Applied Force
     19431, -- Styleen's Impeding Scarab
     -- Chromaggus
-    19390, -- Taut Dragonhide Gloves
     16832, -- Bloodfang Spaulders
     16902, -- Stormrage Pauldrons
     16917, -- Netherwind Mantle

@@ -16,8 +16,6 @@ AddonTable.transmog = {
     106427, -- Rimeplate Legplates
     106429, -- Rimeplate Sabatons
     106433, -- Voidcaller Boots
-    106457, -- Rockspine Gauntlets
-    106468, -- Tailthrasher Gloves
     106475, -- Iyun Handwraps
     106483, -- Tangleheart Gauntlets
     106484, -- Tangleheart Greaves

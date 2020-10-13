@@ -31,9 +31,10 @@ AddonTable.junk = {
     25362, -- Decaying Leather Helmet
     25363, -- Decaying Leather Pants
     25364, -- Decaying Leather Shoulderpads
+    25365, -- Eroded Mail Armor
     25366, -- Eroded Mail Belt
     25367, -- Eroded Mail Boots
-    24368, -- Coilfang Armaments
+    25368, -- Eroded Mail Bracers
     25369, -- Eroded Mail Circlet
     25370, -- Eroded Mail Gloves
     25371, -- Eroded Mail Pants

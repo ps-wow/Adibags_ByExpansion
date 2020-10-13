@@ -7,6 +7,7 @@ AddonTable.junk = {
     121334, -- Mining Sword
     121336, -- Mossy Longbow
     121337, -- Permanently Jammed Blunderbuss
+    121344, -- Sunbleached Cord
     121345, -- Weatherworn Belt
     121347, -- Rust-Encrusted Wristguards
     121348, -- Sunbleached Wristwraps
@@ -16,6 +17,7 @@ AddonTable.junk = {
     121357, -- Rust-Encrusted Gloves
     121358, -- Sunbleached Handwraps
     121360, -- Warped-Plate Gauntlets
+    121362, -- Weatherworn Hood
     121363, -- Warped-Plate Helmet
     121364, -- Sunbleached Cowl
     121365, -- Warped-Plate Leggings

@@ -340,6 +340,7 @@ AddonTable.loot = {
     160529, -- Dune Shroud
     160885, -- Fort Daelin Lantern
     160888, -- Banisher Jerkin
+    160906, -- Greathelm of the Champion [A]
     160907, -- Cowl of the Champion [A]
     160908, -- Helm of the Champion [A]
     160910, -- Greathelm of the Champion
