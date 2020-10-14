@@ -8,6 +8,7 @@ AddonTable.rfk = {
     6691,
     132565,
     6690,
+    151443,
     -- Warlord Ramtusk
     6687,
     6686,
@@ -24,4 +25,5 @@ AddonTable.rfk = {
     6693,
     -- Quest Rewards
     65918,
+    65968,
 }

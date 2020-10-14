@@ -32,6 +32,9 @@ AddonTable.shatteredhalls = {
     27531, -- Wastewalker Gloves
     27527, -- Greaves of the Shatterer
     123999, -- Lightsworn Hammer (Timewalking)
-    --- Quest Rewards
+    -- Quest Rewards
     25805, -- Mantle of Vivification
+    25806, -- Nethekurse's Rod of Torment
+    --- How to Save a Life
+    25792, -- Curate's Boots
 }

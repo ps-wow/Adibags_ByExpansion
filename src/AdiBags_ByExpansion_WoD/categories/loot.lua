@@ -12,6 +12,7 @@ AddonTable.loot = {
     107308, -- Karabor Skirmisher Belt
     107313, -- Karabor Honor Guard Girdle
     107318, -- Karabor Sage Cord
+    107658, -- Thunderlord Longspear
     107662, -- Primalist's Prismatic Pendant
 
     108900, -- Cragsman Gloves
@@ -21,11 +22,14 @@ AddonTable.loot = {
     108904, -- Fingers of the Void
     108906, -- Sporebat Larval Pod
     108907, -- Mushroom of Destiny
+    108909, -- Karabor Footman's Pike
     108912, -- Karabor Greatsword
     108918, -- Karabor Arcanist Rod
+    108919, -- Karabor Augury Mace
     108945, -- Void-Boiled Squirrel
     108957, -- Venomshade Skin Boots
     108972, -- Blind Fel-Eye Ring
+    108976, -- Sanctified Fel-Wrap Ring
 
     109060, -- Rylak-Scale Vest
     109061, -- Ku'targ's Merciless Grips
@@ -36,6 +40,7 @@ AddonTable.loot = {
 
     110000, -- Crushto's Runic Alarm
 
+    111415, -- Gnawbone Knife
     111948, -- Gruuk's Evil Eye
     111953, -- Bat-Leather Breeches
 
@@ -44,6 +49,9 @@ AddonTable.loot = {
     112389, -- Iron Horde Warcudgel
     112392, -- Iron Horde Ritual Staff
     112393, -- Iron Horde Waraxe
+    112395, -- Iron Horde Bramblestaff
+    112096, -- Dented Ogre Skullcap
+    112434, -- Hollowheart Pantaloons
     112440, -- Slavebreaker Robes
     112442, -- Slavebreaker Chainmail
     112443, -- Slavebreaker Chestguard
@@ -58,13 +66,18 @@ AddonTable.loot = {
     113082, -- Precious Bloodthorn Loop
     113145, -- Karabor Guardian Gorget
     113147, -- Rangari Luck Charm
+    113148, -- Foulspawn Drape
     113160, -- Moonstone Luck Token
+    113163, -- Kliaa's Venomclaws
+    113372, -- Darktide Pincer
     113378, -- Rovo's Dagger
     113408, -- Greka's Dentures
+    113527, -- Legacy of Om'ra
     113531, -- Ashes of A'kumbo
     113541, -- Darktalon's Drape
     113546, -- Uzko's Dusty Boots
     113547, -- Bouquet of Dried Flowers
+    113548, -- Darktide Summoner Staff
     113553, -- Windfang Sabre
     113556, -- Varandi Family Chest
     113557, -- Dragonrider's Tinkered Leggings
@@ -74,6 +87,7 @@ AddonTable.loot = {
     113571, -- Boots of the Shadowborn
     113699, -- Sparkmail Headguard
     113726, -- Burning Slagstone Ring
+    113757, -- Band of Directed Fury
     113762, -- Smoldercloth Robe
     113767, -- Blossoming Mantle
     113959, -- Thogar's Serrated Chain (BoE) [Neck]
@@ -87,9 +101,13 @@ AddonTable.loot = {
     114984, -- Mysterious Satchel (Quest Item)
 
     116112, -- Ra'kahn's Bite
+    116116, -- Blazegrease Greatsword
     116124, -- Scaled Riverbeast
+    116127, -- Bright Coin
     116132, -- Snail Shell Necklace
+    116680, -- Evermorn Amulet
     116687, -- Oshu'gun Amulet
+    116695, -- Coldsinger Ring
     116724, -- Oshu'gun Basin
     116725, -- Oshu'gun Ring
     116760, -- Saberon-Fang Shanker
@@ -114,6 +132,7 @@ AddonTable.loot = {
     116887, -- Rooby Roo's Ruby Rollar
     116911, -- Outcast Decoder Ring
     116914, -- Ephial's Grimoire
+    116918, -- Garrison Workman's Hammer
     116920, -- True Steel Lockbox
 
     117497, -- Moonchain Boots
@@ -121,6 +140,7 @@ AddonTable.loot = {
     117499, -- Lunarlight Plate Stompers
     117500, -- Lunartanned Boots
     117563, -- Deathweb Toxin Vial
+    117567, -- Aarko's Antique Crossbow
     117571, -- Gordunni Skullthumper
     117572, -- Iridium Inlaid Band
     117981, -- Fragment of Oshu'gun
@@ -141,13 +161,20 @@ AddonTable.loot = {
     118242, -- Anzu's Scorn
     118243, -- Redclaw's Gutripper
     118246, -- Call of the Wolfmother
+    118250, -- Riverswashed Warsong Helm
     118251, -- Trophy Gemstone of the Elements
+    118252, -- Trophy Loop of the Highmaul
     118253, -- Trophy Band of Telaar
     118254, -- Trophy Signet of the Sabermaw
     118255, -- Trophy Ring of Gordal
+    118264, -- Serrated Void Crystal
     118279, -- Hermit's Hood
+    118686, -- Signet Ring of Gehs'taal
     118687, -- Grizzled Wolfskin Cloak
+    118702, -- Brokor's Walking Stick
+    118712, -- Huurand's Huge Hammer
     118713, -- Iron Lookout's Aralest
+    118717, -- Beastskull Vessel
     118734, -- Sneevel's Loincloth
     118735, -- Bloodbathed Outcast Robes
     118843, -- Eleece's Braced Gorget

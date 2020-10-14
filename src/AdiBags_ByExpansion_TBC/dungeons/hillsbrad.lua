@@ -47,4 +47,6 @@ AddonTable.hillsbrad = {
     27904, -- Resounding Ring of Glory
     28227, -- Sparking Arcanite Ring
     28223, -- Arcanist's Stone
+    -- Quest Rewards
+    29316, -- Warchief's Mantle
 }

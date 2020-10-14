@@ -3,6 +3,8 @@ local AddonName, AddonTable = ...
 AddonTable.bwl = {
     19434, -- Band of Dark Dominion
     19436, -- Cloak of Draconic Might
+    19435, -- Essence Gatherer
+    19438, -- Ringo's Blizzard Boots
     -- Shared Boss Loot
     16899, -- Stormrage Handguards
     16907, -- Bloodfang Gloves

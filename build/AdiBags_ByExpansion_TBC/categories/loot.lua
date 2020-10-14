@@ -1,6 +1,7 @@
 local AddonName, AddonTable = ...
 -- TBC Loot
 AddonTable.loot = {
+    25050,
     25054,
     25055,
     25056,
@@ -8,6 +9,7 @@ AddonTable.loot = {
     25058,
     25059,
     25069,
+    28029,
     28052,
     29910,
     29915,
@@ -18,9 +20,11 @@ AddonTable.loot = {
     30028,
     32593,
     51965,
+    51985,
     51987,
     51993,
     51995,
+    160610,
     -- Tier Sets
     --- Druid
     30230,

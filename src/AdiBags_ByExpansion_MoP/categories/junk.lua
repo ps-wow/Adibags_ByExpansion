@@ -1,6 +1,9 @@
 local AddonName, AddonTable = ...
 
 AddonTable.junk = {
+    81194, -- Sharp Fangs
+    81195, -- Crocolisk Tear
+    81197, -- Enormous Tooth
     81200, -- Vial of Swirling Mist
     81201, -- Turtle Shell
     81202, -- Inert Elemental Sphere
@@ -11,9 +14,6 @@ AddonTable.junk = {
     81218, -- Stone Heart
     81219, -- Vial of Moving Waters
     81220, -- Liquid Shadow
-    81194, -- Sharp Fangs
-    81195, -- Crocolisk Tear
-    81197, -- Enormous Tooth
 
     82300, -- Bat Guano
     82328, -- Shiny Carapace
@@ -29,7 +29,11 @@ AddonTable.junk = {
     86079, -- Ancient Pandaren Woodcutter
     86216, -- Pandaren Ritual Stone
     86220, -- Saurok Stone Tablet
+    86422, -- Statue of Xuen
     86430, -- Rikktik's Tick Remover
+    86471, -- Ancient Mogu Tablet
+    86472, -- Amber Encased Moth
+    86473, -- The Hammer of Folly
 
     87524, -- Boat-Building Instructions
     87798, -- Stack of Papers
@@ -73,6 +77,7 @@ AddonTable.junk = {
     90805, -- Robble's Stabilized Staff
     90806, -- Rusted Blade
     90807, -- Corroded Timber Axe
+    90808, -- Bent-Barrel Rifle
     90809, -- Knog's Bow of Clumsiness
     90810, -- Fireblackened Mace
     90811, -- Battered Shiv

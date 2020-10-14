@@ -34,6 +34,7 @@ AddonTable.junk = {
     106333, -- Grime-Fouled Mail Pants
     106336, -- Punctured Plate Pauldrons
     106342, -- Overstretched Leather Gloves
+    106344, -- Grime-Fouled Mail Circlet
     106350, -- Punctured Plate Chestpiece
     106824, -- Ruffled Plumage
     106825, -- Razor Talon
@@ -71,6 +72,8 @@ AddonTable.junk = {
     108978, -- Congealed Telestic Ooze
     108979, -- Bleached Bones
     108980, -- Crushed Bone Fragments
+
+    109192, -- Lightbearer
 
     110287, -- Wriggling Worm
 
@@ -115,6 +118,8 @@ AddonTable.junk = {
     118692, -- Sethekk Idol
     118693, -- Rukhmar's Image
     118694, -- Statue of Anzu
+    118703, -- Diary of Balldir Deeprock
+    118708, -- Suntouched Spear
     118715, -- Cracked Femur
     118898, -- Rusted Canary Cage
     118899, -- Crumbled Gem Shards

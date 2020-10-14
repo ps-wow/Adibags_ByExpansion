@@ -116,9 +116,12 @@ AddonTable.foodDrink = {
     4608,
     4791,
     8766,
+    8932,
     8952,
+    8953,
     9451,
     11415,
+    17747,
     57544,
 }
 AddonTable.alcohol = {

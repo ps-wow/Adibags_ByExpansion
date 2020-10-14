@@ -13,23 +13,29 @@ AddonTable.junk = {
     1420, -- Worn Leather Bracers
     1429, -- Patchwork Cloak
     1433, -- Patchwork Armor
+    1497, -- Calico Cloak
     1507, -- Warped Leather Pants
     1510, -- Heavy Hammer
     1511, -- Commoner's Sword
     1515, -- Rough Wooden Staff
     1520, -- Troll Sweat
+    1687, -- Retractable Claw
     1702, -- Intact Basilisk Spine
     1735, -- Worn Mail Pants
     1737, -- Worn Mail Vest
     1739, -- Laced Mail Boots
     1740, -- Laced Mail Bracers
     1745, -- Laced Mail Vest
+    1758, -- Reinforced Chain Gloves
+    1760, -- Reinforced Chain Shoulderpads
     1766, -- Canvas Cloak
     1776, -- Brocade Pants
     1777, -- Brocade Shoulderpads
+    1788, -- Patched Leather Boots
     1789, -- Patched Leather Bracers
     1806, -- Tough Cloak
     1814, -- Battered Mallet
+    1816, -- Unbalanced Axe
     1817, -- Stock Shortsword
 
     2057, -- Pitted Defias Shortsword
@@ -38,11 +44,14 @@ AddonTable.junk = {
     2295, -- Large Boar Tusk
     2608, -- Threshadon Ambergris
     2959, -- Journeyman's Boots
+    2972, -- Spellbinder Gloves
 
+    3010, -- Fine Sand
     3167, -- Thick Spider Hair
     3169, -- Chipped Bear Tooth
     3170, -- Large Bear Tooth
     3171, -- Broken Boar Tusk
+    3175, -- Ruined Dragonhide
     3179, -- Cracked Dragon Molting
     3180, -- Flecked Raptor Scale
     3181, -- Partially Digested Meat
@@ -61,18 +70,23 @@ AddonTable.junk = {
     3674, -- Decomposed Boot
     3676, -- Slimy Ichor
     3781, -- Broad Claymore
+    3782, -- Large War Club
     3783, -- Light Scimitar
     3793, -- Interlaced Boots
     3794, -- Interlaced Bracers
     3798, -- Interlaced Shoulderpads
     3801, -- Granny's Mallet
+    3802, -- Hardened Leather Bracers
     3817, -- Reinforced Buckler
     3931, -- Poisoned Spider Fang
     3937, -- Crochet Boots
+    3939, -- Crochet Cloak
+    3943, -- Crochet Vest
     3945, -- Twill Boots
     3949, -- Twill Pants
     3950, -- Twill Shoulderpads
     3962, -- Thick Leather Boots
+    3965, -- Thick Leather Gloves
     3966, -- Thick Leather Pants
     3975, -- Smooth Leather Shoulderpads
     3987, -- Deflecting Tower
@@ -80,16 +94,22 @@ AddonTable.junk = {
     3992, -- Laminated Scale Belt
     3994, -- Laminated Scale Bracers
     3995, -- Laminated Scale Cloak
+    3997, -- Laminated Scale Pants
+    3999, -- Laminated Scale Armor
 
     4018, -- Whetted Claymore
     4019, -- Heavy Flint Axe
+    4022, -- Crushing Maul
+    4023, -- Fine Pointed Dagger
     4093, -- Large Basilisk Tail
+    4097, -- Chipped Gorilla Tooth
     4361, -- Bent Copper Tube
     4428, -- Spider Palp
     4460, -- Ripped Wing Webbing
     4555, -- Thick Scaly Tail
     4556, -- Speckled Shell Fragment
     4557, -- Fiery Gland
+    4558, -- Empty Barrel
     4560, -- Fine Scimitar
     4585, -- Driping Spider Mandible
     4662, -- Journeyman's Cloak
@@ -111,6 +131,8 @@ AddonTable.junk = {
     5125, -- Charged Scale
     5128, -- Shed Lizard Skin
     5133, -- Seeping Gizzard
+    5136, -- Torn Furry Ear
+    5137, -- Bright Eyeball
     5263, -- Pocket Lint
     5506, -- Beady Eye Stalk
 
@@ -131,6 +153,7 @@ AddonTable.junk = {
     8151, -- Flask of Mojo
     8152, -- Flask of Big Mojo
     8177, -- Practice Sword
+    8746, -- Interlaced Cowl
     8748, -- Double Mail Coif
     8752, -- Laminated Scale Circlet
     8754, -- Twill Cover
@@ -153,6 +176,11 @@ AddonTable.junk = {
     11414, -- Grizzled Mane
     11418, -- Hollow Wing Bone
     12735, -- Frayed Abomination Stitching
+    13362, -- Letter from the Front
+    13363, -- Municipal Proclamation
+    13364, -- Fras Siabi's Advertisement
+    13365, -- Town Meeting Notice
+    13366, -- Ingenious Toy
     13816, -- Fine Longsword
     13817, -- Tapered Greatsword
     13819, -- Balanced War Axe
@@ -167,8 +195,11 @@ AddonTable.junk = {
     17057, -- Shiny Fish Scales
     17058, -- Fish Oil
     17413, -- Codex: Prayer of Fortitude
+
     18222, -- Thorny Vine
     18223, -- Serrated Petal
+    18224, -- Lasher Blossom
+    18237, -- Mastiff Jawbone
     18285, -- Crystallized Mana Shard
     18286, -- Condensed Mana Fragment
     18512, -- Larval Acid
@@ -217,12 +248,15 @@ AddonTable.junk = {
 
     23988, -- Mutated Vine
 
+    24577, -- Loosely Threaded Boots
+
     25338, -- Loosely Threaded Pants
     25372, -- Eroded Mail Shoulderpads
     25383, -- Tarnished Plate Bracers
     25421, -- Gnarled Claw
     25425, -- Molted Feather
     25431, -- Ripped Fin
+    25434, -- Fractured Carapace
     25441, -- Gnarled Boar Tusk
 
     32714, -- Splintered Spider Fang
@@ -230,6 +264,9 @@ AddonTable.junk = {
     33546, -- Viscious Fang
 
     35691, -- Ruined Metal Parts
+
+    44754, -- Severed Boar Tusk
+    44755, -- Gory Snout
 
     49406, -- Gilnean Neophyte's Boots
 
@@ -243,15 +280,18 @@ AddonTable.junk = {
     55020, -- Lorna's Gloves
     55974, -- Inert Elemental Particle
     55975, -- Inert Elemental Grain
+    55976, -- Inert Elemental Mass
     55978, -- Inert Elemental Flake
     55981, -- Inert Elemental Fragment
     55982, -- Inert Elemental Granule
     55983, -- Inert Elemental Scintilla
     55984, -- Inert Elemental Shard
+    55985, -- Inert Elemental Piece
 
     56033, -- Pretty Pebble
     56034, -- Tinted Rock
     56035, -- Colorful Rock
+    56036, -- Interesting Rock
     56047, -- Strange Pebble
     56151, -- Broken Hoof Piece
     56156, -- Torn Cartilage

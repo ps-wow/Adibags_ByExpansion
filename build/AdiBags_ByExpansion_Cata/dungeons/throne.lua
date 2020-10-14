@@ -92,4 +92,7 @@ AddonTable.throne = {
     56277,
     56278,
     56280,
+    -- Quest Rewards
+    --- Sins of the Sea Witch
+    65657,
 }

@@ -29,4 +29,6 @@ AddonTable.crypts = {
     27413,
     27869,
     27416,
+    -- Quest Rewards
+    29341,
 }

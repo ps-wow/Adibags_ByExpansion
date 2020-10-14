@@ -64,6 +64,7 @@ AddonTable.junk = {
     62119, -- Sodden Cloth Boots
     62120, -- Sodden Cloth Belt
     62121, -- Sooty Mail Shoulderpads
+    62122, -- Sooty Mail Pants
     62123, -- Sooty Mail Gloves
     62124, -- Sooty Mail Bracers
     62125, -- Sooty Mail Boots
@@ -87,6 +88,7 @@ AddonTable.junk = {
 
     63024, -- Flame Drenched Canine
 
+    66944, -- Decorative Brass Bell
     66945, -- Stormhammer Head
     66949, -- Wildhammer Book of Verse
     66950, -- The Big Big Book o' Beards

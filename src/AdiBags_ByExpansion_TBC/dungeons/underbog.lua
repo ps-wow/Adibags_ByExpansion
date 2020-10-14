@@ -58,4 +58,5 @@ AddonTable.underbog = {
     27770, -- Argussian Compass
     -- Quest Rewards
     28109, -- Essence Infused Mushroom
+    28108, -- Power Infused Mushroom
 }

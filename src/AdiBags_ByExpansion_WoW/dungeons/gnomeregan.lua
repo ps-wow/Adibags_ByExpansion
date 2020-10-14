@@ -28,4 +28,6 @@ AddonTable.gnomeregan = {
     9458,   -- Thermaplugg's Central Core
     9492,   -- Electromagnetic Gigaflux Reactivator
     9461,   -- Charged Gear
+    -- Quest Rewards
+    65987,  -- G-Team Belt
 }

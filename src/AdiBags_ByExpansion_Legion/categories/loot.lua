@@ -5,7 +5,6 @@ AddonTable.loot = {
     112431, -- Hollowheart Legguards
     112432, -- Hollowheart Chain Leggings
     112433, -- Hollowheart Trousers
-    112434, -- Hollowheart Pantaloons
     112450, -- Illidari Blindfold
     112451, -- Illidari Leggings
     112452, -- Illidari Bracers
@@ -22,6 +21,7 @@ AddonTable.loot = {
     121015, -- Academy Faculty Pin
     121028, -- Azurewing Pendant
     121055, -- Temporal Scholar's Wristwraps
+    121082, -- Thunder Totem Band
     121106, -- Hagfeather Leggings
     121124, -- Stormforged Idol
     121137, -- Stormwing Band
@@ -35,6 +35,13 @@ AddonTable.loot = {
     121577, -- Rooksguard Warboots
     121580, -- Sablehide Boots
     121646, -- Witchmother Drape
+    121658, -- Whitewater Sabatons
+    121663, -- Whitewater Gauntlets
+    121670, -- Whitewater Leggings
+    121679, -- Whitewater Cinch
+    121722, -- Staunch Warbrave Loop
+    121724, -- Whitewater Safety Blanket
+    121730, -- Ironbull's Sacrifice
     121735, -- Nightguard Stompers
     121759, -- Feather-Notched Belt
     121761, -- Skyfire Marine Vambraces
@@ -81,7 +88,13 @@ AddonTable.loot = {
     130125, -- Dreadbog Fungalflesh Cape
     130133, -- Undergrell Mobilehelm
     130135, -- Mana-Prowler Leggings
+    130282, -- Highmountain Trueshot Cape
+    130289, -- Whitewater Wristguards
+    130301, -- Whitewater Legwraps
+    130309, -- Band of Malorne's Chosen
+    130312, -- Explorer's Delving Loop
 
+    131773, -- Flamescale Mail
     131781, -- Plate Hiking Boots
     131797, -- Swamprock Salvage Band
     131799, -- Zugdug's Piece of Paradise
@@ -95,6 +108,14 @@ AddonTable.loot = {
     132963, -- Young Drake's Impulse
     132990, -- Fel-Resistant Clipping
 
+    133115, -- Stonedark Focus
+    133116, -- Bloodsinger Essence
+    133120, -- Frag's Core
+    133124, -- Ironbull's Last Words
+    133137, -- Wisps of Illusion
+    133138, -- Time-Lost Dragon Heart
+    133142, -- Stonedark Brul Brand
+    133146, -- The Four Winds
     133310, -- The Brood Queen's Veil
     133311, -- Demon-Rend Shoulderblades
     133312, -- Torment Ender's Chestguard
@@ -131,6 +152,7 @@ AddonTable.loot = {
 
     137497, -- Footpads of the Swift Balestra
 
+    138450, -- Signet of Stormwind
     138970, -- Helm of Reaffirmed Purpose
 
     139072, -- Tranquil Bough Spaulders
@@ -143,7 +165,10 @@ AddonTable.loot = {
 
     140019, -- Eel Collars
     140533, -- Huntmaster's Injector
+    140607, -- Elementally-Infused Boots
     140611, -- Fel Commander's Vambraces [Q: Bringer of the Light]
+    140612, -- Bracers of the Fallen [Q: Bringer of the Light]
+    140616, -- Annihilator's Mantle [Q: Bringer of the Light]
     140660, -- Haft of the God-King
 
     141286, -- Rite of the Val'kyr
@@ -164,6 +189,8 @@ AddonTable.loot = {
     146775, -- Netherfiend Belt
 
     150997, -- Crystallized Aether [Arcane Artifact Relic]
+
+    152783, -- Mac'Aree Focusing Amethyst
 
     -- Dauntless
     147215, -- Dauntless Gauntlets (BoA)
@@ -200,6 +227,7 @@ AddonTable.loot = {
     153155, -- Unsullied Plate Helmet (BoA)
     153157, -- Unsullied Plate Gauntlets (BoA)
     153158, -- Unsullied Mail Bracers (BoA)
+    153343, -- Triumvirate High Guard's Gauntlets
 
     -- Order Hall Champion Equipment
     156630, -- Relinquished Armor Set
@@ -222,4 +250,7 @@ AddonTable.loot = {
     153764, -- Springrain Idol (Trinket/Driud)
     153767, -- Springrain Stone (Trinket/Driud)
     153783, -- Springrain Cloak (Leather/Druid)
+
+    -- Legendaries
+    143728, -- Timeless Stratagem
 }

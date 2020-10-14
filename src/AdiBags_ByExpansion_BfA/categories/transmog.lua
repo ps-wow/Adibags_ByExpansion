@@ -5,6 +5,7 @@ AddonTable.transmog = {
     154142, -- Coarse Leather Leggings
     154806, -- Torgashell Breastplate
     154808, -- Torgashell Greatbelt
+    154812, -- Torhashell Warboots
     154813, -- Torgashell Armplates
     154815, -- Festerroot Bindings
     154817, -- Festerroot Breeches
@@ -22,6 +23,7 @@ AddonTable.transmog = {
     154842, -- Corlain Girdle
     154847, -- Corlain Vambraces
     154850, -- Crimsonwood Boots
+    154851, -- Crimsonwood Breeches
     154859, -- Barrowknoll Bracers
     154863, -- Barrowknoll Legguards
     154864, -- Barrowknoll Pauldrons
@@ -48,6 +50,8 @@ AddonTable.transmog = {
     159191, -- Brineworks Breastplate
     159192, -- Brineworks Gauntlets
     159193, -- Brineworks Girdle
+    159194, -- Brineworks Helmet
+    159196, -- Brineworks Pauldrons
     159199, -- Sagehold Cloak
     159204, -- Briarback Hood
     159206, -- Briarback Shoulderpads
@@ -80,6 +84,7 @@ AddonTable.transmog = {
     159496, -- Gol Osigr Crossbow
     159497, -- Deepwarden Flintlock
     159501, -- Coralshell Glaives
+    159502, -- Stagheart Warglaives
     159504, -- Shipwrecker Crescents
     159505, -- Zocali Warglaive
     159506, -- Loa-Blessed Crescent
@@ -93,6 +98,7 @@ AddonTable.transmog = {
     159517, -- Zocali Claws
     159519, -- Ironcrest Knife
     159520, -- Coralshell Dagger
+    159521, -- Dockyard Dagger
     159523, -- Tideguard Shanker
     159524, -- Shipwrecker Knife
     159525, -- Coldscale Dagger
@@ -168,6 +174,7 @@ AddonTable.transmog = {
     160133, -- Brutohide Vest
     160135, -- Brutohide Belt
     160136, -- Golden City Signet
+    160137, -- Ravascale Belt
     160138, -- Ravascale Bracers
     160141, -- Ravascale Helm
     160142, -- Ravascale Legguards
@@ -189,6 +196,7 @@ AddonTable.transmog = {
     160171, -- Bonepicker Cinch
     160172, -- Bonepicker Armguards
     160174, -- Bonepicker Footguards
+    160175, -- Bonepicker Helmet
     160176, -- Bonepicker Legguards
     160178, -- Bonepicker Undermail
     160180, -- Skycaller Cowl
@@ -200,9 +208,13 @@ AddonTable.transmog = {
 
     164342, -- Plundered Geode Gavel
     164345, -- Plundered Petrified Kelp Blade
+    164369, -- Plundered Pirate Admiral's Bicorne
+    164410, -- Twilight Dragon's Armplates
+    164420, -- Geocrag Grips
     164446, -- Spiritbough Grasps
     164447, -- Mrrglurggl Girdle
     164469, -- Mrrglurggl Grips
+    164473, -- Mrrglurggl Spaulders
     164522, -- Voodoo Stalker's Chestguard
     164550, -- Whirling Dervish Gloves
     164570, -- Miststalker's Belt

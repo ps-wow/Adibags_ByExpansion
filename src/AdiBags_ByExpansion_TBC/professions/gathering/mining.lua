@@ -15,6 +15,7 @@ AddonTable.mining = {
     23449, -- Khorium Bar
     35128, -- Hardened Khoirum
     -- Gems
+    21929, -- Flame Spessarite
     32227, -- Crimson Spinel
     32229, -- Lionseye
     32230, -- Shadowsong Amethyst
