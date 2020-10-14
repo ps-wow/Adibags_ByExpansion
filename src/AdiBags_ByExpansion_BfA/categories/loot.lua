@@ -118,6 +118,7 @@ AddonTable.loot = {
     157910, -- Gonk Outrunner Vest
     157911, -- Gonk Outrunner Striders
     157915, -- Gonk Outrunner Shoulderguards
+    157918, -- Pa'ku Windrider Jerkin
     157921, -- Pa'ku Windrider Helm
     157926, -- Breastplate of Rezan's Bladeguard
     157929, -- Greathelm of Rezan's Bladeguard
@@ -399,6 +400,7 @@ AddonTable.loot = {
     163296, -- Honorbound Artificer's Legwraps
     163306, -- Honorbound Artificer's Cuffs
     163342, -- 7th Legionnaire's Cord
+    163347, -- 7th Legionnaire's Long Cloak
     163368, -- Honorbound Centurion's Long Cloak
     163403, -- 7th Legionnaire's Armguards
     163414, -- 7th Legionnaire's Gauntlets
@@ -470,6 +472,7 @@ AddonTable.loot = {
     168750, -- Omnipurpose Refined Logic Board
 
     169317, -- Enthraller's Bindstone
+    169482, -- Benethic Leggings
     169790, -- Shirakess Gloves (Benethic)
 
     170110, -- Zanj'ir Scaleguard Legplates (Benethic)

@@ -19,6 +19,7 @@ AddonTable.junk = {
     1511, -- Commoner's Sword
     1515, -- Rough Wooden Staff
     1520, -- Troll Sweat
+    1687, -- Retractable Claw
     1702, -- Intact Basilisk Spine
     1735, -- Worn Mail Pants
     1737, -- Worn Mail Vest
@@ -50,6 +51,7 @@ AddonTable.junk = {
     3169, -- Chipped Bear Tooth
     3170, -- Large Bear Tooth
     3171, -- Broken Boar Tusk
+    3175, -- Ruined Dragonhide
     3179, -- Cracked Dragon Molting
     3180, -- Flecked Raptor Scale
     3181, -- Partially Digested Meat
@@ -74,9 +76,11 @@ AddonTable.junk = {
     3794, -- Interlaced Bracers
     3798, -- Interlaced Shoulderpads
     3801, -- Granny's Mallet
+    3802, -- Hardened Leather Bracers
     3817, -- Reinforced Buckler
     3931, -- Poisoned Spider Fang
     3937, -- Crochet Boots
+    3939, -- Crochet Cloak
     3943, -- Crochet Vest
     3945, -- Twill Boots
     3949, -- Twill Pants
@@ -98,12 +102,14 @@ AddonTable.junk = {
     4022, -- Crushing Maul
     4023, -- Fine Pointed Dagger
     4093, -- Large Basilisk Tail
+    4097, -- Chipped Gorilla Tooth
     4361, -- Bent Copper Tube
     4428, -- Spider Palp
     4460, -- Ripped Wing Webbing
     4555, -- Thick Scaly Tail
     4556, -- Speckled Shell Fragment
     4557, -- Fiery Gland
+    4558, -- Empty Barrel
     4560, -- Fine Scimitar
     4585, -- Driping Spider Mandible
     4662, -- Journeyman's Cloak
@@ -125,6 +131,8 @@ AddonTable.junk = {
     5125, -- Charged Scale
     5128, -- Shed Lizard Skin
     5133, -- Seeping Gizzard
+    5136, -- Torn Furry Ear
+    5137, -- Bright Eyeball
     5263, -- Pocket Lint
     5506, -- Beady Eye Stalk
 
@@ -145,6 +153,7 @@ AddonTable.junk = {
     8151, -- Flask of Mojo
     8152, -- Flask of Big Mojo
     8177, -- Practice Sword
+    8746, -- Interlaced Cowl
     8748, -- Double Mail Coif
     8752, -- Laminated Scale Circlet
     8754, -- Twill Cover

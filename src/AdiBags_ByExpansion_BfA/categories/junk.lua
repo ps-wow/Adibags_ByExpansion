@@ -270,6 +270,7 @@ AddonTable.junk = {
     168794, -- Last Year's Brewfest Flyer
     168795, -- Old Boot
     168796, -- Recycled Scroll
+    168797, -- Stack of Undeliverable Mail
 
     169010, -- Corroded Evaporator Coil
     169122, -- Gibraltian Monkey Wrench

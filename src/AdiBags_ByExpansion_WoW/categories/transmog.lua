@@ -57,6 +57,7 @@ AddonTable.transmog = {
     6586,  -- Scouting Gloves
     6595,  -- Battleforge Gauntlets
     6603,  -- Dervish Tunic
+    6605,  -- Dervish Gloves
     6622,  -- Sword of Zeal
 
     7432,  -- Twilight Cowl
@@ -115,6 +116,7 @@ AddonTable.transmog = {
     9947,  -- Chieftain's Belt
     9953,  -- Chieftain's Headdress
     9964,  -- Warmonger's Leggings
+    9965,  -- Warmonger's Pauldrons
     9970,  -- Embossed Plate Leggings
 
     10069, -- Righteous Bracers
@@ -123,6 +125,7 @@ AddonTable.transmog = {
     10104, -- Councillor's Tunic
     10105, -- Wanderer's Armor
     10107, -- Wanderer's Bracers
+    10110, -- Wanderer's Gloves
     10131, -- Revenant Boots
     10135, -- High Councillor's Tunic
     10136, -- High Councillor's Bracers
@@ -142,6 +145,7 @@ AddonTable.transmog = {
     10209, -- Overlord's Spaulders
     10210, -- Elegant Mantle
     10217, -- Elegant Leggings
+    10222, -- Nightshade Boots
     10226, -- Nightshade Helmet
     10228, -- Nightshade Spaulders
     10235, -- Engraved Helm
@@ -233,6 +237,7 @@ AddonTable.transmog = {
     15252, -- Tuskar Sword
     15254, -- Dark Espadon
     15258, -- Divine Warblade
+    15261, -- Sequoia Branch
     15267, -- Brutehammer
     15272, -- Razor Axe
     15273, -- Death Striker
@@ -251,6 +256,7 @@ AddonTable.transmog = {
     15442, -- Supreme Breastplate
     15489, -- Bloodspattered Sabatons
     15492, -- Bloodspattered Sash
+    15594, -- Steadfast Cloak
     15660, -- Impenetrable Breastplate
     15673, -- Watcher's Star
     15677, -- Magnificent Shoudlers
