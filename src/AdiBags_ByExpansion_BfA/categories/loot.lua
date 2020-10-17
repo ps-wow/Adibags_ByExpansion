@@ -478,6 +478,7 @@ AddonTable.loot = {
     170110, -- Zanj'ir Scaleguard Legplates (Benethic)
     170133, -- Shirakess Grips
     170140, -- Akana's Reefstrider Soles / Treads (Benethic)
+    170514, -- 7th Legionnaire's Robes
     170515, -- 7th Legionnaire's Vest
     170516, -- Honorbound Artificer's Robes
     170517, -- Honorbound Vanguard's Chainmail

@@ -84,7 +84,11 @@ AddonTable.transmog = {
     8250,  -- Imperial Red Mantle
     8287,  -- Arcane Gloves
     8289,  -- Arcane Leggings
+    8292,  -- Arcane Cover
+    8293,  -- Traveler's Belt
     8296,  -- Traveler's Jerkin
+    8300,  -- Traveler's Leggings
+    8301,  -- Traveler's Spaulders
     8307,  -- Hero's Boots
     8309,  -- Hero's Leggings
     8310,  -- Hero's Pauldrons
@@ -125,6 +129,7 @@ AddonTable.transmog = {
 
     10069, -- Righteous Bracers
     10083, -- Lord's Crown
+    10100, -- Councillor's Shoulders
     10101, -- Councillor's Pants
     10104, -- Councillor's Tunic
     10105, -- Wanderer's Armor
@@ -150,6 +155,7 @@ AddonTable.transmog = {
     10209, -- Overlord's Spaulders
     10210, -- Elegant Mantle
     10217, -- Elegant Leggings
+    10221, -- Nightshade Girdle
     10222, -- Nightshade Boots
     10226, -- Nightshade Helmet
     10228, -- Nightshade Spaulders
@@ -232,7 +238,9 @@ AddonTable.transmog = {
     15219, -- Dimensional Blade
     15221, -- Holy War Sword
     15227, -- Diamond-Tip Bludgeon
+    15229, -- Blesswind Hammer
     15239, -- Felstone Reaver
+    15240, -- Demon's Claw
     15241, -- Battle Knife
     15244, -- Razor Blade
     15245, -- Vorpal Dagger
@@ -244,6 +252,7 @@ AddonTable.transmog = {
     15258, -- Divine Warblade
     15261, -- Sequoia Branch
     15267, -- Brutehammer
+    15271, -- Colossal Great Axe
     15272, -- Razor Axe
     15273, -- Death Striker
     15278, -- Solstice Staff
@@ -266,6 +275,7 @@ AddonTable.transmog = {
     15673, -- Watcher's Star
     15677, -- Magnificent Shoudlers
     15940, -- Elegant Scepter
+    15942, -- Master's Rod
     15973, -- Watcher's Star
     15979, -- Flamecloth Stave
 
