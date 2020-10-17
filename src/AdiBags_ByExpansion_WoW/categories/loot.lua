@@ -8,6 +8,7 @@ AddonTable.loot = {
 
     1010, -- Gnarled Short Staff
     1443, -- Jeweled Amulet of Cainwyn
+    1557, -- Buckler of the Seas
 
     2238, -- Urchin's Pants
     2362, -- Worn Wooden Shield
@@ -84,7 +85,10 @@ AddonTable.loot = {
     58907, -- Crime Scene Tape [Quest: Westfall]
     58908, -- Scene Investigator's Wrap
     58909, -- Golden Sunshine Cloak [Quest: Westfall]
+    58911, -- Tightly Cinched Belt
     58914, -- Sentinel Hill Breastplate
+    58920, -- Dust Plains Greaves
+    58923, -- Gregorky's Bracers
     59042, -- Electro-Staff
 
     60219, -- Balanced Spell Staff

@@ -515,6 +515,7 @@ AddonTable.loot = {
     173439, -- Footpads of the Insatiable Maw
     173464, -- Gloves of the Insatiable Maw
     173466, -- Malignant Leviathan's Gauntlets
+    173472, -- Armguards of the Insatiable Maw
     173511, -- Vile Manipulator's Belt
     173572, -- Staff of Swelling Agony
     173669, -- Dull Onyx Band

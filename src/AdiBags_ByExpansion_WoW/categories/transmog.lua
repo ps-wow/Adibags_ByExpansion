@@ -6,6 +6,7 @@ AddonTable.transmog = {
     937,   -- Black Duskwood Staff
 
     1203,  -- Aegis of Stormwind
+    1391,  -- Riverpaw Mystic Staff
     1625,  -- Exquisite Flamberge
     1994,  -- Ebonclaw Reaver
 
@@ -133,6 +134,7 @@ AddonTable.transmog = {
     10135, -- High Councillor's Tunic
     10136, -- High Councillor's Bracers
     10137, -- High Councillor's Boots
+    10139, -- High Councillor's Circlet
     10140, -- High Councillor's Gloves
     10142, -- High Councillor's Mantle
     10145, -- Mighty Girdle

@@ -4,6 +4,7 @@ AddonTable.junk = {
     60388, -- Shimmering Claw
     60485, -- Crackling Crystals
     60486, -- Shimmering Shards
+    60576, -- Rending Fang
     62063, -- Shattered War Mace
     62064, -- Warped Greatsword
     62065, -- Melted Cleaver

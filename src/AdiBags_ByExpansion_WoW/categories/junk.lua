@@ -141,6 +141,7 @@ AddonTable.junk = {
     5137, -- Bright Eyeball
     5263, -- Pocket Lint
     5506, -- Beady Eye Stalk
+    5829, -- Razor-Sharp Beak
 
     6444, -- Forked Tongue
     6445, -- Brittle Molting
