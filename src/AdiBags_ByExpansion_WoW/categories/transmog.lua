@@ -13,6 +13,7 @@ AddonTable.transmog = {
     2078,  -- Northern Shortsword
     2564,  -- Elven Spirit Claws
     2962,  -- Burnt Leather Breeches
+    2980,  -- Veteran Gloves
     2983,  -- Seer's Boots
     2984,  -- Seer's Gloves
 
@@ -38,10 +39,12 @@ AddonTable.transmog = {
     4721,  -- Insignia Mantle
     4733,  -- Blackforge Pauldrons
 
+    5069,  -- Fire Wand
     5071,  -- Shadow Wand
     5207,  -- Opaque Wand
     5267,  -- Scarlet Kris
 
+    6267,  -- Disciple's Pants
     6386,  -- Glimmering Mail Legguards
     6413,  -- Chief Brigadier Bracers
     6417,  -- Aurora Cloak

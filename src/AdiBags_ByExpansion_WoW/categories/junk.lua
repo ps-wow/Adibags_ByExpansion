@@ -4,6 +4,7 @@ local AddonName, AddonTable = ...
 AddonTable.junk = {
     55,   -- Apprentice's Boots
 
+    537,  -- Dull Frenzy Scale
     770,  -- Pointy Crocolisk Tooth
     771,  -- Chipped Boar Tusk
 
@@ -11,9 +12,11 @@ AddonTable.junk = {
     1395, -- Apprentice's Pants
     1415, -- Carpenter's Mallet
     1420, -- Worn Leather Bracers
+    1427, -- Patchwork Shoes
     1429, -- Patchwork Cloak
     1433, -- Patchwork Armor
     1497, -- Calico Cloak
+    1502, -- Warped Leather Belt
     1507, -- Warped Leather Pants
     1510, -- Heavy Hammer
     1511, -- Commoner's Sword
@@ -42,7 +45,9 @@ AddonTable.junk = {
     2154, -- The Story of Morgan Ladimore
     2212, -- Cracked Buckler
     2295, -- Large Boar Tusk
+    2562, -- Bouquet of Scarlet Begonias
     2608, -- Threshadon Ambergris
+    2778, -- Cheap Blunderbuss
     2959, -- Journeyman's Boots
     2972, -- Spellbinder Gloves
 
@@ -57,6 +62,7 @@ AddonTable.junk = {
     3181, -- Partially Digested Meat
     3189, -- Wood Chopper
     3190, -- Beatstick
+    3213, -- Veteran Bracers
     3299, -- Fractured Canine
     3300, -- Rabbit's Foot
     3301, -- Sharp Canine
@@ -299,7 +305,9 @@ AddonTable.junk = {
     56204, -- Nameless Vestigial Organ
 
     57058, -- Fractured Gear Tooth
+    57062, -- Intact Spurwheel
     57063, -- Small Dingbat
+    57397, -- Goldshire Iron Bracer
     57400, -- Gold Dust Belt
 
     58216, -- "Flying" Worgen Robes

@@ -80,8 +80,11 @@ AddonTable.loot = {
     57401, -- Jasperlode Chestguard (White Plate Chest)
     57541, -- Ragged Wolf Hide Cloak
     58903, -- Kobold Candle
+    58905, -- Kobold Basher
     58907, -- Crime Scene Tape [Quest: Westfall]
+    58908, -- Scene Investigator's Wrap
     58909, -- Golden Sunshine Cloak [Quest: Westfall]
+    58914, -- Sentinel Hill Breastplate
     59042, -- Electro-Staff
 
     60219, -- Balanced Spell Staff
