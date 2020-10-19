@@ -3,6 +3,7 @@ local AddonName, AddonTable = ...
 -- WoW Transmog
 AddonTable.transmog = {
     866,   -- Monk's Staff
+    869,   -- Dazzling Longsword
     937,   -- Black Duskwood Staff
 
     1203,  -- Aegis of Stormwind
@@ -49,6 +50,7 @@ AddonTable.transmog = {
     6386,  -- Glimmering Mail Legguards
     6413,  -- Chief Brigadier Bracers
     6417,  -- Aurora Cloak
+    6433,  -- Imperial Leather Helm
     6540,  -- Willow Pants
     6542,  -- Willow Cape
     6547,  -- Soldier's Gauntlets
@@ -77,6 +79,7 @@ AddonTable.transmog = {
 
     8111,  -- Hibernal Mantle
     8115,  -- Hibernal Cowl
+    8131,  -- Myrmidon's Helm
     8141,  -- Chromite Greaves
     8183,  -- Precision Bow
     8199,  -- Battlefield Destroyer
@@ -129,6 +132,7 @@ AddonTable.transmog = {
 
     10069, -- Righteous Bracers
     10083, -- Lord's Crown
+    10090, -- Gothic Plate Helmet
     10100, -- Councillor's Shoulders
     10101, -- Councillor's Pants
     10104, -- Councillor's Tunic

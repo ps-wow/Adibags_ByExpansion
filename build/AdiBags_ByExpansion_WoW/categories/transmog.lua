@@ -2,6 +2,7 @@ local AddonName, AddonTable = ...
 -- WoW Transmog
 AddonTable.transmog = {
     866,
+    869,
     937,
     1203,
     1391,
@@ -42,6 +43,7 @@ AddonTable.transmog = {
     6386,
     6413,
     6417,
+    6433,
     6540,
     6542,
     6547,
@@ -68,6 +70,7 @@ AddonTable.transmog = {
     7610,
     8111,
     8115,
+    8131,
     8141,
     8183,
     8199,
@@ -118,6 +121,7 @@ AddonTable.transmog = {
     9970,
     10069,
     10083,
+    10090,
     10100,
     10101,
     10104,
