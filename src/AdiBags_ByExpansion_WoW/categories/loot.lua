@@ -93,7 +93,9 @@ AddonTable.loot = {
 
     60219, -- Balanced Spell Staff
     65913, -- Hann Ibal's Epaulets
+    65919, -- Zaetar's Gloves
     65922, -- Warpwood Leaf Mantle
+    65927, -- Slippers of Tribute
     65939, -- Murd Doc's Leggings
     65948, -- Warpwood Bark Vest
     65951, -- Razorfen Spaulders
@@ -113,6 +115,7 @@ AddonTable.loot = {
     131206, -- Shimmerweed Brewer Treads
     131207, -- Well-Oiled Chain Gauntlets
     131436, -- Wendigo Pantaloons
+    131502, -- Sentinel Hill Hauberk
     131564, -- Night Watch Hauberk
     131574, -- Drifter's Cinch
     131577, -- The Clerk's Chain

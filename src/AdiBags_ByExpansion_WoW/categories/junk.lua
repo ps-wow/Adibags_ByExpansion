@@ -93,6 +93,7 @@ AddonTable.junk = {
     3945, -- Twill Boots
     3949, -- Twill Pants
     3950, -- Twill Shoulderpads
+    3961, -- Thick Leather Belt
     3962, -- Thick Leather Boots
     3963, -- Thick Leather Bracers
     3965, -- Thick Leather Gloves

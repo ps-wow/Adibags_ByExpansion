@@ -72,6 +72,7 @@ AddonTable.transmog = {
     7459,  -- Knight's Pauldrons
     7481,  -- Ranger Boots
     7494,  -- Captain's Waistguard
+    7519,  -- Gossamer Pants
     7524,  -- Gossamer Cape
     7526,  -- Gossamer Belt
     7543,  -- Champion's Pauldrons
@@ -82,6 +83,7 @@ AddonTable.transmog = {
     8131,  -- Myrmidon's Helm
     8141,  -- Chromite Greaves
     8183,  -- Precision Bow
+    8188,  -- Explosive Shotgun
     8199,  -- Battlefield Destroyer
     8249,  -- Imperial Red Gloves
     8250,  -- Imperial Red Mantle
@@ -97,6 +99,8 @@ AddonTable.transmog = {
     8310,  -- Hero's Pauldrons
 
     9386,  -- Excavator's Brand
+    9764,  -- Cadet Shield
+    9765,  -- Cadet Vest
     9770,  -- Greenweave Cloak
     9774,  -- Greenweave Vest
     9778,  -- Bandit Buckler
@@ -131,6 +135,7 @@ AddonTable.transmog = {
     9970,  -- Embossed Plate Leggings
 
     10069, -- Righteous Bracers
+    10080, -- Lord's Gauntlets
     10083, -- Lord's Crown
     10090, -- Gothic Plate Helmet
     10100, -- Councillor's Shoulders
@@ -205,6 +210,7 @@ AddonTable.transmog = {
     13118, -- Serpentine Sash
     13123, -- Dreamwalker Armor
     13130, -- Windrunner Legguards
+    13132, -- Skeletal Shoulders
     13144, -- Serenity Belt
     13146, -- Shell Launcher Shotgun
 
