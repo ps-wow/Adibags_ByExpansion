@@ -160,9 +160,6 @@ function Core:DefaultFilter(slotData, module, expFilter)
     prefix = prefix .. ' - '
 
     for tableName, tableDescription in pairs(module.categories) do
-
-        Core:Debug(expFilter, 'expFilter')
-
         if expFilter.db.profile[tableName] then
             --option for the table is enabled
             if expTable then
