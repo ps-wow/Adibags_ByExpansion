@@ -8,6 +8,7 @@ AddonTable.transmog = {
 
     1203,  -- Aegis of Stormwind
     1391,  -- Riverpaw Mystic Staff
+    1608,  -- Skullcrusher Mace
     1625,  -- Exquisite Flamberge
     1994,  -- Ebonclaw Reaver
 
@@ -30,13 +31,17 @@ AddonTable.transmog = {
     3652,  -- Hunting Buckler
     3740,  -- Decapitating Sword
 
+    4047,  -- Mistscape Boots
+    4063,  -- Imperial Leather Gloves
     4073,  -- Glimmering Mail Greaves
     4083,  -- Blackforge Gauntlets
+    4087,  -- Trueshot Bow
     4564,  -- Spiked Club
     4567,  -- Merc Sword
     4569,  -- Staunch Hammer
     4576,  -- Light Bow
     4577,  -- Compact Shotgun
+    4661,  -- Bright Mantle
     4695,  -- Burnished Cloak
     4721,  -- Insignia Mantle
     4733,  -- Blackforge Pauldrons
@@ -70,6 +75,7 @@ AddonTable.transmog = {
     7435,  -- Twilight Mantle
     7456,  -- Knight's Headguard
     7459,  -- Knight's Pauldrons
+    7478,  -- Ranger Leggings
     7481,  -- Ranger Boots
     7494,  -- Captain's Waistguard
     7519,  -- Gossamer Pants
@@ -79,16 +85,23 @@ AddonTable.transmog = {
     7610,  -- Aurora Sphere
 
     8111,  -- Hibernal Mantle
+    8112,  -- Hibernal Pants
     8115,  -- Hibernal Cowl
+    8120,  -- Heraldic Cloak
+    8126,  -- Myrmidon's Breastplate
     8131,  -- Myrmidon's Helm
     8141,  -- Chromite Greaves
+    8144,  -- Chromite Pauldrons
     8183,  -- Precision Bow
     8188,  -- Explosive Shotgun
     8199,  -- Battlefield Destroyer
     8249,  -- Imperial Red Gloves
     8250,  -- Imperial Red Mantle
+    8271,  -- Ebonhold Leggings
+    8285,  -- Arcane Bands
     8287,  -- Arcane Gloves
     8289,  -- Arcane Leggings
+    8291,  -- Arcane Sash
     8292,  -- Arcane Cover
     8293,  -- Traveler's Belt
     8296,  -- Traveler's Jerkin
@@ -118,22 +131,29 @@ AddonTable.transmog = {
     9835,  -- Scaled Leather Tunic
     9848,  -- Conjurer's Gloves
     9852,  -- Conjurer's Robe
+    9860,  -- Archer's Cloak
     9873,  -- Renegade Shield
     9875,  -- Sorcerer Sash
     9877,  -- Sorcerer Cloak
     9879,  -- Sorcerer Bracelets
+    9881,  -- Sorcerer Mantle
+    9893,  -- Huntsman's Leggings
     9897,  -- Jazeraint Chestguard
     9898,  -- Jazeraint Cloak
     9902,  -- Jazeraint Helm
     9907,  -- Royal Boots
+    9924,  -- Tracker's Tunic
     9937,  -- Abjurer's Bands
+    9939,  -- Abjurer's Gloves
     9940,  -- Abjurer's Hood
+    9942,  -- Abjurer's Pants
     9947,  -- Chieftain's Belt
     9953,  -- Chieftain's Headdress
     9964,  -- Warmonger's Leggings
     9965,  -- Warmonger's Pauldrons
     9970,  -- Embossed Plate Leggings
 
+    10059, -- Duskwoven Bracers
     10069, -- Righteous Bracers
     10080, -- Lord's Gauntlets
     10083, -- Lord's Crown
@@ -155,6 +175,7 @@ AddonTable.transmog = {
     10149, -- Mighty Gauntlets
     10153, -- Mighty Spaulders
     10154, -- Mercurial Girdle
+    10155, -- Mercurial Greaves
     10156, -- Mercurial Bracers
     10158, -- Mercurial Guard
     10161, -- Mercurial Gauntlets
@@ -163,12 +184,15 @@ AddonTable.transmog = {
     10203, -- Overlord's Chestplate
     10209, -- Overlord's Spaulders
     10210, -- Elegant Mantle
+    10211, -- Elegant Boots
+    10214, -- Elegant Gloves
     10217, -- Elegant Leggings
     10221, -- Nightshade Girdle
     10222, -- Nightshade Boots
     10226, -- Nightshade Helmet
     10228, -- Nightshade Spaulders
     10235, -- Engraved Helm
+    10243, -- Heavy Lamellar Girdle
     10246, -- Master's Vest
     10247, -- Master's Boots
     10249, -- Master's Cloak
@@ -187,7 +211,10 @@ AddonTable.transmog = {
     10269, -- Masterwork Girdle
     10270, -- Masterwork Boots
     10275, -- Emerald Breastplate
+    10363, -- Engraved Wall
+    10364, -- Templar Shield
     10367, -- Hyperion Shield
+    10370, -- Imbued Plate Girdle
     10372, -- Imbued Plate Helmet
     10379, -- Commander's Helm
     10384, -- Hyperion Armor
@@ -245,10 +272,13 @@ AddonTable.transmog = {
     15150, -- Ghostwalker Pads
     15192, -- Grand Gauntlets
     15195, -- Grand Breastplate
+    15214, -- Nobles Brand
+    15218, -- Crystal Sword
     15219, -- Dimensional Blade
     15221, -- Holy War Sword
     15227, -- Diamond-Tip Bludgeon
     15229, -- Blesswind Hammer
+    15238, -- Warlord's Axe
     15239, -- Felstone Reaver
     15240, -- Demon's Claw
     15241, -- Battle Knife
@@ -261,6 +291,7 @@ AddonTable.transmog = {
     15254, -- Dark Espadon
     15258, -- Divine Warblade
     15261, -- Sequoia Branch
+    15265, -- Painbringer
     15267, -- Brutehammer
     15271, -- Colossal Great Axe
     15272, -- Razor Axe
@@ -284,6 +315,7 @@ AddonTable.transmog = {
     15660, -- Impenetrable Breastplate
     15673, -- Watcher's Star
     15677, -- Magnificent Shoudlers
+    15938, -- Mystical Orb
     15940, -- Elegant Scepter
     15942, -- Master's Rod
     15973, -- Watcher's Star

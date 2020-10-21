@@ -90,15 +90,21 @@ AddonTable.junk = {
     3939, -- Crochet Cloak
     3940, -- Crochet Gloves
     3943, -- Crochet Vest
+    3944, -- Twill Belt
     3945, -- Twill Boots
+    3947, -- Twill Cloak
+    3948, -- Twill Gloves
     3949, -- Twill Pants
     3950, -- Twill Shoulderpads
     3961, -- Thick Leather Belt
     3962, -- Thick Leather Boots
     3963, -- Thick Leather Bracers
+    3964, -- Thick Cloak
     3965, -- Thick Leather Gloves
     3966, -- Thick Leather Pants
     3968, -- Thick Leather Tunic
+    3969, -- Smooth Leather Belt
+    3974, -- Smooth Leather Pants
     3975, -- Smooth Leather Shoulderpads
     3987, -- Deflecting Tower
     3990, -- Crested Buckler
@@ -113,6 +119,7 @@ AddonTable.junk = {
     4003, -- Overlinked Chain Cloak
     4018, -- Whetted Claymore
     4019, -- Heavy Flint Axe
+    4021, -- Blunting Mace
     4022, -- Crushing Maul
     4023, -- Fine Pointed Dagger
     4093, -- Large Basilisk Tail
@@ -163,6 +170,7 @@ AddonTable.junk = {
     7296, -- Extinguished Torch
     7997, -- Red Defias Mask
 
+    8082, -- Light Plate Boots
     8083, -- Light Plate Bracers
     8146, -- Wicked Claw
     8151, -- Flask of Mojo

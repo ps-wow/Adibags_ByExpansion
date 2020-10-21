@@ -435,6 +435,7 @@ AddonTable.loot = {
     163671, -- Honorbound Outrider's Vestments
     163673, -- Honorbound Centurion's Pauldrons
     163676, -- 7th Legionnaire's Raiment
+    163678, -- Pinku'shon's Impaler
     163703, -- Crawg Gnawed Femur
     163851, -- Venerated Golden Censer
     163862, -- Bartered Vrykul Hood

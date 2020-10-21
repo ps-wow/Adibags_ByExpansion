@@ -29,12 +29,17 @@ AddonTable.loot = {
 
     11302, -- Uther's Strenth
 
+    11991, -- Quicksilver Ring
     11994, -- Coral Band
     11999, -- Lodestone Hoop
 
+    12004, -- Obsidian Band
     12005, -- Granite Ring
+    12015, -- Swamp Ring
     12020, -- Thallium Choker
     12036, -- Granite Necklace
+    12042, -- Marsh Chain
+    12043, -- Desert Choker
     12044, -- Arctic Pendant
     12052, -- Ring of the Moon
     12048, -- Prismatic Pendant

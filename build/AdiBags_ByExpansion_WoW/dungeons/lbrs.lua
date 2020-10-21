@@ -1,5 +1,7 @@
 local AddonName, AddonTable = ...
 AddonTable.lbrs = {
+    -- Crystal Fang
+    13184,
     -- Highlord Omokk
     13167,
     151412,
