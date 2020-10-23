@@ -56,6 +56,7 @@ AddonTable.transmog = {
     6413,  -- Chief Brigadier Bracers
     6417,  -- Aurora Cloak
     6433,  -- Imperial Leather Helm
+    6539,  -- Willow Belt
     6540,  -- Willow Pants
     6542,  -- Willow Cape
     6547,  -- Soldier's Gauntlets
@@ -104,12 +105,15 @@ AddonTable.transmog = {
     8291,  -- Arcane Sash
     8292,  -- Arcane Cover
     8293,  -- Traveler's Belt
+    8294,  -- Traveler's Boots
     8296,  -- Traveler's Jerkin
+    8298,  -- Traveler's Gloves
     8300,  -- Traveler's Leggings
     8301,  -- Traveler's Spaulders
     8307,  -- Hero's Boots
     8309,  -- Hero's Leggings
     8310,  -- Hero's Pauldrons
+    8318,  -- Alabaster Plate Leggings
 
     9386,  -- Excavator's Brand
     9764,  -- Cadet Shield
@@ -189,8 +193,10 @@ AddonTable.transmog = {
     10217, -- Elegant Leggings
     10221, -- Nightshade Girdle
     10222, -- Nightshade Boots
+    10224, -- Nightshade Cloak
     10226, -- Nightshade Helmet
     10228, -- Nightshade Spaulders
+    10233, -- Engraved Girdle
     10235, -- Engraved Helm
     10243, -- Heavy Lamellar Girdle
     10246, -- Master's Vest

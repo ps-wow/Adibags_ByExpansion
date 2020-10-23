@@ -87,6 +87,7 @@ AddonTable.loot = {
     57541, -- Ragged Wolf Hide Cloak
     58903, -- Kobold Candle
     58905, -- Kobold Basher
+    58906, -- Equicide Cloak
     58907, -- Crime Scene Tape [Quest: Westfall]
     58908, -- Scene Investigator's Wrap
     58909, -- Golden Sunshine Cloak [Quest: Westfall]
@@ -94,6 +95,7 @@ AddonTable.loot = {
     58914, -- Sentinel Hill Breastplate
     58920, -- Dust Plains Greaves
     58923, -- Gregorky's Bracers
+    58929, -- House Wrynn Crossbow
     59042, -- Electro-Staff
 
     60219, -- Balanced Spell Staff
@@ -120,7 +122,11 @@ AddonTable.loot = {
     131206, -- Shimmerweed Brewer Treads
     131207, -- Well-Oiled Chain Gauntlets
     131436, -- Wendigo Pantaloons
+    131496, -- Boiled Chain Footpads
+    131497, -- Chewed Chain Cord
     131502, -- Sentinel Hill Hauberk
+    131503, -- Spothide Legguards
+    131504, -- Troublesome Grips
     131564, -- Night Watch Hauberk
     131574, -- Drifter's Cinch
     131577, -- The Clerk's Chain

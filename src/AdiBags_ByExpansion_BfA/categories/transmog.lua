@@ -82,6 +82,7 @@ AddonTable.transmog = {
     159488, -- Zem'lan Cleaver
     159490, -- Rivermarsh Composite
     159491, -- Warport Short Bow
+    159493, -- Gnarlwood Crossbow
     159496, -- Gol Osigr Crossbow
     159497, -- Deepwarden Flintlock
     159501, -- Coralshell Glaives
@@ -151,6 +152,7 @@ AddonTable.transmog = {
     159609, -- Golden Fleet Wand
     159797, -- Shipwrecker Shield
     159799, -- Wintersail Bulwark
+    159800, -- Wavecaller Buckler
     159802, -- Deepwarden Redoubt
     159803, -- Coldscale Shield
     159805, -- Coralshell Barrier

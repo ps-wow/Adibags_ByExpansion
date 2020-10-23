@@ -20,6 +20,7 @@ AddonTable.junk = {
     1507, -- Warped Leather Pants
     1510, -- Heavy Hammer
     1511, -- Commoner's Sword
+    1512, -- Crude Battle Axe
     1515, -- Rough Wooden Staff
     1520, -- Troll Sweat
     1687, -- Retractable Claw
