@@ -21,6 +21,7 @@ AddonTable.transmog = {
     154834, -- Bloodhex Grips
     154837, -- Bloodhex Anklewraps
     154842, -- Corlain Girdle
+    154843, -- Corlain Greathelm
     154847, -- Corlain Vambraces
     154850, -- Crimsonwood Boots
     154851, -- Crimsonwood Breeches
@@ -211,6 +212,7 @@ AddonTable.transmog = {
     164369, -- Plundered Pirate Admiral's Bicorne
     164410, -- Twilight Dragon's Armplates
     164420, -- Geocrag Grips
+    164421, -- Geocrag Girdle
     164446, -- Spiritbough Grasps
     164447, -- Mrrglurggl Girdle
     164469, -- Mrrglurggl Grips

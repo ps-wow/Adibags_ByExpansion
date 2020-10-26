@@ -1,6 +1,6 @@
 # Changelog
 
-## Unreleased
+## [1.1.0] - 2020-10-14
 ### Added
  - Add 'pets' and 'toys' categories for all expansions.
  - Options: Add ability to toggle off expansion number prefixes.

@@ -32,6 +32,9 @@ AddonTable.loot = {
 
     42767, -- Invigorating Sabatons
 
+    43838, -- Chuchu's Tiny Box of Horrors
+    43926, -- Signet of Baron Sliver
+
     44358, -- Kilix's Silk Slippers
     44361, -- Greaves of the Traitor
 

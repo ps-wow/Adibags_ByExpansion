@@ -46,6 +46,7 @@ AddonTable.loot = {
 
     112077, -- Grutush's Fur-Padded Pantaloons
     112371, -- Warpstalker-Scale Grips
+    112387, -- Iron Horde Bolt-Thrower
     112389, -- Iron Horde Warcudgel
     112392, -- Iron Horde Ritual Staff
     112393, -- Iron Horde Waraxe

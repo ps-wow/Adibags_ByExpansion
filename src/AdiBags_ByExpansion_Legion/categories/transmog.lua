@@ -50,6 +50,7 @@ AddonTable.transmog = {
     121154, -- Valdisdall Helm
     121155, -- Valdisdall Legguards
     121157, -- Valdisdall Vest
+    121158, -- Hrydshal Cord
     121161, -- Hrydshal Leggings
     121164, -- Hrydshal Shoulderpads
     121168, -- Kal'delar Helm

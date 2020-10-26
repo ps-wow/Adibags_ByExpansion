@@ -4,6 +4,7 @@ local AddonName, AddonTable = ...
 AddonTable.junk = {
     55,   -- Apprentice's Boots
 
+    537,  -- Dull Frenzy Scale
     770,  -- Pointy Crocolisk Tooth
     771,  -- Chipped Boar Tusk
 
@@ -11,9 +12,11 @@ AddonTable.junk = {
     1395, -- Apprentice's Pants
     1415, -- Carpenter's Mallet
     1420, -- Worn Leather Bracers
+    1427, -- Patchwork Shoes
     1429, -- Patchwork Cloak
     1433, -- Patchwork Armor
     1497, -- Calico Cloak
+    1502, -- Warped Leather Belt
     1507, -- Warped Leather Pants
     1510, -- Heavy Hammer
     1511, -- Commoner's Sword
@@ -42,7 +45,9 @@ AddonTable.junk = {
     2154, -- The Story of Morgan Ladimore
     2212, -- Cracked Buckler
     2295, -- Large Boar Tusk
+    2562, -- Bouquet of Scarlet Begonias
     2608, -- Threshadon Ambergris
+    2778, -- Cheap Blunderbuss
     2959, -- Journeyman's Boots
     2972, -- Spellbinder Gloves
 
@@ -57,6 +62,7 @@ AddonTable.junk = {
     3181, -- Partially Digested Meat
     3189, -- Wood Chopper
     3190, -- Beatstick
+    3213, -- Veteran Bracers
     3299, -- Fractured Canine
     3300, -- Rabbit's Foot
     3301, -- Sharp Canine
@@ -80,14 +86,18 @@ AddonTable.junk = {
     3817, -- Reinforced Buckler
     3931, -- Poisoned Spider Fang
     3937, -- Crochet Boots
+    3938, -- Crochet Bracers
     3939, -- Crochet Cloak
+    3940, -- Crochet Gloves
     3943, -- Crochet Vest
     3945, -- Twill Boots
     3949, -- Twill Pants
     3950, -- Twill Shoulderpads
     3962, -- Thick Leather Boots
+    3963, -- Thick Leather Bracers
     3965, -- Thick Leather Gloves
     3966, -- Thick Leather Pants
+    3968, -- Thick Leather Tunic
     3975, -- Smooth Leather Shoulderpads
     3987, -- Deflecting Tower
     3990, -- Crested Buckler
@@ -97,6 +107,9 @@ AddonTable.junk = {
     3997, -- Laminated Scale Pants
     3999, -- Laminated Scale Armor
 
+    4000, -- Overlinked Chain Belt
+    4001, -- Overlinked Chain Boots
+    4003, -- Overlinked Chain Cloak
     4018, -- Whetted Claymore
     4019, -- Heavy Flint Axe
     4022, -- Crushing Maul
@@ -135,6 +148,7 @@ AddonTable.junk = {
     5137, -- Bright Eyeball
     5263, -- Pocket Lint
     5506, -- Beady Eye Stalk
+    5829, -- Razor-Sharp Beak
 
     6444, -- Forked Tongue
     6445, -- Brittle Molting
@@ -155,6 +169,7 @@ AddonTable.junk = {
     8177, -- Practice Sword
     8746, -- Interlaced Cowl
     8748, -- Double Mail Coif
+    8749, -- Crochet Hat
     8752, -- Laminated Scale Circlet
     8754, -- Twill Cover
 
@@ -299,7 +314,9 @@ AddonTable.junk = {
     56204, -- Nameless Vestigial Organ
 
     57058, -- Fractured Gear Tooth
+    57062, -- Intact Spurwheel
     57063, -- Small Dingbat
+    57397, -- Goldshire Iron Bracer
     57400, -- Gold Dust Belt
 
     58216, -- "Flying" Worgen Robes

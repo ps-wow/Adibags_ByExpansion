@@ -9,6 +9,7 @@ AddonTable.transmog = {
     36036, -- Condor Sandals
     36037, -- Condor Robe
     36038, -- Condor Gloves
+    36039, -- Condor Headpiece
     36040, -- Condor Pants
     36041, -- Condor Shoulderpads
     36044, -- Crystalsong Slippers

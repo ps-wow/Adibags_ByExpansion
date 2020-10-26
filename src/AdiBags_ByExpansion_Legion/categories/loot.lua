@@ -160,6 +160,7 @@ AddonTable.loot = {
     139079, -- Bramblemail Gloves
     139693, -- Crown of the Silver Hand
     139718, -- Helm of the Shattered Abyss
+    139757, -- Miter of the High Priest [Priest Order Hall Set]
     139897, -- Cloak of the White Prowler
     139926, -- Subject 12's ID Bracelets
 
