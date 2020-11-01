@@ -1,5 +1,6 @@
 local AddonName, AddonTable = ...
 AddonTable.bwl = {
+    19362,
     19434,
     19436,
     19435,

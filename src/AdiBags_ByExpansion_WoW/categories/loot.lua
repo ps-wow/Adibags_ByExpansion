@@ -42,11 +42,11 @@ AddonTable.loot = {
     12043, -- Desert Choker
     12044, -- Arctic Pendant
     12052, -- Ring of the Moon
+    12053, -- Volcanic Rock Ring
     12048, -- Prismatic Pendant
     12055, -- Stardust Band
     12057, -- Dragonscale Band
 
-    14168, -- Buccaneer's Gloves
     14951, -- Bloodforged Sabatons
 
     19358, -- Draconic Maul
@@ -99,6 +99,11 @@ AddonTable.loot = {
     59042, -- Electro-Staff
 
     60219, -- Balanced Spell Staff
+    60697, -- Indiscriminate Wand
+    60700, -- Solomon's Gavel
+    60706, -- Sandals of the Neverending Bridge
+    60715, -- Vial of Chloroform
+
     65913, -- Hann Ibal's Epaulets
     65919, -- Zaetar's Gloves
     65922, -- Warpwood Leaf Mantle

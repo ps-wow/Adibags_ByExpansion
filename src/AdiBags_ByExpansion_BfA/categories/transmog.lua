@@ -25,6 +25,8 @@ AddonTable.transmog = {
     154847, -- Corlain Vambraces
     154850, -- Crimsonwood Boots
     154851, -- Crimsonwood Breeches
+    154853, -- Crimsonwood Cowl
+    154855, -- Crimsonwood Mantle
     154859, -- Barrowknoll Bracers
     154863, -- Barrowknoll Legguards
     154864, -- Barrowknoll Pauldrons
@@ -149,6 +151,7 @@ AddonTable.transmog = {
     159604, -- Coldscale Rod
     159605, -- Ironcrest Baton
     159607, -- Rivermarsh Wand
+    159608, -- Warport Hexxer
     159609, -- Golden Fleet Wand
     159797, -- Shipwrecker Shield
     159799, -- Wintersail Bulwark
@@ -220,20 +223,27 @@ AddonTable.transmog = {
     164469, -- Mrrglurggl Grips
     164473, -- Mrrglurggl Spaulders
     164522, -- Voodoo Stalker's Chestguard
+    164533, -- Bloodwake Girdle
     164550, -- Whirling Dervish Gloves
     164570, -- Miststalker's Belt
+
+    168644, -- Converted Carrot Carbine
 
     169399, -- Deeptide Gloves
     169402, -- Deeptide Amice
     169403, -- Deeptide Cinch
+    169407, -- Slithershell Mitts
+    169410, -- Slithershell Mantle
     169413, -- Reefwalker Hauberk
     169420, -- Reefwalker Coils
     169423, -- Wavecrash Crushers
     169429, -- Wavecrash Wristguards
     169433, -- Wavecrash Greatcloak
 
+    170114, -- Flanged Mace
     170115, -- Massive Viridian Claw
     170116, -- Darkened Slicer
+    170117, -- Wavebinder's Rod
     170118, -- Centurion's Shortsword
     170119, -- Slithershell Warglaive
     170120, -- Handmaiden's Longstaff

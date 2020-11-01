@@ -13,16 +13,20 @@ AddonTable.transmog = {
     1994,  -- Ebonclaw Reaver
 
     2034,  -- Scholarly Robes
+    2073,  -- Dwarven Hatchet
     2078,  -- Northern Shortsword
     2564,  -- Elven Spirit Claws
+    2958,  -- Journeyman's Pants
     2962,  -- Burnt Leather Breeches
     2980,  -- Veteran Gloves
     2983,  -- Seer's Boots
     2984,  -- Seer's Gloves
 
+    3036,  -- Heavy Shortbow
     3042,  -- BKP "Sparrow" Smallbore
     3184,  -- Hook Dagger
     3186,  -- Viking Sword
+    3192,  -- Short Bastard Sword
     3193,  -- Oak Mallet
     3196,  -- Edged Bastard Sword
     3197,  -- Stonecutter Claymore
@@ -39,10 +43,12 @@ AddonTable.transmog = {
     4564,  -- Spiked Club
     4567,  -- Merc Sword
     4569,  -- Staunch Hammer
+    4571,  -- War Knife
     4576,  -- Light Bow
     4577,  -- Compact Shotgun
     4661,  -- Bright Mantle
     4695,  -- Burnished Cloak
+    4697,  -- Burnished Girdle
     4721,  -- Insignia Mantle
     4733,  -- Blackforge Pauldrons
 
@@ -52,16 +58,19 @@ AddonTable.transmog = {
     5267,  -- Scarlet Kris
 
     6267,  -- Disciple's Pants
+    6269,  -- Pioneer Trousers
     6386,  -- Glimmering Mail Legguards
     6413,  -- Chief Brigadier Bracers
     6417,  -- Aurora Cloak
     6433,  -- Imperial Leather Helm
     6539,  -- Willow Belt
     6540,  -- Willow Pants
+    6543,  -- Willow Bracers
     6542,  -- Willow Cape
     6547,  -- Soldier's Gauntlets
     6557,  -- Bard's Boots
     6558,  -- Bard's Belt
+    6563,  -- Shimmering Bracers
     6565,  -- Shimmering Gloves
     6570,  -- Shimmering Sash
     6575,  -- Defender Cloak
@@ -93,6 +102,7 @@ AddonTable.transmog = {
     8131,  -- Myrmidon's Helm
     8141,  -- Chromite Greaves
     8144,  -- Chromite Pauldrons
+    8180,  -- Hunting Bow
     8183,  -- Precision Bow
     8188,  -- Explosive Shotgun
     8199,  -- Battlefield Destroyer
@@ -116,6 +126,7 @@ AddonTable.transmog = {
     8318,  -- Alabaster Plate Leggings
 
     9386,  -- Excavator's Brand
+    9747,  -- Simple Britches
     9764,  -- Cadet Shield
     9765,  -- Cadet Vest
     9770,  -- Greenweave Cloak
@@ -146,6 +157,7 @@ AddonTable.transmog = {
     9898,  -- Jazeraint Cloak
     9902,  -- Jazeraint Helm
     9907,  -- Royal Boots
+    9912,  -- Royal Amice
     9924,  -- Tracker's Tunic
     9937,  -- Abjurer's Bands
     9939,  -- Abjurer's Gloves
@@ -162,6 +174,7 @@ AddonTable.transmog = {
     10080, -- Lord's Gauntlets
     10083, -- Lord's Crown
     10090, -- Gothic Plate Helmet
+    10095, -- Councillor's Boots
     10100, -- Councillor's Shoulders
     10101, -- Councillor's Pants
     10104, -- Councillor's Tunic
@@ -183,6 +196,7 @@ AddonTable.transmog = {
     10156, -- Mercurial Bracers
     10158, -- Mercurial Guard
     10161, -- Mercurial Gauntlets
+    10167, -- Templar Boots
     10179, -- Mystical Boots
     10185, -- Swashbuckler's Cape
     10203, -- Overlord's Chestplate
@@ -232,6 +246,7 @@ AddonTable.transmog = {
     13013, -- Elder Wizard's Mantle
     13036, -- Assassination Blade
     13039, -- Skull Splitting Crossbow
+    13040, -- Heartseeking Crossbow
     13047, -- Twig of the World Tree
     13072, -- Stonegrip Gauntlets
     13073, -- Mugthol's Helm
@@ -249,12 +264,14 @@ AddonTable.transmog = {
 
     14124, -- Ritual Gloves
     14167, -- Buccaneer's Cape
+    14168, -- Buccaneer's Gloves
     14200, -- Thistlefur Cap
     14228, -- Embersilk Coronet
     14269, -- Gaea's Slippers
     14306, -- Bonecaster's Vest
     14309, -- Celestial Belt
     14312, -- Celestial Crown
+    14375, -- Sanguine Cuffs
     14415, -- Stonecloth Britches
     14431, -- Windchaser Handguards
     14551, -- Edgemaster's Handguards
@@ -304,6 +321,7 @@ AddonTable.transmog = {
     15273, -- Death Striker
     15278, -- Solstice Staff
     15279, -- Ivory Wand
+    15284, -- Long Battle Bow
     15285, -- Archer's Longbow
     15287, -- Crusader Bow
     15288, -- Blasthorn Bow
@@ -317,13 +335,16 @@ AddonTable.transmog = {
     15442, -- Supreme Breastplate
     15489, -- Bloodspattered Sabatons
     15492, -- Bloodspattered Sash
+    15521, -- Spiked Chain Leggings
     15594, -- Steadfast Cloak
     15660, -- Impenetrable Breastplate
     15673, -- Watcher's Star
     15677, -- Magnificent Shoudlers
+    15925, -- Journeyman's Stave
     15938, -- Mystical Orb
     15940, -- Elegant Scepter
     15942, -- Master's Rod
+    15945, -- Runic Stave
     15973, -- Watcher's Star
     15979, -- Flamecloth Stave
 

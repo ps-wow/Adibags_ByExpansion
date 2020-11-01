@@ -49,4 +49,8 @@ AddonTable.nexus = {
     42761,
     42763,
     42765,
+    --- Quickening
+    42760,
+    --- Prisoner of War
+    38223,
 }

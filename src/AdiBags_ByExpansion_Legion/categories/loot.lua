@@ -72,6 +72,7 @@ AddonTable.loot = {
     129072, -- The Voilaceous Pearl
     129073, -- Bitterbrine's Signet Ring
     129079, -- Bile-Resistant Boots
+    129086, -- Brawlgoth's Choker
     129101, -- Alpha's Paw
     129104, -- Brand of the Banshee Queen
     129171, -- Band of Ingression
@@ -133,6 +134,8 @@ AddonTable.loot = {
     133325, -- Illidari Belt
 
     134158, -- Trembling Mightstone Drape
+    134161, -- Brulstone Pendant
+    134165, -- Bitestone Gauntlets
     134179, -- Skoldiir Breastplate
     134180, -- Skoldiir Gauntlets
     134181, -- Skoldiir Waistplate
@@ -150,6 +153,8 @@ AddonTable.loot = {
     134557, -- Dreadsworn Gauntlets
     134561, -- Dreadsword Chestguard
 
+    136737, -- Warden Band
+
     137497, -- Footpads of the Swift Balestra
 
     138450, -- Signet of Stormwind
@@ -158,6 +163,7 @@ AddonTable.loot = {
     139072, -- Tranquil Bough Spaulders
     139075, -- Forest Creeper's Guile
     139079, -- Bramblemail Gloves
+    139081, -- Bramblemail Helm
     139693, -- Crown of the Silver Hand
     139718, -- Helm of the Shattered Abyss
     139757, -- Miter of the High Priest [Priest Order Hall Set]

@@ -3,6 +3,7 @@ local AddonName, AddonTable = ...
 -- TBC Loot
 AddonTable.loot = {
     25050, -- Moldavite Ring
+    25053, -- Lazuli Ring
     25054, -- Sodalite Band
     25055, -- Alexandrite Ring
     25056, -- Almandine Ring
@@ -10,6 +11,7 @@ AddonTable.loot = {
     25058, -- Anglesite Choker
     25059, -- Fire Opal Collar
     25069, -- Epidote Stone Necklace
+    25071, -- Tanzanite Pendant
 
     28029, -- Goldenvine Wraps
     28052, -- Goldweave Tunic
@@ -36,4 +38,6 @@ AddonTable.loot = {
     -- Tier Sets
     --- Druid
     30230, -- Nordrassil Feral-Mantle
+    -- Hunter
+    29084, -- Demon Stalker Shoulderguards
 }

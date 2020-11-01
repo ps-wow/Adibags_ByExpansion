@@ -30,6 +30,7 @@ AddonTable.mining = {
     2836,  -- Coarse Stone
     2838,  -- Heavy Stone
     7912,  -- Solid Stone
+    12365, -- Dense Stone
     -- Gems
     774,   -- Malachite
     818,   -- Tigerseye

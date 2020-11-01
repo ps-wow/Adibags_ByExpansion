@@ -124,6 +124,7 @@ AddonTable.loot = {
     157929, -- Greathelm of Rezan's Bladeguard
     157930, -- Shadra Silk Robes
     157932, -- Pauldrons of Rezan's Bladeguard
+    157933, -- Greatbelt of Rezan's Bladeguard
     157934, -- Vambraces of Rezan's Bladeguard
     157935, -- Sandspinner Footwraps
     157936, -- Sandspinner Gloves
@@ -206,6 +207,7 @@ AddonTable.loot = {
     158106, -- Ironcrest Greatblade
     158107, -- Deepwarden Baton
     158110, -- Razorbone Carver
+    158122, -- Spirit Bog Scepter
     158124, -- Dinobone Cracker
     158127, -- Razorbone Spear
     158133, -- Zandalari Machete
@@ -380,20 +382,25 @@ AddonTable.loot = {
     161446, -- Blistering Seawater Seal
     161766, -- Dread Gladiator's Silk Sash
 
+    162795, -- Wildguard Poleyn
     162802, -- Spell-Splintered Pantaloons
     162803, -- Spell-Splintered Robes
     162804, -- Spell-Splintered Mantle
     162824, -- Faithsworn Mitts (BfA PrePatch Event)
     162831, -- Ambuscade Tunic
+    162833, -- Ambuscade Grips
     162835, -- Ambuscade Breeches
+    162838, -- Ambuscade Sabercuffs
     162876, -- Dread Aspirant's Wand
     162938, -- Dread Aspirant's Silk Treads
     162943, -- Dread Aspirant's Silk Gloves
     162946, -- Dread Aspirant's Chain Helm
     162959, -- Dread Aspirant's Silk Cuffs
+    162987, -- Wildguard Shotgun
     162996, -- Faithsworn Staff (BfA PrePatch Event)
 
     163001, -- Ambuscade Sword
+    163014, -- Wildguard Spear
     163275, -- 7th Legionnaire's Cuffs
     163282, -- Honorbound Vanguard's Chainmail
     163285, -- Honorbound Artificer's Sandles

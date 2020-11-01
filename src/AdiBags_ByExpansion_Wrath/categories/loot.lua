@@ -13,8 +13,10 @@ AddonTable.loot = {
     36385, -- Golem Pauldrons
     36420, -- Gemstone Ring
     36423, -- Posy Ring
+    36427, -- Engraved Ring
     36428, -- Bouquet Ring
     36429, -- Spur Ring
+    36441, -- Pearl Woven Choker
     36444, -- Ice Encrusted Amulet
     36458, -- Frozen Shield
 
@@ -93,4 +95,13 @@ AddonTable.loot = {
     38675,  -- Signet of the Dark Brotherhood
     38707,  -- Runed Soulblade
     174487, -- Unholy Greatsword
+
+    -- Tier Sets
+    --- Death Knight
+    50098, -- Scourgelord Shoulderplates (Shoulder)
+    50853, -- Scourgelord Pauldrons (Shoulder)
+    51127, -- Sanctified Scourgelord Helmet (Helm)
+    51129, -- Sanctified Scourgelord Battleplate (Chest)
+    51133, -- Sanctified Scourgelord Faceguard (Helm)
+    51134, -- Sanctified Scourgelord Chestguard (Chest)
 }

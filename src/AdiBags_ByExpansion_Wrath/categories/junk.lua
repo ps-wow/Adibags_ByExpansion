@@ -17,6 +17,7 @@ AddonTable.junk = {
     33379, -- Frozen Armor
     33380, -- Frozen Belt
     33381, -- Frozen Boots
+    33382, -- Frozen Bracers
     33383, -- Frozen Gloves
     33384, -- Frozen Pants
     33385, -- Frozen Shoulderpads
@@ -29,8 +30,10 @@ AddonTable.junk = {
     33399, -- Frigid Mail Boots
 
     33400, -- Frigid Mail Bracers
+    33401, -- Frigid Mail Gloves
     33402, -- Frigid Mail Pants
     33403, -- Frigid Mail Shoulderpads
+    33405, -- Ice-Bound Plate Boots
     33406, -- Ice-Bound Plate Bracers
     33410, -- Ice-Bound Plate Shoulderpads
     33412, -- Frost-Worn Plate Belt
@@ -54,6 +57,7 @@ AddonTable.junk = {
     33434, -- Frozen Leather Helmet
     33435, -- Frost-Worn Plate Helmet
     33436, -- Frost-Rimed Cloth Hat
+    33440, -- Ice-Bound Plate Helmet
     33556, -- Pearly Seashell Fragment
     33561, -- Hardened Flipper
     33575, -- Icicle Claw

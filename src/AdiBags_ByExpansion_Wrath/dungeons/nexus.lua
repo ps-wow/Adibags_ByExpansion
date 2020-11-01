@@ -50,4 +50,8 @@ AddonTable.nexus = {
     42761, -- time-stop-gloves
     42763, -- bindings-of-sabotage
     42765, -- gauntlets-of-the-disturbed-giant
+    --- Quickening
+    42760, -- Sandals of Mystical Evolution
+    --- Prisoner of War
+    38223, -- Cloak of Azure Lights
 }

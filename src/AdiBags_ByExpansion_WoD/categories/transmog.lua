@@ -16,6 +16,7 @@ AddonTable.transmog = {
     106427, -- Rimeplate Legplates
     106429, -- Rimeplate Sabatons
     106433, -- Voidcaller Boots
+    106474, -- Iyun Cowl
     106475, -- Iyun Handwraps
     106483, -- Tangleheart Gauntlets
     106484, -- Tangleheart Greaves
@@ -72,10 +73,12 @@ AddonTable.transmog = {
     111475, -- Beater's Beat Stick
 
     116464, -- Frostbitten Gun
+    116469, -- Frostbitten Staff
     116475, -- Lunarglow Broadaxe
     116480, -- Lunarglow Knuckles
     116493, -- Vinewrapped Bow
     116497, -- Vinewrapped Knuckles
+    116499, -- Vinewrapped Mace
     116514, -- Creeperclaw Knuckles
     116515, -- Creeperclaw Gun
     116517, -- Evermorn Scepter

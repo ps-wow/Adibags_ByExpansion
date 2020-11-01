@@ -226,6 +226,18 @@ function Core:DefaultFilter(slotData, module, expFilter)
                     end
                 end
             end
+        else
+            if expTable then
+                if expTable[tableName] then
+                    if expTable[tableName][slotData.itemId] then
+                        if everythingIsJunk then
+                            return prefix .. "Junk"
+                        else
+                            return prefix .. tableDescription
+                        end
+                    end
+                end
+            end
         end
     end
 end
@@ -378,7 +390,7 @@ function Core:AddProfessionItems(items, profession, module)
     end
 end
 
---- Load all the categories.
+--- Load all the default categories.
 -- @param table
 -- @param module
 --
