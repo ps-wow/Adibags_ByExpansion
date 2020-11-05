@@ -2,7 +2,9 @@ local AddonName, AddonTable = ...
 
 -- WoW Junk
 AddonTable.junk = {
+    35,   -- Bent Staff
     55,   -- Apprentice's Boots
+    56,   -- Apprentice's Boots
 
     537,  -- Dull Frenzy Scale
     767,  -- Long Bo Staff
@@ -12,10 +14,12 @@ AddonTable.junk = {
     1074, -- Hard Spider Leg Tip
     1395, -- Apprentice's Pants
     1415, -- Carpenter's Mallet
+    1419, -- Worn Leather Boots
     1420, -- Worn Leather Bracers
     1427, -- Patchwork Shoes
     1429, -- Patchwork Cloak
     1433, -- Patchwork Armor
+    1476, -- Snapped Spider Limb
     1495, -- Calico Shoes
     1497, -- Calico Cloak
     1501, -- Calico Tunic
@@ -29,6 +33,7 @@ AddonTable.junk = {
     1520, -- Troll Sweat
     1687, -- Retractable Claw
     1702, -- Intact Basilisk Spine
+    1730, -- Worn Mail Belt
     1734, -- Worn Mail Gloves
     1735, -- Worn Mail Pants
     1737, -- Worn Mail Vest
@@ -49,6 +54,7 @@ AddonTable.junk = {
     1814, -- Battered Mallet
     1816, -- Unbalanced Axe
     1817, -- Stock Shortsword
+    1820, -- Wooden Maul
 
     2057, -- Pitted Defias Shortsword
     2154, -- The Story of Morgan Ladimore
@@ -58,6 +64,7 @@ AddonTable.junk = {
     2608, -- Threshadon Ambergris
     2766, -- Deft Stiletto
     2778, -- Cheap Blunderbuss
+    2780, -- Light Hunting Bow
     2783, -- Shoddy Blunderbuss
     2959, -- Journeyman's Boots
     2972, -- Spellbinder Gloves
@@ -94,6 +101,7 @@ AddonTable.junk = {
     3793, -- Interlaced Boots
     3794, -- Interlaced Bracers
     3796, -- Interlaced Gloves
+    3797, -- Interlaced Pants
     3798, -- Interlaced Shoulderpads
     3801, -- Granny's Mallet
     3802, -- Hardened Leather Bracers
@@ -122,6 +130,7 @@ AddonTable.junk = {
     3969, -- Smooth Leather Belt
     3974, -- Smooth Leather Pants
     3975, -- Smooth Leather Shoulderpads
+    3976, -- Smooth Leather Armor
     3987, -- Deflecting Tower
     3990, -- Crested Buckler
     3992, -- Laminated Scale Belt
@@ -205,7 +214,9 @@ AddonTable.junk = {
 
     9242, -- Ancient Tablet
     9308, -- Grime-Encrusted Object (Gnomeregen Quest Item)
+    9750, -- Nomad Sash
     9752, -- Gypsy Bands
+    9754, -- Nomad Cloak
 
     11191, -- Farmer's Boots
     11385, -- Basilisk Scale
@@ -220,6 +231,7 @@ AddonTable.junk = {
     11411, -- Large Bear Bone
     11414, -- Grizzled Mane
     11418, -- Hollow Wing Bone
+    11475, -- Wine-Stained Cloak
     12735, -- Frayed Abomination Stitching
     13362, -- Letter from the Front
     13363, -- Municipal Proclamation
@@ -244,6 +256,7 @@ AddonTable.junk = {
     18222, -- Thorny Vine
     18223, -- Serrated Petal
     18224, -- Lasher Blossom
+    18234, -- Document from Boomstick Imports
     18237, -- Mastiff Jawbone
     18285, -- Crystallized Mana Shard
     18286, -- Condensed Mana Fragment
@@ -291,6 +304,7 @@ AddonTable.junk = {
     22527, -- Core of Elements
     22528, -- Dark Iron Scraps
 
+    23987, -- Mutated Petal
     23988, -- Mutated Vine
 
     24577, -- Loosely Threaded Boots
@@ -316,6 +330,7 @@ AddonTable.junk = {
     49406, -- Gilnean Neophyte's Boots
 
     54627, -- Wilted Flower
+    54633, -- Shattered Jaws
     54831, -- Shiny Pebble
     54835, -- Broken Fishbones
     54979, -- Godfrey's Dagger
@@ -323,6 +338,7 @@ AddonTable.junk = {
     55005, -- Darius' Sash
     55016, -- Granny's Mallet
     55020, -- Lorna's Gloves
+    55973, -- Inert Elemental Speck
     55974, -- Inert Elemental Particle
     55975, -- Inert Elemental Grain
     55976, -- Inert Elemental Mass
@@ -346,8 +362,15 @@ AddonTable.junk = {
     57058, -- Fractured Gear Tooth
     57062, -- Intact Spurwheel
     57063, -- Small Dingbat
+    57253, -- Northshire Abbot's Cinch
+    57256, -- Northshire Abbot's Shoes
+    57386, -- Northshire Abbot's Robe
+    57389, -- Innkeeper's Longstockings
+    57395, -- Lion's Pride Bracer
     57397, -- Goldshire Iron Bracer
+    57398, -- Candlewax Streaked Robe
     57400, -- Gold Dust Belt
+    57402, -- Uncle Stonefield's Pants
 
     58216, -- "Flying" Worgen Robes
     58255, -- Lord Walden's Top Hat
@@ -359,7 +382,11 @@ AddonTable.junk = {
 
     62328, -- Shed Fur
 
+    67357, -- Wriggling Worm
+
     68724, -- Broken Barn Door
+
+    85575, -- Peacebringer's Staff
 
     114008, -- Broken Weapon Attachment
 }

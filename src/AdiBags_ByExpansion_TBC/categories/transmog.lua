@@ -10,6 +10,7 @@ AddonTable.transmog = {
     24614, -- Vindicator Boots
     24619, -- Vindicator Shoulderpads
     24625, -- Slavehandler Cap
+    24667, -- Shadow Council Mantle
     24671, -- Eldr'naan Jerkin
     24676, -- Eldr'naan Bracelets
     24678, -- Archmage Slippers

@@ -24,6 +24,7 @@ AddonTable.transmog = {
 
     3036,  -- Heavy Shortbow
     3042,  -- BKP "Sparrow" Smallbore
+    3057,  -- Forest Leather Boots
     3184,  -- Hook Dagger
     3186,  -- Viking Sword
     3192,  -- Short Bastard Sword
@@ -57,6 +58,7 @@ AddonTable.transmog = {
     5207,  -- Opaque Wand
     5267,  -- Scarlet Kris
 
+    6266,  -- Disciple's Vest
     6267,  -- Disciple's Pants
     6269,  -- Pioneer Trousers
     6386,  -- Glimmering Mail Legguards
@@ -203,6 +205,7 @@ AddonTable.transmog = {
     10209, -- Overlord's Spaulders
     10210, -- Elegant Mantle
     10211, -- Elegant Boots
+    10212, -- Elegant Cloak
     10214, -- Elegant Gloves
     10217, -- Elegant Leggings
     10221, -- Nightshade Girdle
@@ -272,6 +275,7 @@ AddonTable.transmog = {
     14309, -- Celestial Belt
     14312, -- Celestial Crown
     14375, -- Sanguine Cuffs
+    14414, -- Stonecloth Belt
     14415, -- Stonecloth Britches
     14431, -- Windchaser Handguards
     14551, -- Edgemaster's Handguards
@@ -305,6 +309,7 @@ AddonTable.transmog = {
     15239, -- Felstone Reaver
     15240, -- Demon's Claw
     15241, -- Battle Knife
+    15243, -- Deadly Kris
     15244, -- Razor Blade
     15245, -- Vorpal Dagger
     15246, -- Demon Blade

@@ -47,6 +47,8 @@ AddonTable.loot = {
     12055, -- Stardust Band
     12057, -- Dragonscale Band
 
+    13048, -- Looming Gavel
+
     14951, -- Bloodforged Sabatons
 
     19358, -- Draconic Maul

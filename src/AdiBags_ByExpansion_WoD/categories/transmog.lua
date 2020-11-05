@@ -85,6 +85,7 @@ AddonTable.transmog = {
     116511, -- Creeperclaw Crossbow
     116521, -- Creeperclaw Staff
     116522, -- Creeperclaw Sword
+    116538, -- Incised Staff
     116588, -- Longclaw Staff
     116593, -- Bloodmane Axe
     116594, -- Bloodmane Broadaxe

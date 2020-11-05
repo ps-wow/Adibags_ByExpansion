@@ -17,6 +17,7 @@ AddonTable.mining = {
     -- Gems
     21929, -- Flame Spessarite
     32227, -- Crimson Spinel
+    32228, -- Empyrean Sapphire
     32229, -- Lionseye
     32230, -- Shadowsong Amethyst
     32231, -- Pyrestone

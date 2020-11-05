@@ -96,6 +96,7 @@ AddonTable.consumable = {
 
 AddonTable.foodDrink = {
     117,  -- Tough Jerky
+    159,  -- Refreshing Spring Water
     414,  -- Dalaran Sharp
     422,  -- Dwarven Mild
     1179, -- Ice Cold Milk
@@ -107,6 +108,7 @@ AddonTable.foodDrink = {
     3666, -- Gooey Spider Cake
     3770, -- Mutton Chop
     3927, -- Fine Aged Cheddar
+    4536, -- Shiny Red Apple
     4537, -- Tel'Abim Banana
     4538, -- Snapvine Watermelon
     4540, -- Tough Hunk of Bread
@@ -117,6 +119,7 @@ AddonTable.foodDrink = {
     4605, -- Red-Speckled Mushroom
     4607, -- Delicious Cave Mold
     4608, -- Raw Black Truffle
+    4656, -- Small Pumpkin
     4791, -- Enchanted Water
     8766, -- Morning Glory Dew
     8932, -- Alterac Swiss
