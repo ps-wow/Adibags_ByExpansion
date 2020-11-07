@@ -219,6 +219,7 @@ AddonTable.junk = {
     9754, -- Nomad Cloak
 
     11191, -- Farmer's Boots
+    11192, -- Outfitter Gloves
     11385, -- Basilisk Scale
     11387, -- Basilisk Heart
     11391, -- Spined Bat Wing

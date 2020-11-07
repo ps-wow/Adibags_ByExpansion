@@ -52,6 +52,7 @@ AddonTable.transmog = {
     4697,  -- Burnished Girdle
     4721,  -- Insignia Mantle
     4733,  -- Blackforge Pauldrons
+    4734,  -- Mistscape Mantle
 
     5069,  -- Fire Wand
     5071,  -- Shadow Wand
@@ -96,13 +97,16 @@ AddonTable.transmog = {
     7543,  -- Champion's Pauldrons
     7610,  -- Aurora Sphere
 
+    8108,  -- Hibernal Bracers
     8111,  -- Hibernal Mantle
     8112,  -- Hibernal Pants
     8115,  -- Hibernal Cowl
     8120,  -- Heraldic Cloak
     8126,  -- Myrmidon's Breastplate
     8131,  -- Myrmidon's Helm
+    8134,  -- Myrmidon's Defender
     8141,  -- Chromite Greaves
+    8143,  -- Chromite Legplates
     8144,  -- Chromite Pauldrons
     8180,  -- Hunting Bow
     8183,  -- Precision Bow
@@ -166,14 +170,18 @@ AddonTable.transmog = {
     9940,  -- Abjurer's Hood
     9942,  -- Abjurer's Pants
     9947,  -- Chieftain's Belt
+    9949,  -- Chieftain's Bracers
+    9950,  -- Chieftain's Breastplate
     9953,  -- Chieftain's Headdress
     9964,  -- Warmonger's Leggings
     9965,  -- Warmonger's Pauldrons
     9970,  -- Embossed Plate Leggings
 
     10059, -- Duskwoven Bracers
+    10063, -- Duskwoven Amice
     10069, -- Righteous Bracers
     10080, -- Lord's Gauntlets
+    10081, -- Lord's Girdle
     10083, -- Lord's Crown
     10090, -- Gothic Plate Helmet
     10095, -- Councillor's Boots
@@ -234,6 +242,7 @@ AddonTable.transmog = {
     10269, -- Masterwork Girdle
     10270, -- Masterwork Boots
     10275, -- Emerald Breastplate
+    10279, -- Emerald Helm
     10363, -- Engraved Wall
     10364, -- Templar Shield
     10367, -- Hyperion Shield
@@ -305,6 +314,7 @@ AddonTable.transmog = {
     15221, -- Holy War Sword
     15227, -- Diamond-Tip Bludgeon
     15229, -- Blesswind Hammer
+    15236, -- Moon Cleaver
     15238, -- Warlord's Axe
     15239, -- Felstone Reaver
     15240, -- Demon's Claw
@@ -326,6 +336,7 @@ AddonTable.transmog = {
     15273, -- Death Striker
     15278, -- Solstice Staff
     15279, -- Ivory Wand
+    15280, -- Wizard's Hand
     15284, -- Long Battle Bow
     15285, -- Archer's Longbow
     15287, -- Crusader Bow

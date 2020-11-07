@@ -16,6 +16,7 @@ AddonTable.transmog = {
     82076, -- Snake Belt
     82089, -- Growing Sandals
     82095, -- Mushan Hide Gloves
+    82097, -- Mushan Hide Jerkin
     82099, -- Mushan Hide Waistband
     82148, -- Swamp Boots
     82184, -- Snowy Shield
