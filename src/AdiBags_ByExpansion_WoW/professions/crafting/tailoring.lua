@@ -12,7 +12,7 @@ AddonTable.tailoring = {
     14048, -- bolt of runecloth
     14341, -- Rune Thread (Vendor)
     14342, -- Mooncloth
-    
+
     -- Items
     2570,  -- Linen Cloak
     2575,  -- Red Linen Shirt
@@ -21,6 +21,7 @@ AddonTable.tailoring = {
     2579,  -- Green Linen Shirt
     2580,  -- Reinforced Linen Cape
     4344,  -- Brown Linen Shirt
+    13863, -- Runecloth Gloves
     -- Consumable
     1251,  -- Linen Bandage
     -- Recipes

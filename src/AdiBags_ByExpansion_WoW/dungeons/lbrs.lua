@@ -1,6 +1,10 @@
 local AddonName, AddonTable = ...
 
 AddonTable.lbrs = {
+    -- Mother Smolderweb
+    151414, -- Arachnophile's Greatcloak
+    -- Crystal Fang
+    13184,  -- Fallbrush Handgrips
     -- Highlord Omokk
     13167,  -- Fist of Omokk
     151412, -- Ogre Highlord's Casque

@@ -39,6 +39,7 @@ AddonTable.cooking = {
     12208, -- Tender Wolf Meat
     67229, -- Stag Flank
     -- Recipe's
+    728,   -- Recipe: Westfall Stew
     2701,  -- Recipe: Seasoned Wolf Kabob
     2889,  -- Recipe: Beer Basted Boar Ribs
     3678,  -- Recipe: Crocolisk Steak

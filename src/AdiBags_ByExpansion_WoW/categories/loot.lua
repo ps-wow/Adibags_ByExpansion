@@ -29,19 +29,24 @@ AddonTable.loot = {
 
     11302, -- Uther's Strenth
 
+    11991, -- Quicksilver Ring
     11994, -- Coral Band
     11999, -- Lodestone Hoop
 
+    12004, -- Obsidian Band
     12005, -- Granite Ring
+    12015, -- Swamp Ring
     12020, -- Thallium Choker
     12036, -- Granite Necklace
+    12042, -- Marsh Chain
+    12043, -- Desert Choker
     12044, -- Arctic Pendant
     12052, -- Ring of the Moon
+    12053, -- Volcanic Rock Ring
     12048, -- Prismatic Pendant
     12055, -- Stardust Band
     12057, -- Dragonscale Band
 
-    14168, -- Buccaneer's Gloves
     14951, -- Bloodforged Sabatons
 
     19358, -- Draconic Maul
@@ -82,6 +87,7 @@ AddonTable.loot = {
     57541, -- Ragged Wolf Hide Cloak
     58903, -- Kobold Candle
     58905, -- Kobold Basher
+    58906, -- Equicide Cloak
     58907, -- Crime Scene Tape [Quest: Westfall]
     58908, -- Scene Investigator's Wrap
     58909, -- Golden Sunshine Cloak [Quest: Westfall]
@@ -89,11 +95,19 @@ AddonTable.loot = {
     58914, -- Sentinel Hill Breastplate
     58920, -- Dust Plains Greaves
     58923, -- Gregorky's Bracers
+    58929, -- House Wrynn Crossbow
     59042, -- Electro-Staff
 
     60219, -- Balanced Spell Staff
+    60697, -- Indiscriminate Wand
+    60700, -- Solomon's Gavel
+    60706, -- Sandals of the Neverending Bridge
+    60715, -- Vial of Chloroform
+
     65913, -- Hann Ibal's Epaulets
+    65919, -- Zaetar's Gloves
     65922, -- Warpwood Leaf Mantle
+    65927, -- Slippers of Tribute
     65939, -- Murd Doc's Leggings
     65948, -- Warpwood Bark Vest
     65951, -- Razorfen Spaulders
@@ -113,6 +127,11 @@ AddonTable.loot = {
     131206, -- Shimmerweed Brewer Treads
     131207, -- Well-Oiled Chain Gauntlets
     131436, -- Wendigo Pantaloons
+    131496, -- Boiled Chain Footpads
+    131497, -- Chewed Chain Cord
+    131502, -- Sentinel Hill Hauberk
+    131503, -- Spothide Legguards
+    131504, -- Troublesome Grips
     131564, -- Night Watch Hauberk
     131574, -- Drifter's Cinch
     131577, -- The Clerk's Chain

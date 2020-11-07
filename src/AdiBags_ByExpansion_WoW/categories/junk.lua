@@ -5,6 +5,7 @@ AddonTable.junk = {
     55,   -- Apprentice's Boots
 
     537,  -- Dull Frenzy Scale
+    767,  -- Long Bo Staff
     770,  -- Pointy Crocolisk Tooth
     771,  -- Chipped Boar Tusk
 
@@ -15,27 +16,35 @@ AddonTable.junk = {
     1427, -- Patchwork Shoes
     1429, -- Patchwork Cloak
     1433, -- Patchwork Armor
+    1495, -- Calico Shoes
     1497, -- Calico Cloak
+    1501, -- Calico Tunic
     1502, -- Warped Leather Belt
     1507, -- Warped Leather Pants
     1510, -- Heavy Hammer
     1511, -- Commoner's Sword
+    1512, -- Crude Battle Axe
+    1514, -- Rusty Warhammer
     1515, -- Rough Wooden Staff
     1520, -- Troll Sweat
     1687, -- Retractable Claw
     1702, -- Intact Basilisk Spine
+    1734, -- Worn Mail Gloves
     1735, -- Worn Mail Pants
     1737, -- Worn Mail Vest
+    1738, -- Laced Mail Belt
     1739, -- Laced Mail Boots
     1740, -- Laced Mail Bracers
     1745, -- Laced Mail Vest
     1758, -- Reinforced Chain Gloves
     1760, -- Reinforced Chain Shoulderpads
     1766, -- Canvas Cloak
+    1767, -- Canvas Gloves
     1776, -- Brocade Pants
     1777, -- Brocade Shoulderpads
     1788, -- Patched Leather Boots
     1789, -- Patched Leather Bracers
+    1791, -- Patched Leather Gloves
     1806, -- Tough Cloak
     1814, -- Battered Mallet
     1816, -- Unbalanced Axe
@@ -47,7 +56,9 @@ AddonTable.junk = {
     2295, -- Large Boar Tusk
     2562, -- Bouquet of Scarlet Begonias
     2608, -- Threshadon Ambergris
+    2766, -- Deft Stiletto
     2778, -- Cheap Blunderbuss
+    2783, -- Shoddy Blunderbuss
     2959, -- Journeyman's Boots
     2972, -- Spellbinder Gloves
 
@@ -66,6 +77,8 @@ AddonTable.junk = {
     3299, -- Fractured Canine
     3300, -- Rabbit's Foot
     3301, -- Sharp Canine
+    3375, -- Calico Bracers
+    3377, -- Canvas Bracers
     3401, -- Rough Crocolisk Scale
     3402, -- Soft Patch of Fur
     3403, -- Ivory Boar Tusk
@@ -80,9 +93,12 @@ AddonTable.junk = {
     3783, -- Light Scimitar
     3793, -- Interlaced Boots
     3794, -- Interlaced Bracers
+    3796, -- Interlaced Gloves
     3798, -- Interlaced Shoulderpads
     3801, -- Granny's Mallet
     3802, -- Hardened Leather Bracers
+    3805, -- Hardened Leather Pants
+    3815, -- Double Mail Vest
     3817, -- Reinforced Buckler
     3931, -- Poisoned Spider Fang
     3937, -- Crochet Boots
@@ -90,14 +106,21 @@ AddonTable.junk = {
     3939, -- Crochet Cloak
     3940, -- Crochet Gloves
     3943, -- Crochet Vest
+    3944, -- Twill Belt
     3945, -- Twill Boots
+    3947, -- Twill Cloak
+    3948, -- Twill Gloves
     3949, -- Twill Pants
     3950, -- Twill Shoulderpads
+    3961, -- Thick Leather Belt
     3962, -- Thick Leather Boots
     3963, -- Thick Leather Bracers
+    3964, -- Thick Cloak
     3965, -- Thick Leather Gloves
     3966, -- Thick Leather Pants
     3968, -- Thick Leather Tunic
+    3969, -- Smooth Leather Belt
+    3974, -- Smooth Leather Pants
     3975, -- Smooth Leather Shoulderpads
     3987, -- Deflecting Tower
     3990, -- Crested Buckler
@@ -110,13 +133,17 @@ AddonTable.junk = {
     4000, -- Overlinked Chain Belt
     4001, -- Overlinked Chain Boots
     4003, -- Overlinked Chain Cloak
+    4004, -- Overlinked Chain Gloves
+    4017, -- Sharp Shortsword
     4018, -- Whetted Claymore
     4019, -- Heavy Flint Axe
+    4021, -- Blunting Mace
     4022, -- Crushing Maul
     4023, -- Fine Pointed Dagger
     4093, -- Large Basilisk Tail
     4097, -- Chipped Gorilla Tooth
     4361, -- Bent Copper Tube
+    4363, -- Broken Modulator
     4428, -- Spider Palp
     4460, -- Ripped Wing Webbing
     4555, -- Thick Scaly Tail
@@ -124,6 +151,7 @@ AddonTable.junk = {
     4557, -- Fiery Gland
     4558, -- Empty Barrel
     4560, -- Fine Scimitar
+    4582, -- Soft Bushy Tail
     4585, -- Driping Spider Mandible
     4662, -- Journeyman's Cloak
     4663, -- Journeyman's Belt
@@ -152,6 +180,7 @@ AddonTable.junk = {
 
     6444, -- Forked Tongue
     6445, -- Brittle Molting
+    6506, -- Infantry Boots
     6518, -- Pioneer Boots
     6826, -- Brilliant Scale
 
@@ -162,6 +191,7 @@ AddonTable.junk = {
     7296, -- Extinguished Torch
     7997, -- Red Defias Mask
 
+    8082, -- Light Plate Boots
     8083, -- Light Plate Bracers
     8146, -- Wicked Claw
     8151, -- Flask of Mojo

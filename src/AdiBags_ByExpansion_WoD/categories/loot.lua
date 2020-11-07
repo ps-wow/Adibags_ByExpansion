@@ -61,6 +61,7 @@ AddonTable.loot = {
     112665, -- Voidgazer Chain Hood
     112669, -- Quarrier's Shoulderplates
     112798, -- Mindsworn Band
+    112801, -- Signet of Durable Dreams
     112810, -- Windowhanger Wraps (From: 114053)
     112811, -- Wallbuilder Gauntlets
 

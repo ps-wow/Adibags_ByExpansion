@@ -5,6 +5,7 @@ local AddonName, AddonTable = ...
 -- This means a total of 4 pages of loot per boss.
 AddonTable.icc = {
     50452,
+    50453,
     -- Shared Boss Loot
     49908,
     50274,

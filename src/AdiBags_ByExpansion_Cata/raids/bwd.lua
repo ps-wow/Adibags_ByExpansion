@@ -110,7 +110,6 @@ AddonTable.bwd = {
     65073, -- double-attack-handguards
     65075, -- massacre-treads
     -- Maloriak
-    152967, -- experiment-in-a-jar
     59342, -- belt-of-absolute-zero
     59343, -- aberrations-leggings
     59344, -- dragon-bone-warhelm

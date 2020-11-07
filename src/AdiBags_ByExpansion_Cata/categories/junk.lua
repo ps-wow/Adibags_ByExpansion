@@ -1,10 +1,14 @@
 local AddonName, AddonTable = ...
 
 AddonTable.junk = {
+    56205, -- Pheromone Sample
+
     60388, -- Shimmering Claw
+    60406, -- Blood Caked Incisors
     60485, -- Crackling Crystals
     60486, -- Shimmering Shards
     60576, -- Rending Fang
+    60577, -- Fire-Scorched Claw
     62063, -- Shattered War Mace
     62064, -- Warped Greatsword
     62065, -- Melted Cleaver
@@ -83,8 +87,10 @@ AddonTable.junk = {
     62272, -- Spiny Carapace
     62273, -- Pinioning Pincer
     62413, -- Rigid Spinneret
+    62414, -- Slimy Fangs
     62421, -- Scintillating Crystals
     62435, -- Conductive Shards
+    62518, -- Cracked Stone Shard
     62521, -- Smoldering Fungus
 
     63024, -- Flame Drenched Canine

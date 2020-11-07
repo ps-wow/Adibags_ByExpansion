@@ -1,6 +1,10 @@
 local AddonName, AddonTable = ...
 -- Stratholme (WoW)
 AddonTable.stratholme = {
+    -- Stonespine
+    13954,
+    -- Postmaster Malown
+    13389,
     -- Hearthsinger Forresten
     12103,
     13378,

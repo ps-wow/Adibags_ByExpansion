@@ -13,4 +13,6 @@ AddonTable.pets = {
     152972,
     -- Throne of the Four Winds
     152973,
+    -- Blackwing Descent
+    152967,
 }

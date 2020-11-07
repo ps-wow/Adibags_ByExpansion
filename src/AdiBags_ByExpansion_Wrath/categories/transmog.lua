@@ -3,8 +3,11 @@ local AddonName, AddonTable = ...
 AddonTable.transmog = {
     35579, -- Vrykul Shackles [Utgarde Keep]
     35965, -- Bloodspore Robe
+    35967, -- Bloodspore Hood
+    35978, -- Mur'ghoul Wristwraps
     35993, -- Bristlepine Shoulderpads
 
+    36002, -- Voldrune Bracelets
     36006, -- Icemist Gloves
     36036, -- Condor Sandals
     36037, -- Condor Robe
@@ -23,10 +26,13 @@ AddonTable.transmog = {
     36064, -- Coldwraith Pants
     36076, -- Winterfin Boots
     36105, -- Caribou Shoulders
+    36114, -- Vileprey Bracers
     36121, -- Taunka Spaulders
     36133, -- Wolverine Jerkin
+    36146, -- Ghrino Bracers
     36148, -- Pygmy Boots
     36150, -- Pygmy Gloves
+    36151, -- Pygmy Helmet
     36153, -- Pygmy Shoulders
     36154, -- Pygmy Bindings
     36155, -- Wendigo Girdle
@@ -52,9 +58,13 @@ AddonTable.transmog = {
     36281, -- Spiderlord Spaulders
     36286, -- Spectral Gauntlets
     36289, -- Spectral Mantle
+    36316, -- Wyrmskull Sabatons
     36371, -- Kraken Girdle
     36372, -- Kraken Greaves
     36373, -- Kraken Breastplate
+    36374, -- Kraken Gauntlets
+    36376, -- Kraken Legplates
+    36378, -- Kraken Vambraces
     36379, -- Golem Girdle
     36380, -- Golem Sabatons
     36383, -- Golem Helmet
@@ -67,7 +77,6 @@ AddonTable.transmog = {
     36398, -- Necropolis Gloves
     36404, -- Suede Cloak
     36414, -- Mammoth Fur Cloak
-    36441, -- Pearl Woven Choker
     36456, -- Icy Kite Shield
     36457, -- Ivory Shield
     36460, -- Northern Star
@@ -85,10 +94,12 @@ AddonTable.transmog = {
     36601, -- Patient Harpoon
     36639, -- Brutal Ballista
     36651, -- Muzzled Musket
+    36665, -- Wasteland Wand
     36666, -- Polar Wand
     36667, -- Solid Ice Wand
     36679, -- Singing Dagger
     36680, -- Mystic Fang
+    36681, -- Wisdom Carver
     36684, -- Ambrosial Hammer
     36692, -- Remedial Mace
     36694, -- Beatific Mace

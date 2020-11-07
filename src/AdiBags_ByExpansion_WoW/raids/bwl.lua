@@ -1,6 +1,7 @@
 local AddonName, AddonTable = ...
 
 AddonTable.bwl = {
+    19362, -- Doom's Edge
     19434, -- Band of Dark Dominion
     19436, -- Cloak of Draconic Might
     19435, -- Essence Gatherer

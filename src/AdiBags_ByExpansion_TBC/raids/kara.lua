@@ -2,6 +2,7 @@ local AddonName, AddonTable = ...
 
 -- [Raid] Karazhan: 10 Normal
 AddonTable.kara = {
+    30642, -- Drape of the Righteous
     -- Servant's Quarters
     30686, -- Ravager's Bands
     30687, -- Ravager's Bracers

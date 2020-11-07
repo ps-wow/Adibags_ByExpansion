@@ -106,6 +106,7 @@ AddonTable.foodDrink = {
     2287, -- Haunch of Meat
     3666, -- Gooey Spider Cake
     3770, -- Mutton Chop
+    3927, -- Fine Aged Cheddar
     4537, -- Tel'Abim Banana
     4538, -- Snapvine Watermelon
     4540, -- Tough Hunk of Bread
