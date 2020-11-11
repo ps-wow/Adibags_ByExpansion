@@ -5,6 +5,7 @@ AddonTable.trade = {
     3857,  -- Coal
     4399,  -- Wooden Stock
     5498,  -- Small Lustrous Pearl
+    5500,  -- Iridescent Pearl
     5523,  -- Small Barnacled Clam
     5524,  -- Thick-Shelled Clam
     5635,  -- Sharp Claw

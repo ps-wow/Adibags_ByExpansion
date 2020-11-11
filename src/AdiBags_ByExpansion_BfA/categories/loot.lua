@@ -447,6 +447,7 @@ AddonTable.loot = {
     163851, -- Venerated Golden Censer
     163862, -- Bartered Vrykul Hood
     163865, -- Bartered Vrykul Warhelm
+    163867, -- Honorbound Longbow
     163870, -- Honorbound Bonebreaker
     163874, -- Honorbound Decapitator
     163876, -- Honorbound Focus
@@ -459,7 +460,8 @@ AddonTable.loot = {
 
     165443, -- Darkwood Sentinel's Cowl
     165444, -- Darkwood Sentinel's Breeches
-    165628, -- Sentinel's Branch [Staff]
+    165623, -- Sentinel's Recurve
+    165628, -- Sentinel's Branch
     165664, -- Sea Giant's Tidestone
     165666, -- Moonstone of Zin-Azshari
     165678, -- Stonemason's Guild Band
@@ -472,6 +474,7 @@ AddonTable.loot = {
     167555, -- Pocket-Sized Computation Device
     167754, -- Shirakess Headdress
     167756, -- Shirakess Mantle
+    167757, -- Shirakess Cinch
     167779, -- Shirakess Wraps
 
     168632, -- Slipstream Generator
@@ -482,10 +485,12 @@ AddonTable.loot = {
     169317, -- Enthraller's Bindstone
     169482, -- Benethic Leggings
     169790, -- Shirakess Gloves (Benethic)
+    169894, -- Shirakess Sandals (Benethic)
 
     170110, -- Zanj'ir Scaleguard Legplates (Benethic)
     170133, -- Shirakess Grips
     170140, -- Akana's Reefstrider Soles / Treads (Benethic)
+    170306, -- Waveblade Farseer's Bindings
     170514, -- 7th Legionnaire's Robes
     170515, -- 7th Legionnaire's Vest
     170516, -- Honorbound Artificer's Robes
@@ -511,6 +516,7 @@ AddonTable.loot = {
     170828, -- Mistdancer Waistband [120 Boost - Waist]
     170829, -- Mistdancer Bindings [120 Boost - Wrist]
 
+    172125, -- Cold Forged Blade
     172848, -- Corrupted Aspirant's Insignia
     172854, -- Corrupted Aspirant's Shawl
 

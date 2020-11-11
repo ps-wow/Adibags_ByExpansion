@@ -2,7 +2,7 @@ local AddonName, AddonTable = ...
 AddonTable.maraudon = {
     -- Noxxion
     17745,
-    1515450,
+    151450,
     17746,
     151449,
     17744,
@@ -51,5 +51,12 @@ AddonTable.maraudon = {
     17714,
     17711,
     -- Quest Rewards
+    --- Princess Theradras (27692)
     131681,
+    65992,
+    65945,
+    66008,
+    65969,
+    65919,
+    131682,
 }

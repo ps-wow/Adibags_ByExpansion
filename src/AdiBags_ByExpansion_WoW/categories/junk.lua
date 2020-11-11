@@ -55,6 +55,7 @@ AddonTable.junk = {
     1816, -- Unbalanced Axe
     1817, -- Stock Shortsword
     1820, -- Wooden Maul
+    1825, -- Bulky Bludgeon
 
     2057, -- Pitted Defias Shortsword
     2154, -- The Story of Morgan Ladimore
@@ -95,6 +96,7 @@ AddonTable.junk = {
     3673, -- Broken Arrow
     3674, -- Decomposed Boot
     3676, -- Slimy Ichor
+    3778, -- Taut Compound Bow
     3781, -- Broad Claymore
     3782, -- Large War Club
     3783, -- Light Scimitar
@@ -106,6 +108,7 @@ AddonTable.junk = {
     3801, -- Granny's Mallet
     3802, -- Hardened Leather Bracers
     3805, -- Hardened Leather Pants
+    3808, -- Double Mail Belt
     3815, -- Double Mail Vest
     3817, -- Reinforced Buckler
     3931, -- Poisoned Spider Fang
@@ -128,6 +131,8 @@ AddonTable.junk = {
     3966, -- Thick Leather Pants
     3968, -- Thick Leather Tunic
     3969, -- Smooth Leather Belt
+    3970, -- Smooth Leather Boots
+    3973, -- Smooth Leather Gloves
     3974, -- Smooth Leather Pants
     3975, -- Smooth Leather Shoulderpads
     3976, -- Smooth Leather Armor

@@ -15,6 +15,8 @@ AddonTable.loot = {
     2900, -- Stone Buckler
     2970, -- Spellbinder Pants
 
+    5001, -- Heart Ring
+
     5761, -- Anvilmar Sledge
 
     6601, -- Dervish Boots
@@ -29,6 +31,7 @@ AddonTable.loot = {
 
     11302, -- Uther's Strenth
 
+    11982, -- Viridian Band
     11991, -- Quicksilver Ring
     11994, -- Coral Band
     11999, -- Lodestone Hoop
@@ -57,6 +60,7 @@ AddonTable.loot = {
     21418, -- Shroud of Unspoken Names
 
     51962, -- Vigorous Bracers
+    51963, -- Vigorous Stompers
     51964, -- Vigorous Belt
     51966, -- Vigorous Spaulders
     51967, -- Enumerated Sandals
@@ -107,7 +111,6 @@ AddonTable.loot = {
     60715, -- Vial of Chloroform
 
     65913, -- Hann Ibal's Epaulets
-    65919, -- Zaetar's Gloves
     65922, -- Warpwood Leaf Mantle
     65927, -- Slippers of Tribute
     65939, -- Murd Doc's Leggings
@@ -116,13 +119,10 @@ AddonTable.loot = {
     65953, -- Dathrohan's Mace
     65975, -- Chestguard of Redemption
     65977, -- Balnazzar's Horn
-    65991, -- Boots of the Noble Path
-    65992, -- Pauldrons of the Promise
     65993, -- Warpwood Shield
     65994, -- Staff of Athen'a
     65996, -- Belt of Tyrannic Rule
     65998, -- Balnazzar's Hide
-    66008, -- Shield of Maraudon
 
     89553, -- Aspirant's Staff of Grace (Monk level 20 Staff)
 
@@ -186,6 +186,7 @@ AddonTable.loot = {
     157691, -- Ascetic's Footpads (Starter Gear)
     157692, -- Ascetic's Handguards (Starter Gear)
     157694, -- Ascetic's Legguards (Starter Gear)
+    157696, -- Ascetic's Cord (Starter Gear)
     157697, -- Ascetic's Cuffs (Starter Gear)
     157699, -- Lightsoul Sabatons
     157704, -- Lightsoul Girdle

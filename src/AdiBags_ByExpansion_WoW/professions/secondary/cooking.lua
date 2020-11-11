@@ -18,6 +18,7 @@ AddonTable.cooking = {
     -- Ingredients
     723,   -- Goretusk Liver
     769,   -- Chunk of Boar Meat
+    1015,  -- Lean Wolf Flank
     1468,  -- Murloc Fin
     2672,  -- Stringy Wolf Meat
     2673,  -- Coyote Meat

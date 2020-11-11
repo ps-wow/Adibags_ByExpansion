@@ -18,6 +18,7 @@ AddonTable.transmog = {
     2564,  -- Elven Spirit Claws
     2958,  -- Journeyman's Pants
     2962,  -- Burnt Leather Breeches
+    2973,  -- Hunting Tunic
     2980,  -- Veteran Gloves
     2983,  -- Seer's Boots
     2984,  -- Seer's Gloves
@@ -62,6 +63,7 @@ AddonTable.transmog = {
     6266,  -- Disciple's Vest
     6267,  -- Disciple's Pants
     6269,  -- Pioneer Trousers
+    6381,  -- Bright Cloak
     6386,  -- Glimmering Mail Legguards
     6413,  -- Chief Brigadier Bracers
     6417,  -- Aurora Cloak
@@ -75,10 +77,12 @@ AddonTable.transmog = {
     6558,  -- Bard's Belt
     6563,  -- Shimmering Bracers
     6565,  -- Shimmering Gloves
+    6568,  -- Shimmering Trousers
     6570,  -- Shimmering Sash
     6575,  -- Defender Cloak
     6584,  -- Scouting Tunic
     6586,  -- Scouting Gloves
+    6587,  -- Scouting Trousers
     6595,  -- Battleforge Gauntlets
     6603,  -- Dervish Tunic
     6605,  -- Dervish Gloves
@@ -143,6 +147,7 @@ AddonTable.transmog = {
     9786,  -- Raider's Cloak
     9787,  -- Raider's Gauntlets
     9791,  -- Ivycloth Tunic
+    9792,  -- Ivycloth Boots
     9799,  -- Ivycloth Sash
     9804,  -- Superior Buckler
     9805,  -- Superior Cloak
@@ -352,6 +357,7 @@ AddonTable.transmog = {
     15489, -- Bloodspattered Sabatons
     15492, -- Bloodspattered Sash
     15521, -- Spiked Chain Leggings
+    15528, -- Sentry's Sash
     15594, -- Steadfast Cloak
     15660, -- Impenetrable Breastplate
     15673, -- Watcher's Star

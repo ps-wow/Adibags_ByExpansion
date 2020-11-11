@@ -25,6 +25,11 @@ AddonTable.rfk = {
     6694,   -- Heart of Agamaggan
     6693,   -- Agamaggan's Clutch
     -- Quest Rewards
+    --- Agamaggan's Charge (26905)
     65918,  -- Agamaggan's Gift
-    65968,  -- Agamaggan-Blessed Greaves
+    65968,  -- Agamaggan-Blessed Greave
+    65991,  -- Boots of the Noble Path
+    65944,  -- Charlga's Breastplate
+    66007,  -- Agamaggan's Silent Tear
+    131617, -- Razorflank's Chainmail
 }
