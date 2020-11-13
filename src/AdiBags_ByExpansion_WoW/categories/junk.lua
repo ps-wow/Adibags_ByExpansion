@@ -12,7 +12,10 @@ AddonTable.junk = {
     771,  -- Chipped Boar Tusk
 
     1074, -- Hard Spider Leg Tip
+    1173, -- Weather-Worn Boots
+    1359, -- Lion'Stamped Gloves
     1395, -- Apprentice's Pants
+    1414, -- Cracked Sledge
     1415, -- Carpenter's Mallet
     1419, -- Worn Leather Boots
     1420, -- Worn Leather Bracers
@@ -30,6 +33,7 @@ AddonTable.junk = {
     1512, -- Crude Battle Axe
     1514, -- Rusty Warhammer
     1515, -- Rough Wooden Staff
+    1516, -- Worn Hatchet
     1520, -- Troll Sweat
     1687, -- Retractable Claw
     1702, -- Intact Basilisk Spine
@@ -45,12 +49,15 @@ AddonTable.junk = {
     1760, -- Reinforced Chain Shoulderpads
     1766, -- Canvas Cloak
     1767, -- Canvas Gloves
+    1770, -- Canvas Vest
     1776, -- Brocade Pants
     1777, -- Brocade Shoulderpads
+    1787, -- Patched Leather Belt
     1788, -- Patched Leather Boots
     1789, -- Patched Leather Bracers
     1791, -- Patched Leather Gloves
     1806, -- Tough Cloak
+    1813, -- Chipped Quarterstaff
     1814, -- Battered Mallet
     1816, -- Unbalanced Axe
     1817, -- Stock Shortsword
@@ -60,13 +67,18 @@ AddonTable.junk = {
     2057, -- Pitted Defias Shortsword
     2154, -- The Story of Morgan Ladimore
     2212, -- Cracked Buckler
+    2213, -- Worn Large Shield
     2295, -- Large Boar Tusk
     2562, -- Bouquet of Scarlet Begonias
     2608, -- Threshadon Ambergris
+    2645, -- Loose Chain Gloves
+    2648, -- Loose Chain Vest
     2766, -- Deft Stiletto
+    2773, -- Cracked Shortbow
     2778, -- Cheap Blunderbuss
     2780, -- Light Hunting Bow
     2783, -- Shoddy Blunderbuss
+    2940, -- Bloody Bear Paw
     2959, -- Journeyman's Boots
     2972, -- Spellbinder Gloves
 
@@ -85,6 +97,7 @@ AddonTable.junk = {
     3299, -- Fractured Canine
     3300, -- Rabbit's Foot
     3301, -- Sharp Canine
+    3374, -- Calico Belt
     3375, -- Calico Bracers
     3377, -- Canvas Bracers
     3401, -- Rough Crocolisk Scale
@@ -173,12 +186,14 @@ AddonTable.junk = {
     4698, -- Seer's Mantle
     4784, -- Lifeless Stone
     4787, -- Burning Pitch
+    4814, -- Discolored Fang
     4865, -- Ruined Pelt
     4867, -- Broken Scorpid Leg
     4872, -- Dry Scorpid Eye
     4873, -- Dry Hardened Barnacle
     4874, -- Clean Fishbones
 
+    5109, -- Stonesplinter Rags
     5114, -- Severed Talon
     5115, -- Broken Wishbone
     5117, -- Vibrant Plume
@@ -190,6 +205,7 @@ AddonTable.junk = {
     5137, -- Bright Eyeball
     5263, -- Pocket Lint
     5506, -- Beady Eye Stalk
+    5567, -- Silver Hook
     5829, -- Razor-Sharp Beak
 
     6444, -- Forked Tongue
@@ -220,6 +236,7 @@ AddonTable.junk = {
     9242, -- Ancient Tablet
     9308, -- Grime-Encrusted Object (Gnomeregen Quest Item)
     9750, -- Nomad Sash
+    9751, -- Nomad Sandals
     9752, -- Gypsy Bands
     9754, -- Nomad Cloak
 
@@ -236,6 +253,7 @@ AddonTable.junk = {
     11408, -- Bear Jaw
     11411, -- Large Bear Bone
     11414, -- Grizzled Mane
+    11416, -- Delicate Ribcage
     11418, -- Hollow Wing Bone
     11475, -- Wine-Stained Cloak
     12735, -- Frayed Abomination Stitching
@@ -323,6 +341,9 @@ AddonTable.junk = {
     25431, -- Ripped Fin
     25434, -- Fractured Carapace
     25441, -- Gnarled Boar Tusk
+    25443, -- Bloody Snout
+
+    30512, -- Giant Spinneret
 
     32714, -- Splintered Spider Fang
 
@@ -367,12 +388,14 @@ AddonTable.junk = {
 
     57058, -- Fractured Gear Tooth
     57062, -- Intact Spurwheel
+    57065, -- Irrational Cube
     57063, -- Small Dingbat
     57253, -- Northshire Abbot's Cinch
     57256, -- Northshire Abbot's Shoes
     57386, -- Northshire Abbot's Robe
     57389, -- Innkeeper's Longstockings
     57395, -- Lion's Pride Bracer
+    57396, -- Innkeeper's Gloves
     57397, -- Goldshire Iron Bracer
     57398, -- Candlewax Streaked Robe
     57400, -- Gold Dust Belt

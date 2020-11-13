@@ -2,6 +2,7 @@ local AddonName, AddonTable = ...
 
 AddonTable.nyalotha = {
     174279, -- Encrypted Nyalothan Text
+    175009, -- Zealous Ritualist's Reverie
 
     -- Wrathion, the Black Emporer
     174044, -- humming-black-dragonscale

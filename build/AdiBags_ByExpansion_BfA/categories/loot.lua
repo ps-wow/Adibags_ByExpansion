@@ -528,6 +528,8 @@ AddonTable.loot = {
     174953,
     174954,
     174956,
+    -- Korrak's Revenge (WoW Anniversary)
+    172123,
     -- Benethic Gear (8.3? Catch Up)
     169477,
     169478,

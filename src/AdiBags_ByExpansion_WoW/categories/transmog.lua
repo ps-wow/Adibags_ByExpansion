@@ -19,6 +19,7 @@ AddonTable.transmog = {
     2958,  -- Journeyman's Pants
     2962,  -- Burnt Leather Breeches
     2973,  -- Hunting Tunic
+    2974,  -- Hunting Pants
     2980,  -- Veteran Gloves
     2983,  -- Seer's Boots
     2984,  -- Seer's Gloves
@@ -44,6 +45,7 @@ AddonTable.transmog = {
     4087,  -- Trueshot Bow
     4564,  -- Spiked Club
     4567,  -- Merc Sword
+    4568,  -- Grunt Axe
     4569,  -- Staunch Hammer
     4571,  -- War Knife
     4576,  -- Light Bow
@@ -63,24 +65,30 @@ AddonTable.transmog = {
     6266,  -- Disciple's Vest
     6267,  -- Disciple's Pants
     6269,  -- Pioneer Trousers
+    6336,  -- Infantry Tunic
+    6337,  -- Infantry Leggings
     6381,  -- Bright Cloak
     6386,  -- Glimmering Mail Legguards
     6413,  -- Chief Brigadier Bracers
     6417,  -- Aurora Cloak
     6433,  -- Imperial Leather Helm
+    6512,  -- Disciple's Robe
     6539,  -- Willow Belt
     6540,  -- Willow Pants
-    6543,  -- Willow Bracers
+    6541,  -- Willow Gloves
     6542,  -- Willow Cape
+    6543,  -- Willow Bracers
     6547,  -- Soldier's Gauntlets
     6557,  -- Bard's Boots
     6558,  -- Bard's Belt
     6563,  -- Shimmering Bracers
+    6564,  -- Shimmering Cloak
     6565,  -- Shimmering Gloves
     6568,  -- Shimmering Trousers
     6570,  -- Shimmering Sash
     6575,  -- Defender Cloak
     6584,  -- Scouting Tunic
+    6585,  -- Scouting Cloak
     6586,  -- Scouting Gloves
     6587,  -- Scouting Trousers
     6595,  -- Battleforge Gauntlets
@@ -88,6 +96,7 @@ AddonTable.transmog = {
     6605,  -- Dervish Gloves
     6622,  -- Sword of Zeal
 
+    7108,  -- Infantry Shield
     7432,  -- Twilight Cowl
     7435,  -- Twilight Mantle
     7456,  -- Knight's Headguard
@@ -137,6 +146,8 @@ AddonTable.transmog = {
 
     9386,  -- Excavator's Brand
     9747,  -- Simple Britches
+    9749,  -- Simple Blouse
+    9756,  -- Nomad Trousers
     9764,  -- Cadet Shield
     9765,  -- Cadet Vest
     9770,  -- Greenweave Cloak
@@ -146,6 +157,7 @@ AddonTable.transmog = {
     9785,  -- Raider's Bracers
     9786,  -- Raider's Cloak
     9787,  -- Raider's Gauntlets
+    9788,  -- Raider's Belt
     9791,  -- Ivycloth Tunic
     9792,  -- Ivycloth Boots
     9799,  -- Ivycloth Sash
@@ -158,6 +170,7 @@ AddonTable.transmog = {
     9848,  -- Conjurer's Gloves
     9852,  -- Conjurer's Robe
     9860,  -- Archer's Cloak
+    9868,  -- Renegade Gauntlets
     9873,  -- Renegade Shield
     9875,  -- Sorcerer Sash
     9877,  -- Sorcerer Cloak
@@ -196,6 +209,7 @@ AddonTable.transmog = {
     10105, -- Wanderer's Armor
     10107, -- Wanderer's Bracers
     10110, -- Wanderer's Gloves
+    10119, -- Ornate Greaves
     10131, -- Revenant Boots
     10135, -- High Councillor's Tunic
     10136, -- High Councillor's Bracers
@@ -284,6 +298,7 @@ AddonTable.transmog = {
     14168, -- Buccaneer's Gloves
     14200, -- Thistlefur Cap
     14228, -- Embersilk Coronet
+    14253, -- Lunar Handwraps
     14269, -- Gaea's Slippers
     14306, -- Bonecaster's Vest
     14309, -- Celestial Belt
@@ -363,6 +378,7 @@ AddonTable.transmog = {
     15673, -- Watcher's Star
     15677, -- Magnificent Shoudlers
     15925, -- Journeyman's Stave
+    15932, -- Disciple's Stein
     15938, -- Mystical Orb
     15940, -- Elegant Scepter
     15942, -- Master's Rod
@@ -374,11 +390,14 @@ AddonTable.transmog = {
 
     21800, -- Silithid Husked Launcher [AQ20] [BoE Gun]
 
+    68743, -- Imbued Infantry Cloak
     68748, -- Imbued Disciple's Cloak
     68749, -- Imbued Disciple's Bracers
     68750, -- Imbued Pioneer Belt
+    68751, -- Imbued Pioneer Bracers
     68754, -- Imbued Disciple's Boots
     68759, -- Imbued Gypsy Cloak
+    68762, -- Imbued Cadet Cloak
 
     115348, -- Feathered Cape
     115349, -- Talon of Vultros

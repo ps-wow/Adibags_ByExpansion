@@ -7,6 +7,7 @@ AddonTable.loot = {
     833,  -- Lifestone
 
     1010, -- Gnarled Short Staff
+    1172, -- Grayson's Torch
     1443, -- Jeweled Amulet of Cainwyn
     1557, -- Buckler of the Seas
 
@@ -90,21 +91,38 @@ AddonTable.loot = {
     54999, -- Seryl's Robes
     55013, -- Seryl's Promise
     57401, -- Jasperlode Chestguard (White Plate Chest)
+    57405, -- Fine Leather Sash
+    57522, -- McCree's Sparring Gloves
+    57524, -- Frontier Bracer
+    57526, -- Gnollbreaker's Boots
     57541, -- Ragged Wolf Hide Cloak
+    57566, -- Siege Engineer's Belt
     58903, -- Kobold Candle
     58905, -- Kobold Basher
     58906, -- Equicide Cloak
     58907, -- Crime Scene Tape [Quest: Westfall]
     58908, -- Scene Investigator's Wrap
     58909, -- Golden Sunshine Cloak [Quest: Westfall]
+    58910, -- Boiled Boots
     58911, -- Tightly Cinched Belt
+    58913, -- Sentinel Hill Vest
     58914, -- Sentinel Hill Breastplate
+    58916, -- Chewed Belt
     58920, -- Dust Plains Greaves
     58923, -- Gregorky's Bracers
+    58925, -- Troublesome Gloves
     58929, -- House Wrynn Crossbow
+    58971, -- Mori's Compass
+    58978, -- Filthy Paw
+    58984, -- Stonesplinter Staff
+    58989, -- Belt of the Valley of Kings
+    58995, -- Bonesnapper Bracers
+    58998, -- Trogg Kickers
     59042, -- Electro-Staff
 
     60219, -- Balanced Spell Staff
+    60682, -- Watch Captain's Cloak
+    60690, -- Doody Boots
     60697, -- Indiscriminate Wand
     60700, -- Solomon's Gavel
     60706, -- Sandals of the Neverending Bridge
@@ -154,7 +172,10 @@ AddonTable.loot = {
 
     151430, -- Hematite Tortoise Pendant
 
+    156932, -- Surveyor's Staff
+    156935, -- Kobold Torch
     156974, -- Archivist's Walking Stick
+    156980, -- Solid Wooden Club
 
     157619, -- Spire of Astral Force (Starter Gear)
     157622, -- Silverscope Longrifle (Starter Gear)

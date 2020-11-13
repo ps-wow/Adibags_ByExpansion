@@ -547,6 +547,9 @@ AddonTable.loot = {
     174954, -- Wristwraps of the Insatiable Maw
     174956, -- Malignant Leviathan's Armguards
 
+    -- Korrak's Revenge (WoW Anniversary)
+    172123, -- Wand of Biting Cold
+
     -- Benethic Gear (8.3? Catch Up)
     169477, -- Benethic Girdle
     169478, -- Benethic Bracers
