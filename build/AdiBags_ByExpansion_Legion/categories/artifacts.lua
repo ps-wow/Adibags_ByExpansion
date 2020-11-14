@@ -16,6 +16,7 @@ AddonTable.artifacts = {
     -- Shaman
     -- Hunter
     128861,
+    128826,
     -- Paladin
     128866,
     128823,

@@ -167,6 +167,9 @@ AddonTable.junk = {
     4021, -- Blunting Mace
     4022, -- Crushing Maul
     4023, -- Fine Pointed Dagger
+    4024, -- Heavy War Staff
+    4025, -- Balanced Long Bow
+    4026, -- Sentinel Musket
     4093, -- Large Basilisk Tail
     4097, -- Chipped Gorilla Tooth
     4361, -- Bent Copper Tube
@@ -248,6 +251,8 @@ AddonTable.junk = {
     11392, -- Severed Bat Claw
     11393, -- Small Bat Skull
     11394, -- Bat Heart
+    11403, -- Large Bat Fang
+    11404, -- Evil Bat Eye
     11406, -- Rotting Bear Carcass
     11407, -- Torn Bear Pelt
     11408, -- Bear Jaw

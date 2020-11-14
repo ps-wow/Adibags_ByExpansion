@@ -120,6 +120,7 @@ AddonTable.loot = {
     157915, -- Gonk Outrunner Shoulderguards
     157918, -- Pa'ku Windrider Jerkin
     157921, -- Pa'ku Windrider Helm
+    157922, -- Pa'ku Windrider Breeches
     157926, -- Breastplate of Rezan's Bladeguard
     157929, -- Greathelm of Rezan's Bladeguard
     157930, -- Shadra Silk Robes
@@ -172,6 +173,7 @@ AddonTable.loot = {
     158011, -- Gravethorn Shoulderguards
     158012, -- Gravethorn Belt
     158013, -- Gravethorn Wristwraps
+    158016, -- Ashenwood Gauntlets
     158017, -- Ashenwood Helm
     158021, -- Ashenwood Bracers
     158022, -- Bleakweald Chestguard
@@ -195,6 +197,7 @@ AddonTable.loot = {
     158060, -- Shoalbreach Pauldrons
     158075, -- Heart of Azeroth
     158079, -- Stagheart Hatchet
+    158084, -- Wavecaller Speargun
     158085, -- Wintersail Dirk
     158086, -- Gnarlwood Dagger
     158089, -- Deepwarden Fangs
@@ -487,6 +490,7 @@ AddonTable.loot = {
     169790, -- Shirakess Gloves (Benethic)
     169894, -- Shirakess Sandals (Benethic)
 
+    170109, -- Azsh'ari Stormsurger Trousers (Benethic)
     170110, -- Zanj'ir Scaleguard Legplates (Benethic)
     170133, -- Shirakess Grips
     170140, -- Akana's Reefstrider Soles / Treads (Benethic)
@@ -549,6 +553,7 @@ AddonTable.loot = {
 
     -- Korrak's Revenge (WoW Anniversary)
     172123, -- Wand of Biting Cold
+    172122, -- Bloodseeker
 
     -- Benethic Gear (8.3? Catch Up)
     169477, -- Benethic Girdle

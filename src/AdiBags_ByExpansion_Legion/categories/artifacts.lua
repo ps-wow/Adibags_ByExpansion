@@ -21,6 +21,7 @@ AddonTable.artifacts = {
 
     -- Hunter
     128861, -- Titanstrike (Beast Master)
+    128826, -- Thas'dorah, Legacy of the Windrunners (Marksmanship)
 
     -- Paladin
     128866, -- Truthguard (Protection)

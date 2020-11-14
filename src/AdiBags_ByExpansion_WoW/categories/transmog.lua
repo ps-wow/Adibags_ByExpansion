@@ -87,6 +87,7 @@ AddonTable.transmog = {
     6568,  -- Shimmering Trousers
     6570,  -- Shimmering Sash
     6575,  -- Defender Cloak
+    6578,  -- Defender Leggings
     6584,  -- Scouting Tunic
     6585,  -- Scouting Cloak
     6586,  -- Scouting Gloves
@@ -177,6 +178,7 @@ AddonTable.transmog = {
     9879,  -- Sorcerer Bracelets
     9881,  -- Sorcerer Mantle
     9893,  -- Huntsman's Leggings
+    9896,  -- Jazeraint Bracers
     9897,  -- Jazeraint Chestguard
     9898,  -- Jazeraint Cloak
     9902,  -- Jazeraint Helm
