@@ -45,4 +45,5 @@ AddonTable.cooking = {
     2889,  -- Recipe: Beer Basted Boar Ribs
     3678,  -- Recipe: Crocolisk Steak
     3683,  -- Recipe: Gooey Spider Cake
+    18267, -- Recipe: Runn Tum Tuber Surprise
 }

@@ -11,6 +11,7 @@ AddonTable.loot = {
     154814, -- Morass Prowler's Cloak
     154823, -- Etched Bone Ring
     154825, -- Zala'mar Vambraces
+    154857, -- Bonesplinter Band
 
     155025, -- Outrigger Boots
     155030, -- Outrigger Gloves
@@ -216,6 +217,7 @@ AddonTable.loot = {
     158133, -- Zandalari Machete
     158134, -- Salt Coast Piercer
     158135, -- Golden Empire Broadsword
+    158136, -- Golden Empire Hexer
     158151, -- Zandalari Band
     158152, -- Golden Empire Signet
     158153, -- Gilded Loa Figurine

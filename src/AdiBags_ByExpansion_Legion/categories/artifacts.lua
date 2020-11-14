@@ -3,6 +3,8 @@ local AddonName, AddonTable = ...
 AddonTable.artifacts = {
     -- Mage
     -- Priest
+    128825, -- T'uure, Beacon of the Naaru (Holy)
+    128868, -- Light's Wrath (Discipline)
     -- Warlock
 
     -- Druid

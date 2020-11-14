@@ -73,6 +73,7 @@ AddonTable.transmog = {
     121244, -- Ambervale Waistband
     121264, -- Warpwind Helm
     121265, -- Warpwind Legguards
+    121272, -- Moonfall Robe
 
     141577, -- Fists of Thane Kray-Tan
 

@@ -2,6 +2,8 @@ local AddonName, AddonTable = ...
 AddonTable.artifacts = {
     -- Mage
     -- Priest
+    128825,
+    128868,
     -- Warlock
     -- Druid
     -- Rogue
