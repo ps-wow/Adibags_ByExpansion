@@ -307,6 +307,7 @@ AddonTable.junk = {
     170087, -- Chromatic "Vigegar"
     170097, -- Discarded Quel'dorei Tome
     170098, -- Rusted Girandole Earring
+    170099, -- Corroded Elegant Key
 
     173908, -- Crumbling Stone Slab
     173935, -- Nik-Nik's Slicky Sticker
