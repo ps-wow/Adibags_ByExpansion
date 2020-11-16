@@ -94,6 +94,7 @@ AddonTable.junk = {
     132233, -- Lingering Essence
     132234, -- Spectral Dust
     132237, -- Large Leg Bone
+    132238, -- Disjointed Jaw
     132239, -- Bone Splinters
 
     134051, -- Partially Digested Hearthstone Card

@@ -8,14 +8,27 @@ AddonTable.junk = {
 
     106285, -- Acid Scarred Plate Belt
     106289, -- Sun-Baked Bracers
+    106290, -- Scraggly Cloth Bracers
+    106291, -- Ripped Mail Bracers
+    106292, -- Acid Scarred Plate Bracers
+    106293, -- Sun-Baked Pants
     106294, -- Acid Scarred Plate Pants
+    106295, -- Ripped Mail Pants
     106296, -- Scraggly Cloth Pants
+    106297, -- Sun-Baked Shoulderpads
+    106298, -- Acid Scarred Plate Shoulderpads
     106299, -- Ripped Mail Boots
     106300, -- Acid Scarred Plate Boots
+    106301, -- Sun-Baked Gloves
     106302, -- Acid Scarred Plate Gloves
+    106303, -- Ripped Mail Gloves
+    106304, -- Scraggly Cloth Gloves
     106305, -- Acid Scarred Plate Helmet
-    106309, -- Sun-Baked Armor
+    106306, -- Scraggly Hat
+    106307, -- Sun-Baked Leather Helmet
     106308, -- Ripped Mail Circlet
+    106309, -- Sun-Baked Armor
+    106310, -- Acid Scarred Plate Chestpiece
     106311, -- Ripped Mail Armor
     106313, -- Sun-Baked Boots
     106315, -- Jammed Pocketknife

@@ -298,6 +298,7 @@ AddonTable.junk = {
     169985, -- Fading Dragonscale
     169986, -- Cracked Dragonscale
     169987, -- Inert Dragonscale
+    169992, -- Cracked Iris Lens
 
     170001, -- Seized Engine
     170005, -- Fractured Pearl
@@ -318,6 +319,7 @@ AddonTable.junk = {
     174514, -- Discarded Token
     174515, -- Star Powder
     174516, -- Dampened Ward
+    174517, -- Bluish Residue
     174819, -- Fractured Aqiri Idol
     174823, -- Miniature Plates of Uldum Replica
     174824, -- Depleted Soul Ruby

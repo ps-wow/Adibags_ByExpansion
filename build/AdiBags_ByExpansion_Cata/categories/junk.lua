@@ -1,5 +1,8 @@
 local AddonName, AddonTable = ...
+-- Cata Junk
 AddonTable.junk = {
+    54629,
+    57071,
     56205,
     60388,
     60406,

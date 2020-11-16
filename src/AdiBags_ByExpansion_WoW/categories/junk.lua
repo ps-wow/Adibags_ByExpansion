@@ -27,6 +27,7 @@ AddonTable.junk = {
     1497, -- Calico Cloak
     1501, -- Calico Tunic
     1502, -- Warped Leather Belt
+    1504, -- Warped Leather Bracers
     1507, -- Warped Leather Pants
     1510, -- Heavy Hammer
     1511, -- Commoner's Sword
@@ -52,6 +53,7 @@ AddonTable.junk = {
     1770, -- Canvas Vest
     1776, -- Brocade Pants
     1777, -- Brocade Shoulderpads
+    1786, -- Cross-Stitched Vest
     1787, -- Patched Leather Belt
     1788, -- Patched Leather Boots
     1789, -- Patched Leather Bracers
@@ -80,6 +82,7 @@ AddonTable.junk = {
     2783, -- Shoddy Blunderbuss
     2940, -- Bloody Bear Paw
     2959, -- Journeyman's Boots
+    2971, -- Spellbinder Boots
     2972, -- Spellbinder Gloves
 
     3010, -- Fine Sand
@@ -129,6 +132,7 @@ AddonTable.junk = {
     3938, -- Crochet Bracers
     3939, -- Crochet Cloak
     3940, -- Crochet Gloves
+    3941, -- Crochet Pants
     3943, -- Crochet Vest
     3944, -- Twill Belt
     3945, -- Twill Boots
@@ -136,6 +140,7 @@ AddonTable.junk = {
     3948, -- Twill Gloves
     3949, -- Twill Pants
     3950, -- Twill Shoulderpads
+    3951, -- Twill Vest
     3961, -- Thick Leather Belt
     3962, -- Thick Leather Boots
     3963, -- Thick Leather Bracers
@@ -209,8 +214,10 @@ AddonTable.junk = {
     5263, -- Pocket Lint
     5506, -- Beady Eye Stalk
     5567, -- Silver Hook
+    5569, -- Seaweed
     5829, -- Razor-Sharp Beak
 
+    6297, -- Old Skull
     6444, -- Forked Tongue
     6445, -- Brittle Molting
     6506, -- Infantry Boots
@@ -224,8 +231,15 @@ AddonTable.junk = {
     7296, -- Extinguished Torch
     7997, -- Red Defias Mask
 
+    8080, -- Light Plate Chestpiece
+    8081, -- Light Plate Belt
     8082, -- Light Plate Boots
     8083, -- Light Plate Bracers
+    8084, -- Light Plate Gloves
+    8085, -- Light Plate Pants
+    8086, -- Light Plate Shoulderpads
+    8088, -- Platemail Belt
+    8089, -- Platemail Boots
     8146, -- Wicked Claw
     8151, -- Flask of Mojo
     8152, -- Flask of Big Mojo
@@ -234,10 +248,12 @@ AddonTable.junk = {
     8748, -- Double Mail Coif
     8749, -- Crochet Hat
     8752, -- Laminated Scale Circlet
+    8753, -- Smooth Leather Helmet
     8754, -- Twill Cover
 
     9242, -- Ancient Tablet
     9308, -- Grime-Encrusted Object (Gnomeregen Quest Item)
+    9746, -- Simple Gloves
     9750, -- Nomad Sash
     9751, -- Nomad Sandals
     9752, -- Gypsy Bands
@@ -269,6 +285,7 @@ AddonTable.junk = {
     13366, -- Ingenious Toy
     13816, -- Fine Longsword
     13817, -- Tapered Greatsword
+    13818, -- Jagged Axe
     13819, -- Balanced War Axe
     13820, -- Clout Mace
     13821, -- Bulky Maul

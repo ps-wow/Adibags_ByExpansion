@@ -1,5 +1,5 @@
 local AddonName, AddonTable = ...
--- ID's: 33363 - 52019
+-- Wrath Junk ID's: 33363 - 52019
 AddonTable.junk = {
     33363,
     33365,
@@ -107,7 +107,10 @@ AddonTable.junk = {
     44778,
     44781,
     44782,
+    45194,
+    45196,
     45199,
+    45200,
     45999,
     52019,
 }

@@ -25,4 +25,5 @@ AddonTable.tailoring = {
     -- Recipes
     4346,
     14512,
+    21371,
 }

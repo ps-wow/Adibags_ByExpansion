@@ -1,6 +1,11 @@
 local AddonName, AddonTable = ...
 
+-- Cata Junk
 AddonTable.junk = {
+    54629, -- Prickly Thorn
+
+    57071, -- Bistabilization Device
+
     56205, -- Pheromone Sample
 
     60388, -- Shimmering Claw

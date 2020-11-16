@@ -174,8 +174,14 @@ AddonTable.transmog = {
     160121, -- Direbone Frill Greatbelt
     160122, -- Direbone Frill Helmet
     160123, -- Direbone Frill Legplates
+    160124, -- Direbone Frill Pauldrons
+    160125, -- Direbone Frill Stompers
+    160126, -- Direbone Frill Bracers
+    160127, -- Pterroleather Cloak
+    160128, -- Brutohide Armwraps
     160129, -- Brutohide Boots
     160130, -- Brutohide Leggings
+    160131, -- Brutohide Gloves
     160132, -- Brutohide Faceguard
     160133, -- Brutohide Vest
     160135, -- Brutohide Belt

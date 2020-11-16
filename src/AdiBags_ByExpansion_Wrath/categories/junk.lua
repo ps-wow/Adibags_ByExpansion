@@ -1,6 +1,6 @@
 local AddonName, AddonTable = ...
 
--- ID's: 33363 - 52019
+-- Wrath Junk ID's: 33363 - 52019
 AddonTable.junk = {
     33363, -- Thread-Bare Cloth Shoulderpads
     33365, -- Frost-Rimed Cloth Belt
@@ -115,7 +115,11 @@ AddonTable.junk = {
     44781, -- Sparkly Raptor War Feather
     44782, -- Bent Raptor Talon
 
+    45194, -- Tangled Fishing Line
+    45196, -- Tattered Cloth
     45199, -- Old Boot
+
+    45200, -- Sickly Fish
 
     45999, -- Worthless Piece of White Glass
 
