@@ -91,6 +91,7 @@ AddonTable.loot = {
     155522, -- Ritual Flayer's Wristwraps
     155524, -- Cursestone Lumberjack's Axe
     155545, -- Drustwrought Spellstaff
+    155551, -- Squirgle's Deepstone Wand
     155560, -- Lazy-Baker's Ring
     155570, -- Ravenfeather Drape
 
@@ -354,6 +355,7 @@ AddonTable.loot = {
     160911, -- Cowl of the Champion [H]
     160913, -- Crown of the Champion
     160916, -- Spaulders of the Champion [A]
+    160961, -- Warmother's Drummer
     160963, -- Blood Jungle Stinger
     160972, -- Herculean Golden Sword
     160979, -- Ancient Chronicler's Focus
@@ -386,6 +388,7 @@ AddonTable.loot = {
     161446, -- Blistering Seawater Seal
     161766, -- Dread Gladiator's Silk Sash
 
+    162459, -- Loa-Pledged Rod
     162795, -- Wildguard Poleyn
     162802, -- Spell-Splintered Pantaloons
     162803, -- Spell-Splintered Robes
@@ -464,6 +467,7 @@ AddonTable.loot = {
 
     165443, -- Darkwood Sentinel's Cowl
     165444, -- Darkwood Sentinel's Breeches
+    165622, -- Deathguard's Blade
     165623, -- Sentinel's Recurve
     165628, -- Sentinel's Branch
     165664, -- Sea Giant's Tidestone
