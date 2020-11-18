@@ -1,4 +1,4 @@
-## Interface: 90001
+## Interface: 90002
 ## Title: AdiBags: ByExpansion |cff69ccf004. Cata|r
 ## Notes: Filter items from Cataclysm
 ## Author: PrivateSniper
