@@ -7,6 +7,7 @@ AddonTable.transmog = {
     106407, -- Lunarglow Cord
     106408, -- Lunarglow Cowl
     106410, -- Lunarglow Leggings
+    106418, -- Frostlink Greaves
     106426, -- Rimeplate Helm
     106431, -- Rimeplate Vambraces
     106432, -- Voidcaller Bindings
@@ -16,6 +17,7 @@ AddonTable.transmog = {
     106427, -- Rimeplate Legplates
     106429, -- Rimeplate Sabatons
     106433, -- Voidcaller Boots
+    106452, -- Gronnling Helm
     106474, -- Iyun Cowl
     106475, -- Iyun Handwraps
     106483, -- Tangleheart Gauntlets
@@ -85,6 +87,7 @@ AddonTable.transmog = {
     116511, -- Creeperclaw Crossbow
     116521, -- Creeperclaw Staff
     116522, -- Creeperclaw Sword
+    116538, -- Incised Staff
     116588, -- Longclaw Staff
     116593, -- Bloodmane Axe
     116594, -- Bloodmane Broadaxe
@@ -115,9 +118,10 @@ AddonTable.transmog = {
     116721, -- Ancestral Branch
 
     118803, -- Kihrawr's Scratching Post
+    118835, -- Kiraser's Gloves of Precision
 
     -- Highmaul
-    113632, -- Gauntlets of the Heavy Hand [BoE Gloves]
+    113632, -- Gauntlets of the Heavy Hand
     119335, -- Eyeripper Girdle
     119338, -- Belt of Inebriated Sorrows
     119343, -- Eye-Blinder Greatcloak

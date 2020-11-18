@@ -54,4 +54,10 @@ AddonTable.lbrs = {
     13162,
     13143,
     22321,
+    -- Quest Rewards
+    --- Trolls, Orgres and Orcs, Oh My! [q:27440]
+    65933,
+    65981,
+    65957,
+    66000,
 }

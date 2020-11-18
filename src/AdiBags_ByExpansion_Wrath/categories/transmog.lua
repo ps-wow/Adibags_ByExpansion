@@ -48,7 +48,10 @@ AddonTable.transmog = {
     36200, -- Skom Leggings
     36233, -- Trapper Shoulderguards
     36262, -- Cormorant Gloves
+    36263, -- Cormorant Helm
     36264, -- Cormorant Leggings
+    36265, -- Cormorant Mantle
+    36266, -- Cormorant Bracelets
     36268, -- Ulduar Greaves
     36269, -- Ulduar Breastplate
     36270, -- Ulduar Gauntlets
@@ -107,6 +110,7 @@ AddonTable.transmog = {
     36709, -- Crystal Woodstaff
 
     37781, -- Grips of the Warming Heart
+    37824, -- Gwyneth's Runed Dragonwand
 
     50444, -- Rowan's Rifle of Silver Bullets
     50451, -- Belt of the Lonely Noble

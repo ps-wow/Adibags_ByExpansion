@@ -6,5 +6,6 @@ AddonTable.leatherworking = {
     30305,
     32750,
     32744,
+    32747,
     32749,
 }

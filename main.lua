@@ -80,6 +80,12 @@ function Core:GetOptions()
             type = 'toggle',
             order = 73,
         },
+        Quest = {
+            name = "Quest",
+            desc = 'Quest items',
+            type = 'toggle',
+            order = 73,
+        },
         FoodIsJunk = {
             name = "Food is Junk",
             desc = 'Classify food as Junk.',
@@ -122,6 +128,7 @@ function Core:GetProfile()
         FoodDrink = true,
         Consumable = true,
         Transmog = true,
+        Quest = true,
         FoodIsJunk = true,
         EverythingIsJunk = false,
         ShowExpansionNumbers = true,
@@ -285,7 +292,7 @@ end
 function Core:GetDefaultCategories()
     return {
         ["Achievement"] = "Achievement Items",
-        ["Reputation"] = "Reputation ITems",
+        ["Reputation"] = "Reputation Items",
         ["TradeMaterials"] = "Trade Materials", -- Tradable trade goods (eg. professions)
         ["DungeonEquipment"] = "Dungeon Armour/Weapons", -- Dungeon equipment (soulbound)
         ["RaidEquipment"] = "Raid Armour/Weapons", -- Raid equipment (Soulbound)
@@ -297,6 +304,7 @@ function Core:GetDefaultCategories()
         ["Loot"] = "Other", -- Green or higher (soulbound), BoE non-appearences.
         ["FoodDrink"] = "Food / Drink", -- Food and Drinks
         ["Transmog"] = "Transmog Appearence", -- Non-bound appearence slot items.
+        ["Quest"] = "Quest Item",
     }
 end
 
@@ -398,6 +406,11 @@ function Core:LoadCategories(table, module)
     -- Achievement Items
     if table.achievement ~= nil then
         Core:AddCategoryItems(table.achievement, "Achievement", module)
+    end
+
+    -- Quests
+    if table.quest ~= nil then
+        Core:AddCategoryItems(table.quest, "Quest", module)
     end
 
     -- Consumables

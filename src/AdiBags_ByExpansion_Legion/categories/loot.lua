@@ -217,6 +217,7 @@ AddonTable.loot = {
     152751, -- Praetorium Guard's Gauntlets (Bound)
     152756, -- Arinor Keeper's Belt (Bound)
     152757, -- Arinor Keeper's Treads (Bound)
+    152758, -- Arinor Keeper's Tunic (Bound)
     152766, -- Oronaar Disciple's Boots
     152770, -- Azurelight Sage's Cap (Bound)
     152773, -- Azurelight Sage's Cuffs (Bound)

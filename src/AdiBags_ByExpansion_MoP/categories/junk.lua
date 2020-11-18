@@ -1,5 +1,6 @@
 local AddonName, AddonTable = ...
 
+-- MoP Junk
 AddonTable.junk = {
     81194, -- Sharp Fangs
     81195, -- Crocolisk Tear
@@ -71,9 +72,20 @@ AddonTable.junk = {
     90770, -- Shabby Belt
     90772, -- Dingy Plate Pants
     90779, -- Moist Mail Shoulderpads
+    90780, -- Moist Mail Armor
+    90781, -- Moist Mail Belt
     90782, -- Slipshod Plate Bracers
+    90783, -- Vermin-Gnawed Cloth Gloves
+    90784, -- Vermin-Gnawed Cloth Pants
+    90785, -- Vermin-Gnawed Cloth Shoulderpads
+    90786, -- Vermin-Gnawed Cloth Vest
+    90787, -- Slipshod Plate Belt
 
+    90800, -- Slipshod Plate Gloves
+    90801, -- Slipshod Plate Pants
+    90802, -- Slipshod Plate Shoulderpads
     90803, -- Moist Mail Bracers
+    90804, -- Moist Mail Gloves
     90805, -- Robble's Stabilized Staff
     90806, -- Rusted Blade
     90807, -- Corroded Timber Axe

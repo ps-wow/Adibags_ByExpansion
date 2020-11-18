@@ -69,6 +69,7 @@ AddonTable.loot = {
     113145, -- Karabor Guardian Gorget
     113147, -- Rangari Luck Charm
     113148, -- Foulspawn Drape
+    113150, -- Felblood-Starched Cloak
     113160, -- Moonstone Luck Token
     113163, -- Kliaa's Venomclaws
     113372, -- Darktide Pincer

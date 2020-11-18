@@ -20,9 +20,15 @@ AddonTable.junk = {
     25345, -- Dilapidated Cloth Hat
     25346, -- Dilapidated Cloth Pants
     25347, -- Dilapidated Cloth Shoulderpads
+    25348, -- Dilapidated Cloth Vest
+    25349, -- Moldy Leather Armor
     25350, -- Moldy Leather Belt
+    25351, -- Moldy Leather Boots
+    25352, -- Moldy Leather Bracers
     25353, -- Moldy Leather Gloves
     25354, -- Moldy Leather Helmet
+    25355, -- Moldy Leather Pants
+    25356, -- Moldy Leather Shoulderpads
     25357, -- Decaying Leather Armor
     25358, -- Decaying Leather Belt
     25359, -- Decaying Leather Boots

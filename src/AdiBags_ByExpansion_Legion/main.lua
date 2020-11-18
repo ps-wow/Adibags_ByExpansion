@@ -3,7 +3,9 @@ local AddonName, AddonTable = ...
 
 -- Load the core addon API.
 local core = LibStub("AceAddon-3.0"):GetAddon("AdiBags_ByExansion")
+-- Create the default categories
 local categories = core:GetDefaultCategories()
+-- Create new legion specific categories
 categories['ArtifactWeapons'] = "Artefact Weapon"
 categories['Legendaries'] = "Legendary"
 

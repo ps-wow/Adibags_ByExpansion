@@ -2,10 +2,14 @@ local AddonName, AddonTable = ...
 
 -- Load the core addon API.
 local core = LibStub("AceAddon-3.0"):GetAddon("AdiBags_ByExansion")
+-- Create the default categories
+local categories = core:GetDefaultCategories()
+-- Create new legion specific categories
+categories['Mechagon'] = "Mechagon Island"
 
 local module = {
     ["name"] = "bfa",
-    ["categories"] = core:GetDefaultCategories(),
+    ["categories"] = categories,
     ["namespace"] = "BfA",
     ["prefix"] = {
         ["num"] = "08. ",
@@ -38,5 +42,6 @@ local module = {
 core:AddExpansion(module)
 
 core:LoadCategories(AddonTable, module)
+core:AddCategoryItems(AddonTable.mechagonisland, "Mechagon", module)
 
 core:LoadExpansion(module)

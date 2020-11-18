@@ -8,6 +8,7 @@ AddonTable.enchanting = {
     153437,
     153438,
     153439,
+    159786,
     -- Crafted Items
     161925,
 }

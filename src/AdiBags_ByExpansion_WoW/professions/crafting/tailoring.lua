@@ -22,9 +22,12 @@ AddonTable.tailoring = {
     2580,  -- Reinforced Linen Cape
     4344,  -- Brown Linen Shirt
     13863, -- Runecloth Gloves
+
     -- Consumable
     1251,  -- Linen Bandage
+
     -- Recipes
     4346,  -- Pattern: Heavy Woolen Cloak
     14512, -- Pattern: Truefaith Vestments
+    21371, -- Pattern: Core Felcloth Bag
 }

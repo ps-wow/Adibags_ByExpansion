@@ -1,8 +1,14 @@
 local AddonName, AddonTable = ...
 AddonTable.artifacts = {
     -- Mage
+    128820,
     -- Priest
+    128825,
+    128868,
     -- Warlock
+    128942,
+    128941,
+    128943,
     -- Druid
     -- Rogue
     128476,
@@ -16,6 +22,7 @@ AddonTable.artifacts = {
     -- Shaman
     -- Hunter
     128861,
+    128826,
     -- Paladin
     128866,
     128823,

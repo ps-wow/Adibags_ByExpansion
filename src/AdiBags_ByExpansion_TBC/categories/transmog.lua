@@ -10,6 +10,8 @@ AddonTable.transmog = {
     24614, -- Vindicator Boots
     24619, -- Vindicator Shoulderpads
     24625, -- Slavehandler Cap
+    24662, -- Shadow Council Boots
+    24667, -- Shadow Council Mantle
     24671, -- Eldr'naan Jerkin
     24676, -- Eldr'naan Bracelets
     24678, -- Archmage Slippers
@@ -23,6 +25,7 @@ AddonTable.transmog = {
     24688, -- Elementalist Gloves
     24689, -- Elementalist Skullcap
     24690, -- Elementalist Leggings
+    24691, -- Elementalist Mantle
     24692, -- Elementalist Bracelets
     24699, -- Bonechewer Shoulderguards
     24709, -- Vengeance Belt
@@ -59,6 +62,7 @@ AddonTable.transmog = {
     24910, -- Netherstorm Belt
     24911, -- Netherstorm Greaves
     24913, -- Netherstorm Gauntlets
+    24914, -- Netherstorm Helm
     24916, -- Netherstorm Shoulderguards
     24917, -- Netherstorm Bracer
     24965, -- Khan'aish Bracers
@@ -75,6 +79,7 @@ AddonTable.transmog = {
     25020, -- Shattered Hand Epaulets
     25021, -- Shattered Hand Vambraces
     25022, -- Warlord's Iron-Girdle
+    25023, -- Warlord's Sabatons
     25024, -- Warlord's Iron-Breastplate
     25028, -- Warlord's Iron-Epaulets
     25029, -- Warlord's Iron-Vambraces
@@ -92,6 +97,7 @@ AddonTable.transmog = {
     25190, -- Wight's Claws
     25201, -- Reaver's Sickle
     25208, -- Bladespire Broadaxe
+    25222, -- Ceremonial Slayer's Axe
     25225, -- Deepforge Broadaxe [2H Axe]
     25239, -- Legend's Glaive
     25243, -- Windtalker Bow
@@ -101,6 +107,7 @@ AddonTable.transmog = {
     25286, -- Yew Wand
     25293, -- Draenethyst Wand
     25303, -- Amplifying Blade
+    25309, -- Warpdagger
     25322, -- Lordly Scepter
     25336, -- Splintering Greatstaff
 

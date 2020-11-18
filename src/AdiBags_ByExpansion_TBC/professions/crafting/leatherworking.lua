@@ -7,5 +7,6 @@ AddonTable.leatherworking = {
     30305, -- Pattern: Boots of Natural Grace
     32750, -- Pattern: Living Earth Bindings
     32744, -- Pattern: Bracers of Renewed Life
+    32747, -- Pattern: Swiftstrike Shoulders
     32749, -- Pattern: Shoulders of Lightning Reflexes
 }

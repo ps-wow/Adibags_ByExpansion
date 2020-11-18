@@ -37,6 +37,7 @@ AddonTable.blacksmithing = {
     2853,  -- Copper Bracers
     2854,  -- Runed Copper Bracers
     2868,  -- Patterned Bronze Bracers
+    3835,  -- Green Iron Bracers
     6040,  -- Golden Scale Bracers
     -- Belts
     2851,  -- Copper Plate Belt

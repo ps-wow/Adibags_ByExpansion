@@ -339,6 +339,7 @@ AddonTable.brf = {
     119310, -- Essence of the Iron Conqueror
     119316, -- Essence of the Iron Vanquisher
     119323, -- Essence of the Iron Protector
+    120209, -- Essence of the Iron Conqueror
     120211, -- Essence of the Iron Vanquisher
     120217, -- Gauntlets of the Iron Vanquisher
     120228, -- Gauntlets of the Iron Conqueror (Heroic)

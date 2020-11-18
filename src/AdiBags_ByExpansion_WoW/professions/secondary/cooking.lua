@@ -18,6 +18,7 @@ AddonTable.cooking = {
     -- Ingredients
     723,   -- Goretusk Liver
     769,   -- Chunk of Boar Meat
+    1015,  -- Lean Wolf Flank
     1468,  -- Murloc Fin
     2672,  -- Stringy Wolf Meat
     2673,  -- Coyote Meat
@@ -44,4 +45,5 @@ AddonTable.cooking = {
     2889,  -- Recipe: Beer Basted Boar Ribs
     3678,  -- Recipe: Crocolisk Steak
     3683,  -- Recipe: Gooey Spider Cake
+    18267, -- Recipe: Runn Tum Tuber Surprise
 }

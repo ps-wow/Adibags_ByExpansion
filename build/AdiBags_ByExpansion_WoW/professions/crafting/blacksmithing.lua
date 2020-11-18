@@ -36,7 +36,7 @@ AddonTable.blacksmithing = {
     2853,
     2854,
     2868,
-    3842,
+    3835,
     6040,
     -- Belts
     2851,

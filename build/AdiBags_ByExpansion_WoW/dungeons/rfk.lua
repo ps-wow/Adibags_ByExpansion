@@ -24,6 +24,11 @@ AddonTable.rfk = {
     6694,
     6693,
     -- Quest Rewards
+    --- Agamaggan's Charge (26905)
     65918,
     65968,
+    65991,
+    65944,
+    66007,
+    131617,
 }

@@ -7,6 +7,7 @@ AddonTable.loot = {
     833,  -- Lifestone
 
     1010, -- Gnarled Short Staff
+    1172, -- Grayson's Torch
     1443, -- Jeweled Amulet of Cainwyn
     1557, -- Buckler of the Seas
 
@@ -14,6 +15,8 @@ AddonTable.loot = {
     2362, -- Worn Wooden Shield
     2900, -- Stone Buckler
     2970, -- Spellbinder Pants
+
+    5001, -- Heart Ring
 
     5761, -- Anvilmar Sledge
 
@@ -29,6 +32,7 @@ AddonTable.loot = {
 
     11302, -- Uther's Strenth
 
+    11982, -- Viridian Band
     11991, -- Quicksilver Ring
     11994, -- Coral Band
     11999, -- Lodestone Hoop
@@ -47,6 +51,8 @@ AddonTable.loot = {
     12055, -- Stardust Band
     12057, -- Dragonscale Band
 
+    13048, -- Looming Gavel
+
     14951, -- Bloodforged Sabatons
 
     19358, -- Draconic Maul
@@ -55,6 +61,7 @@ AddonTable.loot = {
     21418, -- Shroud of Unspoken Names
 
     51962, -- Vigorous Bracers
+    51963, -- Vigorous Stompers
     51964, -- Vigorous Belt
     51966, -- Vigorous Spaulders
     51967, -- Enumerated Sandals
@@ -84,28 +91,44 @@ AddonTable.loot = {
     54999, -- Seryl's Robes
     55013, -- Seryl's Promise
     57401, -- Jasperlode Chestguard (White Plate Chest)
+    57405, -- Fine Leather Sash
+    57522, -- McCree's Sparring Gloves
+    57524, -- Frontier Bracer
+    57526, -- Gnollbreaker's Boots
     57541, -- Ragged Wolf Hide Cloak
+    57566, -- Siege Engineer's Belt
     58903, -- Kobold Candle
     58905, -- Kobold Basher
     58906, -- Equicide Cloak
     58907, -- Crime Scene Tape [Quest: Westfall]
     58908, -- Scene Investigator's Wrap
     58909, -- Golden Sunshine Cloak [Quest: Westfall]
+    58910, -- Boiled Boots
     58911, -- Tightly Cinched Belt
+    58913, -- Sentinel Hill Vest
     58914, -- Sentinel Hill Breastplate
+    58916, -- Chewed Belt
     58920, -- Dust Plains Greaves
     58923, -- Gregorky's Bracers
+    58925, -- Troublesome Gloves
     58929, -- House Wrynn Crossbow
+    58971, -- Mori's Compass
+    58978, -- Filthy Paw
+    58984, -- Stonesplinter Staff
+    58989, -- Belt of the Valley of Kings
+    58995, -- Bonesnapper Bracers
+    58998, -- Trogg Kickers
     59042, -- Electro-Staff
 
     60219, -- Balanced Spell Staff
+    60682, -- Watch Captain's Cloak
+    60690, -- Doody Boots
     60697, -- Indiscriminate Wand
     60700, -- Solomon's Gavel
     60706, -- Sandals of the Neverending Bridge
     60715, -- Vial of Chloroform
 
     65913, -- Hann Ibal's Epaulets
-    65919, -- Zaetar's Gloves
     65922, -- Warpwood Leaf Mantle
     65927, -- Slippers of Tribute
     65939, -- Murd Doc's Leggings
@@ -114,13 +137,10 @@ AddonTable.loot = {
     65953, -- Dathrohan's Mace
     65975, -- Chestguard of Redemption
     65977, -- Balnazzar's Horn
-    65991, -- Boots of the Noble Path
-    65992, -- Pauldrons of the Promise
     65993, -- Warpwood Shield
     65994, -- Staff of Athen'a
     65996, -- Belt of Tyrannic Rule
     65998, -- Balnazzar's Hide
-    66008, -- Shield of Maraudon
 
     89553, -- Aspirant's Staff of Grace (Monk level 20 Staff)
 
@@ -152,7 +172,10 @@ AddonTable.loot = {
 
     151430, -- Hematite Tortoise Pendant
 
+    156932, -- Surveyor's Staff
+    156935, -- Kobold Torch
     156974, -- Archivist's Walking Stick
+    156980, -- Solid Wooden Club
 
     157619, -- Spire of Astral Force (Starter Gear)
     157622, -- Silverscope Longrifle (Starter Gear)
@@ -184,6 +207,7 @@ AddonTable.loot = {
     157691, -- Ascetic's Footpads (Starter Gear)
     157692, -- Ascetic's Handguards (Starter Gear)
     157694, -- Ascetic's Legguards (Starter Gear)
+    157696, -- Ascetic's Cord (Starter Gear)
     157697, -- Ascetic's Cuffs (Starter Gear)
     157699, -- Lightsoul Sabatons
     157704, -- Lightsoul Girdle

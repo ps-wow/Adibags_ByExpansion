@@ -17,6 +17,7 @@ AddonTable.cooking = {
     -- Ingredients
     723,
     769,
+    1015,
     1468,
     2672,
     2673,
@@ -43,4 +44,5 @@ AddonTable.cooking = {
     2889,
     3678,
     3683,
+    18267,
 }
