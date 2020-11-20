@@ -206,6 +206,7 @@ AddonTable.loot = {
     128222, -- Smokeglass Lens Spyglass
     128348, -- Baleful Spaulders
     128350, -- Bladefang Spaulders (Baleful Spaulders)
+    128351, -- Axeclaw Spaulders
 
     -- Archaeology
     117382, -- Beakbreaker of Terokk

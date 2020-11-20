@@ -189,6 +189,7 @@ AddonTable.loot = {
     128222,
     128348,
     128350,
+    128351,
     -- Archaeology
     117382,
     -- Baleful Tokens

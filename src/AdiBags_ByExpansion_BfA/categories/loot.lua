@@ -355,6 +355,7 @@ AddonTable.loot = {
     160911, -- Cowl of the Champion [H]
     160913, -- Crown of the Champion
     160916, -- Spaulders of the Champion [A]
+    160920, -- Spaulders of the Champion [H]
     160961, -- Warmother's Drummer
     160963, -- Blood Jungle Stinger
     160972, -- Herculean Golden Sword
@@ -429,6 +430,7 @@ AddonTable.loot = {
     163458, -- Honorbound Centurion's Gauntlets
     163459, -- Honorbound Centurion's Breastplate
     163461, -- Honorbound Centurion's Greatbelt
+    163523, -- Grunt's Warmace
     163527, -- Headhunter's Spear
     163530, -- Warmage's Spire
     163533, -- Footman's Cleaver
