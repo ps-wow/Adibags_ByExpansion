@@ -29,6 +29,7 @@ AddonTable.transmog = {
     106502, -- Steamscar Hood
     106520, -- Highland Spaulders
     106521, -- Highland Vest
+    106584, -- Deathweb Helm
     106659, -- Talon Guard Pauldrons
     106669, -- Breezestrider Shoulders
     106671, -- Windswept Cord
@@ -47,6 +48,7 @@ AddonTable.transmog = {
     106708, -- Voidwrap Robe
     106710, -- Voidwrap Shoulderpads
     106712, -- Sunspring Belt
+    106717, -- Sunspring Legguards
     106718, -- Sunspring Spaulders
     106720, -- Stonecrag Breastplate
     106725, -- Stonecrag Pauldrons
@@ -117,6 +119,7 @@ AddonTable.transmog = {
     116703, -- Evermorn Twig
     116721, -- Ancestral Branch
 
+    118072, -- "Fireproof" Venture Co. Chainmail
     118803, -- Kihrawr's Scratching Post
     118835, -- Kiraser's Gloves of Precision
 

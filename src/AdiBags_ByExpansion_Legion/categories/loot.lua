@@ -197,6 +197,7 @@ AddonTable.loot = {
 
     150997, -- Crystallized Aether [Arcane Artifact Relic]
 
+    152370, -- Legguards of Doomed Chattel
     152783, -- Mac'Aree Focusing Amethyst
 
     -- Dauntless

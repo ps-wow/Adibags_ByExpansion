@@ -28,6 +28,9 @@ AddonTable.artifacts = {
     128823,
     120978,
     -- Warrior
+    128289,
+    128908,
+    128910,
     -- Death Knight
     128402,
     128403,

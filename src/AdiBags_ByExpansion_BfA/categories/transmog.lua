@@ -28,6 +28,7 @@ AddonTable.transmog = {
     154853, -- Crimsonwood Cowl
     154855, -- Crimsonwood Mantle
     154859, -- Barrowknoll Bracers
+    154862, -- Barrowknoll Coif
     154863, -- Barrowknoll Legguards
     154864, -- Barrowknoll Pauldrons
     154844, -- Corlain Greaves

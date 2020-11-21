@@ -29,6 +29,9 @@ AddonTable.artifacts = {
     128823, -- The Silver Hand (Holy)
     120978, -- Ashbringer (Retribution)
     -- Warrior
+    128289, -- Scale of the Earth-Warder
+    128908, -- Warswords of the Valarjar
+    128910, -- Strom'kar the Warbreaker
     -- Death Knight
     128402, -- Maw of the Damned
     128403, -- Apocalypse
