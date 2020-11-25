@@ -37,6 +37,7 @@ AddonTable.junk = {
     1516, -- Worn Hatchet
     1520, -- Troll Sweat
     1687, -- Retractable Claw
+    1701, -- Curved Basilisk Claw
     1702, -- Intact Basilisk Spine
     1730, -- Worn Mail Belt
     1734, -- Worn Mail Gloves
@@ -46,6 +47,7 @@ AddonTable.junk = {
     1739, -- Laced Mail Boots
     1740, -- Laced Mail Bracers
     1745, -- Laced Mail Vest
+    1756, -- Reinforced Chain Bracers
     1758, -- Reinforced Chain Gloves
     1760, -- Reinforced Chain Shoulderpads
     1766, -- Canvas Cloak
@@ -53,11 +55,14 @@ AddonTable.junk = {
     1770, -- Canvas Vest
     1776, -- Brocade Pants
     1777, -- Brocade Shoulderpads
+    1782, -- Cross-Stitched Cloak
     1786, -- Cross-Stitched Vest
     1787, -- Patched Leather Belt
     1788, -- Patched Leather Boots
     1789, -- Patched Leather Bracers
     1791, -- Patched Leather Gloves
+    1803, -- Tough Leather Belt
+    1804, -- Tough Leather Boots
     1806, -- Tough Cloak
     1813, -- Chipped Quarterstaff
     1814, -- Battered Mallet
@@ -65,6 +70,7 @@ AddonTable.junk = {
     1817, -- Stock Shortsword
     1820, -- Wooden Maul
     1825, -- Bulky Bludgeon
+    1826, -- Rock Maul
 
     2057, -- Pitted Defias Shortsword
     2154, -- The Story of Morgan Ladimore
@@ -80,6 +86,7 @@ AddonTable.junk = {
     2778, -- Cheap Blunderbuss
     2780, -- Light Hunting Bow
     2783, -- Shoddy Blunderbuss
+    2785, -- Stiff Recurve Bow
     2940, -- Bloody Bear Paw
     2959, -- Journeyman's Boots
     2971, -- Spellbinder Boots
@@ -103,6 +110,7 @@ AddonTable.junk = {
     3374, -- Calico Belt
     3375, -- Calico Bracers
     3377, -- Canvas Bracers
+    3379, -- Brocade Bracers
     3401, -- Rough Crocolisk Scale
     3402, -- Soft Patch of Fur
     3403, -- Ivory Boar Tusk
@@ -116,15 +124,19 @@ AddonTable.junk = {
     3781, -- Broad Claymore
     3782, -- Large War Club
     3783, -- Light Scimitar
+    3784, -- Metal Stave
+    3792, -- Interlaced Belt
     3793, -- Interlaced Boots
     3794, -- Interlaced Bracers
     3796, -- Interlaced Gloves
     3797, -- Interlaced Pants
     3798, -- Interlaced Shoulderpads
+    3799, -- Interlaced Vest
     3801, -- Granny's Mallet
     3802, -- Hardened Leather Bracers
     3805, -- Hardened Leather Pants
     3808, -- Double Mail Belt
+    3809, -- Double Mail Boots
     3815, -- Double Mail Vest
     3817, -- Reinforced Buckler
     3931, -- Poisoned Spider Fang
@@ -202,6 +214,7 @@ AddonTable.junk = {
     4874, -- Clean Fishbones
 
     5109, -- Stonesplinter Rags
+    5113, -- Mark of the Syndicate
     5114, -- Severed Talon
     5115, -- Broken Wishbone
     5117, -- Vibrant Plume

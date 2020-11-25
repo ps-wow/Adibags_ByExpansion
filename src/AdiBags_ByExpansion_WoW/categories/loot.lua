@@ -10,6 +10,7 @@ AddonTable.loot = {
     1172, -- Grayson's Torch
     1443, -- Jeweled Amulet of Cainwyn
     1557, -- Buckler of the Seas
+    1993, -- Ogremind Ring
 
     2238, -- Urchin's Pants
     2362, -- Worn Wooden Shield

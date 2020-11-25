@@ -7,6 +7,8 @@ AddonTable.junk = {
     121334, -- Mining Sword
     121336, -- Mossy Longbow
     121337, -- Permanently Jammed Blunderbuss
+    121342, -- Rust-Encrusted chain Belt
+    121343, -- Warped-Plate Belt
     121344, -- Sunbleached Cord
     121345, -- Weatherworn Belt
     121347, -- Rust-Encrusted Wristguards

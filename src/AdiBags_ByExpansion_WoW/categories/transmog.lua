@@ -39,6 +39,7 @@ AddonTable.transmog = {
     3740,  -- Decapitating Sword
 
     4047,  -- Mistscape Boots
+    4048,  -- Emblazoned Hat
     4063,  -- Imperial Leather Gloves
     4073,  -- Glimmering Mail Greaves
     4083,  -- Blackforge Gauntlets
@@ -102,6 +103,7 @@ AddonTable.transmog = {
     7435,  -- Twilight Mantle
     7456,  -- Knight's Headguard
     7459,  -- Knight's Pauldrons
+    7460,  -- Knight's Cloak
     7478,  -- Ranger Leggings
     7481,  -- Ranger Boots
     7494,  -- Captain's Waistguard
@@ -192,6 +194,7 @@ AddonTable.transmog = {
     9947,  -- Chieftain's Belt
     9949,  -- Chieftain's Bracers
     9950,  -- Chieftain's Breastplate
+    9952,  -- Chieftain's Gloves
     9953,  -- Chieftain's Headdress
     9964,  -- Warmonger's Leggings
     9965,  -- Warmonger's Pauldrons

@@ -20,6 +20,7 @@ AddonTable.cooking = {
     769,   -- Chunk of Boar Meat
     1015,  -- Lean Wolf Flank
     1468,  -- Murloc Fin
+    2251,  -- Gooey Spider Leg
     2672,  -- Stringy Wolf Meat
     2673,  -- Coyote Meat
     2674,  -- Crawler Meat
@@ -34,10 +35,12 @@ AddonTable.cooking = {
     5503,  -- Clam Meat
     5504,  -- Tangy Clam Meat
     6889,  -- Small Egg
+    12207, -- Giant Egg
     12037, -- Mystery Meat
     12203, -- Red Wolf Meat
     12205, -- White Spider Meat
     12208, -- Tender Wolf Meat
+    22644, -- Crunchy Spider Leg
     67229, -- Stag Flank
     -- Recipe's
     728,   -- Recipe: Westfall Stew
