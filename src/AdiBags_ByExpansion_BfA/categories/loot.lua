@@ -291,6 +291,7 @@ AddonTable.loot = {
     159086, -- Corrupted Tribe Headsmasher
     159099, -- Pa'ku Adherant's Talons
     159147, -- Jambani Walkers
+    159349, -- Dragon Turtle Handlers
     159480, -- Bleached Bone Handaxe
     159543, -- Loa-Blessed Maul
     159548, -- Golden Fleet Mace
@@ -492,6 +493,7 @@ AddonTable.loot = {
     168747, -- Performant Adaptable Logic Board
     168750, -- Omnipurpose Refined Logic Board
 
+    169223, -- Ashjra'kamas, Shroud of Resolve [Legendary Cloak]
     169317, -- Enthraller's Bindstone
     169482, -- Benethic Leggings
     169790, -- Shirakess Gloves (Benethic)
@@ -550,6 +552,7 @@ AddonTable.loot = {
     173815, -- Girdle of the Insatiable Maw
     173817, -- Nefarious Tormentor's Trousers
     173822, -- Malignant Leviathan's Waistguard
+    173846, -- Vile Manipulator's Vestment
 
     174017, -- Corrupted Aspirant's Rifle
     174469, -- Band of Insidious Ruminations

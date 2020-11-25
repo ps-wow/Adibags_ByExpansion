@@ -1,6 +1,10 @@
 local AddonName, AddonTable = ...
 
 AddonTable.inscription = {
+    -- Pigments
+    173056, -- Umbral Pigment
+    173057, -- Luminous Pigment
+    175788, -- Tranquil Pigment
     -- Inks
     173059, -- Luminous Ink
     173058, -- Umbral Ink
