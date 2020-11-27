@@ -1,6 +1,7 @@
 local AddonName, AddonTable = ...
 -- Shadowlands Alchemy
 AddonTable.alchemy = {
+    180732,
     -- Anti-Venoms
     171301,
     -- Cauldrons

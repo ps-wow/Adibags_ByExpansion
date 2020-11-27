@@ -8,7 +8,9 @@ AddonTable.junk = {
     173363, -- Virulent Gland
     173871, -- Harrowed Ichor
     173874, -- Twisted Sediment
+    173875, -- Defiling Mire
     173877, -- Burnished Hoof
+    173878, -- Empyreal Horn
 
     174999, -- Long-Forgotten Sinstone
 
@@ -20,10 +22,14 @@ AddonTable.junk = {
     176087, -- Gorm Chitin
     176088, -- Gormgris
     176089, -- Treesnap Mandible
+    176294, -- Withered Leather Shoulders
     176298, -- Gorm-Eaten Stompers
     176299, -- Gorm-Eaten Pauldrons
     176300, -- Gorm-Eaten Leggings
     176301, -- Gorm-Eaten Helmet
+    176303, -- Gorm-Eaten Breastplate
+    176304, -- Gorm-Eaten Belt
+    176307, -- Parched Silk Sandals
     176308, -- Parched Silk Pants
     176309, -- Parched Silk Handwraps
     176313, -- Desiccated Scale Wristguards
@@ -32,8 +38,12 @@ AddonTable.junk = {
     176391, -- Leafy Anenna
     176410, -- Twisted Leather Cinch
     176414, -- Twisted Leather Leggings
+    176416, -- Twisted Leather Jerkin
+    176418, -- Distorted Plate Vambraces
     176425, -- Distorted Plate Greatbelt
     176428, -- Stained Cloth Slippers
+    176432, -- Stained Cloth Cincture
+    176433, -- Stained Cloth Mantle
     176730, -- Orders from the Ancient One
     176807, -- Dented Armorplate
     176809, -- Cracked Actuator
@@ -57,36 +67,60 @@ AddonTable.junk = {
     176874, -- Desiccated Humerus
     176876, -- Collapsed Psyche
     176877, -- Split Tooth
+    176944, -- Marred Plate Greatbelt
 
+    177025, -- Partially Eaten Fish
+    177733, -- Crumbling Plate Warboots
+    177734, -- Crumbling Plate Shoulderguards
+    177745, -- Dredged Chain Gauntlets
+    177751, -- Mire-Stained Leather Guise
     177759, -- Ember-Bleached Cloth Legwraps
 
     178017, -- Drusty Molting
+    178103, -- Tiny Wing
+    178104, -- Ember Ashes
     178106, -- Splintered Fang
+    178107, -- Pallid Sinuous Hide
     178113, -- Twitching Stone
     178114, -- Stone Haunch
     178127, -- Tattered Scraps of Clothing
+    178130, -- Shapeable Muck
     178131, -- Whetstone Talon File
+    178132, -- Richly Caligraphed Invitation
     178133, -- Tendrils of Ectoplasm
+    178134, -- Ephemeral Digits
     178136, -- Emotional Residue
+    178173, -- Crumbling Sandstone
     178175, -- Gooey Sap
     178178, -- Brittle Bark
+    178923, -- Fractured Rubble
+    178924, -- Ash Clod
 
     179368, -- Immutable Shackles
     179369, -- Spectral Key
     179370, -- Inert Passage Sigil
     179372, -- Broken Mawrat Trap
+    179985, -- Clouded Stain Glass Shards
     179986, -- Agonized Echoes
 
     180088, -- Handwritten Note
+    180286, -- Broken Fishing Pole
+    180288, -- Silver-Bladed Excavator
     180309, -- Malicious Mandible
     180623, -- Torn Rune-Etched Page
     180624, -- Faintly Glowing Vellum
 
     181246, -- Withered Leaf
     181247, -- Pointy Stick
+    181483, -- Spool of Silkstrider Thread
+    181484, -- Songwood Graft
+    181486, -- Leafscale Coat
     181488, -- Shadowstalker Claw
     181713, -- Scorched Letter
 
+    182733, -- Gnawed Animacorns
+
+    184368, -- Sputtering Hilt
     184390, -- Foul Ectoplasm
     184391, -- Hollow Phylactery Shard
     184392, -- Fizzled Ritual Scroll

@@ -256,6 +256,7 @@ AddonTable.transmog = {
     10252, -- Master's Leggings
     10254, -- Master's Robe
     10255, -- Master's Belt
+    10256, -- Adventurer's Bracers
     10257, -- Adventurer's Boots
     10259, -- Adventurer's Belt
     10261, -- Adventurer's Bandana

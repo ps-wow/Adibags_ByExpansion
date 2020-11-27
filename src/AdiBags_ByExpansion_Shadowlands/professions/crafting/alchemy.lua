@@ -2,6 +2,7 @@ local AddonName, AddonTable = ...
 
 -- Shadowlands Alchemy
 AddonTable.alchemy = {
+    180732, -- Rune Etched Vial
     -- Anti-Venoms
     171301, -- Spiritual Anti-Venom
     -- Cauldrons

@@ -552,6 +552,7 @@ AddonTable.loot = {
     173815, -- Girdle of the Insatiable Maw
     173817, -- Nefarious Tormentor's Trousers
     173822, -- Malignant Leviathan's Waistguard
+    173841, -- Mantle of the Insatiable Maw
     173846, -- Vile Manipulator's Vestment
 
     174017, -- Corrupted Aspirant's Rifle
