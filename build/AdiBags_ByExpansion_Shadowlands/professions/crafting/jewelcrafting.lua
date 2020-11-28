@@ -41,4 +41,7 @@ AddonTable.jewelcrafting = {
     178926,
     -- Hats
     180760,
+    -- Essenses
+    173171,
+    173173,
 }

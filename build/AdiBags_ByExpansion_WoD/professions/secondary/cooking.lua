@@ -15,6 +15,7 @@ AddonTable.cooking = {
     109141,
     109142,
     109143,
+    109144,
     -- Food
     -- In consumables category
     -- Recipes
