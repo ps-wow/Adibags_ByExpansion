@@ -42,4 +42,7 @@ AddonTable.jewelcrafting = {
     178926, -- Shadowghast Ring
     -- Hats
     180760, -- Crown of the Righteous
+    -- Essenses
+    173171, -- Essense of Torment
+    173173, -- Essense of Valor
 }
