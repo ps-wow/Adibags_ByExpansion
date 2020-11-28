@@ -3,9 +3,11 @@ local AddonName, AddonTable = ...
 AddonTable.trade = {
     -- Meat/Fish
     124117, -- Lean Shank
+    124118, -- Fatty Bearsteak
     124119, -- Big Gamy Ribs
     124120, -- Leyblood
     124121, -- Wildfowl Egg
+    133680, -- Slice of Bacon
     142336, -- Falcosaur Egg
     -- General
     136342, -- Obliterum Ash (BoP)

@@ -16,6 +16,7 @@ AddonTable.cooking = {
     109141, -- Fire Ammonite Tentacle
     109142, -- Sea Scorpion Segment
     109143, -- Abyssal Gulper Eel Flesh
+    109144, -- Blackwater Whiptail Flesh
     
     -- Food
     -- In consumables category

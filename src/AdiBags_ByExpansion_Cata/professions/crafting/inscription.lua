@@ -6,4 +6,5 @@ AddonTable.inscription = {
     61981, -- Inferno Ink
     -- Pigments
     61979, -- Ashen Pigment
+    61980, -- Burning Embers
 }

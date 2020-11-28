@@ -26,8 +26,12 @@ AddonTable.garrison = {
     118345, -- Arcane Crystal Conduit
     118346, -- Arcane Crystal Amplifier
     118347, -- Arcane Crystal Focusing Lens
+    118375, -- Arcane Crystal Module
     118376, -- Auction Control Module
     118377, -- Arcane Crystal Module
     118378, -- Super Cooling Module
     118379, -- Cyclical Power Module
+
+    -- Shipyard
+    127880, -- Ice Cutter
 }
