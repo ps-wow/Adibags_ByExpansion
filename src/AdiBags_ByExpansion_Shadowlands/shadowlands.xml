@@ -8,7 +8,7 @@
     <Script file="categories\misc.lua"/>
     <Script file="categories\mounts.lua"/>
     <Script file="categories\pets.lua"/>
-    <Script file="categories\quests.lua"/>
+    <Script file="categories\quest.lua"/>
     <Script file="categories\toys.lua"/>
     <Script file="categories\trade.lua"/>
     <Script file="categories\transmog.lua"/>
