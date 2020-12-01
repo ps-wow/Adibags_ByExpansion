@@ -8,3 +8,4 @@ CHANGELOG.md        export-ignore
 /src                export-ignore
 /scripts            export-ignore
 /.vscode            export-ignore
+pkgmeta.yaml        export-ignore
