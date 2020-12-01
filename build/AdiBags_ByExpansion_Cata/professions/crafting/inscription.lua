@@ -5,4 +5,5 @@ AddonTable.inscription = {
     61981,
     -- Pigments
     61979,
+    61980,
 }

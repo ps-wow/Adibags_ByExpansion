@@ -17,6 +17,8 @@ AddonTable.jewelcrafting = {
     130181, -- Pandemonite
     130182, -- Maelstrom Saphhire
     130183, -- Shadowruby
+    151579, -- Labradorite
+
     151718, -- Argulite [7.3]
     151719, -- Lightsphene [7.3]
     151721, -- Hesselian [7.3]
