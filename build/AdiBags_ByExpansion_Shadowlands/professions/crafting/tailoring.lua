@@ -1,6 +1,8 @@
 local AddonName, AddonTable = ...
 -- Shadowlands Tailoring
 AddonTable.tailoring = {
+    -- Materials
+    177062,
     -- Specialized Armor
     173248,
     173249,
