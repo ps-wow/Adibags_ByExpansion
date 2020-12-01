@@ -2,6 +2,8 @@ local AddonName, AddonTable = ...
 
 -- Shadowlands Tailoring
 AddonTable.tailoring = {
+    -- Materials
+    177062, -- Penumbra Thread
     -- Specialized Armor
     173248, -- Grim-Veiled Belt
     173249, -- Grim-Veiled Bracers
