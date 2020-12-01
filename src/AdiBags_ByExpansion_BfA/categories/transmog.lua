@@ -255,4 +255,8 @@ AddonTable.transmog = {
     170119, -- Slithershell Warglaive
     170120, -- Handmaiden's Longstaff
     170201, -- Deeptide Scroll
+
+    175556, -- Shimmerbough Hood
+    175569, -- Eventide Belt
+    177769, -- Avowed Tormenter's Handwraps
 }

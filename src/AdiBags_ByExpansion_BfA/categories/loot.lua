@@ -228,6 +228,7 @@ AddonTable.loot = {
     158160, -- Smuggler's Cove Ring
     158161, -- Speakfisher's Band
     158162, -- Pearl Diver's Compass
+    158163, -- First Mate's Spyglass
     158164, -- Plunderbeard's Flask
     158215, -- Whirlwing's Plumage
     158218, -- Dadalea's Wing

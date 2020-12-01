@@ -17,6 +17,7 @@ AddonTable.loot = {
     173344, -- Band of Chronicled Deeds
     173797, -- Larion-Tooth Necklace
 
+    175008, -- Lurking Schemer's Band
     175425, -- Tubbins Teapot Fire Mitts
     175427, -- Hood of Pained Absolution
     175431, -- Leggings of Pained Absolution
@@ -45,12 +46,14 @@ AddonTable.loot = {
     175669, -- Spirit Tender's Mantle
     175672, -- Spirit Tender's Cord
     175675, -- Spirit Tender's Cuffs
+    175678, -- Starshroud Bracers
     175704, -- Reverberating Silver Band
     175706, -- Mind-Torn Band
     175707, -- Signet of the Learned
     175708, -- Reconstructed Family Locket
     175710, -- Night Courtier's Ring
     175712, -- Shimmerbough Loop
+    175713, -- Sprigthistle Loop
     175714, -- The Chamberlain's Tarnished Signet
     175715, -- Gargon Eye Ring
     175718, -- Ascended Defender's Crest
@@ -59,9 +62,12 @@ AddonTable.loot = {
     175725, -- Newcomer's Gladiatorial Badge
     175731, -- Stolen Maw Badge
     175732, -- Tablet of Despair
+    175736, -- Hopebreaker Pendant
     175741, -- Gormgris Gorget
+    175762, -- Larion Tamer's Cloak
     175763, -- Salvaged Mercenary's Drape
     175765, -- Dredwing Shroud
+    175766, -- Ilka's Hunting Cloak
     175767, -- Glitterwing Greatcloak
     175988, -- Meadow Guardian's Staff
 
@@ -70,9 +76,14 @@ AddonTable.loot = {
     176797, -- Ritual Bell
 
     177634, -- Vial of Volatile Essence
+    177655, -- Air Bootuses
+    177815, -- Devout Archivist's Chain
 
+    178053, -- Thicket Sweeper
     178069, -- Nightcloaked Mantle
+    178077, -- Briarbane Signet
 
+    179517, -- Duskwarder Censor
     179562, -- Duskwarder Branch
     179565, -- Songwood Stem
     179927, -- Glowing Endmire Stinger
@@ -85,11 +96,25 @@ AddonTable.loot = {
     180818, -- Bonefused Bonesaw
     180827, -- Maldraxxian Warhorn
 
+    181183, -- TODO: ????
+    181184, -- Soulstalker Helm
     181185, -- Soulstalker Breeches
+    181187, -- Soulstalker Bindings
+    181334, -- Essence Extractor
     181404, -- Faemoss Shoes
     181415, -- Faemoss Leggings
+    181417, -- Runetender Pants
     181534, -- Ruthless Contender's Rod
+    181577, -- Soulbearer's Vest
+    181578, -- Soulbearer's Boots
+    181580, -- Soulbearer's Gloves
+    181583, -- Soulbearer's Breeches
+    181587, -- Soulbearer's Belt
+    181625, -- Gorewrought Medallion
+    181660, -- Corpsehide Gloves
     181677, -- Fleshscale Belt
+    181703, -- Skychime Necklace
+    181721, -- Ascendent Valor Signet
 
     182682, -- Book-Borrower Identification
 

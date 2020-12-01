@@ -22,6 +22,7 @@ AddonTable.junk = {
     176087, -- Gorm Chitin
     176088, -- Gormgris
     176089, -- Treesnap Mandible
+    176292, -- Withered Leather Hood
     176294, -- Withered Leather Shoulders
     176298, -- Gorm-Eaten Stompers
     176299, -- Gorm-Eaten Pauldrons
@@ -29,6 +30,7 @@ AddonTable.junk = {
     176301, -- Gorm-Eaten Helmet
     176303, -- Gorm-Eaten Breastplate
     176304, -- Gorm-Eaten Belt
+    176305, -- Parched Silk Wristwraps
     176307, -- Parched Silk Sandals
     176308, -- Parched Silk Pants
     176309, -- Parched Silk Handwraps
@@ -36,6 +38,7 @@ AddonTable.junk = {
     176314, -- Desiccated Scale Spaulders
     176315, -- Desiccated Scale Sabatons
     176391, -- Leafy Anenna
+    176392, -- Patterned Wing
     176410, -- Twisted Leather Cinch
     176414, -- Twisted Leather Leggings
     176416, -- Twisted Leather Jerkin
@@ -52,6 +55,7 @@ AddonTable.junk = {
     176855, -- Caustic Secretion
     176856, -- Partially Digested Viscera
     176859, -- Tempered Carapace
+    176860, -- Keen Incisor
     176861, -- Engorged Venom Sac
     176862, -- Marred Skin
     176864, -- Barbed Leg
@@ -67,12 +71,17 @@ AddonTable.junk = {
     176874, -- Desiccated Humerus
     176876, -- Collapsed Psyche
     176877, -- Split Tooth
+    176882, -- Spotless Skull
+    176886, -- Augmented Femur
+    176929, -- Putrefied Leather Cinch
     176944, -- Marred Plate Greatbelt
 
     177025, -- Partially Eaten Fish
     177733, -- Crumbling Plate Warboots
     177734, -- Crumbling Plate Shoulderguards
+    177735, -- Crumbling Plate Legguards
     177745, -- Dredged Chain Gauntlets
+    177748, -- Mire-Stained Leather Cinch
     177751, -- Mire-Stained Leather Guise
     177759, -- Ember-Bleached Cloth Legwraps
 
@@ -96,6 +105,8 @@ AddonTable.junk = {
     178923, -- Fractured Rubble
     178924, -- Ash Clod
 
+    179003, -- Shattered Quartz Eyes
+    179006, -- Glowing Endmire Dust
     179368, -- Immutable Shackles
     179369, -- Spectral Key
     179370, -- Inert Passage Sigil
@@ -107,6 +118,7 @@ AddonTable.junk = {
     180286, -- Broken Fishing Pole
     180288, -- Silver-Bladed Excavator
     180309, -- Malicious Mandible
+    180310, -- Fluttered Stone Wings
     180623, -- Torn Rune-Etched Page
     180624, -- Faintly Glowing Vellum
 
@@ -120,7 +132,12 @@ AddonTable.junk = {
 
     182733, -- Gnawed Animacorns
 
+    183047, -- Soul of the Darkhound
+    183065, -- Shiekwing
+    183062, -- Gleaming Replica of Partannas
+
     184368, -- Sputtering Hilt
+    184369, -- Brutally Sundered Mallet
     184390, -- Foul Ectoplasm
     184391, -- Hollow Phylactery Shard
     184392, -- Fizzled Ritual Scroll

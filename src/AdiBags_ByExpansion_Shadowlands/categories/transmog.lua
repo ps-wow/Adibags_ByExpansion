@@ -5,12 +5,14 @@ AddonTable.transmog = {
     175558, -- Duskthistle Helm
     175551, -- Duskthistle Boots
     175564, -- Blackthorn Shoulders
+    175565, -- Shimmerbough Mantle
 
     176763, -- Glimmerhoof Breastplate
     176776, -- Darkfeather Helm
     176789, -- Unbrawing Wristwraps
     176793, -- Honorguide Crossbow
     176796, -- Elysian Dory
+    176798, -- Larion Claw
     176803, -- Harmonious Mallet
     176967, -- Bloodskin Shoes
     176969, -- Warflesh Boots
@@ -19,6 +21,7 @@ AddonTable.transmog = {
     176975, -- Ossein Scale Headguard
     176983, -- Bloodskin Mantle
 
+    177775, -- Depraved Darkblade's Grips
     177776, -- Depraved Darkblade's Helm
     177797, -- Depraved Darkblade's Epaulets
     177802, -- Hopebreaker Carbine
