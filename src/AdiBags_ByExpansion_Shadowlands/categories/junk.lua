@@ -74,13 +74,16 @@ AddonTable.junk = {
     176882, -- Spotless Skull
     176886, -- Augmented Femur
     176929, -- Putrefied Leather Cinch
+    176931, -- Putrefied Leather Handwraps
     176944, -- Marred Plate Greatbelt
 
     177025, -- Partially Eaten Fish
+    177732, -- Crumbling Plate Vambraces
     177733, -- Crumbling Plate Warboots
     177734, -- Crumbling Plate Shoulderguards
     177735, -- Crumbling Plate Legguards
     177745, -- Dredged Chain Gauntlets
+    177747, -- Dredged Chain Clasp
     177748, -- Mire-Stained Leather Cinch
     177751, -- Mire-Stained Leather Guise
     177759, -- Ember-Bleached Cloth Legwraps
@@ -121,9 +124,11 @@ AddonTable.junk = {
     180310, -- Fluttered Stone Wings
     180623, -- Torn Rune-Etched Page
     180624, -- Faintly Glowing Vellum
+    180991, -- Crimson Ink Well
 
     181246, -- Withered Leaf
     181247, -- Pointy Stick
+    181379, -- Larionfeather Quill
     181483, -- Spool of Silkstrider Thread
     181484, -- Songwood Graft
     181486, -- Leafscale Coat
@@ -133,8 +138,12 @@ AddonTable.junk = {
     182733, -- Gnawed Animacorns
 
     183047, -- Soul of the Darkhound
+    183049, -- Guile of the Pack
+    183055, -- Chained Venthyr Pocketwatch
+    183056, -- Shriekwing by Krentis
     183065, -- Shiekwing
     183062, -- Gleaming Replica of Partannas
+    183075, -- Phantasmal Masquerade Guide
 
     184368, -- Sputtering Hilt
     184369, -- Brutally Sundered Mallet
@@ -143,4 +152,6 @@ AddonTable.junk = {
     184392, -- Fizzled Ritual Scroll
     184393, -- Everburning Mange
     184403, -- Dreamlure Candle
+    184562, -- Tranquility Stone
+    184563, -- Anima Condenser
 }

@@ -233,6 +233,7 @@ AddonTable.junk = {
     6297, -- Old Skull
     6444, -- Forked Tongue
     6445, -- Brittle Molting
+    6457, -- Rusted Engineering Parts
     6506, -- Infantry Boots
     6518, -- Pioneer Boots
     6826, -- Brilliant Scale

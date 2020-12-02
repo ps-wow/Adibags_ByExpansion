@@ -34,6 +34,7 @@ AddonTable.loot = {
     175480, -- Robe of Pained Absolution
     175485, -- Shoes of Pained Absolution
     175498, -- Nightcloaked Pants
+    175506, -- Nightcloaked Waistcord
     175517, -- Corpse-Stitcher's Slippers
     175524, -- Risen Journeyman's Visage
     175618, -- Pure Aspirant's Gloves
@@ -56,6 +57,7 @@ AddonTable.loot = {
     175713, -- Sprigthistle Loop
     175714, -- The Chamberlain's Tarnished Signet
     175715, -- Gargon Eye Ring
+    175716, -- Emberscorched Band
     175718, -- Ascended Defender's Crest
     175719, -- Agitha's Void-Tinged Speartip
     175722, -- Vial of Caustic Liquid
@@ -77,6 +79,7 @@ AddonTable.loot = {
 
     177634, -- Vial of Volatile Essence
     177655, -- Air Bootuses
+    177657, -- Overflowing Ember Mirror
     177815, -- Devout Archivist's Chain
 
     178053, -- Thicket Sweeper
@@ -104,6 +107,7 @@ AddonTable.loot = {
     181404, -- Faemoss Shoes
     181415, -- Faemoss Leggings
     181417, -- Runetender Pants
+    181418, -- Runetender Shoulderguards
     181534, -- Ruthless Contender's Rod
     181577, -- Soulbearer's Vest
     181578, -- Soulbearer's Boots
@@ -123,5 +127,6 @@ AddonTable.loot = {
     184165, -- Seal of Fordragon
     184516, -- Mistveil Sandals
     184712, -- Refulgent Raiment
+    184757, -- Chain of the Purpose-Bound
     184758, -- Drape of Inscrutable Purpose
 }

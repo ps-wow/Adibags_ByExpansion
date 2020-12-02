@@ -474,6 +474,7 @@ AddonTable.loot = {
     165622, -- Deathguard's Blade
     165623, -- Sentinel's Recurve
     165628, -- Sentinel's Branch
+    165660, -- Chargestone of the Thunder King's Court
     165664, -- Sea Giant's Tidestone
     165666, -- Moonstone of Zin-Azshari
     165678, -- Stonemason's Guild Band
