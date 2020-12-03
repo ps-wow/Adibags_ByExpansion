@@ -54,6 +54,7 @@ AddonTable.junk = {
     176853, -- Spindly Flesh
     176855, -- Caustic Secretion
     176856, -- Partially Digested Viscera
+    176858, -- Pliable Tail Fin
     176859, -- Tempered Carapace
     176860, -- Keen Incisor
     176861, -- Engorged Venom Sac
@@ -75,7 +76,9 @@ AddonTable.junk = {
     176886, -- Augmented Femur
     176929, -- Putrefied Leather Cinch
     176931, -- Putrefied Leather Handwraps
+    176934, -- Putrefied Leather Shoulderpads
     176944, -- Marred Plate Greatbelt
+    176956, -- Brittle Chain Breeches
 
     177025, -- Partially Eaten Fish
     177732, -- Crumbling Plate Vambraces
