@@ -12,6 +12,7 @@ AddonTable.junk = {
     173877, -- Burnished Hoof
     173878, -- Empyreal Horn
 
+    174021, -- Age-Worn Shortblade
     174999, -- Long-Forgotten Sinstone
 
     175955, -- Umbral Pelt
@@ -73,6 +74,7 @@ AddonTable.junk = {
     176876, -- Collapsed Psyche
     176877, -- Split Tooth
     176882, -- Spotless Skull
+    176885, -- Wisp of Extinction
     176886, -- Augmented Femur
     176929, -- Putrefied Leather Cinch
     176931, -- Putrefied Leather Handwraps
@@ -137,8 +139,13 @@ AddonTable.junk = {
     181486, -- Leafscale Coat
     181488, -- Shadowstalker Claw
     181713, -- Scorched Letter
+    181725, -- Prized Guardian's Medal
+    181727, -- Devoid Reinforced Flasks
+    181731, -- Lacquered Larion Fang
 
     182733, -- Gnawed Animacorns
+    182757, -- Redelav Silver Set
+    182775, -- Teramanik's Gilded Reins
 
     183047, -- Soul of the Darkhound
     183049, -- Guile of the Pack
