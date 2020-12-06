@@ -103,6 +103,7 @@ AddonTable.loot = {
     181184, -- Soulstalker Helm
     181185, -- Soulstalker Breeches
     181187, -- Soulstalker Bindings
+    181209, -- Devourer's Bite
     181334, -- Essence Extractor
     181404, -- Faemoss Shoes
     181415, -- Faemoss Leggings
@@ -115,8 +116,11 @@ AddonTable.loot = {
     181583, -- Soulbearer's Breeches
     181587, -- Soulbearer's Belt
     181625, -- Gorewrought Medallion
+    181630, -- Honortoll Speak
     181660, -- Corpsehide Gloves
+    181666, -- Corpsehide Helm
     181677, -- Fleshscale Belt
+    181691, -- Gorewrought Greatstaff
     181703, -- Skychime Necklace
     181721, -- Ascendent Valor Signet
 

@@ -3,6 +3,7 @@ local AddonName, AddonTable = ...
 AddonTable.skinning = {
     -- Leather
     172093, -- Desolate Leather Scraps
+    172089, -- Desolate Leather
     -- Hides
     172095, -- Desolate Hide Scraps
     -- Misc

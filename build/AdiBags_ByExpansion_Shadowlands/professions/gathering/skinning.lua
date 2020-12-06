@@ -2,6 +2,7 @@ local AddonName, AddonTable = ...
 AddonTable.skinning = {
     -- Leather
     172093,
+    172089,
     -- Hides
     172095,
     -- Misc
