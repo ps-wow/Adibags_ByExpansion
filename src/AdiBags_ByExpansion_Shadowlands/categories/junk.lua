@@ -13,6 +13,7 @@ AddonTable.junk = {
     173878, -- Empyreal Horn
 
     174021, -- Age-Worn Shortblade
+    174022, -- Ceremonial Hand Bell
     174999, -- Long-Forgotten Sinstone
 
     175955, -- Umbral Pelt
@@ -25,19 +26,23 @@ AddonTable.junk = {
     176089, -- Treesnap Mandible
     176292, -- Withered Leather Hood
     176294, -- Withered Leather Shoulders
+    176296, -- Withered Leather Wristguards
     176298, -- Gorm-Eaten Stompers
     176299, -- Gorm-Eaten Pauldrons
     176300, -- Gorm-Eaten Leggings
     176301, -- Gorm-Eaten Helmet
+    176302, -- Gorm-Eaten Gauntlets
     176303, -- Gorm-Eaten Breastplate
     176304, -- Gorm-Eaten Belt
     176305, -- Parched Silk Wristwraps
     176307, -- Parched Silk Sandals
     176308, -- Parched Silk Pants
     176309, -- Parched Silk Handwraps
+    176310, -- Parched Silk Cowl
     176313, -- Desiccated Scale Wristguards
     176314, -- Desiccated Scale Spaulders
     176315, -- Desiccated Scale Sabatons
+    176317, -- Desiccated Scale Hauberk
     176391, -- Leafy Anenna
     176392, -- Patterned Wing
     176410, -- Twisted Leather Cinch
@@ -80,6 +85,7 @@ AddonTable.junk = {
     176886, -- Augmented Femur
     176929, -- Putrefied Leather Cinch
     176931, -- Putrefied Leather Handwraps
+    176933, -- Putrefied Leather Leggings
     176934, -- Putrefied Leather Shoulderpads
     176944, -- Marred Plate Greatbelt
     176948, -- Decayed Cloth Legwraps
@@ -95,6 +101,7 @@ AddonTable.junk = {
     177748, -- Mire-Stained Leather Cinch
     177751, -- Mire-Stained Leather Guise
     177759, -- Ember-Bleached Cloth Legwraps
+    177763, -- Ember-Bleached Cloth Mantle
 
     178017, -- Drusty Molting
     178103, -- Tiny Wing
@@ -130,6 +137,7 @@ AddonTable.junk = {
     180288, -- Silver-Bladed Excavator
     180309, -- Malicious Mandible
     180310, -- Fluttered Stone Wings
+    180459, -- Desiccation Duster
     180623, -- Torn Rune-Etched Page
     180624, -- Faintly Glowing Vellum
     180991, -- Crimson Ink Well
@@ -142,6 +150,7 @@ AddonTable.junk = {
     181486, -- Leafscale Coat
     181488, -- Shadowstalker Claw
     181713, -- Scorched Letter
+    181714, -- Jeweled Hand Fan
     181725, -- Prized Guardian's Medal
     181727, -- Devoid Reinforced Flasks
     181731, -- Lacquered Larion Fang
@@ -149,6 +158,8 @@ AddonTable.junk = {
     182733, -- Gnawed Animacorns
     182745, -- Large Aquamarine Crystal
     182757, -- Redelav Silver Set
+    182761, -- Refined Gold Ingot
+    182763, -- Enormous Jade Pendant
     182775, -- Teramanik's Gilded Reins
 
     183047, -- Soul of the Darkhound

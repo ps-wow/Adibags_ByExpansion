@@ -45,6 +45,7 @@ AddonTable.loot = {
     175658, -- Spirit Tender's Handwraps
     175660, -- Spirit Tender's Hood
     175664, -- Spirit Tender's Leggings
+    175665, -- Dreamthorn Legguards
     175669, -- Spirit Tender's Mantle
     175672, -- Spirit Tender's Cord
     175675, -- Spirit Tender's Cuffs
@@ -99,6 +100,7 @@ AddonTable.loot = {
     180790, -- War Scholar's Stave
     180818, -- Bonefused Bonesaw
     180827, -- Maldraxxian Warhorn
+    180931, -- Ebony Death Shroud Bindings
 
     181183, -- TODO: ????
     181184, -- Soulstalker Helm

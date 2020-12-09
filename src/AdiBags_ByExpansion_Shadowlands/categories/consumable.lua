@@ -3,6 +3,7 @@ local AddonName, AddonTable = ...
 -- Shadowlands Consumable
 AddonTable.consumable = {
     -- Covenant
+    181541, -- Celestial Acorn [Anima]
     181642, -- Novice Principles of Plaguistry [Anima]
     184148, -- Concealed Sinvyr Flask [Anima]
     184151, -- Counterfeit Ruby Brooch [Anima]

@@ -9,6 +9,7 @@ AddonTable.transmog = {
     175566, -- Eventide Monnion
 
     176763, -- Glimmerhoof Breastplate
+    176769, -- Darkfeather Treads
     176772, -- Unbrawing Handwraps
     176773, -- Steelscale Gloves
     176775, -- Steelscale Helm
@@ -36,6 +37,7 @@ AddonTable.transmog = {
     177776, -- Depraved Darkblade's Helm
     177797, -- Depraved Darkblade's Epaulets
     177799, -- Stoneborn Shield
+    177800, -- Bubbling Concoction
     177801, -- Sky Legion Halbard
     177802, -- Hopebreaker Carbine
     177804, -- Ritualist Dagger

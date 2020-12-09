@@ -2,6 +2,7 @@ local AddonName, AddonTable = ...
 -- Shadowlands Consumable
 AddonTable.consumable = {
     -- Covenant
+    181541,
     181642,
     184148,
     184151,
