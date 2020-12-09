@@ -2,9 +2,6 @@ local AddonName, AddonTable = ...
 
 AddonTable.leatherworking = {
     -- Materials
-    172097, -- Heavy Desolate Hide
-    172096, -- Heavy Desolate Leather
-    172094, -- Desolate Hide
     172332, -- Necrotic Leather [Maldraxxus]
     172333, -- Purified Leather [Bastion]
     172331, -- Sinful Leather [Revendreth]

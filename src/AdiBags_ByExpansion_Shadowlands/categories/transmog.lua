@@ -6,16 +6,23 @@ AddonTable.transmog = {
     175551, -- Duskthistle Boots
     175564, -- Blackthorn Shoulders
     175565, -- Shimmerbough Mantle
+    175566, -- Eventide Monnion
 
     176763, -- Glimmerhoof Breastplate
     176772, -- Unbrawing Handwraps
     176773, -- Steelscale Gloves
+    176775, -- Steelscale Helm
     176776, -- Darkfeather Helm
+    176779, -- Steelscale Leggings
     176783, -- Unbrawing Shoulderpads
     176789, -- Unbrawing Wristwraps
+    176791, -- Steelscale Bracers
     176793, -- Honorguide Crossbow
+    176794, -- Gilded Glaive
+    176795, -- Defender's Aspis
     176796, -- Elysian Dory
     176798, -- Larion Claw
+    176799, -- Reverent Dagger
     176801, -- Unburdened Hammer
     176803, -- Harmonious Mallet
     176967, -- Bloodskin Shoes

@@ -2,10 +2,10 @@ local AddonName, AddonTable = ...
 
 -- Shadowlands Junk
 AddonTable.junk = {
+    173359, -- Lambent Feather
     173360, -- Glossy Fur
     173361, -- Polished Claw
     173362, -- Lustrous Scale
-    173363, -- Virulent Gland
     173871, -- Harrowed Ichor
     173874, -- Twisted Sediment
     173875, -- Defiling Mire
@@ -51,6 +51,7 @@ AddonTable.junk = {
     176730, -- Orders from the Ancient One
     176807, -- Dented Armorplate
     176809, -- Cracked Actuator
+    176810, -- Centurion Core
     176852, -- Hardened Tail Bone
     176853, -- Spindly Flesh
     176855, -- Caustic Secretion
@@ -60,6 +61,7 @@ AddonTable.junk = {
     176860, -- Keen Incisor
     176861, -- Engorged Venom Sac
     176862, -- Marred Skin
+    176863, -- Virulent Gland
     176864, -- Barbed Leg
     176865, -- Contaminated Pollen
     176866, -- Putrid Sludge
@@ -80,6 +82,7 @@ AddonTable.junk = {
     176931, -- Putrefied Leather Handwraps
     176934, -- Putrefied Leather Shoulderpads
     176944, -- Marred Plate Greatbelt
+    176948, -- Decayed Cloth Legwraps
     176956, -- Brittle Chain Breeches
 
     177025, -- Partially Eaten Fish
@@ -144,6 +147,7 @@ AddonTable.junk = {
     181731, -- Lacquered Larion Fang
 
     182733, -- Gnawed Animacorns
+    182745, -- Large Aquamarine Crystal
     182757, -- Redelav Silver Set
     182775, -- Teramanik's Gilded Reins
 

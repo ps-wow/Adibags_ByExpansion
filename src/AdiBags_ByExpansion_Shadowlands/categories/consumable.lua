@@ -7,6 +7,7 @@ AddonTable.consumable = {
     184148, -- Concealed Sinvyr Flask [Anima]
     184151, -- Counterfeit Ruby Brooch [Anima]
     184305, -- Maldraxxi Champion's Armaments [Anima]
+    184360, -- Musings on Repetition [Anima]
     184371, -- Vivacity of Collaboration [Anima]
     184373, -- Small Anima Globe [Anima]
     184374, -- Cartel Exchange Vessel [Anima]

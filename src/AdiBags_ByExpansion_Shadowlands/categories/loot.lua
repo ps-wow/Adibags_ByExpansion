@@ -37,6 +37,7 @@ AddonTable.loot = {
     175506, -- Nightcloaked Waistcord
     175517, -- Corpse-Stitcher's Slippers
     175524, -- Risen Journeyman's Visage
+    175534, -- Flesh Architect's Epaulets
     175618, -- Pure Aspirant's Gloves
     175624, -- Pure Aspirant's Leggings
     175648, -- Spirit Tender's Robe
@@ -109,23 +110,32 @@ AddonTable.loot = {
     181415, -- Faemoss Leggings
     181417, -- Runetender Pants
     181418, -- Runetender Shoulderguards
+    181421, -- Gormhusk Mantle
     181534, -- Ruthless Contender's Rod
     181577, -- Soulbearer's Vest
     181578, -- Soulbearer's Boots
     181580, -- Soulbearer's Gloves
     181583, -- Soulbearer's Breeches
     181587, -- Soulbearer's Belt
+    181591, -- Forgehand's Chainmail
+    181594, -- Forgehand's Sabatons
+    181599, -- Forgehand's Headgear
+    181603, -- Forgehand's Chain
     181625, -- Gorewrought Medallion
     181630, -- Honortoll Speak
+    181654, -- Fleshscale Chainmail
     181660, -- Corpsehide Gloves
     181666, -- Corpsehide Helm
     181677, -- Fleshscale Belt
+    181681, -- Fleshscale Wristwraps
     181691, -- Gorewrought Greatstaff
     181703, -- Skychime Necklace
     181721, -- Ascendent Valor Signet
 
     182682, -- Book-Borrower Identification
 
+    183530, -- Argent Conscript's Pants
+    183562, -- Argent Conscript's Overgloves
     183851, -- Withergrove Shardling
 
     184165, -- Seal of Fordragon

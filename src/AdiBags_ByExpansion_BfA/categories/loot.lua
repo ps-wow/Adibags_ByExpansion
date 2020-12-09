@@ -177,6 +177,7 @@ AddonTable.loot = {
     158013, -- Gravethorn Wristwraps
     158016, -- Ashenwood Gauntlets
     158017, -- Ashenwood Helm
+    158019, -- Ashenwood Spaulders
     158021, -- Ashenwood Bracers
     158022, -- Bleakweald Chestguard
     158024, -- Bleakweald Handguards
