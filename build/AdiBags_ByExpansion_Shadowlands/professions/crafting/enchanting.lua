@@ -11,6 +11,9 @@ AddonTable.enchanting = {
     -- Wands
     172462,
     -- Enchanted Vellums
-    177716,
     172358,
+    172360,
+    177716,
+    177660,
+    183738,
 }

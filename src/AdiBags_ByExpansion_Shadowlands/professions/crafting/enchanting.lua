@@ -13,6 +13,9 @@ AddonTable.enchanting = {
     172462, -- Enchanted Twilight Wand
 
     -- Enchanted Vellums
-    177716, -- Enchant Chest - Sacred Stats
     172358, -- Enchant Ring - Bargain of Haste
+    172360, -- Enchant Ring - Bargain of Versatility
+    177716, -- Enchant Chest - Sacred Stats
+    177660, -- Enchant Cloak - Soul Vitality
+    183738, -- Enchant Chest - Eternal Insight
 }

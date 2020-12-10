@@ -7,6 +7,7 @@ AddonTable.transmog = {
     175564, -- Blackthorn Shoulders
     175565, -- Shimmerbough Mantle
     175566, -- Eventide Monnion
+    175570, -- Duskthistle Belt
 
     176763, -- Glimmerhoof Breastplate
     176769, -- Darkfeather Treads
@@ -33,8 +34,10 @@ AddonTable.transmog = {
     176975, -- Ossein Scale Headguard
     176983, -- Bloodskin Mantle
 
+    177774, -- Night Guardian Cincture
     177775, -- Depraved Darkblade's Grips
     177776, -- Depraved Darkblade's Helm
+    177782, -- Savage Bonemauler Gloves
     177797, -- Depraved Darkblade's Epaulets
     177799, -- Stoneborn Shield
     177800, -- Bubbling Concoction
@@ -48,6 +51,7 @@ AddonTable.transmog = {
     177816, -- Dredhollow Cape
 
     178944, -- Gore-Smudged Gavel
+    178946, -- Gore-Smudged Sword
     178947, -- Steeljaw Crossbow
     178952, -- Gore-Smudged Warglaive
     178953, -- Blackhound Sword
@@ -55,6 +59,7 @@ AddonTable.transmog = {
     179319, -- Caged Cudgel
     179329, -- Gargoyle Heartpiercer
     179332, -- Stone Sentinel Poleaxe
+    179333, -- Inquisitor Cudgel
     179334, -- Wingblade Staff
 
     180793, -- Boneclutched Stave
