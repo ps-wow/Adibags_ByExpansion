@@ -109,6 +109,7 @@ AddonTable.loot = {
     181209, -- Devourer's Bite
     181334, -- Essence Extractor
     181404, -- Faemoss Shoes
+    181406, -- Runetender Boots
     181415, -- Faemoss Leggings
     181417, -- Runetender Pants
     181418, -- Runetender Shoulderguards

@@ -24,6 +24,7 @@ AddonTable.junk = {
     176087, -- Gorm Chitin
     176088, -- Gormgris
     176089, -- Treesnap Mandible
+    176291, -- Withered Leather Gloves
     176292, -- Withered Leather Hood
     176294, -- Withered Leather Shoulders
     176296, -- Withered Leather Wristguards

@@ -364,6 +364,7 @@ AddonTable.loot = {
     160963, -- Blood Jungle Stinger
     160972, -- Herculean Golden Sword
     160979, -- Ancient Chronicler's Focus
+    160987, -- Ring of Incomplete Digestion
 
     161028, -- Noxious Crocolisk Trousers
     161037, -- Sand Scoured Girdle
