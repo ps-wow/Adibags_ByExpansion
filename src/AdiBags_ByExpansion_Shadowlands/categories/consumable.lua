@@ -4,8 +4,6 @@ local AddonName, AddonTable = ...
 AddonTable.consumable = {
     -- Flasks/Runes
     181468, -- Veiled Augment Rune
-    171276, -- Spectral Flask of Power
-    171278, -- Spectral Flask of Stamina
 }
 
 AddonTable.fooddrink = {
