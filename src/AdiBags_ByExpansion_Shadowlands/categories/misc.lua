@@ -17,4 +17,8 @@ AddonTable.misc = {
     184767, -- Handheld Soul Mirror
     184765, -- Vesper Strikehammer
     184773, -- Battle-Tested Armor Componen
+    181544, -- Confessions of Misdeed
+    184307, -- Maldraxxi Armor Scraps
+    184146, -- Singed Soul Shackles
+
 }
