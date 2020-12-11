@@ -7,6 +7,8 @@ local AddonName, AddonTable = ...
 
 AddonTable.icc = {
     50452, -- Wodin's Lucky Necklace
+    50453, -- Ring of Rotting Sinew
+
     -- Shared Boss Loot
     49908, -- Primordial Saronite
     50274, -- Shadowfrost Shard

@@ -3,6 +3,7 @@ local AddonName, AddonTable = ...
 AddonTable.consumable = {
     -- Misc
     961,   -- Healing Herb
+    1127,  -- Flash Bundle
     1477,  -- Scroll of Agility II
     2289,  -- Scroll of Strength II
     2290,  -- Scroll of Intellect II
@@ -95,6 +96,7 @@ AddonTable.consumable = {
 
 AddonTable.foodDrink = {
     117,  -- Tough Jerky
+    159,  -- Refreshing Spring Water
     414,  -- Dalaran Sharp
     422,  -- Dwarven Mild
     1179, -- Ice Cold Milk
@@ -103,20 +105,29 @@ AddonTable.foodDrink = {
     1707, -- Stormwind Brie
     1708, -- Sweet Nectar
     2287, -- Haunch of Meat
+    3666, -- Gooey Spider Cake
     3770, -- Mutton Chop
+    3927, -- Fine Aged Cheddar
+    4536, -- Shiny Red Apple
     4537, -- Tel'Abim Banana
     4538, -- Snapvine Watermelon
     4540, -- Tough Hunk of Bread
     4542, -- Moist Cornbread
     4599, -- Cured Ham Steak
+    4602, -- Moon Harvest Pumpkin
     4604, -- Forest Mushroom Cap
     4605, -- Red-Speckled Mushroom
     4607, -- Delicious Cave Mold
     4608, -- Raw Black Truffle
+    4656, -- Small Pumpkin
     4791, -- Enchanted Water
     8766, -- Morning Glory Dew
+    8932, -- Alterac Swiss
     8952, -- Roasted Quail
+    8953, -- Deep Fried Plantains
     9451, -- Bubbling Water
+    11415, -- Mixed Berries
+    17747, -- Razorlash Root
     57544, -- Leftover Boar Meat
 }
 
@@ -124,5 +135,6 @@ AddonTable.alcohol = {
     2595,  -- Jug of Badlands Bourbon
     2723,  -- Bottle of Dalaran Noir
     4600,  -- Cherry Grog
+    8948,  -- Dried King Bolete
     57543, -- Stormhammer Stout
 }

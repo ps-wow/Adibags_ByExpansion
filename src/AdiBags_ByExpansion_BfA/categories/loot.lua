@@ -11,18 +11,27 @@ AddonTable.loot = {
     154814, -- Morass Prowler's Cloak
     154823, -- Etched Bone Ring
     154825, -- Zala'mar Vambraces
+    154857, -- Bonesplinter Band
 
+    155025, -- Outrigger Boots
+    155030, -- Outrigger Gloves
+    155037, -- Outrigger Legguards
     155055, -- Soul-Curse Executioner
     155072, -- Wavetamer Trident
+    155086, -- Keelson's Bloody Drape
     155095, -- Banisher Tunic
     155148, -- Silverwood Spire
     155156, -- First-Watcher's Lantern
     155158, -- Alderwood Loop
     155159, -- Waycrest Inquisitor's Cloak
     155168, -- Darkwater Tunic (Quest)
+    155171, -- Stormchaster Boots
     155172, -- Darkwater Boots
+    155176, -- Stormchaser Gloves
     155180, -- Darkwater Hood
+    155183, -- Stormchaser Legguards
     155184, -- Darkwater Breeches
+    155192, -- Stormchaster Belt
     155218, -- Kraulguard Poleaxe
     155219, -- Zeth'jir Scaleguard Pillar
     155221, -- Stormfused Spire
@@ -82,6 +91,7 @@ AddonTable.loot = {
     155522, -- Ritual Flayer's Wristwraps
     155524, -- Cursestone Lumberjack's Axe
     155545, -- Drustwrought Spellstaff
+    155551, -- Squirgle's Deepstone Wand
     155560, -- Lazy-Baker's Ring
     155570, -- Ravenfeather Drape
 
@@ -110,12 +120,17 @@ AddonTable.loot = {
     157910, -- Gonk Outrunner Vest
     157911, -- Gonk Outrunner Striders
     157915, -- Gonk Outrunner Shoulderguards
+    157918, -- Pa'ku Windrider Jerkin
+    157921, -- Pa'ku Windrider Helm
+    157922, -- Pa'ku Windrider Breeches
     157926, -- Breastplate of Rezan's Bladeguard
     157929, -- Greathelm of Rezan's Bladeguard
     157930, -- Shadra Silk Robes
     157932, -- Pauldrons of Rezan's Bladeguard
+    157933, -- Greatbelt of Rezan's Bladeguard
     157934, -- Vambraces of Rezan's Bladeguard
     157935, -- Sandspinner Footwraps
+    157936, -- Sandspinner Gloves
     157937, -- Sandspinner Headdress
     157938, -- Sandspinner Legwraps
     157939, -- Sandspinner Mantle
@@ -130,6 +145,7 @@ AddonTable.loot = {
     157964, -- Dunecrawler Spaulders
     157965, -- Dunecrawler Waistguard
     157968, -- Sirensong Handwraps
+    157969, -- Sirensong Headdress
     157971, -- Sirensong Amice
     157974, -- Seafarer Vest
     157975, -- Seafarer Striders
@@ -139,6 +155,8 @@ AddonTable.loot = {
     157979, -- Seafarer Shoulderpads
     157980, -- Seafarer Belt
     157981, -- Seafarer Armguards
+    157985, -- Crosswind Helmet
+    157986, -- Crosswind Legguards
     157989, -- Crosswind Wristguards
     157992, -- Harbormaster Gauntlets
     157993, -- Harbormaster Faceguard
@@ -157,7 +175,10 @@ AddonTable.loot = {
     158011, -- Gravethorn Shoulderguards
     158012, -- Gravethorn Belt
     158013, -- Gravethorn Wristwraps
+    158016, -- Ashenwood Gauntlets
     158017, -- Ashenwood Helm
+    158019, -- Ashenwood Spaulders
+    158021, -- Ashenwood Bracers
     158022, -- Bleakweald Chestguard
     158024, -- Bleakweald Handguards
     158025, -- Bleakweald Greathelm
@@ -165,34 +186,41 @@ AddonTable.loot = {
     158028, -- Bleakweald Pauldrons
     158029, -- Bleakweald Waistguard
     158030, -- Bleakweald Vambraces
+    158033, -- Squallshaper Hood
     158034, -- Squallshaper Leggings
     158035, -- Squallshaper Mantle
     158037, -- Squallshaper Cuffs
     158039, -- Fairweather Boots
     158040, -- Fairweather Gloves
     158041, -- Fairweather Helm
+    158050, -- Deadwash Greaves
     158057, -- Shoalbreach Helm
     158058, -- Squallshaper Vestments
     158059, -- Shoalbreach Legguards
     158060, -- Shoalbreach Pauldrons
     158075, -- Heart of Azeroth
     158079, -- Stagheart Hatchet
+    158084, -- Wavecaller Speargun
     158085, -- Wintersail Dirk
     158086, -- Gnarlwood Dagger
     158089, -- Deepwarden Fangs
+    158090, -- Ironcrest Longrifle
     158093, -- Stagheart Gavel
     158095, -- Gnarlwood Hammer
     158096, -- Wavecaller Greatmace
+    158097, -- Tideguard Pike
     158102, -- Gnarlwood Staff
     158105, -- Coralshell Spellblade
     158106, -- Ironcrest Greatblade
     158107, -- Deepwarden Baton
     158110, -- Razorbone Carver
+    158122, -- Spirit Bog Scepter
     158124, -- Dinobone Cracker
     158127, -- Razorbone Spear
     158133, -- Zandalari Machete
     158134, -- Salt Coast Piercer
     158135, -- Golden Empire Broadsword
+    158136, -- Golden Empire Hexer
     158151, -- Zandalari Band
     158152, -- Golden Empire Signet
     158153, -- Gilded Loa Figurine
@@ -202,16 +230,19 @@ AddonTable.loot = {
     158160, -- Smuggler's Cove Ring
     158161, -- Speakfisher's Band
     158162, -- Pearl Diver's Compass
+    158163, -- First Mate's Spyglass
     158164, -- Plunderbeard's Flask
     158215, -- Whirlwing's Plumage
     158218, -- Dadalea's Wing
     158219, -- Petula's Locket
     158246, -- Sea Raider's Chausses
+    158248, -- Outrigger Links
     158256, -- Navigator's Mitts
     158258, -- Freebooter Handwraps
     158266, -- Southport Searchlight
     158276, -- Navigator's Bindings
     158277, -- Sea Raider's Wristguard
+    158278, -- Outrigger Bindings
     158387, -- Rastari Footguards
     158411, -- Jambani Girdle
     158423, -- Jambani Gloves
@@ -263,6 +294,7 @@ AddonTable.loot = {
     159086, -- Corrupted Tribe Headsmasher
     159099, -- Pa'ku Adherant's Talons
     159147, -- Jambani Walkers
+    159349, -- Dragon Turtle Handlers
     159480, -- Bleached Bone Handaxe
     159543, -- Loa-Blessed Maul
     159548, -- Golden Fleet Mace
@@ -274,6 +306,7 @@ AddonTable.loot = {
     159820, -- Ironcrest Lantern [Off-Hand]
     159901, -- Breastplate of the Champion [A]
     159902, -- Vest of the Champion [A]
+    159903, -- Mail of the Champion [A]
     159904, -- Robes of the Champion [A]
     159908, -- Robes of the Champion [H]
     159977, -- Vindictive Golem Core
@@ -302,7 +335,6 @@ AddonTable.loot = {
     160021, -- Exiled Veteran's Waistplate
     160023, -- Scorching Sands Waistwrap
     160087, -- Penny's Friendship Ring
-    160125, -- Direbone Frill Stompers
     160153, -- Stormforger Chestplate
     160154, -- Stormforger Gauntlets
     160185, -- Skycaller Mantle
@@ -320,13 +352,19 @@ AddonTable.loot = {
     160529, -- Dune Shroud
     160885, -- Fort Daelin Lantern
     160888, -- Banisher Jerkin
+    160906, -- Greathelm of the Champion [A]
     160907, -- Cowl of the Champion [A]
+    160908, -- Helm of the Champion [A]
     160910, -- Greathelm of the Champion
     160911, -- Cowl of the Champion [H]
     160913, -- Crown of the Champion
+    160916, -- Spaulders of the Champion [A]
+    160920, -- Spaulders of the Champion [H]
+    160961, -- Warmother's Drummer
     160963, -- Blood Jungle Stinger
     160972, -- Herculean Golden Sword
     160979, -- Ancient Chronicler's Focus
+    160987, -- Ring of Incomplete Digestion
 
     161028, -- Noxious Crocolisk Trousers
     161037, -- Sand Scoured Girdle
@@ -356,24 +394,33 @@ AddonTable.loot = {
     161446, -- Blistering Seawater Seal
     161766, -- Dread Gladiator's Silk Sash
 
+    162459, -- Loa-Pledged Rod
+    162795, -- Wildguard Poleyn
     162802, -- Spell-Splintered Pantaloons
     162803, -- Spell-Splintered Robes
     162804, -- Spell-Splintered Mantle
+    162824, -- Faithsworn Mitts (BfA PrePatch Event)
     162831, -- Ambuscade Tunic
+    162833, -- Ambuscade Grips
     162835, -- Ambuscade Breeches
+    162838, -- Ambuscade Sabercuffs
     162876, -- Dread Aspirant's Wand
     162938, -- Dread Aspirant's Silk Treads
     162943, -- Dread Aspirant's Silk Gloves
     162946, -- Dread Aspirant's Chain Helm
     162959, -- Dread Aspirant's Silk Cuffs
+    162987, -- Wildguard Shotgun
+    162996, -- Faithsworn Staff (BfA PrePatch Event)
 
     163001, -- Ambuscade Sword
+    163014, -- Wildguard Spear
     163275, -- 7th Legionnaire's Cuffs
     163282, -- Honorbound Vanguard's Chainmail
     163285, -- Honorbound Artificer's Sandles
     163296, -- Honorbound Artificer's Legwraps
     163306, -- Honorbound Artificer's Cuffs
     163342, -- 7th Legionnaire's Cord
+    163347, -- 7th Legionnaire's Long Cloak
     163368, -- Honorbound Centurion's Long Cloak
     163403, -- 7th Legionnaire's Armguards
     163414, -- 7th Legionnaire's Gauntlets
@@ -388,27 +435,38 @@ AddonTable.loot = {
     163458, -- Honorbound Centurion's Gauntlets
     163459, -- Honorbound Centurion's Breastplate
     163461, -- Honorbound Centurion's Greatbelt
+    163523, -- Grunt's Warmace
     163527, -- Headhunter's Spear
     163530, -- Warmage's Spire
     163533, -- Footman's Cleaver
     163536, -- Warmage's Spire
+    163537, -- Footman's Warhammer
     163538, -- Footman's Gladius
+    163539, -- Spear of the Hunt
     163540, -- Footman's Boot Knife
+    163541, -- Longbow of the Hunt
     163542, -- Footman's Warmace
     163657, -- 7th Legionnaire's Tunic
+    163658, -- 7th Legionnaire's Spaulders
+    163659, -- 7th Legionnaire's Skullcap
+    163660, -- 7th Legionnaire's Chainmail
     163666, -- Honorbound Artificer's Mantle
     163668, -- Honorbound Outrider's Mantle
     163669, -- Honorbound Outrider's Faceguard
     163671, -- Honorbound Outrider's Vestments
     163673, -- Honorbound Centurion's Pauldrons
     163676, -- 7th Legionnaire's Raiment
+    163678, -- Pinku'shon's Impaler
     163703, -- Crawg Gnawed Femur
     163851, -- Venerated Golden Censer
     163862, -- Bartered Vrykul Hood
     163865, -- Bartered Vrykul Warhelm
+    163867, -- Honorbound Longbow
     163870, -- Honorbound Bonebreaker
     163874, -- Honorbound Decapitator
     163876, -- Honorbound Focus
+    163881, -- 7th Legionnaire's Longbow
+    163885, -- 7th Legionnaire's Halberd
     163886, -- 7th Legionnaire's Stave
     163890, -- 7th Legionnaire's Claymore
     163892, -- 7th Legionnaire's Censer
@@ -416,7 +474,10 @@ AddonTable.loot = {
 
     165443, -- Darkwood Sentinel's Cowl
     165444, -- Darkwood Sentinel's Breeches
-    165628, -- Sentinel's Branch [Staff]
+    165622, -- Deathguard's Blade
+    165623, -- Sentinel's Recurve
+    165628, -- Sentinel's Branch
+    165660, -- Chargestone of the Thunder King's Court
     165664, -- Sea Giant's Tidestone
     165666, -- Moonstone of Zin-Azshari
     165678, -- Stonemason's Guild Band
@@ -429,6 +490,7 @@ AddonTable.loot = {
     167555, -- Pocket-Sized Computation Device
     167754, -- Shirakess Headdress
     167756, -- Shirakess Mantle
+    167757, -- Shirakess Cinch
     167779, -- Shirakess Wraps
 
     168632, -- Slipstream Generator
@@ -436,18 +498,27 @@ AddonTable.loot = {
     168747, -- Performant Adaptable Logic Board
     168750, -- Omnipurpose Refined Logic Board
 
+    169223, -- Ashjra'kamas, Shroud of Resolve [Legendary Cloak]
     169317, -- Enthraller's Bindstone
+    169482, -- Benethic Leggings
     169790, -- Shirakess Gloves (Benethic)
+    169894, -- Shirakess Sandals (Benethic)
 
+    170109, -- Azsh'ari Stormsurger Trousers (Benethic)
     170110, -- Zanj'ir Scaleguard Legplates (Benethic)
     170133, -- Shirakess Grips
-    170140, -- Akana's Reefstrider Soles (Benethic)
+    170140, -- Akana's Reefstrider Soles / Treads (Benethic)
+    170306, -- Waveblade Farseer's Bindings
+    170514, -- 7th Legionnaire's Robes
     170515, -- 7th Legionnaire's Vest
     170516, -- Honorbound Artificer's Robes
     170517, -- Honorbound Vanguard's Chainmail
     170520, -- 7th Legionnaire's Hood
     170521, -- 7th Legionnaire's Leather Mantle
     170522, -- 7th Legionnaire's Visage
+    170523, -- 7th Legionnaire's Monnion
+    170524, -- 7th Legionnaire's Helm
+    170525, -- 7th Legionnaire's Chainmail
     170526, -- 7th Legionnaire's Shoulderplates
     170528, -- 7th Legionnaire's Chestguard
     170537, -- Honorbound Centurion's Breastplate
@@ -463,10 +534,12 @@ AddonTable.loot = {
     170828, -- Mistdancer Waistband [120 Boost - Waist]
     170829, -- Mistdancer Bindings [120 Boost - Wrist]
 
+    172125, -- Cold Forged Blade
     172848, -- Corrupted Aspirant's Insignia
     172854, -- Corrupted Aspirant's Shawl
 
     173414, -- Black Empire Cloth Robes [BoA]
+    173416, -- Black Empire Cloth Gloves [BoA]
     173418, -- Black Empire Cloth Leggings [BoA]
     173422, -- Black Empire Plate Bracers [BoA]
     173431, -- Vile Manipulator's Footwraps
@@ -475,17 +548,28 @@ AddonTable.loot = {
     173439, -- Footpads of the Insatiable Maw
     173464, -- Gloves of the Insatiable Maw
     173466, -- Malignant Leviathan's Gauntlets
+    173472, -- Armguards of the Insatiable Maw
+    173511, -- Vile Manipulator's Belt
     173572, -- Staff of Swelling Agony
     173669, -- Dull Onyx Band
+    173811, -- Vile Manipulator's Trousers
     173812, -- Vile Manipulator's Cord
     173815, -- Girdle of the Insatiable Maw
     173817, -- Nefarious Tormentor's Trousers
     173822, -- Malignant Leviathan's Waistguard
+    173841, -- Mantle of the Insatiable Maw
+    173846, -- Vile Manipulator's Vestment
 
+    174017, -- Corrupted Aspirant's Rifle
+    174469, -- Band of Insidious Ruminations
     174509, -- Tarnished Mark
     174953, -- Vile Manipulator's Wristwraps
     174954, -- Wristwraps of the Insatiable Maw
     174956, -- Malignant Leviathan's Armguards
+
+    -- Korrak's Revenge (WoW Anniversary)
+    172123, -- Wand of Biting Cold
+    172122, -- Bloodseeker
 
     -- Benethic Gear (8.3? Catch Up)
     169477, -- Benethic Girdle

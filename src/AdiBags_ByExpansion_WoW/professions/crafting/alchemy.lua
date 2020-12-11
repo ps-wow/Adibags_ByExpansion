@@ -17,4 +17,5 @@ AddonTable.alchemy = {
     3832,  -- Recipe: Elixir of Detect Lesser Invisibility
     9297,  -- Recipe: Elixir of Dream Vision
     13486, -- Recipe: Transmute Undeath to Water
+    13518, -- Recipe: Potion of Petrification
 }

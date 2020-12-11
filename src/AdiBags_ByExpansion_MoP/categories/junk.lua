@@ -1,6 +1,10 @@
 local AddonName, AddonTable = ...
 
+-- MoP Junk
 AddonTable.junk = {
+    81194, -- Sharp Fangs
+    81195, -- Crocolisk Tear
+    81197, -- Enormous Tooth
     81200, -- Vial of Swirling Mist
     81201, -- Turtle Shell
     81202, -- Inert Elemental Sphere
@@ -11,9 +15,6 @@ AddonTable.junk = {
     81218, -- Stone Heart
     81219, -- Vial of Moving Waters
     81220, -- Liquid Shadow
-    81194, -- Sharp Fangs
-    81195, -- Crocolisk Tear
-    81197, -- Enormous Tooth
 
     82300, -- Bat Guano
     82328, -- Shiny Carapace
@@ -29,7 +30,11 @@ AddonTable.junk = {
     86079, -- Ancient Pandaren Woodcutter
     86216, -- Pandaren Ritual Stone
     86220, -- Saurok Stone Tablet
+    86422, -- Statue of Xuen
     86430, -- Rikktik's Tick Remover
+    86471, -- Ancient Mogu Tablet
+    86472, -- Amber Encased Moth
+    86473, -- The Hammer of Folly
 
     87524, -- Boat-Building Instructions
     87798, -- Stack of Papers
@@ -67,12 +72,24 @@ AddonTable.junk = {
     90770, -- Shabby Belt
     90772, -- Dingy Plate Pants
     90779, -- Moist Mail Shoulderpads
+    90780, -- Moist Mail Armor
+    90781, -- Moist Mail Belt
     90782, -- Slipshod Plate Bracers
+    90783, -- Vermin-Gnawed Cloth Gloves
+    90784, -- Vermin-Gnawed Cloth Pants
+    90785, -- Vermin-Gnawed Cloth Shoulderpads
+    90786, -- Vermin-Gnawed Cloth Vest
+    90787, -- Slipshod Plate Belt
 
+    90800, -- Slipshod Plate Gloves
+    90801, -- Slipshod Plate Pants
+    90802, -- Slipshod Plate Shoulderpads
     90803, -- Moist Mail Bracers
+    90804, -- Moist Mail Gloves
     90805, -- Robble's Stabilized Staff
     90806, -- Rusted Blade
     90807, -- Corroded Timber Axe
+    90808, -- Bent-Barrel Rifle
     90809, -- Knog's Bow of Clumsiness
     90810, -- Fireblackened Mace
     90811, -- Battered Shiv

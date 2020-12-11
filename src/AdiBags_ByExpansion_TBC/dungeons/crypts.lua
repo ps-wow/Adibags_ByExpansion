@@ -30,4 +30,6 @@ AddonTable.crypts = {
     27413, -- Ring of the Exarchs
     27869, -- Soulpriest's Ring of Resolve
     27416, -- Fetish of the Fallen
+    -- Quest Rewards
+    29341, -- Auchenai Anchorite's Robe
 }

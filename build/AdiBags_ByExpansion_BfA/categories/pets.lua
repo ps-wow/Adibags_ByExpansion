@@ -1,6 +1,8 @@
 local AddonName, AddonTable = ...
 -- BfA Battle Pets
 AddonTable.pets = {
+    -- From Alchemy
+    160325,
     --- DUNGEONS
     -- Temple of Sethrallis
     160702,

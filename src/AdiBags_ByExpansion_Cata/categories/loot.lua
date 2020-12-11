@@ -3,8 +3,11 @@ local AddonName, AddonTable = ...
 -- Soulbound Items (Green or higher)
 
 AddonTable.loot = {
+    44360, -- Husk Shard Sabatons
+
     55314, -- Thondroril Cloak
-    55403, -- Mereldar Amulet [BoE Neck]
+    55401, -- Mirkfallon Amulet
+    55403, -- Mereldar Amulet
     55404, -- Thondroril Amulet
     55405, -- Blackwolf Amulet
     55421, -- Mereldar Ring
@@ -16,14 +19,20 @@ AddonTable.loot = {
     55702, -- Ravenholdt Waistband
     55773, -- Mystical Cord
 
+    57281, -- Scalded Rockscale Shoulderpads
     57283, -- Rockbreaker Robes
     57292, -- Repurposed Twilight Stave
 
     59520, -- Unheeded Warning
 
+    65655, -- Leggings of Opportune Strikes
     65656, -- Sea Witch Charm
+    65658, -- Stonespeaker's Belt
     66890, -- Finkle's Twinkle
     66902, -- Token of Gratitude
+
+    66885, -- Diamond-Studded Helm
+    66887, -- Beauty Jr.'s Collar
     66974, -- Nightrend Choker
     68915, -- Scales of Life
     68972, -- Apparatus of Khaz'goroth
@@ -38,8 +47,10 @@ AddonTable.loot = {
 
     -- Scorched Satchel of Helpful Goods
     113713, -- Emberspark Chestplate
+    113717, -- Sparkmail Chestguard
     113760, -- Smoldercloth Bracers
     113761, -- Smoldercloth Leggings
+    113775, -- Sparkmail Sabatons
     113786, -- Smoldercloth Slippers
     156689, -- Scorched Satchel of Helpful Goods
 

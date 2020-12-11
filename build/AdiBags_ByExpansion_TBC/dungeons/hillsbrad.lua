@@ -46,4 +46,6 @@ AddonTable.hillsbrad = {
     27904,
     28227,
     28223,
+    -- Quest Rewards
+    29316,
 }

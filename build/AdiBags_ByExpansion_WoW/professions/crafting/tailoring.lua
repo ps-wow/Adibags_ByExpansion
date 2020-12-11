@@ -8,9 +8,9 @@ AddonTable.tailoring = {
     4305,
     4308,
     4339,
+    14048,
     14341,
     14342,
-    14227,
     -- Items
     2570,
     2575,
@@ -19,9 +19,11 @@ AddonTable.tailoring = {
     2579,
     2580,
     4344,
+    13863,
     -- Consumable
     1251,
     -- Recipes
     4346,
     14512,
+    21371,
 }

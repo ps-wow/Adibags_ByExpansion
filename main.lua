@@ -80,6 +80,12 @@ function Core:GetOptions()
             type = 'toggle',
             order = 73,
         },
+        Quest = {
+            name = "Quest",
+            desc = 'Quest items',
+            type = 'toggle',
+            order = 73,
+        },
         FoodIsJunk = {
             name = "Food is Junk",
             desc = 'Classify food as Junk.',
@@ -122,6 +128,7 @@ function Core:GetProfile()
         FoodDrink = true,
         Consumable = true,
         Transmog = true,
+        Quest = true,
         FoodIsJunk = true,
         EverythingIsJunk = false,
         ShowExpansionNumbers = true,
@@ -160,9 +167,6 @@ function Core:DefaultFilter(slotData, module, expFilter)
     prefix = prefix .. ' - '
 
     for tableName, tableDescription in pairs(module.categories) do
-
-        Core:Debug(expFilter, 'expFilter')
-
         if expFilter.db.profile[tableName] then
             --option for the table is enabled
             if expTable then
@@ -229,6 +233,18 @@ function Core:DefaultFilter(slotData, module, expFilter)
                     end
                 end
             end
+        else
+            if expTable then
+                if expTable[tableName] then
+                    if expTable[tableName][slotData.itemId] then
+                        if everythingIsJunk then
+                            return prefix .. "Junk"
+                        else
+                            return prefix .. tableDescription
+                        end
+                    end
+                end
+            end
         end
     end
 end
@@ -276,7 +292,7 @@ end
 function Core:GetDefaultCategories()
     return {
         ["Achievement"] = "Achievement Items",
-        ["Reputation"] = "Reputation ITems",
+        ["Reputation"] = "Reputation Items",
         ["TradeMaterials"] = "Trade Materials", -- Tradable trade goods (eg. professions)
         ["DungeonEquipment"] = "Dungeon Armour/Weapons", -- Dungeon equipment (soulbound)
         ["RaidEquipment"] = "Raid Armour/Weapons", -- Raid equipment (Soulbound)
@@ -288,6 +304,7 @@ function Core:GetDefaultCategories()
         ["Loot"] = "Other", -- Green or higher (soulbound), BoE non-appearences.
         ["FoodDrink"] = "Food / Drink", -- Food and Drinks
         ["Transmog"] = "Transmog Appearence", -- Non-bound appearence slot items.
+        ["Quest"] = "Quest Item",
     }
 end
 
@@ -381,7 +398,7 @@ function Core:AddProfessionItems(items, profession, module)
     end
 end
 
---- Load all the categories.
+--- Load all the default categories.
 -- @param table
 -- @param module
 --
@@ -389,6 +406,11 @@ function Core:LoadCategories(table, module)
     -- Achievement Items
     if table.achievement ~= nil then
         Core:AddCategoryItems(table.achievement, "Achievement", module)
+    end
+
+    -- Quests
+    if table.quest ~= nil then
+        Core:AddCategoryItems(table.quest, "Quest", module)
     end
 
     -- Consumables

@@ -20,4 +20,5 @@ AddonTable.inscription = {
     113351,
     113355,
     113992,
+    119297,
 }

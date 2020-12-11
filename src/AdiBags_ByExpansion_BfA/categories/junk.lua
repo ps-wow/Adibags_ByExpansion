@@ -7,6 +7,9 @@ AddonTable.junk = {
 
     152099, -- Shriveled Onion
     152855, -- Exhausted Soulcore
+    152857, -- Chipped Man'ari Blade
+
+    153162, -- Unattuned Portal Stones
 
     154770, -- Cracked Hide Belt
     154771, -- Cracked Hide Boots
@@ -270,6 +273,7 @@ AddonTable.junk = {
     168794, -- Last Year's Brewfest Flyer
     168795, -- Old Boot
     168796, -- Recycled Scroll
+    168797, -- Stack of Undeliverable Mail
 
     169010, -- Corroded Evaporator Coil
     169122, -- Gibraltian Monkey Wrench
@@ -293,6 +297,8 @@ AddonTable.junk = {
     169984, -- Shattered Dragonscale
     169985, -- Fading Dragonscale
     169986, -- Cracked Dragonscale
+    169987, -- Inert Dragonscale
+    169992, -- Cracked Iris Lens
 
     170001, -- Seized Engine
     170005, -- Fractured Pearl
@@ -301,6 +307,7 @@ AddonTable.junk = {
     170087, -- Chromatic "Vigegar"
     170097, -- Discarded Quel'dorei Tome
     170098, -- Rusted Girandole Earring
+    170099, -- Corroded Elegant Key
 
     173908, -- Crumbling Stone Slab
     173935, -- Nik-Nik's Slicky Sticker
@@ -308,10 +315,12 @@ AddonTable.junk = {
 
     174207, -- Bony Amber Fragment
     174209, -- Encased Arthropod
+    174383, -- Ebony Stone
     174513, -- Innert Geode
     174514, -- Discarded Token
     174515, -- Star Powder
     174516, -- Dampened Ward
+    174517, -- Bluish Residue
     174819, -- Fractured Aqiri Idol
     174823, -- Miniature Plates of Uldum Replica
     174824, -- Depleted Soul Ruby

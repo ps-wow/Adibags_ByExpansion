@@ -31,13 +31,19 @@ AddonTable.herbalism = {
     13467, -- Icecap
     13468, -- Black Lotus
     -- Partial Parts
+    108323, -- Wild Steelbloom Petal
     108324, -- Kingsblood Petal
     108325, -- Liferoot Stem
+    108326, -- Khadgar's Whisker Stem
     108327, -- Grave Moss Leaf
     108328, -- Fadeleaf Petal
     108329, -- Dargon's Teeth Stem
     108330, -- Stranglekelp Blade
     108331, -- Goldthorn Bramble
+    108332, -- Firebloom Petal
+    108333, -- Purple Lotus Petal
+    108334, -- Arthas' Tears Petal
+    108335, -- Sungrass Stalk
     108339, -- Dreamfoil Blade
     108341, -- Mountain Silversage Stalk
 }

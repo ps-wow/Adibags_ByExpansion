@@ -1,9 +1,19 @@
 local AddonName, AddonTable = ...
 
+-- Cata Junk
 AddonTable.junk = {
+    54629, -- Prickly Thorn
+
+    57071, -- Bistabilization Device
+
+    56205, -- Pheromone Sample
+
     60388, -- Shimmering Claw
+    60406, -- Blood Caked Incisors
     60485, -- Crackling Crystals
     60486, -- Shimmering Shards
+    60576, -- Rending Fang
+    60577, -- Fire-Scorched Claw
     62063, -- Shattered War Mace
     62064, -- Warped Greatsword
     62065, -- Melted Cleaver
@@ -21,6 +31,7 @@ AddonTable.junk = {
     62077, -- Perforated Plate Gloves
     62078, -- Perforated Plate Chestpiece
     62079, -- Dirt-Caked Shoulderpads
+    62080, -- Perforated Plate Boots
     62081, -- Dirt-Caked Armor
     62082, -- Dirt-Caked Pants
     62083, -- Clammy Mail Boots
@@ -63,6 +74,7 @@ AddonTable.junk = {
     62119, -- Sodden Cloth Boots
     62120, -- Sodden Cloth Belt
     62121, -- Sooty Mail Shoulderpads
+    62122, -- Sooty Mail Pants
     62123, -- Sooty Mail Gloves
     62124, -- Sooty Mail Bracers
     62125, -- Sooty Mail Boots
@@ -80,12 +92,15 @@ AddonTable.junk = {
     62272, -- Spiny Carapace
     62273, -- Pinioning Pincer
     62413, -- Rigid Spinneret
+    62414, -- Slimy Fangs
     62421, -- Scintillating Crystals
     62435, -- Conductive Shards
+    62518, -- Cracked Stone Shard
     62521, -- Smoldering Fungus
 
     63024, -- Flame Drenched Canine
 
+    66944, -- Decorative Brass Bell
     66945, -- Stormhammer Head
     66949, -- Wildhammer Book of Verse
     66950, -- The Big Big Book o' Beards

@@ -9,6 +9,7 @@ AddonTable.rfk = {
     6691,   -- Swinetusk Shank
     132565, -- Carnal Britches
     6690,   -- Ferine Leggings
+    151443, -- Roogug's Swinesteel Girdle
     -- Warlord Ramtusk
     6687,   -- Corpsemaker
     6686,   -- Tusken Helm
@@ -24,5 +25,11 @@ AddonTable.rfk = {
     6694,   -- Heart of Agamaggan
     6693,   -- Agamaggan's Clutch
     -- Quest Rewards
+    --- Agamaggan's Charge (26905)
     65918,  -- Agamaggan's Gift
+    65968,  -- Agamaggan-Blessed Greave
+    65991,  -- Boots of the Noble Path
+    65944,  -- Charlga's Breastplate
+    66007,  -- Agamaggan's Silent Tear
+    131617, -- Razorflank's Chainmail
 }

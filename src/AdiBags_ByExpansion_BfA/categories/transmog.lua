@@ -5,22 +5,30 @@ AddonTable.transmog = {
     154142, -- Coarse Leather Leggings
     154806, -- Torgashell Breastplate
     154808, -- Torgashell Greatbelt
+    154812, -- Torhashell Warboots
     154813, -- Torgashell Armplates
     154815, -- Festerroot Bindings
     154817, -- Festerroot Breeches
+    154818, -- Festerroot Grasps
     154819, -- Festerroot Helm
     154820, -- Festerroot Jerkin
     154821, -- Festerroot Shoulderpads
     154822, -- Festerroot Belt
+    154824, -- Zalamar Chain
     154826, -- Zala'mar Gauntlets
     154828, -- Zala'mar Helm
     154829, -- Zala'mar Legguards
     154834, -- Bloodhex Grips
     154837, -- Bloodhex Anklewraps
     154842, -- Corlain Girdle
+    154843, -- Corlain Greathelm
     154847, -- Corlain Vambraces
     154850, -- Crimsonwood Boots
+    154851, -- Crimsonwood Breeches
+    154853, -- Crimsonwood Cowl
+    154855, -- Crimsonwood Mantle
     154859, -- Barrowknoll Bracers
+    154862, -- Barrowknoll Coif
     154863, -- Barrowknoll Legguards
     154864, -- Barrowknoll Pauldrons
     154844, -- Corlain Greaves
@@ -46,6 +54,8 @@ AddonTable.transmog = {
     159191, -- Brineworks Breastplate
     159192, -- Brineworks Gauntlets
     159193, -- Brineworks Girdle
+    159194, -- Brineworks Helmet
+    159196, -- Brineworks Pauldrons
     159199, -- Sagehold Cloak
     159204, -- Briarback Hood
     159206, -- Briarback Shoulderpads
@@ -75,9 +85,11 @@ AddonTable.transmog = {
     159488, -- Zem'lan Cleaver
     159490, -- Rivermarsh Composite
     159491, -- Warport Short Bow
+    159493, -- Gnarlwood Crossbow
     159496, -- Gol Osigr Crossbow
     159497, -- Deepwarden Flintlock
     159501, -- Coralshell Glaives
+    159502, -- Stagheart Warglaives
     159504, -- Shipwrecker Crescents
     159505, -- Zocali Warglaive
     159506, -- Loa-Blessed Crescent
@@ -91,6 +103,7 @@ AddonTable.transmog = {
     159517, -- Zocali Claws
     159519, -- Ironcrest Knife
     159520, -- Coralshell Dagger
+    159521, -- Dockyard Dagger
     159523, -- Tideguard Shanker
     159524, -- Shipwrecker Knife
     159525, -- Coldscale Dagger
@@ -139,9 +152,11 @@ AddonTable.transmog = {
     159604, -- Coldscale Rod
     159605, -- Ironcrest Baton
     159607, -- Rivermarsh Wand
+    159608, -- Warport Hexxer
     159609, -- Golden Fleet Wand
     159797, -- Shipwrecker Shield
     159799, -- Wintersail Bulwark
+    159800, -- Wavecaller Buckler
     159802, -- Deepwarden Redoubt
     159803, -- Coldscale Shield
     159805, -- Coralshell Barrier
@@ -160,12 +175,19 @@ AddonTable.transmog = {
     160121, -- Direbone Frill Greatbelt
     160122, -- Direbone Frill Helmet
     160123, -- Direbone Frill Legplates
+    160124, -- Direbone Frill Pauldrons
+    160125, -- Direbone Frill Stompers
+    160126, -- Direbone Frill Bracers
+    160127, -- Pterroleather Cloak
+    160128, -- Brutohide Armwraps
     160129, -- Brutohide Boots
     160130, -- Brutohide Leggings
+    160131, -- Brutohide Gloves
     160132, -- Brutohide Faceguard
     160133, -- Brutohide Vest
     160135, -- Brutohide Belt
     160136, -- Golden City Signet
+    160137, -- Ravascale Belt
     160138, -- Ravascale Bracers
     160141, -- Ravascale Helm
     160142, -- Ravascale Legguards
@@ -187,6 +209,7 @@ AddonTable.transmog = {
     160171, -- Bonepicker Cinch
     160172, -- Bonepicker Armguards
     160174, -- Bonepicker Footguards
+    160175, -- Bonepicker Helmet
     160176, -- Bonepicker Legguards
     160178, -- Bonepicker Undermail
     160180, -- Skycaller Cowl
@@ -198,26 +221,42 @@ AddonTable.transmog = {
 
     164342, -- Plundered Geode Gavel
     164345, -- Plundered Petrified Kelp Blade
+    164369, -- Plundered Pirate Admiral's Bicorne
+    164410, -- Twilight Dragon's Armplates
+    164420, -- Geocrag Grips
+    164421, -- Geocrag Girdle
     164446, -- Spiritbough Grasps
     164447, -- Mrrglurggl Girdle
     164469, -- Mrrglurggl Grips
+    164473, -- Mrrglurggl Spaulders
     164522, -- Voodoo Stalker's Chestguard
+    164533, -- Bloodwake Girdle
     164550, -- Whirling Dervish Gloves
     164570, -- Miststalker's Belt
+
+    168644, -- Converted Carrot Carbine
 
     169399, -- Deeptide Gloves
     169402, -- Deeptide Amice
     169403, -- Deeptide Cinch
+    169407, -- Slithershell Mitts
+    169410, -- Slithershell Mantle
     169413, -- Reefwalker Hauberk
     169420, -- Reefwalker Coils
     169423, -- Wavecrash Crushers
     169429, -- Wavecrash Wristguards
     169433, -- Wavecrash Greatcloak
 
+    170114, -- Flanged Mace
     170115, -- Massive Viridian Claw
     170116, -- Darkened Slicer
+    170117, -- Wavebinder's Rod
     170118, -- Centurion's Shortsword
     170119, -- Slithershell Warglaive
     170120, -- Handmaiden's Longstaff
     170201, -- Deeptide Scroll
+
+    175556, -- Shimmerbough Hood
+    175569, -- Eventide Belt
+    177769, -- Avowed Tormenter's Handwraps
 }

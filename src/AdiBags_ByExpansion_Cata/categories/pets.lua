@@ -14,4 +14,6 @@ AddonTable.pets = {
     152972, -- Twilight Summoning Portal -> Faceless Minion
     -- Throne of the Four Winds
     152973, -- Zephyr's Call
+    -- Blackwing Descent
+    152967, -- Experiment-In-A-Jar
 }

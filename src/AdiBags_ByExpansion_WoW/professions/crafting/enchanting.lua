@@ -25,7 +25,8 @@ AddonTable.enchanting = {
     20750,  -- Wizard Oil
     156930, -- Rich Illusion Dust
     -- Recipe's
-    18259,  -- Formula: Enchant Weapon - Spellpower
     16250,  -- Formula: Enchant Weapon - Superior Striking
     16251,  -- Formula: Enchant Bracer - Superior Stamina
+    16255,  -- Formula: Enchant 2H Weapon - Major Versatility
+    18259,  -- Formula: Enchant Weapon - Spellpower
 }

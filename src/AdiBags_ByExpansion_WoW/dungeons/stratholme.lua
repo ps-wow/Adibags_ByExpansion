@@ -2,6 +2,10 @@ local AddonName, AddonTable = ...
 
 -- Stratholme (WoW)
 AddonTable.stratholme = {
+    -- Stonespine
+    13954, -- Verdant Footpads
+    -- Postmaster Malown
+    13389, -- The Postmaster's Trousers
     -- Hearthsinger Forresten
     12103,  -- Star of Mystaria
     13378,  -- Songbird Blouse

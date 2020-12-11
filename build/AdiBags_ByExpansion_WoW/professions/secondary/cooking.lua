@@ -2,6 +2,7 @@ local AddonName, AddonTable = ...
 -- WoW Cooking
 AddonTable.cooking = {
     -- Food
+    1017,
     2679,
     2681,
     2888,
@@ -16,7 +17,9 @@ AddonTable.cooking = {
     -- Ingredients
     723,
     769,
+    1015,
     1468,
+    2251,
     2672,
     2673,
     2674,
@@ -31,14 +34,18 @@ AddonTable.cooking = {
     5503,
     5504,
     6889,
+    12207,
     12037,
     12203,
     12205,
     12208,
+    22644,
     67229,
     -- Recipe's
+    728,
     2701,
     2889,
     3678,
     3683,
+    18267,
 }

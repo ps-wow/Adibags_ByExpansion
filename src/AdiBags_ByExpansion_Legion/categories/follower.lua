@@ -7,4 +7,7 @@ AddonTable.follower = {
     139811, -- Necklace of Endless Memories
     139812, -- Potion of Triton
     140583, -- Vial of Timeless Breath
+
+    -- upgrades
+    147349, -- Spiked Armor Set
 }

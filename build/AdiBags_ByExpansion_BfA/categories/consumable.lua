@@ -1,4 +1,5 @@
 local AddonName, AddonTable = ...
+-- BfA Consumables
 AddonTable.consumable = {
     -- Flasks
     152638,
@@ -12,6 +13,7 @@ AddonTable.consumable = {
     -- Potions
     152494,
     152495,
+    152496,
     152557,
     152561,
     163082,
@@ -29,11 +31,34 @@ AddonTable.consumable = {
     -- Misc
     160053,
     163691,
+    174906,
     168052,
 }
 AddonTable.foodDrink = {
     -- Food
+    168313,
+    168314,
     161053,
+    154881,
+    154887 ,-- Loa Loaf
+    154885,
+    154883,
+    166343,
+    154884,
+    154882,
+    154888,
+    154886,
+    166344,
+    166804,
+    154889,
+    163781,
+    165755,
+    -- Nzoth/Visions
+    174352,
+    174350,
+    174349,
+    174348,
+    174351,
     -- Drink
 }
 AddonTable.alcohol = {

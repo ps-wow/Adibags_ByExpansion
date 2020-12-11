@@ -13,6 +13,7 @@ AddonTable.slavepens = {
     24359,
     30605,
     127191,
+    127182,
     -- Rokmar the Crackler
     24378,
     24380,

@@ -3,7 +3,9 @@
     <Script file="categories\consumable.lua"/>
     <Script file="categories\junk.lua"/>
     <Script file="categories\loot.lua"/>
+    <Script file="categories\mechagon.lua"/>
     <Script file="categories\pets.lua"/>
+    <Script file="categories\reputation.lua"/>
     <Script file="categories\toys.lua"/>
     <Script file="categories\trade.lua"/>
     <Script file="categories\transmog.lua"/>

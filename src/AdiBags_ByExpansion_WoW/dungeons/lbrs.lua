@@ -1,6 +1,10 @@
 local AddonName, AddonTable = ...
 
 AddonTable.lbrs = {
+    -- Mother Smolderweb
+    151414, -- Arachnophile's Greatcloak
+    -- Crystal Fang
+    13184,  -- Fallbrush Handgrips
     -- Highlord Omokk
     13167,  -- Fist of Omokk
     151412, -- Ogre Highlord's Casque
@@ -51,4 +55,10 @@ AddonTable.lbrs = {
     13162,  -- Reiver Claws
     13143,  -- Mark of the Dragon Lord
     22321,  -- Heart of Wyrmthalak
+    -- Quest Rewards
+    --- Trolls, Orgres and Orcs, Oh My! [q:27440]
+    65933, -- Highlord's Chestpiece
+    65981, -- War Master's Pauldrons
+    65957, -- Overlord's Legguards
+    66000, -- Band of the Spire
 }

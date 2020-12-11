@@ -1,5 +1,9 @@
 local AddonName, AddonTable = ...
 AddonTable.lbrs = {
+    -- Mother Smolderweb
+    151414,
+    -- Crystal Fang
+    13184,
     -- Highlord Omokk
     13167,
     151412,
@@ -50,4 +54,10 @@ AddonTable.lbrs = {
     13162,
     13143,
     22321,
+    -- Quest Rewards
+    --- Trolls, Orgres and Orcs, Oh My! [q:27440]
+    65933,
+    65981,
+    65957,
+    66000,
 }

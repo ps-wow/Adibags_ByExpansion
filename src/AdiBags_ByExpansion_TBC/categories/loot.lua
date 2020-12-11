@@ -2,6 +2,8 @@ local AddonName, AddonTable = ...
 
 -- TBC Loot
 AddonTable.loot = {
+    25050, -- Moldavite Ring
+    25053, -- Lazuli Ring
     25054, -- Sodalite Band
     25055, -- Alexandrite Ring
     25056, -- Almandine Ring
@@ -9,7 +11,9 @@ AddonTable.loot = {
     25058, -- Anglesite Choker
     25059, -- Fire Opal Collar
     25069, -- Epidote Stone Necklace
+    25071, -- Tanzanite Pendant
 
+    28029, -- Goldenvine Wraps
     28052, -- Goldweave Tunic
 
     29910, -- The Staff of Twin Worlds
@@ -24,11 +28,16 @@ AddonTable.loot = {
     32593, -- Treads of the Den Mother
 
     51965, -- Enumerated Shoulders
+    51985, -- Stalwart Belt
     51987, -- Stalwart Grips
     51993, -- Turbulent Cloak
     51995, -- Turbulent Necklace
 
+    160610, -- Turbulent Necklace
+
     -- Tier Sets
     --- Druid
     30230, -- Nordrassil Feral-Mantle
+    -- Hunter
+    29084, -- Demon Stalker Shoulderguards
 }

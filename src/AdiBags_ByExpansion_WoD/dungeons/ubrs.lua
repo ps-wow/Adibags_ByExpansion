@@ -28,13 +28,7 @@ AddonTable.ubrs = {
     -- Ragewing the Untamed
     110003, -- ragewings-firefang
     118737, -- blackhand-doomcutter
-    113821, -- battered-iron-horde-helmet
-    113822, -- ravaged-iron-horde-belt
     141643, -- technique-codex-of-the-clear-mind
-    113823, -- crusted-iron-horde-pauldrons
-    118332, -- auction-a-d-d-o-n-s-installer
-    118331, -- auction-connecting-valve
-    118197, -- auction-memory-socket
     -- Warlord Zaela
     118739, -- Draconian Doomshield
     110013, -- Emberscale Talisman

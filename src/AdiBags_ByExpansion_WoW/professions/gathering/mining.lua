@@ -30,6 +30,7 @@ AddonTable.mining = {
     2836,  -- Coarse Stone
     2838,  -- Heavy Stone
     7912,  -- Solid Stone
+    12365, -- Dense Stone
     -- Gems
     774,   -- Malachite
     818,   -- Tigerseye
@@ -48,6 +49,7 @@ AddonTable.mining = {
     12799, -- Large Opal
     12800, -- Azerothian Diamond
     12811, -- Righteous Orb
+    13926, -- Golden Pearl
     -- Recipe
     44956, -- Goblin's Guide to Elementium
 }

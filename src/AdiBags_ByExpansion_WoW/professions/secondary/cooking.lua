@@ -3,6 +3,7 @@ local AddonName, AddonTable = ...
 -- WoW Cooking
 AddonTable.cooking = {
     -- Food
+    1017,  -- Seasoned Wolf Kabob
     2679,  -- Charred Wolf Meat
     2681,  -- Roasted Boar Meat
     2888,  -- Beer Basted Boar Ribs
@@ -17,7 +18,9 @@ AddonTable.cooking = {
     -- Ingredients
     723,   -- Goretusk Liver
     769,   -- Chunk of Boar Meat
+    1015,  -- Lean Wolf Flank
     1468,  -- Murloc Fin
+    2251,  -- Gooey Spider Leg
     2672,  -- Stringy Wolf Meat
     2673,  -- Coyote Meat
     2674,  -- Crawler Meat
@@ -32,14 +35,18 @@ AddonTable.cooking = {
     5503,  -- Clam Meat
     5504,  -- Tangy Clam Meat
     6889,  -- Small Egg
+    12207, -- Giant Egg
     12037, -- Mystery Meat
     12203, -- Red Wolf Meat
     12205, -- White Spider Meat
     12208, -- Tender Wolf Meat
+    22644, -- Crunchy Spider Leg
     67229, -- Stag Flank
     -- Recipe's
+    728,   -- Recipe: Westfall Stew
     2701,  -- Recipe: Seasoned Wolf Kabob
     2889,  -- Recipe: Beer Basted Boar Ribs
     3678,  -- Recipe: Crocolisk Steak
     3683,  -- Recipe: Gooey Spider Cake
+    18267, -- Recipe: Runn Tum Tuber Surprise
 }

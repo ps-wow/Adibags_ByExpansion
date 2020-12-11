@@ -9,9 +9,10 @@ AddonTable.tailoring = {
     4305,  -- Bolt of Silk Cloth
     4308,  -- Green Linen Bracers
     4339,  -- Bolt of Mageweave
+    14048, -- bolt of runecloth
     14341, -- Rune Thread (Vendor)
     14342, -- Mooncloth
-    14227, -- Ironweb Spider Silk
+
     -- Items
     2570,  -- Linen Cloak
     2575,  -- Red Linen Shirt
@@ -20,9 +21,13 @@ AddonTable.tailoring = {
     2579,  -- Green Linen Shirt
     2580,  -- Reinforced Linen Cape
     4344,  -- Brown Linen Shirt
+    13863, -- Runecloth Gloves
+
     -- Consumable
     1251,  -- Linen Bandage
+
     -- Recipes
     4346,  -- Pattern: Heavy Woolen Cloak
     14512, -- Pattern: Truefaith Vestments
+    21371, -- Pattern: Core Felcloth Bag
 }

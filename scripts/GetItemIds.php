@@ -37,11 +37,16 @@ class GetItemIds
             }
         }
         if (!empty($this->duplicates)) {
+            echo '|------|-----------------------------------------------------' . "\r\n";
             foreach($this->duplicates as $itemId => $locations) {
-                echo $itemId . ' ';
-                var_dump($locations);
+                foreach($locations as $location) {
+                    $posOfsrc = strpos($location, 'src');
+                    $locShort = substr($location, $posOfsrc + 4);
+                    echo '|' . $itemId . '|' . $locShort . "\r\n";
+                }
             }
-            echo(count($this->duplicates));
+            echo '|------|-----------------------------------------------------' . "\r\n";
+            echo(count($this->duplicates) . ' duplicates found.');
             exit(1);
         }
         return $this->itemIds;

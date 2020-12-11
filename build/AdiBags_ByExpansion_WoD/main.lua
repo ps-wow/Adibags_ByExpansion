@@ -3,9 +3,12 @@ local AddonName,AddonTable = ...
 -- Load the core addon API.
 local core = LibStub("AceAddon-3.0"):GetAddon("AdiBags_ByExansion")
 
+local categories = core:GetDefaultCategories()
+categories["Garrison"] = "Garrison"
+
 local module = {
     ["name"] = "wod",
-    ["categories"] = core:GetDefaultCategories(),
+    ["categories"] = categories,
     ["namespace"] = "WoD",
     ["prefix"] = {
         ["num"] = "06. ",
@@ -34,6 +37,8 @@ local module = {
 core:AddExpansion(module)
 
 core:LoadCategories(AddonTable, module)
-core:AddCategoryItems(AddonTable.garrison, "TradeMaterials", module)
+
+core:AddCategoryItems(AddonTable.garrison, "Garrison", module)
+core:AddCategoryItems(AddonTable.follower, "Garrison", module)
 
 core:LoadExpansion(module)

@@ -1,6 +1,7 @@
 local AddonName, AddonTable = ...
 -- [Raid] Karazhan: 10 Normal
 AddonTable.kara = {
+    30642,
     -- Servant's Quarters
     30686,
     30687,

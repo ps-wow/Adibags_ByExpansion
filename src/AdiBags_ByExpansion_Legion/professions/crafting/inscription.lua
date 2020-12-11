@@ -1,8 +1,14 @@
 local AddonName, AddonTable = ...
 
 AddonTable.inscription = {
+    -- Pigments
     129032, -- Roseate Pigment
     129034, -- Sallow Pigment
+    136926, -- Nightmare Pod
+    -- Glyphs
+    129018, -- Glyph of Fel Imp [Warlock]
+    129028, -- Glyph of Fel Touched Souls [Demon Hunter]
+    139310, -- Glyph of the Shivarra [Warlock]
     -- Recipe's
     139635, -- Vantus Rune Technique: Ursoc
     139636, -- Vantus Rune Technique: Nythendra
