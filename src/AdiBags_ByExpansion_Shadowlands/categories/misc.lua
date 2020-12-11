@@ -20,5 +20,17 @@ AddonTable.misc = {
     181544, -- Confessions of Misdeed
     184307, -- Maldraxxi Armor Scraps
     184146, -- Singed Soul Shackles
-
+    
+    181541, -- Celestial Acorn [Anima]
+    181642, -- Novice Principles of Plaguistry [Anima]
+    184148, -- Concealed Sinvyr Flask [Anima]
+    184151, -- Counterfeit Ruby Brooch [Anima]
+    184305, -- Maldraxxi Champion's Armaments [Anima]
+    184360, -- Musings on Repetition [Anima]
+    184373, -- Small Anima Globe [Anima]
+    184374, -- Cartel Exchange Vessel [Anima]
+    184379, -- Queen's Frozen Tear [Anima]
+    184382, -- Luminous Sylberry [Anima]
+    184384, -- Hibernal Sproutling [Anima]
+    184772, -- Ritual Maldracite Crystal [Anima]
 }
