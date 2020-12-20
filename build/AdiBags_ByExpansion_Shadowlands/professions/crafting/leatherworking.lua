@@ -1,10 +1,6 @@
 local AddonName, AddonTable = ...
 AddonTable.leatherworking = {
     -- Materials
-    172097,
-    172096,
-    172094,
-    172089,
     172332,
     172333,
     172331,

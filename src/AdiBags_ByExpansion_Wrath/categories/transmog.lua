@@ -80,6 +80,7 @@ AddonTable.transmog = {
     36398, -- Necropolis Gloves
     36404, -- Suede Cloak
     36414, -- Mammoth Fur Cloak
+    36455, -- Plated Bulwark
     36456, -- Icy Kite Shield
     36457, -- Ivory Shield
     36460, -- Northern Star

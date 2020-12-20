@@ -177,6 +177,7 @@ AddonTable.loot = {
     158013, -- Gravethorn Wristwraps
     158016, -- Ashenwood Gauntlets
     158017, -- Ashenwood Helm
+    158019, -- Ashenwood Spaulders
     158021, -- Ashenwood Bracers
     158022, -- Bleakweald Chestguard
     158024, -- Bleakweald Handguards
@@ -207,6 +208,7 @@ AddonTable.loot = {
     158093, -- Stagheart Gavel
     158095, -- Gnarlwood Hammer
     158096, -- Wavecaller Greatmace
+    158097, -- Tideguard Pike
     158102, -- Gnarlwood Staff
     158105, -- Coralshell Spellblade
     158106, -- Ironcrest Greatblade
@@ -362,6 +364,7 @@ AddonTable.loot = {
     160963, -- Blood Jungle Stinger
     160972, -- Herculean Golden Sword
     160979, -- Ancient Chronicler's Focus
+    160987, -- Ring of Incomplete Digestion
 
     161028, -- Noxious Crocolisk Trousers
     161037, -- Sand Scoured Girdle

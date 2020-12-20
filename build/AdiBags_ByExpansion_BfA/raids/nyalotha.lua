@@ -2,6 +2,7 @@ local AddonName, AddonTable = ...
 AddonTable.nyalotha = {
     174279,
     175009,
+    174955,
     -- Wrathion, the Black Emporer
     174044,
     174170,

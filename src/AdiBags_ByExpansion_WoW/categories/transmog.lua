@@ -10,6 +10,7 @@ AddonTable.transmog = {
     1391,  -- Riverpaw Mystic Staff
     1608,  -- Skullcrusher Mace
     1625,  -- Exquisite Flamberge
+    1958,  -- Petrified Shinbone
     1994,  -- Ebonclaw Reaver
 
     2034,  -- Scholarly Robes
@@ -111,6 +112,7 @@ AddonTable.transmog = {
     7524,  -- Gossamer Cape
     7526,  -- Gossamer Belt
     7543,  -- Champion's Pauldrons
+    7608,  -- Seer's Fine Stein
     7610,  -- Aurora Sphere
 
     8108,  -- Hibernal Bracers
@@ -355,6 +357,7 @@ AddonTable.transmog = {
     15254, -- Dark Espadon
     15258, -- Divine Warblade
     15261, -- Sequoia Branch
+    15262, -- Greater Maul
     15265, -- Painbringer
     15267, -- Brutehammer
     15271, -- Colossal Great Axe
