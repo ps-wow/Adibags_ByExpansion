@@ -88,6 +88,7 @@ AddonTable.junk = {
     176931, -- Putrefied Leather Handwraps
     176933, -- Putrefied Leather Leggings
     176934, -- Putrefied Leather Shoulderpads
+    176943, -- Marred Plate Chestpiece
     176944, -- Marred Plate Greatbelt
     176948, -- Decayed Cloth Legwraps
     176956, -- Brittle Chain Breeches
@@ -154,6 +155,7 @@ AddonTable.junk = {
     181714, -- Jeweled Hand Fan
     181725, -- Prized Guardian's Medal
     181727, -- Devoid Reinforced Flasks
+    181729, -- Prototype Phylactery Mold
     181731, -- Lacquered Larion Fang
 
     182733, -- Gnawed Animacorns
@@ -170,6 +172,8 @@ AddonTable.junk = {
     183065, -- Shiekwing
     183062, -- Gleaming Replica of Partannas
     183075, -- Phantasmal Masquerade Guide
+    183209, -- Prime Enforcer's Seal
+    183695, -- Decaying Dark Naaru Shard
 
     184368, -- Sputtering Hilt
     184369, -- Brutally Sundered Mallet
