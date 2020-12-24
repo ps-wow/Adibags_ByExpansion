@@ -81,6 +81,7 @@ AddonTable.junk = {
     176874, -- Desiccated Humerus
     176876, -- Collapsed Psyche
     176877, -- Split Tooth
+    176880, -- Colossal Stinger
     176882, -- Spotless Skull
     176885, -- Wisp of Extinction
     176886, -- Augmented Femur
@@ -172,6 +173,7 @@ AddonTable.junk = {
     183065, -- Shiekwing
     183062, -- Gleaming Replica of Partannas
     183075, -- Phantasmal Masquerade Guide
+    183204, -- Manual of Bonebending Methods
     183209, -- Prime Enforcer's Seal
     183695, -- Decaying Dark Naaru Shard
 
