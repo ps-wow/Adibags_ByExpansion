@@ -152,6 +152,7 @@ AddonTable.junk = {
     181484, -- Songwood Graft
     181486, -- Leafscale Coat
     181488, -- Shadowstalker Claw
+    181515, -- Miserable Pile of Secrets
     181713, -- Scorched Letter
     181714, -- Jeweled Hand Fan
     181725, -- Prized Guardian's Medal

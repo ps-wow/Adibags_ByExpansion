@@ -139,6 +139,7 @@ AddonTable.junk = {
     147210, -- Disgusting Goo
 
     152862, -- Shredded Felbroken Shawl
+    152856, -- Fel-Scorched Portal Crystal
 
     -- Old AP items
     138781, -- Brief History of the Aeons
