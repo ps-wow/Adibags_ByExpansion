@@ -4,12 +4,14 @@ local AddonName, AddonTable = ...
 AddonTable.transmog = {
     175558, -- Duskthistle Helm
     175551, -- Duskthistle Boots
+    175562, -- Duskthistle Breeches
     175564, -- Blackthorn Shoulders
     175565, -- Shimmerbough Mantle
     175566, -- Eventide Monnion
     175570, -- Duskthistle Belt
 
     176763, -- Glimmerhoof Breastplate
+    176767, -- Umbrawing Sandals
     176769, -- Darkfeather Treads
     176772, -- Unbrawing Handwraps
     176773, -- Steelscale Gloves
@@ -32,6 +34,7 @@ AddonTable.transmog = {
     176970, -- Warflesh Grips
     176971, -- Blackhound Gauntlets
     176975, -- Ossein Scale Headguard
+    176982, -- Blackhound Pauldrons
     176983, -- Bloodskin Mantle
 
     177774, -- Night Guardian Cincture

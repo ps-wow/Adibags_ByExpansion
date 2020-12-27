@@ -73,6 +73,7 @@ AddonTable.loot = {
     175765, -- Dredwing Shroud
     175766, -- Ilka's Hunting Cloak
     175767, -- Glitterwing Greatcloak
+    175881, -- Sinful Aspirant's Plate Cuffs
     175988, -- Meadow Guardian's Staff
 
     176335, -- Chime of Melodic Reflection
@@ -135,6 +136,7 @@ AddonTable.loot = {
     181703, -- Skychime Necklace
     181721, -- Ascendent Valor Signet
 
+    182256, -- Bladesword Harbinger's Warbelt
     182682, -- Book-Borrower Identification
 
     183530, -- Argent Conscript's Pants
