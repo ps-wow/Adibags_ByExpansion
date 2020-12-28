@@ -100,6 +100,7 @@ AddonTable.loot = {
     157876, -- Fen Spirit Cinch
     157877, -- Fen Spirit Wristwraps
     157878, -- Blood Bog Wraps
+    157880, -- Blood Bog Grips
     157881, -- Blood Bog Headcover
     157882, -- Blood Bog Legwraps
     157884, -- Blood Bog Waistband
@@ -136,6 +137,7 @@ AddonTable.loot = {
     157939, -- Sandspinner Mantle
     157941, -- Sandspinner Wristwraps
     157945, -- Deathsnap Hood
+    157946, -- Deathsnap Breeches
     157948, -- Deathsnap Girdle
     157958, -- Dunecrawler Chestplate
     157959, -- Dunecrawler Footguards
@@ -529,6 +531,7 @@ AddonTable.loot = {
     170657, -- Mistdancer Band of Wisdom [120 Boost - Ring]
     170823, -- Mistdancer Boots [120 Boost - Boots]
     170824, -- Mistdancer Gloves [120 Boost - Gloves]
+    170825, -- Mistdancer Hood [120 Boost - Head]
     170826, -- Mistdancer Britches [120 Boost - Pants]
     170827, -- Mistdancer Shoulders [120 Boost - Shoulders]
     170828, -- Mistdancer Waistband [120 Boost - Waist]

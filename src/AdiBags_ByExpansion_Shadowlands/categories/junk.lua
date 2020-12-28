@@ -103,6 +103,7 @@ AddonTable.junk = {
     177747, -- Dredged Chain Clasp
     177748, -- Mire-Stained Leather Cinch
     177751, -- Mire-Stained Leather Guise
+    177758, -- Ember-Bleached Cloth Slippers
     177759, -- Ember-Bleached Cloth Legwraps
     177763, -- Ember-Bleached Cloth Mantle
 

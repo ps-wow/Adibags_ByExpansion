@@ -109,6 +109,7 @@ AddonTable.loot = {
     181187, -- Soulstalker Bindings
     181209, -- Devourer's Bite
     181334, -- Essence Extractor
+    181402, -- Runetender Tunic
     181404, -- Faemoss Shoes
     181406, -- Runetender Boots
     181415, -- Faemoss Leggings

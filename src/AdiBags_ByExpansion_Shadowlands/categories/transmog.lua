@@ -37,6 +37,8 @@ AddonTable.transmog = {
     176982, -- Blackhound Pauldrons
     176983, -- Bloodskin Mantle
 
+    177770, -- Avowed Tormenter's Hood
+    177773, -- Avowed Tormenter's Wristwraps
     177774, -- Night Guardian Cincture
     177775, -- Depraved Darkblade's Grips
     177776, -- Depraved Darkblade's Helm
@@ -66,6 +68,7 @@ AddonTable.transmog = {
     179334, -- Wingblade Staff
 
     180793, -- Boneclutched Stave
+    180794, -- Gore-Smudged Shortsword
 
     182560, -- Glimmerhoof Drape
     182561, -- Fallen Disciple's Cloak
