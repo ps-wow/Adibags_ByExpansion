@@ -2,6 +2,7 @@ local AddonName, AddonTable = ...
 
 -- Wrath Junk ID's: 33363 - 52019
 AddonTable.junk = {
+    33361, -- Thread-Bare Cloth Gloves
     33363, -- Thread-Bare Cloth Shoulderpads
     33365, -- Frost-Rimed Cloth Belt
     33366, -- Frost-Rimed Cloth Boots
@@ -90,6 +91,7 @@ AddonTable.junk = {
     39357, -- Priestly Preening: Be Like Your Betters
     39358, -- Give to the Church and the Light Will Provide
     39512, -- Hoary Crystals
+    39513, -- Efflorescing Shards
     39516, -- Frosty Mushroom
     39524, -- Sericeous Down
     39551, -- Stewing Ichor

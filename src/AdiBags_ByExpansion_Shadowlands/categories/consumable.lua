@@ -4,7 +4,12 @@ local AddonName, AddonTable = ...
 AddonTable.consumable = {
     -- Covenant
     181541, -- Celestial Acorn [Anima]
+    181544, -- Confessions of Misdeed [Anima]
+    181547, -- Noble's Draught [Anima]
+    181549, -- Timeworn Sinstone [Anima]
+    181551, -- Depleted Stoneborn Heart [Anima]
     181642, -- Novice Principles of Plaguistry [Anima]
+    184146, -- Singed Soul Shackles [Anima]
     184148, -- Concealed Sinvyr Flask [Anima]
     184151, -- Counterfeit Ruby Brooch [Anima]
     184305, -- Maldraxxi Champion's Armaments [Anima]
@@ -23,6 +28,7 @@ AddonTable.consumable = {
 
 AddonTable.fooddrink = {
     172041, -- Spinefind Souffle and Fries
+    172045, -- Tenebrous Crown Roast Aspic
     172046, -- Biscuits and Caviar
     172049, -- Iridescent Ravioli with Apple Sauce
     172068, -- Pickled Meat Smoothie

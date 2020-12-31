@@ -50,6 +50,7 @@ AddonTable.junk = {
     176414, -- Twisted Leather Leggings
     176416, -- Twisted Leather Jerkin
     176418, -- Distorted Plate Vambraces
+    176421, -- Distorted Plate Legguards
     176425, -- Distorted Plate Greatbelt
     176428, -- Stained Cloth Slippers
     176432, -- Stained Cloth Cincture
@@ -92,6 +93,7 @@ AddonTable.junk = {
     176943, -- Marred Plate Chestpiece
     176944, -- Marred Plate Greatbelt
     176948, -- Decayed Cloth Legwraps
+    176955, -- Brittle Chain Footguards
     176956, -- Brittle Chain Breeches
 
     177025, -- Partially Eaten Fish

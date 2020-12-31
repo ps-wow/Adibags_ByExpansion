@@ -57,4 +57,7 @@ AddonTable.gundrak = {
     43165,
     43167,
     43168,
+    --- Timewalking
+    127540,
+    127563,
 }
