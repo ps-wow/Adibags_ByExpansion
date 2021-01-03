@@ -103,6 +103,7 @@ AddonTable.loot = {
     157880, -- Blood Bog Grips
     157881, -- Blood Bog Headcover
     157882, -- Blood Bog Legwraps
+    157883, -- Blood Bog Shoulderpads
     157884, -- Blood Bog Waistband
     157889, -- Dreadmire Helm
     157894, -- Bone-Fetished Chestplate

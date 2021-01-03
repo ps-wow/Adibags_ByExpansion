@@ -2,6 +2,8 @@ local AddonName, AddonTable = ...
 
 -- Shadowlands Junk
 AddonTable.junk = {
+    163518, -- Purple Glowing Puffer
+
     173359, -- Lambent Feather
     173360, -- Glossy Fur
     173361, -- Polished Claw
@@ -47,6 +49,7 @@ AddonTable.junk = {
     176391, -- Leafy Anenna
     176392, -- Patterned Wing
     176410, -- Twisted Leather Cinch
+    176412, -- Twisted Leather Handwraps
     176414, -- Twisted Leather Leggings
     176416, -- Twisted Leather Jerkin
     176418, -- Distorted Plate Vambraces
@@ -97,6 +100,9 @@ AddonTable.junk = {
     176956, -- Brittle Chain Breeches
 
     177025, -- Partially Eaten Fish
+    177026, -- Lost Earring
+    177027, -- Old Glove
+    177028, -- Rusty Chain
     177732, -- Crumbling Plate Vambraces
     177733, -- Crumbling Plate Warboots
     177734, -- Crumbling Plate Shoulderguards
@@ -104,7 +110,9 @@ AddonTable.junk = {
     177745, -- Dredged Chain Gauntlets
     177747, -- Dredged Chain Clasp
     177748, -- Mire-Stained Leather Cinch
+    177749, -- Mire-Stained Leather Footwraps
     177751, -- Mire-Stained Leather Guise
+    177754, -- Mire-Stained Leather Jerkin
     177758, -- Ember-Bleached Cloth Slippers
     177759, -- Ember-Bleached Cloth Legwraps
     177763, -- Ember-Bleached Cloth Mantle
@@ -117,6 +125,7 @@ AddonTable.junk = {
     178113, -- Twitching Stone
     178114, -- Stone Haunch
     178127, -- Tattered Scraps of Clothing
+    178129, -- Bone and Muck Figure
     178130, -- Shapeable Muck
     178131, -- Whetstone Talon File
     178132, -- Richly Caligraphed Invitation
@@ -169,13 +178,16 @@ AddonTable.junk = {
     182761, -- Refined Gold Ingot
     182763, -- Enormous Jade Pendant
     182775, -- Teramanik's Gilded Reins
+    182968, -- Humerus
 
     183047, -- Soul of the Darkhound
     183049, -- Guile of the Pack
+    183050, -- The Endmire's Mists
     183055, -- Chained Venthyr Pocketwatch
     183056, -- Shriekwing by Krentis
     183065, -- Shiekwing
     183062, -- Gleaming Replica of Partannas
+    183071, -- Lucky Sinrunner Horseshoe
     183075, -- Phantasmal Masquerade Guide
     183204, -- Manual of Bonebending Methods
     183209, -- Prime Enforcer's Seal
@@ -190,4 +202,6 @@ AddonTable.junk = {
     184403, -- Dreamlure Candle
     184562, -- Tranquility Stone
     184563, -- Anima Condenser
+    184564, -- Kyrian Music Box
+    184565, -- Kyrian Wave Simulator
 }

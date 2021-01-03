@@ -2,6 +2,7 @@ local AddonName, AddonTable = ...
 
 -- Shadowlands Transmog
 AddonTable.transmog = {
+    175557, -- Eventide Helm
     175558, -- Duskthistle Helm
     175551, -- Duskthistle Boots
     175562, -- Duskthistle Breeches
@@ -38,11 +39,16 @@ AddonTable.transmog = {
     176983, -- Bloodskin Mantle
 
     177770, -- Avowed Tormenter's Hood
+    177771, -- Avowed Tormenter's Leggings
     177773, -- Avowed Tormenter's Wristwraps
     177774, -- Night Guardian Cincture
     177775, -- Depraved Darkblade's Grips
     177776, -- Depraved Darkblade's Helm
+    177778, -- Depraved Darkblade's Belt
+    177779, -- Depraved Darkblade's Bindings
     177782, -- Savage Bonemauler Gloves
+    177789, -- Night Guardian Breastplate
+    177790, -- Night Guardian Footguards
     177797, -- Depraved Darkblade's Epaulets
     177799, -- Stoneborn Shield
     177800, -- Bubbling Concoction
@@ -52,12 +58,14 @@ AddonTable.transmog = {
     177806, -- Banewood Dirk
     177807, -- Vyrtha's Dredglave
     177808, -- Reinforced Rapier
+    177809, -- Lithe Rapier
     177810, -- Stonebreaker Mace
     177816, -- Dredhollow Cape
 
     178944, -- Gore-Smudged Gavel
     178946, -- Gore-Smudged Sword
     178947, -- Steeljaw Crossbow
+    178951, -- Vellum-Bound Tome
     178952, -- Gore-Smudged Warglaive
     178953, -- Blackhound Sword
 

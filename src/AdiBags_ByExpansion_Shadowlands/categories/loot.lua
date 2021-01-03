@@ -83,11 +83,13 @@ AddonTable.loot = {
     177634, -- Vial of Volatile Essence
     177655, -- Air Bootuses
     177657, -- Overflowing Ember Mirror
+    177811, -- Depraved Tutor's Signet
     177815, -- Devout Archivist's Chain
 
     178053, -- Thicket Sweeper
     178069, -- Nightcloaked Mantle
     178077, -- Briarbane Signet
+    178135, -- Wisp of Life
 
     179517, -- Duskwarder Censor
     179562, -- Duskwarder Branch
@@ -97,6 +99,7 @@ AddonTable.loot = {
 
     180444, -- Harmonia's Chosen Belt
     180474, -- Culexwood Dagger
+    180622, -- Essence of Ephemeral Knowledge
     180749, -- Hauk's Battle-Scarred Bulwark
     180790, -- War Scholar's Stave
     180818, -- Bonefused Bonesaw
@@ -116,6 +119,7 @@ AddonTable.loot = {
     181417, -- Runetender Pants
     181418, -- Runetender Shoulderguards
     181421, -- Gormhusk Mantle
+    181425, -- Runetender Cinch
     181459, -- Withergrove Shardling
     181534, -- Ruthless Contender's Rod
     181577, -- Soulbearer's Vest
@@ -128,8 +132,10 @@ AddonTable.loot = {
     181599, -- Forgehand's Headgear
     181603, -- Forgehand's Chain
     181625, -- Gorewrought Medallion
+    181627, -- Lifepath Crossbow
     181630, -- Honortoll Speak
     181654, -- Fleshscale Chainmail
+    181655, -- Corpsehide Vest
     181660, -- Corpsehide Gloves
     181666, -- Corpsehide Helm
     181677, -- Fleshscale Belt
@@ -138,7 +144,9 @@ AddonTable.loot = {
     181703, -- Skychime Necklace
     181721, -- Ascendent Valor Signet
 
-    182256, -- Bladesword Harbinger's Warbelt
+    182256, -- Bladesworn Harbinger's Warbelt
+    182277, -- Bladesworn Tactician's Faceguard
+    182282, -- Bladesworn Tactician's Spaulders
     182682, -- Book-Borrower Identification
 
     183530, -- Argent Conscript's Pants
@@ -148,6 +156,7 @@ AddonTable.loot = {
     184165, -- Seal of Fordragon
     184516, -- Mistveil Sandals
     184712, -- Refulgent Raiment
+    184717, -- Lord Chamberlain's Cloak
     184757, -- Chain of the Purpose-Bound
     184758, -- Drape of Inscrutable Purpose
 }
