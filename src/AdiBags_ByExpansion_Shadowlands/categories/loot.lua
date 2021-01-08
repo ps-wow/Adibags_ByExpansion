@@ -36,6 +36,7 @@ AddonTable.loot = {
     175498, -- Nightcloaked Pants
     175506, -- Nightcloaked Waistcord
     175517, -- Corpse-Stitcher's Slippers
+    175518, -- Flesh Architect's Galoshes
     175524, -- Risen Journeyman's Visage
     175534, -- Flesh Architect's Epaulets
     175618, -- Pure Aspirant's Gloves
@@ -114,6 +115,7 @@ AddonTable.loot = {
     181334, -- Essence Extractor
     181402, -- Runetender Tunic
     181404, -- Faemoss Shoes
+    181405, -- Gormhusk Steps
     181406, -- Runetender Boots
     181415, -- Faemoss Leggings
     181417, -- Runetender Pants
@@ -121,6 +123,7 @@ AddonTable.loot = {
     181421, -- Gormhusk Mantle
     181425, -- Runetender Cinch
     181459, -- Withergrove Shardling
+    181490, -- Wild Godrune
     181534, -- Ruthless Contender's Rod
     181577, -- Soulbearer's Vest
     181578, -- Soulbearer's Boots
@@ -149,6 +152,7 @@ AddonTable.loot = {
     182282, -- Bladesworn Tactician's Spaulders
     182682, -- Book-Borrower Identification
 
+    183120, -- Partially Digested Encyclopedia
     183530, -- Argent Conscript's Pants
     183562, -- Argent Conscript's Overgloves
     183851, -- Withergrove Shardling

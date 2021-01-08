@@ -20,6 +20,7 @@ AddonTable.consumable = {
     184374, -- Cartel Exchange Vessel [Anima]
     184379, -- Queen's Frozen Tear [Anima]
     184382, -- Luminous Sylberry [Anima]
+    184383, -- Duskfall Tuber [Anima]
     184384, -- Hibernal Sproutling [Anima]
     184766, -- Chronicles of the Paragons [Anima]
     184772, -- Ritual Maldracite Crystal [Anima]

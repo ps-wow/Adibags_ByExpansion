@@ -52,4 +52,7 @@ AddonTable.pit = {
     50284, -- rusty-frozen-fingerguards
     50270, -- belt-of-rotted-fingernails
     50269, -- fleshwerk-leggings
+
+    --- Timewalking
+    133495, -- Black Dragonskin Breeches
 }

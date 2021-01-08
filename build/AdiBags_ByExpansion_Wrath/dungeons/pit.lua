@@ -51,4 +51,6 @@ AddonTable.pit = {
     50284,
     50270,
     50269,
+    --- Timewalking
+    133495,
 }

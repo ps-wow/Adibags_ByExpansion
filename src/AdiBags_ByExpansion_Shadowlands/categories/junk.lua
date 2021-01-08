@@ -26,6 +26,8 @@ AddonTable.junk = {
     176087, -- Gorm Chitin
     176088, -- Gormgris
     176089, -- Treesnap Mandible
+    176289, -- Withered Leather Belt
+    176290, -- Withered Leather Boots
     176291, -- Withered Leather Gloves
     176292, -- Withered Leather Hood
     176294, -- Withered Leather Shoulders
@@ -42,6 +44,7 @@ AddonTable.junk = {
     176308, -- Parched Silk Pants
     176309, -- Parched Silk Handwraps
     176310, -- Parched Silk Cowl
+    176312, -- Parched Silk Amice
     176313, -- Desiccated Scale Wristguards
     176314, -- Desiccated Scale Spaulders
     176315, -- Desiccated Scale Sabatons
@@ -52,12 +55,15 @@ AddonTable.junk = {
     176412, -- Twisted Leather Handwraps
     176414, -- Twisted Leather Leggings
     176416, -- Twisted Leather Jerkin
+    176417, -- Twisted Leather Bracers
     176418, -- Distorted Plate Vambraces
     176421, -- Distorted Plate Legguards
     176425, -- Distorted Plate Greatbelt
     176428, -- Stained Cloth Slippers
+    176429, -- Stained Cloth Legwraps
     176432, -- Stained Cloth Cincture
     176433, -- Stained Cloth Mantle
+    176434, -- Defiled Chain Armguards
     176730, -- Orders from the Ancient One
     176807, -- Dented Armorplate
     176809, -- Cracked Actuator
@@ -107,6 +113,7 @@ AddonTable.junk = {
     177733, -- Crumbling Plate Warboots
     177734, -- Crumbling Plate Shoulderguards
     177735, -- Crumbling Plate Legguards
+    177738, -- Crumbling Plate Chestpiece
     177745, -- Dredged Chain Gauntlets
     177747, -- Dredged Chain Clasp
     177748, -- Mire-Stained Leather Cinch
@@ -134,6 +141,7 @@ AddonTable.junk = {
     178136, -- Emotional Residue
     178173, -- Crumbling Sandstone
     178175, -- Gooey Sap
+    178177, -- Consumptive Brambles
     178178, -- Brittle Bark
     178923, -- Fractured Rubble
     178924, -- Ash Clod
@@ -163,6 +171,7 @@ AddonTable.junk = {
     181483, -- Spool of Silkstrider Thread
     181484, -- Songwood Graft
     181486, -- Leafscale Coat
+    181487, -- Glowberry Bead String
     181488, -- Shadowstalker Claw
     181515, -- Miserable Pile of Secrets
     181713, -- Scorched Letter
@@ -188,6 +197,7 @@ AddonTable.junk = {
     183065, -- Shiekwing
     183062, -- Gleaming Replica of Partannas
     183071, -- Lucky Sinrunner Horseshoe
+    183073, -- Royal Sinvyr Cooking Set
     183075, -- Phantasmal Masquerade Guide
     183204, -- Manual of Bonebending Methods
     183209, -- Prime Enforcer's Seal
