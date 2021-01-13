@@ -153,6 +153,7 @@ AddonTable.junk = {
     178924, -- Ash Clod
 
     179003, -- Shattered Quartz Eyes
+    179004, -- Polished Silver Tithe
     179006, -- Glowing Endmire Dust
     179368, -- Immutable Shackles
     179369, -- Spectral Key

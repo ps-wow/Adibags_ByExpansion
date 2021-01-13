@@ -60,6 +60,7 @@ AddonTable.transmog = {
     177808, -- Reinforced Rapier
     177809, -- Lithe Rapier
     177810, -- Stonebreaker Mace
+    177813, -- Hopebreaker's Badge
     177816, -- Dredhollow Cape
 
     178944, -- Gore-Smudged Gavel

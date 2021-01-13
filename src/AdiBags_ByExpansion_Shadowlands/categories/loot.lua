@@ -159,6 +159,7 @@ AddonTable.loot = {
     183120, -- Partially Digested Encyclopedia
     183530, -- Argent Conscript's Pants
     183562, -- Argent Conscript's Overgloves
+    183850, -- Wakener's Frond
     183851, -- Withergrove Shardling
 
     184165, -- Seal of Fordragon
