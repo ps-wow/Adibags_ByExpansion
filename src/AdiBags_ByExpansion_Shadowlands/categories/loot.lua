@@ -87,6 +87,7 @@ AddonTable.loot = {
     177811, -- Depraved Tutor's Signet
     177815, -- Devout Archivist's Chain
 
+    178021, -- Culexwood Longbow
     178053, -- Thicket Sweeper
     178069, -- Nightcloaked Mantle
     178077, -- Briarbane Signet
@@ -100,6 +101,7 @@ AddonTable.loot = {
 
     180444, -- Harmonia's Chosen Belt
     180474, -- Culexwood Dagger
+    180501, -- Skull-Formed Headcage
     180622, -- Essence of Ephemeral Knowledge
     180749, -- Hauk's Battle-Scarred Bulwark
     180790, -- War Scholar's Stave
@@ -107,11 +109,12 @@ AddonTable.loot = {
     180827, -- Maldraxxian Warhorn
     180931, -- Ebony Death Shroud Bindings
 
-    181183, -- TODO: ????
+    181183, -- Soulstalker Grips
     181184, -- Soulstalker Helm
     181185, -- Soulstalker Breeches
     181187, -- Soulstalker Bindings
     181209, -- Devourer's Bite
+    181210, -- Dredhollow Boomstick
     181334, -- Essence Extractor
     181402, -- Runetender Tunic
     181404, -- Faemoss Shoes
@@ -150,6 +153,7 @@ AddonTable.loot = {
     182256, -- Bladesworn Harbinger's Warbelt
     182277, -- Bladesworn Tactician's Faceguard
     182282, -- Bladesworn Tactician's Spaulders
+    182285, -- Bladesworn Tactician's Drape
     182682, -- Book-Borrower Identification
 
     183120, -- Partially Digested Encyclopedia

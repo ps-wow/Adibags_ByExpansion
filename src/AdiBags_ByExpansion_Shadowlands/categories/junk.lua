@@ -187,6 +187,7 @@ AddonTable.junk = {
     181729, -- Prototype Phylactery Mold
     181731, -- Lacquered Larion Fang
 
+    182161, -- Ceremonial Javelin
     182733, -- Gnawed Animacorns
     182745, -- Large Aquamarine Crystal
     182757, -- Redelav Silver Set
@@ -220,4 +221,5 @@ AddonTable.junk = {
     184563, -- Anima Condenser
     184564, -- Kyrian Music Box
     184565, -- Kyrian Wave Simulator
+    184566, -- Adrima's Potpourri
 }
