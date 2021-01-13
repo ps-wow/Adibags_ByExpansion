@@ -7,8 +7,15 @@ AddonTable.conduits = {
     181498, -- Grounding Surge
     -- Hunter
     183396, -- Flame Infusion
+    182584, -- Cheetah's Vigor
+    182605, -- Tactical Retreat
+    182441, -- Markman's Advantage
+    182469, -- Rejuvenating Wind
+    182480, -- Reversal of Fortune
+    182464, -- Harmony of the Tortollan
+    184587, -- Ambuscade
 
-    -- Misc
+    -- Not Yet Classified
     182624, -- Show of Force
     183509, -- Sleight of Hand
     181509, -- Arcane Prodigy

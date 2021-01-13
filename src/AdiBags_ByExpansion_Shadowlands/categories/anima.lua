@@ -1,6 +1,7 @@
 local AddonName, AddonTable = ...
 
 AddonTable.anima = {
+    181368, -- Centurion Power Core
     181479, -- Starlight Catcher
     181541, -- Celestial Acorn
     181544, -- Confessions of Misdeed
@@ -8,6 +9,7 @@ AddonTable.anima = {
     181549, -- Timeworn Sinstone
     181551, -- Depleted Stoneborn Heart
     181642, -- Novice Principles of Plaguistry
+    181745, -- Forgesmith's Coal
 
     184146, -- Singed Soul Shackles
     184148, -- Concealed Sinvyr Flask

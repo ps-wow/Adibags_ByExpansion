@@ -1,5 +1,6 @@
 local AddonName, AddonTable = ...
 AddonTable.anima = {
+    181368,
     181479,
     181541,
     181544,
@@ -7,6 +8,7 @@ AddonTable.anima = {
     181549,
     181551,
     181642,
+    181745,
     184146,
     184148,
     184151,
