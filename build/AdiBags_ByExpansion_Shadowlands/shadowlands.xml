@@ -1,5 +1,6 @@
 <Ui xsi:schemaLocation="http://www.blizzard.com/wow/ui/ ..\FrameXML\UI.xsd">
 
+    <Script file="categories\anima.lua"/>
     <Script file="categories\conduits.lua"/>
     <Script file="categories\consumable.lua"/>
     <Script file="categories\junk.lua"/>

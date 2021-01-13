@@ -57,10 +57,12 @@ AddonTable.junk = {
     176416, -- Twisted Leather Jerkin
     176417, -- Twisted Leather Bracers
     176418, -- Distorted Plate Vambraces
+    176420, -- Distorted Plate Shoulderguards
     176421, -- Distorted Plate Legguards
     176425, -- Distorted Plate Greatbelt
     176428, -- Stained Cloth Slippers
     176429, -- Stained Cloth Legwraps
+    176431, -- Stained Cloth Hood
     176432, -- Stained Cloth Cincture
     176433, -- Stained Cloth Mantle
     176434, -- Defiled Chain Armguards
@@ -99,11 +101,14 @@ AddonTable.junk = {
     176931, -- Putrefied Leather Handwraps
     176933, -- Putrefied Leather Leggings
     176934, -- Putrefied Leather Shoulderpads
+    176938, -- Marred Plate Warboots
     176943, -- Marred Plate Chestpiece
     176944, -- Marred Plate Greatbelt
     176948, -- Decayed Cloth Legwraps
+    176949, -- Decayed Cloth Grips
     176955, -- Brittle Chain Footguards
     176956, -- Brittle Chain Breeches
+    176959, -- Brittle Chain Helm
 
     177025, -- Partially Eaten Fish
     177026, -- Lost Earring
@@ -113,6 +118,7 @@ AddonTable.junk = {
     177733, -- Crumbling Plate Warboots
     177734, -- Crumbling Plate Shoulderguards
     177735, -- Crumbling Plate Legguards
+    177736, -- Crumbling Plate Faceguard
     177738, -- Crumbling Plate Chestpiece
     177745, -- Dredged Chain Gauntlets
     177747, -- Dredged Chain Clasp
