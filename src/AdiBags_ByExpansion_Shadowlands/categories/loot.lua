@@ -152,6 +152,8 @@ AddonTable.loot = {
 
     182256, -- Bladesworn Harbinger's Warbelt
     182277, -- Bladesworn Tactician's Faceguard
+    182278, -- Bladesworn Tactician's Hauberk
+    182279, -- Bladesworn Tactician's Sabatons
     182282, -- Bladesworn Tactician's Spaulders
     182285, -- Bladesworn Tactician's Drape
     182682, -- Book-Borrower Identification
@@ -163,6 +165,7 @@ AddonTable.loot = {
     183851, -- Withergrove Shardling
 
     184165, -- Seal of Fordragon
+    184250, -- Deadeye Blunderbuss
     184516, -- Mistveil Sandals
     184712, -- Refulgent Raiment
     184717, -- Lord Chamberlain's Cloak

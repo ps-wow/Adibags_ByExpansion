@@ -49,11 +49,13 @@ AddonTable.junk = {
     176314, -- Desiccated Scale Spaulders
     176315, -- Desiccated Scale Sabatons
     176317, -- Desiccated Scale Hauberk
+    176318, -- Desiccated Scale Gloves
     176391, -- Leafy Anenna
     176392, -- Patterned Wing
     176410, -- Twisted Leather Cinch
     176412, -- Twisted Leather Handwraps
     176414, -- Twisted Leather Leggings
+    176415, -- Twisted Leather Shoulderpads
     176416, -- Twisted Leather Jerkin
     176417, -- Twisted Leather Bracers
     176418, -- Distorted Plate Vambraces
@@ -72,6 +74,7 @@ AddonTable.junk = {
     176810, -- Centurion Core
     176852, -- Hardened Tail Bone
     176853, -- Spindly Flesh
+    176854, -- Unbreakable Jawbone
     176855, -- Caustic Secretion
     176856, -- Partially Digested Viscera
     176858, -- Pliable Tail Fin
@@ -99,6 +102,7 @@ AddonTable.junk = {
     176886, -- Augmented Femur
     176929, -- Putrefied Leather Cinch
     176931, -- Putrefied Leather Handwraps
+    176932, -- Putrefied Leather Guise
     176933, -- Putrefied Leather Leggings
     176934, -- Putrefied Leather Shoulderpads
     176938, -- Marred Plate Warboots
@@ -120,6 +124,7 @@ AddonTable.junk = {
     177735, -- Crumbling Plate Legguards
     177736, -- Crumbling Plate Faceguard
     177738, -- Crumbling Plate Chestpiece
+    177744, -- Dredged Chain Vest
     177745, -- Dredged Chain Gauntlets
     177747, -- Dredged Chain Clasp
     177748, -- Mire-Stained Leather Cinch
@@ -137,6 +142,7 @@ AddonTable.junk = {
     178107, -- Pallid Sinuous Hide
     178113, -- Twitching Stone
     178114, -- Stone Haunch
+    178116, -- Squishy Eyeball
     178127, -- Tattered Scraps of Clothing
     178129, -- Bone and Muck Figure
     178130, -- Shapeable Muck
@@ -198,6 +204,7 @@ AddonTable.junk = {
     182968, -- Humerus
 
     183047, -- Soul of the Darkhound
+    183048, -- Power of the Darkhound
     183049, -- Guile of the Pack
     183050, -- The Endmire's Mists
     183055, -- Chained Venthyr Pocketwatch

@@ -224,6 +224,7 @@ AddonTable.loot = {
     158134, -- Salt Coast Piercer
     158135, -- Golden Empire Broadsword
     158136, -- Golden Empire Hexer
+    158150, -- Loa-Pledged Drape
     158151, -- Zandalari Band
     158152, -- Golden Empire Signet
     158153, -- Gilded Loa Figurine

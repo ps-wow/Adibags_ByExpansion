@@ -46,6 +46,7 @@ AddonTable.transmog = {
     177776, -- Depraved Darkblade's Helm
     177778, -- Depraved Darkblade's Belt
     177779, -- Depraved Darkblade's Bindings
+    177780, -- Savage Bonemauler Chainmail
     177782, -- Savage Bonemauler Gloves
     177789, -- Night Guardian Breastplate
     177790, -- Night Guardian Footguards
@@ -64,6 +65,7 @@ AddonTable.transmog = {
     177816, -- Dredhollow Cape
 
     178944, -- Gore-Smudged Gavel
+    178945, -- Boneclutched Greatstaff
     178946, -- Gore-Smudged Sword
     178947, -- Steeljaw Crossbow
     178951, -- Vellum-Bound Tome
