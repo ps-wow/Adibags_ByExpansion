@@ -96,6 +96,16 @@ AddonTable.loot = {
     179517, -- Duskwarder Censor
     179562, -- Duskwarder Branch
     179565, -- Songwood Stem
+    179620, -- Queensguard Cloak
+    179623, -- Faewoven Drape
+    179766, -- Oakheart Anklewraps
+    179767, -- Oakheart Armguards
+    179768, -- Oakheart Crest
+    179769, -- Oakheart Britches
+    179770, -- Oakheart Mantle
+    179771, -- Oakheart Belt
+    179772, -- Oakheart Bracers
+    179773, -- Oakheart Cape
     179927, -- Glowing Endmire Stinger
     179989, -- Marquis's Lace Cuffs
 
@@ -149,6 +159,7 @@ AddonTable.loot = {
     181691, -- Gorewrought Greatstaff
     181703, -- Skychime Necklace
     181721, -- Ascendent Valor Signet
+    181877, -- Runewarden's Greatcloak
 
     182256, -- Bladesworn Harbinger's Warbelt
     182277, -- Bladesworn Tactician's Faceguard
