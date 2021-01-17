@@ -31,6 +31,7 @@ AddonTable.junk = {
     176291, -- Withered Leather Gloves
     176292, -- Withered Leather Hood
     176294, -- Withered Leather Shoulders
+    176295, -- Withered Leather Vest
     176296, -- Withered Leather Wristguards
     176298, -- Gorm-Eaten Stompers
     176299, -- Gorm-Eaten Pauldrons
@@ -130,6 +131,7 @@ AddonTable.junk = {
     177748, -- Mire-Stained Leather Cinch
     177749, -- Mire-Stained Leather Footwraps
     177751, -- Mire-Stained Leather Guise
+    177752, -- Mire-Stained Leather Leggings
     177754, -- Mire-Stained Leather Jerkin
     177758, -- Ember-Bleached Cloth Slippers
     177759, -- Ember-Bleached Cloth Legwraps

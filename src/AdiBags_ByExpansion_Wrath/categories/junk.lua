@@ -100,6 +100,8 @@ AddonTable.junk = {
     39568, -- Hollow Fang
     39569, -- Bent Basilisk Fang
 
+    43328, -- Extinguished Light of Hope
+    43333, -- Empty Hippogryph Harness
     43851, -- Fur Clothing Scraps
     43852, -- Thick Fur Clothing Scraps
 

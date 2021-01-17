@@ -74,6 +74,7 @@ AddonTable.loot = {
     175765, -- Dredwing Shroud
     175766, -- Ilka's Hunting Cloak
     175767, -- Glitterwing Greatcloak
+    175871, -- Sinful Aspirant's Leather Spaulders
     175881, -- Sinful Aspirant's Plate Cuffs
     175988, -- Meadow Guardian's Staff
 
@@ -92,6 +93,7 @@ AddonTable.loot = {
     178069, -- Nightcloaked Mantle
     178077, -- Briarbane Signet
     178135, -- Wisp of Life
+    178335, -- Sinful Aspirant's Pendant
 
     179517, -- Duskwarder Censor
     179562, -- Duskwarder Branch

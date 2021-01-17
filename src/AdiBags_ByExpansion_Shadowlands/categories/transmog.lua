@@ -4,13 +4,16 @@ local AddonName, AddonTable = ...
 AddonTable.transmog = {
     175557, -- Eventide Helm
     175558, -- Duskthistle Helm
+    175559, -- Blackthorn Legguards
     175551, -- Duskthistle Boots
     175562, -- Duskthistle Breeches
     175564, -- Blackthorn Shoulders
     175565, -- Shimmerbough Mantle
     175566, -- Eventide Monnion
+    175568, -- Shimmerbough Cord
     175570, -- Duskthistle Belt
 
+    176762, -- Umbrawing Vestment
     176763, -- Glimmerhoof Breastplate
     176767, -- Umbrawing Sandals
     176769, -- Darkfeather Treads
@@ -73,6 +76,7 @@ AddonTable.transmog = {
     178953, -- Blackhound Sword
 
     179319, -- Caged Cudgel
+    179323, -- Dredhollow Cudgel
     179329, -- Gargoyle Heartpiercer
     179332, -- Stone Sentinel Poleaxe
     179333, -- Inquisitor Cudgel
@@ -81,6 +85,7 @@ AddonTable.transmog = {
     180793, -- Boneclutched Stave
     180794, -- Gore-Smudged Shortsword
 
+    182557, -- Darkfeather Cape
     182560, -- Glimmerhoof Drape
     182561, -- Fallen Disciple's Cloak
     182690, -- Gilded Crusader's Morningstar

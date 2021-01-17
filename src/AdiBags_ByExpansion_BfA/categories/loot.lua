@@ -196,6 +196,7 @@ AddonTable.loot = {
     158039, -- Fairweather Boots
     158040, -- Fairweather Gloves
     158041, -- Fairweather Helm
+    158047, -- Deadwash Treads
     158050, -- Deadwash Greaves
     158057, -- Shoalbreach Helm
     158058, -- Squallshaper Vestments
