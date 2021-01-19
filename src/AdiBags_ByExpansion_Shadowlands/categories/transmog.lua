@@ -53,6 +53,7 @@ AddonTable.transmog = {
     177782, -- Savage Bonemauler Gloves
     177789, -- Night Guardian Breastplate
     177790, -- Night Guardian Footguards
+    177793, -- Night Guardian Pauldrons
     177797, -- Depraved Darkblade's Epaulets
     177799, -- Stoneborn Shield
     177800, -- Bubbling Concoction
@@ -82,6 +83,7 @@ AddonTable.transmog = {
     179333, -- Inquisitor Cudgel
     179334, -- Wingblade Staff
 
+    180487, -- Stonefist's Knuckle Cover
     180793, -- Boneclutched Stave
     180794, -- Gore-Smudged Shortsword
 
@@ -89,6 +91,7 @@ AddonTable.transmog = {
     182560, -- Glimmerhoof Drape
     182561, -- Fallen Disciple's Cloak
     182690, -- Gilded Crusader's Morningstar
+    182691, -- Darkwing Headlopper
 
     183971, -- Depraved Ritualist's Kris
 }
