@@ -171,6 +171,7 @@ AddonTable.loot = {
     182285, -- Bladesworn Tactician's Drape
     182682, -- Book-Borrower Identification
 
+    183010, -- Stud-Scarred Footwear
     183120, -- Partially Digested Encyclopedia
     183530, -- Argent Conscript's Pants
     183562, -- Argent Conscript's Overgloves
