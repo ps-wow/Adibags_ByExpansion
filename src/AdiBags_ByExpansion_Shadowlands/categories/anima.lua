@@ -16,6 +16,7 @@ AddonTable.anima = {
     184148, -- Concealed Sinvyr Flask
     184151, -- Counterfeit Ruby Brooch
     184152, -- Bottle of Diluted Anima-Wine
+    184286, -- Extinguished Soul Anima
     184305, -- Maldraxxi Champion's Armaments
     184306, -- Soulcathcing Sludge
     184307, -- Maldraxxi Armor Scraps

@@ -75,6 +75,7 @@ AddonTable.loot = {
     175766, -- Ilka's Hunting Cloak
     175767, -- Glitterwing Greatcloak
     175871, -- Sinful Aspirant's Leather Spaulders
+    175879, -- Sinful Aspirant's Ring
     175881, -- Sinful Aspirant's Plate Cuffs
     175988, -- Meadow Guardian's Staff
 
