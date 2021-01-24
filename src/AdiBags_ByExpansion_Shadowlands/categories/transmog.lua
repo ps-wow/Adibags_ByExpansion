@@ -10,11 +10,13 @@ AddonTable.transmog = {
     175564, -- Blackthorn Shoulders
     175565, -- Shimmerbough Mantle
     175566, -- Eventide Monnion
+    175567, -- Blackthorn Girdle
     175568, -- Shimmerbough Cord
     175570, -- Duskthistle Belt
 
     176762, -- Umbrawing Vestment
     176763, -- Glimmerhoof Breastplate
+    176766, -- Glimmerhoof Footguards
     176767, -- Umbrawing Sandals
     176769, -- Darkfeather Treads
     176772, -- Unbrawing Handwraps

@@ -142,6 +142,7 @@ function Core:DefaultFilter(slotData, module, expFilter)
     local foodIsJunk = false
     local showExpansionNumberPrefix = true
     local showExpansionIconPrefix = true
+    local showJunk = false
 
     local prefix = ""
 
@@ -152,6 +153,7 @@ function Core:DefaultFilter(slotData, module, expFilter)
         foodIsJunk = expFilter.db.profile.FoodIsJunk
         showExpansionNumberPrefix = expFilter.db.profile.ShowExpansionNumbers
         showExpansionIconPrefix = expFilter.db.profile.ShowExpansionIcons
+        showJunk = expFilter.db.profile.Junk
     end
 
     if showExpansionNumberPrefix then
@@ -167,6 +169,10 @@ function Core:DefaultFilter(slotData, module, expFilter)
     prefix = prefix .. ' - '
 
     for tableName, tableDescription in pairs(module.categories) do
+        if everythingIsJunk then
+            return prefix .. "Junk"
+        end
+
         if expFilter.db.profile[tableName] then
             --option for the table is enabled
             if expTable then
@@ -175,24 +181,20 @@ function Core:DefaultFilter(slotData, module, expFilter)
                         for abbr,raid in pairs(module.raids) do
                             if expTable[tableName][abbr] then
                                 if expTable[tableName][abbr][slotData.itemId] then
-                                    if everythingIsJunk then
-                                        return prefix .. "Junk"
-                                    else
-                                        return prefix .. "Equipment (" .. raid .. ")"
-                                    end
+                                    return prefix .. "Equipment (" .. raid .. ")"
                                 end
                             end
+                        end
+                    elseif tableName == "Junk" and showJunk == true then
+                        if expTable[tableName][slotData.itemId] then
+                            return prefix .. tableDescription
                         end
                     elseif tableName == "Professions" then
                         for _,prof in pairs(Core:GetProfessions()) do
                             if expTable[tableName][prof] then
                                 if expTable[tableName][prof][slotData.itemId] then
-                                    if everythingIsJunk then
-                                        return prefix .. "Junk"
-                                    else
-                                        local profDisplayName = prof:sub(1,1):upper()..prof:sub(2)
-                                        return prefix .. " " .. profDisplayName
-                                    end
+                                    local profDisplayName = prof:sub(1,1):upper()..prof:sub(2)
+                                    return prefix .. " " .. profDisplayName
                                 end
                             end
                         end
@@ -201,46 +203,36 @@ function Core:DefaultFilter(slotData, module, expFilter)
                             for abbr,dungeon in pairs(module.dungeons) do
                                 if expTable[tableName][abbr] then
                                     if expTable[tableName][abbr][slotData.itemId] then
-                                        if everythingIsJunk then
-                                            return prefix .. "Junk"
-                                        else
-                                            return prefix .. "Equipment (" .. dungeon .. ")"
-                                        end
+                                        return prefix .. "Equipment (" .. dungeon .. ")"
                                     end
                                 end
                             end
                         end
                     elseif tableName == "Consumable" then
                         if expTable[tableName][slotData.itemId] then
-                            if everythingIsJunk then
+                            if foodIsJunk then
                                 return prefix .. "Junk"
                             else
-                                if foodIsJunk then
-                                    return prefix .. "Junk"
-                                else
-                                    return prefix .. tableDescription
-                                end
+                                return prefix .. tableDescription
                             end
                         end
                     else
+                        if expTable[tableName][slotData.itemId] then
+                            return prefix .. tableDescription
+                        end
+                    end
+                end
+            end
+        else
+            if tableName ~= "Junk" then
+                if expTable then
+                    if expTable[tableName] then
                         if expTable[tableName][slotData.itemId] then
                             if everythingIsJunk then
                                 return prefix .. "Junk"
                             else
                                 return prefix .. tableDescription
                             end
-                        end
-                    end
-                end
-            end
-        else
-            if expTable then
-                if expTable[tableName] then
-                    if expTable[tableName][slotData.itemId] then
-                        if everythingIsJunk then
-                            return prefix .. "Junk"
-                        else
-                            return prefix .. tableDescription
                         end
                     end
                 end
@@ -494,7 +486,7 @@ function Core:LoadExpansion(module)
     expFilter.uiName = module.namespace
     expFilter.uiDesc = module.description
 
-    if module.filter ~=nil then
+    if module.filter ~= nil then
         function expFilter:Filter(slotData)
             return module.filter(slotData)
         end

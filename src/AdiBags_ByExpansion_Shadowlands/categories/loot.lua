@@ -179,6 +179,7 @@ AddonTable.loot = {
     183850, -- Wakener's Frond
     183851, -- Withergrove Shardling
 
+    184130, -- Nurgash's Belt of Many Sinstones
     184165, -- Seal of Fordragon
     184250, -- Deadeye Blunderbuss
     184516, -- Mistveil Sandals

@@ -9,6 +9,7 @@ AddonTable.anima = {
     181549, -- Timeworn Sinstone
     181551, -- Depleted Stoneborn Heart
     181642, -- Novice Principles of Plaguistry
+    181643, -- Weeping Corpseshroom
     181644, -- Unbalanced Culture Jars
     181745, -- Forgesmith's Coal
 
