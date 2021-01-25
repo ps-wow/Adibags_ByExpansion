@@ -2,22 +2,12 @@ local AddonName, AddonTable = ...
 -- Halls of Attonement
 AddonTable.hallsofattonement = {
     -- Halkias, the Sin-Stained Goliath
-    181848,
-    180935,
-    181845,
-    181736,
-    182681,
     178817,
     178827,
     178813,
     178818,
     178830,
     -- Echelon
-    183511,
-    181735,
-    183487,
-    182127,
-    183184,
     178834,
     178812,
     178815,
@@ -25,9 +15,6 @@ AddonTable.hallsofattonement = {
     178819,
     178825,
     -- High Adjudicator Aleez
-    181963,
-    181867,
-    182675,
     178828,
     178821,
     178814,
@@ -35,11 +22,6 @@ AddonTable.hallsofattonement = {
     178822,
     178826,
     -- Lord Chamberlain
-    182598,
-    181461,
-    183477,
-    181944,
-    182751,
     178829,
     178816,
     178820,

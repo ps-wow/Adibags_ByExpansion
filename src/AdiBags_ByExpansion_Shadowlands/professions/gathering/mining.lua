@@ -17,6 +17,7 @@ AddonTable.mining = {
     171833, -- Elethium Ore
     -- Stone
     171840, -- Porous Stone
+    171841, -- Shaded Stone
     -- Misc
     177061, -- Twilight Bark
 }

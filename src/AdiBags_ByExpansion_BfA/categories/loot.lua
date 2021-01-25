@@ -100,8 +100,10 @@ AddonTable.loot = {
     157876, -- Fen Spirit Cinch
     157877, -- Fen Spirit Wristwraps
     157878, -- Blood Bog Wraps
+    157880, -- Blood Bog Grips
     157881, -- Blood Bog Headcover
     157882, -- Blood Bog Legwraps
+    157883, -- Blood Bog Shoulderpads
     157884, -- Blood Bog Waistband
     157889, -- Dreadmire Helm
     157894, -- Bone-Fetished Chestplate
@@ -136,6 +138,7 @@ AddonTable.loot = {
     157939, -- Sandspinner Mantle
     157941, -- Sandspinner Wristwraps
     157945, -- Deathsnap Hood
+    157946, -- Deathsnap Breeches
     157948, -- Deathsnap Girdle
     157958, -- Dunecrawler Chestplate
     157959, -- Dunecrawler Footguards
@@ -193,6 +196,7 @@ AddonTable.loot = {
     158039, -- Fairweather Boots
     158040, -- Fairweather Gloves
     158041, -- Fairweather Helm
+    158047, -- Deadwash Treads
     158050, -- Deadwash Greaves
     158057, -- Shoalbreach Helm
     158058, -- Squallshaper Vestments
@@ -221,6 +225,7 @@ AddonTable.loot = {
     158134, -- Salt Coast Piercer
     158135, -- Golden Empire Broadsword
     158136, -- Golden Empire Hexer
+    158150, -- Loa-Pledged Drape
     158151, -- Zandalari Band
     158152, -- Golden Empire Signet
     158153, -- Gilded Loa Figurine
@@ -529,6 +534,7 @@ AddonTable.loot = {
     170657, -- Mistdancer Band of Wisdom [120 Boost - Ring]
     170823, -- Mistdancer Boots [120 Boost - Boots]
     170824, -- Mistdancer Gloves [120 Boost - Gloves]
+    170825, -- Mistdancer Hood [120 Boost - Head]
     170826, -- Mistdancer Britches [120 Boost - Pants]
     170827, -- Mistdancer Shoulders [120 Boost - Shoulders]
     170828, -- Mistdancer Waistband [120 Boost - Waist]
@@ -556,6 +562,7 @@ AddonTable.loot = {
     173812, -- Vile Manipulator's Cord
     173815, -- Girdle of the Insatiable Maw
     173817, -- Nefarious Tormentor's Trousers
+    173818, -- Nefarious Tormentor's Girdle
     173822, -- Malignant Leviathan's Waistguard
     173841, -- Mantle of the Insatiable Maw
     173846, -- Vile Manipulator's Vestment

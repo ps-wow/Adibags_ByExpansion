@@ -43,4 +43,6 @@ AddonTable.ahnkahet = {
     44351,
     44352,
     44353,
+    --- Timewalking
+    127626,
 }

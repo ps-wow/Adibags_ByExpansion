@@ -2,10 +2,6 @@ local AddonName, AddonTable = ...
 -- Spires of Ascension
 AddonTable.spiresofascension = {
     -- Kin-Tara
-    183483,
-    182610,
-    182468,
-    183513,
     180097,
     180115,
     180100,
@@ -13,10 +9,6 @@ AddonTable.spiresofascension = {
     180109,
     180101,
     -- Ventunax
-    183508,
-    181435,
-    182478,
-    182462,
     180095,
     180104,
     180110,
@@ -24,9 +16,6 @@ AddonTable.spiresofascension = {
     180102,
     180116,
     -- Oryphrion
-    182126,
-    180944,
-    182753,
     180112,
     180106,
     180113,
@@ -35,12 +24,6 @@ AddonTable.spiresofascension = {
     180118,
     180117,
     -- Devos, Paragon of Doubt
-    182649,
-    182667,
-    182135,
-    182141,
-    183488,
-    181465,
     180096,
     180123,
     180099,

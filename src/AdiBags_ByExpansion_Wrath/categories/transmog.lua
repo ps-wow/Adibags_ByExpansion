@@ -25,6 +25,7 @@ AddonTable.transmog = {
     36057, -- Vizier Mantle
     36064, -- Coldwraith Pants
     36076, -- Winterfin Boots
+    36103, -- Caribou Cowl
     36105, -- Caribou Shoulders
     36114, -- Vileprey Bracers
     36121, -- Taunka Spaulders

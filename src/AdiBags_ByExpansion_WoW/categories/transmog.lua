@@ -226,6 +226,7 @@ AddonTable.transmog = {
     10142, -- High Councillor's Mantle
     10145, -- Mighty Girdle
     10149, -- Mighty Gauntlets
+    10150, -- Mighty Helmet
     10153, -- Mighty Spaulders
     10154, -- Mercurial Girdle
     10155, -- Mercurial Greaves

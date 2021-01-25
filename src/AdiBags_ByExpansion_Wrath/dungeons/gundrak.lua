@@ -58,4 +58,8 @@ AddonTable.gundrak = {
     43165, -- strange-voodoo-belt
     43167, -- rangers-belt-of-the-fallen-empire
     43168, -- clasp-of-the-fallen-demi-god
+
+    --- Timewalking
+    127540, -- Slad'ran's Coiled Cord
+    127563, -- Amulet of the Stampede
 }
