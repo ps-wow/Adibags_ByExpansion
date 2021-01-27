@@ -2,10 +2,6 @@ local AddonName, AddonTable = ...
 -- Sanguine Depths
 AddonTable.sanguinedepths = {
     -- Kryxis the Voracious
-    183202,
-    181740,
-    183480,
-    181776,
     178854,
     178853,
     178835,
@@ -14,9 +10,6 @@ AddonTable.sanguinedepths = {
     178836,
     178848,
     -- Executor Tarvold
-    182755,
-    181942,
-    182604,
     178855,
     178859,
     178851,
@@ -25,10 +18,6 @@ AddonTable.sanguinedepths = {
     178837,
     178849,
     -- Grand Proctor Beryllia
-    183489,
-    181847,
-    182137,
-    182608,
     178852,
     178847,
     178841,
@@ -36,8 +25,6 @@ AddonTable.sanguinedepths = {
     178838,
     178850,
     -- General Kaal
-    182677,
-    183507,
     178856,
     178857,
     178860,

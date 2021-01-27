@@ -44,10 +44,14 @@ AddonTable.hol = {
     36995,  -- Fists of Loken
     37850,  -- Flowing Sash of Order
     37855,  -- Mail Girdle of the Audient Earth
+    37856,  -- Librarian's Paper Cutter
     36992,  -- Leather-Braced Chain Leggings
     37854,  -- Woven Bracae Leggings
     36993,  -- Seal of the Pantheon
     -- Quest Rewards
     43193, -- Lightning Infused Mantle
     42844, -- Robes of Lightning
+
+    --- Timewalking
+    127504, -- Iron Dwarf Smith Pauldrons
 }

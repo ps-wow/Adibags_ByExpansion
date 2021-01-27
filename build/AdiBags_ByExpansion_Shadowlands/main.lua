@@ -6,6 +6,8 @@ local core = LibStub("AceAddon-3.0"):GetAddon("AdiBags_ByExansion")
 -- Create the default categories
 local categories = core:GetDefaultCategories()
 -- Create new legion specific categories
+categories['Anima'] = "Anima"
+categories['Conduits'] = "Conduits"
 categories['Legendaries'] = "Legendary"
 
 local module = {
@@ -37,5 +39,7 @@ core:AddExpansion(module)
 
 core:LoadCategories(AddonTable, module)
 core:AddCategoryItems(AddonTable.legendaries, "Legendaries", module)
+core:AddCategoryItems(AddonTable.conduits, "Conduits", module)
+core:AddCategoryItems(AddonTable.anima, "Anima", module)
 
 core:LoadExpansion(module)

@@ -381,6 +381,8 @@ AddonTable.junk = {
 
     30512, -- Giant Spinneret
 
+    31837, -- Codex: Prayer of Shadow Protection
+
     32714, -- Splintered Spider Fang
 
     33546, -- Viscious Fang

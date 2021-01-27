@@ -44,4 +44,7 @@ AddonTable.ahnkahet = {
     44351, -- shoulderpads-of-abhorrence
     44352, -- shoulderplates-of-the-abolished
     44353, -- epaulets-of-the-faceless-ones
+
+    --- Timewalking
+    127626, -- Titanium Compound Bow
 }

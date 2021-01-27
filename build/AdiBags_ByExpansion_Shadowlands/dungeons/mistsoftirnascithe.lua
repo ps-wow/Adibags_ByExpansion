@@ -2,11 +2,6 @@ local AddonName, AddonTable = ...
 -- Mists of Tirna
 AddonTable.mistsoftirnascithe = {
     -- Ingra Maloch
-    182582,
-    181844,
-    182686,
-    183491,
-    182143,
     178713,
     178709,
     178692,
@@ -17,11 +12,6 @@ AddonTable.mistsoftirnascithe = {
     178700,
     178708,
     -- Mistcaller
-    181462,
-    182754,
-    181734,
-    183514,
-    183482,
     178710,
     178691,
     178707,
@@ -31,10 +21,6 @@ AddonTable.mistsoftirnascithe = {
     178705,
     178715,
     -- Tred'ova
-    182206,
-    183132,
-    182142,
-    183485,
     178714,
     178711,
     178712,

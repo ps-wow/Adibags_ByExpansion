@@ -52,6 +52,11 @@ AddonTable.nexus = {
     42765, -- gauntlets-of-the-disturbed-giant
     --- Quickening
     42760, -- Sandals of Mystical Evolution
+    42766, -- Spiked Treads of Mutation
     --- Prisoner of War
     38223, -- Cloak of Azure Lights
+
+    --- Timewalking
+    127595, -- Dragon Slayer's Sabatons
+    127600, -- Rippling Azure Cloak
 }

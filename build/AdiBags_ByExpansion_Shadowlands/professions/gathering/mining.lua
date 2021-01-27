@@ -16,6 +16,7 @@ AddonTable.mining = {
     171833,
     -- Stone
     171840,
+    171841,
     -- Misc
     177061,
 }

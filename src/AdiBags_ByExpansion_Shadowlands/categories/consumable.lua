@@ -8,6 +8,7 @@ AddonTable.consumable = {
 
 AddonTable.fooddrink = {
     172041, -- Spinefind Souffle and Fries
+    172045, -- Tenebrous Crown Roast Aspic
     172046, -- Biscuits and Caviar
     172049, -- Iridescent Ravioli with Apple Sauce
     172068, -- Pickled Meat Smoothie

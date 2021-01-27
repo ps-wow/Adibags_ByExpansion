@@ -17,11 +17,12 @@ AddonTable.consumable = {
 
 AddonTable.foodDrink = {
     33444, -- Pungent Seal Whey
-    33445, -- Honeymind Tea (mana)
+    33445, -- Honeymind Tea
     33451, -- Fillet of Icefin
     33452, -- Honey-Spiced Lichen
-    35947, -- Sparkling Frostcap (hp)
-    35953, -- Mead Basted Caribou (hp)
+    33454, -- Salted Venison
+    35947, -- Sparkling Frostcap
+    35953, -- Mead Basted Caribou
     39327, -- Noth's Special Breww
     41751, -- Black Mushroom
 }

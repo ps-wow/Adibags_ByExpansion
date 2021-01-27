@@ -2,11 +2,6 @@ local AddonName, AddonTable = ...
 -- De Other Side
 AddonTable.deotherside = {
     -- Hakkar the Soulflayer
-    181737,
-    182621,
-    183479,
-    182134,
-    183504,
     179330,
     179328,
     179325,
@@ -15,8 +10,6 @@ AddonTable.deotherside = {
     179322,
     179331,
     -- The Manastorms
-    181509,
-    182748,
     179339,
     179340,
     179335,
@@ -25,9 +18,6 @@ AddonTable.deotherside = {
     179338,
     179342,
     -- Dealer Xy'exa
-    183396,
-    182624,
-    183509,
     179347,
     179348,
     179344,
@@ -37,12 +27,6 @@ AddonTable.deotherside = {
     179345,
     179350,
     -- Mueh'zala
-    183490,
-    182145,
-    181376,
-    182138,
-    182684,
-    182736,
     179353,
     179354,
     179351,

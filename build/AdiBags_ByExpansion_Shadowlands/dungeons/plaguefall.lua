@@ -2,10 +2,6 @@ local AddonName, AddonTable = ...
 -- Plaguefall
 AddonTable.plaguefall = {
     -- Globgrog
-    181786,
-    183506,
-    182465,
-    183486,
     178753,
     178760,
     178773,
@@ -13,12 +9,6 @@ AddonTable.plaguefall = {
     178756,
     178770,
     -- Doctor Ickus
-    180933,
-    182140,
-    182752,
-    181455,
-    181495,
-    182187,
     178752,
     178759,
     178763,
@@ -26,9 +16,6 @@ AddonTable.plaguefall = {
     178775,
     178771,
     -- Domina Venomblade
-    182368,
-    182208,
-    183167,
     178929,
     178928,
     178934,
@@ -37,11 +24,6 @@ AddonTable.plaguefall = {
     178931,
     178933,
     -- Margrave Stradama
-    182747,
-    181943,
-    183478,
-    181504,
-    182139,
     178754,
     178764,
     178755,
