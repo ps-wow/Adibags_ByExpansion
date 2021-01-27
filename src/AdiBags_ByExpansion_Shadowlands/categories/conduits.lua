@@ -1,6 +1,7 @@
 local AddonName, AddonTable = ...
 
 -- Shadowlands Conduits
+-- Conduits order taken from https://www.wowhead.com/guides/shadowlands-conduits-sources-drop-locations-ranks
 AddonTable.conduits = {
     -- Mage
     181467, -- Flow of Time
@@ -16,8 +17,42 @@ AddonTable.conduits = {
     183396, -- Flame Infusion
     184587, -- Ambuscade
 
-    -- Shaman
-    182345, -- Elysian Dirge 
+    -- Shaman Conduits
+
+    -- Elemental Shaman Potency Conduits
+    182128, -- Call of Flame
+    182126, -- High Voltage
+    182125, -- Pyroclasic Shock
+    182127, -- Shake the Foundations
+
+    -- Enhancement Shaman Potency Conduits
+    182136, -- Chilled to Core
+    182135, -- Focused Lighting
+    182137, -- Magma Fist
+    182134, -- Unrully Winds
+
+    -- Restoration Shaman Potency Conduits
+    182142, -- Embrace of Earth
+    182145, -- Heavy Rainfall
+    182144, -- Nature's Reach
+    182143, -- Swirling Currents
+
+    -- Covenant Shaman Potency Conduits
+    182345, -- Elysian Dirge
+    182348, -- Lavish Harvest
+    182346, -- Tumbling Waves
+    182347, -- Essencial Extraction
+
+
+    -- Shaman Endurance and Finesse Conduits
+    182105, -- Astral Protection
+    182116, -- Refreshing Waters
+    182107, -- Vital Accrestion
+    182110, -- Crippling Hex
+    182111, -- Spiritual Resonance
+    182108, -- Thunderous Paws
+    182109, -- Totemic Surge
+
 
     -- Not Yet Classified
     180932, -- Iron Maiden
@@ -64,22 +99,11 @@ AddonTable.conduits = {
     181963, -- Blood Bond
     181980, -- Embrace Death
     181982, -- Biting Cold
-    182125, -- Earth and Sky
-    182126, -- High Voltage
-    182127, -- Shake the Foundations
-    182128, -- Call of Flame
     182131, -- Haunting Apparitions
-    182134, -- Unruly Winds
-    182135, -- Focused Lightning
-    182136, -- Chilled to the Core
-    182137, -- Magma Fist
     182138, -- Mind Devourer
     182139, -- Rapid Shadows
     182140, -- Dissonant Echoes
     182141, -- Holy Oration
-    182142, -- Embrace of Earth
-    182143, -- Swirling Currents
-    182145, -- Heavy Rainfall
     182187, -- Meat Shield
     182201, -- Unleashed Frenzy
     182203, -- Debilitating Malady
