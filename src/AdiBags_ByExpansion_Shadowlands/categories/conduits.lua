@@ -17,8 +17,38 @@ AddonTable.conduits = {
     183396, -- Flame Infusion
     184587, -- Ambuscade
 
-    -- Shaman Conduits
+    -- Druid Conduits
+    -- Balance Druid Potency Conduits
+    183478, -- Fury of Skies
+    183477, -- Precice Alignment
+    183476, -- Stellar Inspiration
+    183479, -- Umbral Intensity
 
+    -- Feral Druid Potency Conduits
+    183483, -- Carnivorous Instincts
+    183481, -- Inseccant Hunter
+    183482, -- Sudden Ambush
+    183480, -- Taste for Blood
+
+    -- Guardian Druid Potency and Endurance Conduits
+    183485, -- Savage Combatant
+    183484, -- Unchecked Aggression
+    183487, -- Layered Mane
+    183486, -- Well-Honed Instincts
+
+    -- Restoration Druid Potency Conduits
+    183489, -- Flash of Clarity
+    183490, -- Floral Recycling
+    183491, -- Ready for Anything
+    183488, -- Unstoppable Growth
+
+    -- Covenant Druid Potency Conduits
+    183471, -- Deep Allegiance
+    183474, -- Endress Thirst
+    183472, -- Evolved Swarm
+    183473, -- Confux of Elements
+
+    -- Shaman Conduits
     -- Elemental Shaman Potency Conduits
     182128, -- Call of Flame
     182126, -- High Voltage
@@ -42,7 +72,6 @@ AddonTable.conduits = {
     182348, -- Lavish Harvest
     182346, -- Tumbling Waves
     182347, -- Essencial Extraction
-
 
     -- Shaman Endurance and Finesse Conduits
     182105, -- Astral Protection
@@ -153,22 +182,6 @@ AddonTable.conduits = {
     183197, -- Controlled Destruction
     183202, -- Deadly Tandem
     183402, -- Bloodletting
-    183476, -- Stellar Inspiration
-    183477, -- Precise Alignment
-    183478, -- Fury of the Skies
-    183479, -- Umbral Intensity
-    183480, -- Taste for Blood
-    183481, -- Incessant Hunter
-    183482, -- Sudden Ambush
-    183483, -- Carniveorous Instinct
-    183484, -- Unchecked Aggression
-    183485, -- Savage Combatant
-    183486, -- Well-Honed Instincts
-    183487, -- Layered Mane
-    183488, -- Unstoppable Growth
-    183489, -- Flash of Clarity
-    183490, -- Florall Recycling
-    183491, -- Ready for Anything
     183503, -- Poisoned Katar
     183504, -- Well-Placed Steel
     183505, -- Maim, Mangle
