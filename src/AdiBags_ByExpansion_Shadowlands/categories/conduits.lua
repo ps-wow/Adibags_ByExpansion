@@ -16,6 +16,9 @@ AddonTable.conduits = {
     183396, -- Flame Infusion
     184587, -- Ambuscade
 
+    -- Shaman
+    182345, -- Elysian Dirge 
+
     -- Not Yet Classified
     180932, -- Iron Maiden
     180933, -- Ashen Juggernaut
