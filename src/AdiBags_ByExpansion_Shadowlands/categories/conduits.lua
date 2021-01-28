@@ -82,7 +82,6 @@ AddonTable.conduits = {
     182108, -- Thunderous Paws
     182109, -- Totemic Surge
 
-
     -- Not Yet Classified
     180932, -- Iron Maiden
     180933, -- Ashen Juggernaut
