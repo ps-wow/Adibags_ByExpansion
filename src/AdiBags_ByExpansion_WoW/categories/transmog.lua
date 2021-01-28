@@ -200,6 +200,7 @@ AddonTable.transmog = {
     9953,  -- Chieftain's Headdress
     9964,  -- Warmonger's Leggings
     9965,  -- Warmonger's Pauldrons
+    9968,  -- Embossed Plate Girdle
     9970,  -- Embossed Plate Leggings
 
     10059, -- Duskwoven Bracers

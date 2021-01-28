@@ -129,6 +129,8 @@ AddonTable.loot = {
     60706, -- Sandals of the Neverending Bridge
     60715, -- Vial of Chloroform
 
+    63177, -- Watcher's Spear
+
     65913, -- Hann Ibal's Epaulets
     65922, -- Warpwood Leaf Mantle
     65927, -- Slippers of Tribute
@@ -175,6 +177,7 @@ AddonTable.loot = {
 
     156932, -- Surveyor's Staff
     156935, -- Kobold Torch
+    156961, -- Martek's Stick of Truthiness
     156974, -- Archivist's Walking Stick
     156980, -- Solid Wooden Club
 
