@@ -1,6 +1,7 @@
 local AddonName, AddonTable = ...
 
 -- Shadowlands Conduits
+-- Conduits order taken from https://www.wowhead.com/guides/shadowlands-conduits-sources-drop-locations-ranks
 AddonTable.conduits = {
     -- Mage
     181467, -- Flow of Time
@@ -15,6 +16,71 @@ AddonTable.conduits = {
     182605, -- Tactical Retreat
     183396, -- Flame Infusion
     184587, -- Ambuscade
+
+    -- Druid Conduits
+    -- Balance Druid Potency Conduits
+    183478, -- Fury of Skies
+    183477, -- Precice Alignment
+    183476, -- Stellar Inspiration
+    183479, -- Umbral Intensity
+
+    -- Feral Druid Potency Conduits
+    183483, -- Carnivorous Instincts
+    183481, -- Inseccant Hunter
+    183482, -- Sudden Ambush
+    183480, -- Taste for Blood
+
+    -- Guardian Druid Potency and Endurance Conduits
+    183485, -- Savage Combatant
+    183484, -- Unchecked Aggression
+    183487, -- Layered Mane
+    183486, -- Well-Honed Instincts
+
+    -- Restoration Druid Potency Conduits
+    183489, -- Flash of Clarity
+    183490, -- Floral Recycling
+    183491, -- Ready for Anything
+    183488, -- Unstoppable Growth
+
+    -- Covenant Druid Potency Conduits
+    183471, -- Deep Allegiance
+    183474, -- Endress Thirst
+    183472, -- Evolved Swarm
+    183473, -- Confux of Elements
+
+    -- Shaman Conduits
+    -- Elemental Shaman Potency Conduits
+    182128, -- Call of Flame
+    182126, -- High Voltage
+    182125, -- Pyroclasic Shock
+    182127, -- Shake the Foundations
+
+    -- Enhancement Shaman Potency Conduits
+    182136, -- Chilled to Core
+    182135, -- Focused Lighting
+    182137, -- Magma Fist
+    182134, -- Unrully Winds
+
+    -- Restoration Shaman Potency Conduits
+    182142, -- Embrace of Earth
+    182145, -- Heavy Rainfall
+    182144, -- Nature's Reach
+    182143, -- Swirling Currents
+
+    -- Covenant Shaman Potency Conduits
+    182345, -- Elysian Dirge
+    182348, -- Lavish Harvest
+    182346, -- Tumbling Waves
+    182347, -- Essencial Extraction
+
+    -- Shaman Endurance and Finesse Conduits
+    182105, -- Astral Protection
+    182116, -- Refreshing Waters
+    182107, -- Vital Accrestion
+    182110, -- Crippling Hex
+    182111, -- Spiritual Resonance
+    182108, -- Thunderous Paws
+    182109, -- Totemic Surge
 
     -- Not Yet Classified
     180932, -- Iron Maiden
@@ -61,22 +127,11 @@ AddonTable.conduits = {
     181963, -- Blood Bond
     181980, -- Embrace Death
     181982, -- Biting Cold
-    182125, -- Earth and Sky
-    182126, -- High Voltage
-    182127, -- Shake the Foundations
-    182128, -- Call of Flame
     182131, -- Haunting Apparitions
-    182134, -- Unruly Winds
-    182135, -- Focused Lightning
-    182136, -- Chilled to the Core
-    182137, -- Magma Fist
     182138, -- Mind Devourer
     182139, -- Rapid Shadows
     182140, -- Dissonant Echoes
     182141, -- Holy Oration
-    182142, -- Embrace of Earth
-    182143, -- Swirling Currents
-    182145, -- Heavy Rainfall
     182187, -- Meat Shield
     182201, -- Unleashed Frenzy
     182203, -- Debilitating Malady
@@ -126,22 +181,6 @@ AddonTable.conduits = {
     183197, -- Controlled Destruction
     183202, -- Deadly Tandem
     183402, -- Bloodletting
-    183476, -- Stellar Inspiration
-    183477, -- Precise Alignment
-    183478, -- Fury of the Skies
-    183479, -- Umbral Intensity
-    183480, -- Taste for Blood
-    183481, -- Incessant Hunter
-    183482, -- Sudden Ambush
-    183483, -- Carniveorous Instinct
-    183484, -- Unchecked Aggression
-    183485, -- Savage Combatant
-    183486, -- Well-Honed Instincts
-    183487, -- Layered Mane
-    183488, -- Unstoppable Growth
-    183489, -- Flash of Clarity
-    183490, -- Florall Recycling
-    183491, -- Ready for Anything
     183503, -- Poisoned Katar
     183504, -- Well-Placed Steel
     183505, -- Maim, Mangle

@@ -14,6 +14,7 @@ AddonTable.transmog = {
     175568, -- Shimmerbough Cord
     175570, -- Duskthistle Belt
 
+    176761, -- Glimmerhoof Helm
     176762, -- Umbrawing Vestment
     176763, -- Glimmerhoof Breastplate
     176766, -- Glimmerhoof Footguards
@@ -25,6 +26,7 @@ AddonTable.transmog = {
     176776, -- Darkfeather Helm
     176779, -- Steelscale Leggings
     176783, -- Unbrawing Shoulderpads
+    176786, -- Unbrawing Cord
     176789, -- Unbrawing Wristwraps
     176791, -- Steelscale Bracers
     176793, -- Honorguide Crossbow

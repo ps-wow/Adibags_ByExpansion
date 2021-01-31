@@ -1,13 +1,25 @@
 local AddonName, AddonTable = ...
 
-
 -- Load the core addon API.
 local core = LibStub("AceAddon-3.0"):GetAddon("AdiBags_ByExansion")
 -- Create the default categories
 local categories = core:GetDefaultCategories()
+local options = core:GetOptions()
 -- Create new legion specific categories
 categories['ArtifactWeapons'] = "Artefact Weapon"
 categories['Legendaries'] = "Legendary"
+options['Legendaries'] = {
+    name = "Legendaries",
+    desc = 'Legion Legendaries',
+    type = 'toggle',
+    order = 90,
+}
+options['ArtifactWeapons'] = {
+    name = "ArtifactWeapons",
+    desc = 'Artifact Weapons',
+    type = 'toggle',
+    order = 91,
+}
 
 local module = {
     ["name"] = "legion",
@@ -40,7 +52,8 @@ local module = {
         ["nighthold"] = "The Nighthold",
         ["tomb"] = "Tomb of Sargeras",
         ["tov"] = "Trial of Valor"
-    }
+    },
+    ["options"] = options
 }
 
 core:AddExpansion(module)
