@@ -40,6 +40,7 @@ AddonTable.anima = {
     184382, -- Luminous Sylberry
     184383, -- Duskfall Tuber
     184384, -- Hibernal Sproutling
+    184763, -- Mnemis Neural Network
     184766, -- Chronicles of the Paragons
     184772, -- Ritual Maldracite Crystal
 }
