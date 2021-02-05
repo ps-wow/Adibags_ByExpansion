@@ -127,6 +127,7 @@ AddonTable.junk = {
     177738, -- Crumbling Plate Chestpiece
     177744, -- Dredged Chain Vest
     177745, -- Dredged Chain Gauntlets
+    177746, -- Dredged Chain Helm
     177747, -- Dredged Chain Clasp
     177748, -- Mire-Stained Leather Cinch
     177749, -- Mire-Stained Leather Footwraps
@@ -152,6 +153,7 @@ AddonTable.junk = {
     178132, -- Richly Caligraphed Invitation
     178133, -- Tendrils of Ectoplasm
     178134, -- Ephemeral Digits
+    178135, -- Wisp of Life
     178136, -- Emotional Residue
     178173, -- Crumbling Sandstone
     178175, -- Gooey Sap

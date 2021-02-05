@@ -12,6 +12,7 @@ AddonTable.loot = {
     173322, -- Sandals of Soul's Clarity
     173327, -- Sparring Trainer's Handwraps
     173329, -- Pure Aspirant's Hood
+    173334, -- Humble Aspirant's Leggings
     173338, -- Waylight Shoulderpads
     173341, -- Cord of Uncertain Devotion
     173344, -- Band of Chronicled Deeds
@@ -40,7 +41,9 @@ AddonTable.loot = {
     175524, -- Risen Journeyman's Visage
     175534, -- Flesh Architect's Epaulets
     175618, -- Pure Aspirant's Gloves
+    175619, -- Humble Aspirant's Gauntlets
     175624, -- Pure Aspirant's Leggings
+    175637, -- Humble Aspirant's Wristwraps
     175648, -- Spirit Tender's Robe
     175653, -- Spirit Tender's Slippers
     175658, -- Spirit Tender's Handwraps
@@ -50,6 +53,7 @@ AddonTable.loot = {
     175669, -- Spirit Tender's Mantle
     175672, -- Spirit Tender's Cord
     175675, -- Spirit Tender's Cuffs
+    175677, -- Dreamthorn Wristguards
     175678, -- Starshroud Bracers
     175704, -- Reverberating Silver Band
     175706, -- Mind-Torn Band
@@ -93,7 +97,6 @@ AddonTable.loot = {
     178053, -- Thicket Sweeper
     178069, -- Nightcloaked Mantle
     178077, -- Briarbane Signet
-    178135, -- Wisp of Life
     178335, -- Sinful Aspirant's Pendant
 
     179517, -- Duskwarder Censor
@@ -134,6 +137,7 @@ AddonTable.loot = {
     181405, -- Gormhusk Steps
     181406, -- Runetender Boots
     181415, -- Faemoss Leggings
+    181416, -- Gormhusk Kilt
     181417, -- Runetender Pants
     181418, -- Runetender Shoulderguards
     181421, -- Gormhusk Mantle

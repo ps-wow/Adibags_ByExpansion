@@ -64,6 +64,7 @@ AddonTable.transmog = {
     177801, -- Sky Legion Halbard
     177802, -- Hopebreaker Carbine
     177804, -- Ritualist Dagger
+    177805, -- Redeemer's Mace
     177806, -- Banewood Dirk
     177807, -- Vyrtha's Dredglave
     177808, -- Reinforced Rapier
