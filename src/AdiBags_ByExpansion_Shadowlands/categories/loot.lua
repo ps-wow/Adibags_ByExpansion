@@ -131,6 +131,7 @@ AddonTable.loot = {
     181187, -- Soulstalker Bindings
     181209, -- Devourer's Bite
     181210, -- Dredhollow Boomstick
+    181221, -- Balanced Darkwing Stave
     181334, -- Essence Extractor
     181402, -- Runetender Tunic
     181404, -- Faemoss Shoes
