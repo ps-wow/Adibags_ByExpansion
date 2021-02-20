@@ -3,6 +3,7 @@ AddonTable.jewelcrafting = {
     -- Misc
     173168,
     173169,
+    183954,
     -- Gems (Uncut)
     173108,
     173109,
@@ -42,6 +43,8 @@ AddonTable.jewelcrafting = {
     -- Hats
     180760,
     -- Essenses
+    173170,
     173171,
+    173172,
     173173,
 }

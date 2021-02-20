@@ -185,9 +185,12 @@ AddonTable.junk = {
     181379, -- Larionfeather Quill
     181483, -- Spool of Silkstrider Thread
     181484, -- Songwood Graft
+    181485, -- Jeweled Amber Leaf
     181486, -- Leafscale Coat
     181487, -- Glowberry Bead String
     181488, -- Shadowstalker Claw
+    181489, -- Star Lake Sonnets
+    181492, -- Petrified Faeflower
     181515, -- Miserable Pile of Secrets
     181713, -- Scorched Letter
     181714, -- Jeweled Hand Fan

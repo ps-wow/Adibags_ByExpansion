@@ -11,4 +11,6 @@ AddonTable.trade = {
     173382,
     -- Soul Cyphering
     174942,
+    -- 
+    183701,
 }
