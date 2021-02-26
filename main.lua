@@ -392,89 +392,51 @@ end
 --
 function Core:LoadCategories(table, module)
     -- Achievement Items
-    if table.achievement ~= nil then
-        Core:AddCategoryItems(table.achievement, "Achievement", module)
-    end
+    Core:AddCategoryItems(table.achievement, "Achievement", module)
 
     -- Quests
-    if table.quest ~= nil then
-        Core:AddCategoryItems(table.quest, "Quest", module)
-    end
+    Core:AddCategoryItems(table.quest, "Quest", module)
 
     -- Consumables
-    if table.foodDrink ~= nil then
-        Core:AddCategoryItems(table.foodDrink, "Consumable", module)
-    end
-
-    if table.consumable ~= nil then
-        Core:AddCategoryItems(table.consumable, "Consumable", module)
-    end
-
-    if table.alcohol ~= nil then
-        Core:AddCategoryItems(table.alcohol, "Consumable", module)
-    end
+    Core:AddCategoryItems(table.foodDrink, "Consumable", module)
+    Core:AddCategoryItems(table.consumable, "Consumable", module)
+    Core:AddCategoryItems(table.alcohol, "Consumable", module)
 
     -- Trade
-    if table.trade ~= nil then
-        Core:AddCategoryItems(table.trade, "TradeMaterials", module)
-    end
+    Core:AddCategoryItems(table.trade, "TradeMaterials", module)
 
     -- Professions
     local professions = Core:GetProfessions()
     for _,prof in pairs(professions) do
-        if table[prof] then
-            -- Core:AddCategoryItems(table[prof], "Profession", module)
-            Core:AddProfessionItems(table[prof], prof, module)
-        end
+        Core:AddProfessionItems(table[prof], prof, module)
     end
 
     -- Dungeons
     if module.dungeons ~= nil then
         for dungeon,desc in pairs(module.dungeons) do
-            if table[dungeon] then
-                Core:AddDungeonItems(table[dungeon], dungeon, module)
-            end
+            Core:AddDungeonItems(table[dungeon], dungeon, module)
         end
     end
 
     -- Raids
     if module.raids ~= nil then
         for raid,desc in pairs(module.raids) do
-            if table[raid] then
-                Core:AddRaidItems(table[raid], raid, module)
-            end
+            Core:AddRaidItems(table[raid], raid, module)
         end
     end
 
     -- Reputation
-    if table.reputation ~= nil then
-        Core:AddCategoryItems(table.reputation, "Reputation", module)
-    end
-
+    Core:AddCategoryItems(table.reputation, "Reputation", module)
     -- Toys
-    if table.toys ~= nil then
-        Core:AddCategoryItems(table.toys, "Toys", module)
-    end
-
+    Core:AddCategoryItems(table.toys, "Toys", module)
     -- Battle Pets
-    if table.pets ~= nil then
-        Core:AddCategoryItems(table.pets, "BattlePets", module)
-    end
-
+    Core:AddCategoryItems(table.pets, "BattlePets", module)
     -- Junk
-    if table.junk ~= nil then
-        Core:AddCategoryItems(table.junk, "Junk", module)
-    end
-
+    Core:AddCategoryItems(table.junk, "Junk", module)
     -- Transmog
-    if table.transmog ~= nil then
-        Core:AddCategoryItems(table.transmog, "Transmog", module)
-    end
-
+    Core:AddCategoryItems(table.transmog, "Transmog", module)
     -- Other Loot
-    if table.loot ~= nil then
-        Core:AddCategoryItems(table.loot, "Loot", module)
-    end
+    Core:AddCategoryItems(table.loot, "Loot", module)
 end
 
 function Core:LoadExpansion(module)
