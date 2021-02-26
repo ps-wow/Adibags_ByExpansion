@@ -18,31 +18,23 @@ AddonTable.conduits = {
     184587, -- Ambuscade
 
     -- Druid Conduits
-    -- Balance Druid Potency Conduits
+    183467, -- Tireless Pursuit
     183478, -- Fury of Skies
     183477, -- Precice Alignment
     183476, -- Stellar Inspiration
     183479, -- Umbral Intensity
-
-    -- Feral Druid Potency Conduits
     183483, -- Carnivorous Instincts
     183481, -- Inseccant Hunter
     183482, -- Sudden Ambush
     183480, -- Taste for Blood
-
-    -- Guardian Druid Potency and Endurance Conduits
     183485, -- Savage Combatant
     183484, -- Unchecked Aggression
     183487, -- Layered Mane
     183486, -- Well-Honed Instincts
-
-    -- Restoration Druid Potency Conduits
     183489, -- Flash of Clarity
     183490, -- Floral Recycling
     183491, -- Ready for Anything
     183488, -- Unstoppable Growth
-
-    -- Covenant Druid Potency Conduits
     183471, -- Deep Allegiance
     183474, -- Endress Thirst
     183472, -- Evolved Swarm
