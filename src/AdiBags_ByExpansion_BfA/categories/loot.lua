@@ -442,6 +442,7 @@ AddonTable.loot = {
     163461, -- Honorbound Centurion's Greatbelt
     163523, -- Grunt's Warmace
     163527, -- Headhunter's Spear
+    163528, -- Deathguard's Gladius
     163530, -- Warmage's Spire
     163533, -- Footman's Cleaver
     163536, -- Warmage's Spire

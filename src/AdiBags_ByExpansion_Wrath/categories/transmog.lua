@@ -99,6 +99,7 @@ AddonTable.transmog = {
     36601, -- Patient Harpoon
     36639, -- Brutal Ballista
     36651, -- Muzzled Musket
+    36661, -- Enigmatic Wand
     36665, -- Wasteland Wand
     36666, -- Polar Wand
     36667, -- Solid Ice Wand

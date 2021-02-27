@@ -5,10 +5,29 @@ local core = LibStub("AceAddon-3.0"):GetAddon("AdiBags_ByExansion")
 
 -- Create the default categories
 local categories = core:GetDefaultCategories()
+local options = core:GetOptions()
 -- Create new legion specific categories
 categories['Anima'] = "Anima"
 categories['Conduits'] = "Conduits"
 categories['Legendaries'] = "Legendary"
+options['Anima'] = {
+    name = "Anima",
+    desc = 'Anima Consumables',
+    type = 'toggle',
+    order = 90,
+}
+options['Conduits'] = {
+    name = "Conduits",
+    desc = 'Conduits',
+    type = 'toggle',
+    order = 91,
+}
+options['Legendaries'] = {
+    name = "Legendaries",
+    desc = 'Shadowlands Legendaries',
+    type = 'toggle',
+    order = 92,
+}
 
 local module = {
     ["name"] = "shadowlands",
@@ -32,7 +51,8 @@ local module = {
         ["multiple"] = "Multiple",
         ["torghast"] = "Torghast"
     },
-    ["raids"] = {}
+    ["raids"] = {},
+    ["options"] = options
 }
 
 core:AddExpansion(module)

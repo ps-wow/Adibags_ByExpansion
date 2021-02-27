@@ -148,6 +148,10 @@ function Core:DefaultFilter(slotData, module, expFilter)
 
     local expTable = AddonTable.ItemTables[module.name]
 
+    if expTable == nil then
+        return
+    end
+
     if (expFilter.db.profile ~= nil) then
         everythingIsJunk = expFilter.db.profile.EverythingIsJunk
         foodIsJunk = expFilter.db.profile.FoodIsJunk
@@ -169,72 +173,64 @@ function Core:DefaultFilter(slotData, module, expFilter)
     prefix = prefix .. ' - '
 
     for tableName, tableDescription in pairs(module.categories) do
-        if everythingIsJunk then
+        if everythingIsJunk and expTable[tableName][slotData.itemId] then
             return prefix .. "Junk"
         end
 
-        if expFilter.db.profile[tableName] then
-            --option for the table is enabled
-            if expTable then
-                if expTable[tableName] then
-                    if tableName == "RaidEquipment" then
-                        for abbr,raid in pairs(module.raids) do
-                            if expTable[tableName][abbr] then
-                                if expTable[tableName][abbr][slotData.itemId] then
-                                    return prefix .. "Equipment (" .. raid .. ")"
-                                end
-                            end
-                        end
-                    elseif tableName == "Junk" and showJunk == true then
-                        if expTable[tableName][slotData.itemId] then
-                            return prefix .. tableDescription
-                        end
-                    elseif tableName == "Professions" then
-                        for _,prof in pairs(Core:GetProfessions()) do
-                            if expTable[tableName][prof] then
-                                if expTable[tableName][prof][slotData.itemId] then
-                                    local profDisplayName = prof:sub(1,1):upper()..prof:sub(2)
-                                    return prefix .. " " .. profDisplayName
-                                end
-                            end
-                        end
-                    elseif tableName == "DungeonEquipment" then
-                        if (module.dungeons ~= nil) then
-                            for abbr,dungeon in pairs(module.dungeons) do
-                                if expTable[tableName][abbr] then
-                                    if expTable[tableName][abbr][slotData.itemId] then
-                                        return prefix .. "Equipment (" .. dungeon .. ")"
-                                    end
-                                end
-                            end
-                        end
-                    elseif tableName == "Consumable" then
-                        if expTable[tableName][slotData.itemId] then
-                            if foodIsJunk then
-                                return prefix .. "Junk"
-                            else
-                                return prefix .. tableDescription
-                            end
-                        end
-                    else
-                        if expTable[tableName][slotData.itemId] then
-                            return prefix .. tableDescription
+        if tableName == "Consumable" and expFilter.db.profile.Consumable then
+            if expTable[tableName][slotData.itemId] then
+                if foodIsJunk then
+                    return prefix .. "Junk"
+                else
+                    return prefix .. tableDescription
+                end
+            end
+        end
+
+        if tableName == "Junk" and expFilter.db.profile.Junk then
+            if expTable[tableName][slotData.itemId] then
+                return prefix .. tableDescription
+            end
+        end
+
+        if tableName == "RaidEquipment" and expFilter.db.profile.RaidEquipment then
+            for abbr,raid in pairs(module.raids) do
+                if expTable[tableName][abbr] then
+                    if expTable[tableName][abbr][slotData.itemId] then
+                        return prefix .. "Equipment (" .. raid .. ")"
+                    end
+                end
+            end
+        end
+
+        if tableName == "DungeonEquipment" and expFilter.db.profile.DungeonEquipment then
+            if (module.dungeons ~= nil) then
+                for abbr,dungeon in pairs(module.dungeons) do
+                    if expTable[tableName][abbr] then
+                        if expTable[tableName][abbr][slotData.itemId] then
+                            return prefix .. "Equipment (" .. dungeon .. ")"
                         end
                     end
                 end
             end
-        else
-            if tableName ~= "Junk" then
-                if expTable then
-                    if expTable[tableName] then
-                        if expTable[tableName][slotData.itemId] then
-                            if everythingIsJunk then
-                                return prefix .. "Junk"
-                            else
-                                return prefix .. tableDescription
-                            end
-                        end
+        end
+
+        if tableName == "Professions" and expFilter.db.profile.Professions then
+            for _,prof in pairs(Core:GetProfessions()) do
+                if expTable[tableName][prof] then
+                    if expTable[tableName][prof][slotData.itemId] then
+                        local profDisplayName = prof:sub(1,1):upper()..prof:sub(2)
+                        return prefix .. " " .. profDisplayName
                     end
+                end
+            end
+        end
+
+        if expFilter.db.profile[tableName] then
+            --option for the table is enabled
+            if expTable[tableName] then
+                if expTable[tableName][slotData.itemId] then
+                    return prefix .. tableDescription
                 end
             end
         end
@@ -503,6 +499,11 @@ function Core:LoadExpansion(module)
     end
 
     function expFilter:GetOptions()
-        return Core:GetOptions(), AdiBags:GetOptionHandler(self, true)
+        Core:Debug(module, "module")
+        if module.options ~= nil then
+            return module.options, AdiBags:GetOptionHandler(self, true)
+        else
+            return Core:GetOptions(), AdiBags:GetOptionHandler(self, true)
+        end
     end
 end
