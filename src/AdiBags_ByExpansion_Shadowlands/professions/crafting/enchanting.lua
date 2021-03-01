@@ -9,6 +9,8 @@ AddonTable.enchanting = {
     172230, -- Soul Dust
     172231, -- Sacred Shard
     172232, -- Eternal Crystal
+    -- Weapon Enchants
+    172366, -- Enchant Weapon - Celestial Guidance
     -- Wands
     172462, -- Enchanted Twilight Wand
 
