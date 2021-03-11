@@ -42,4 +42,9 @@ AddonTable.anima = {
     184384, -- Hibernal Sproutling
     184766, -- Chronicles of the Paragons
     184772, -- Ritual Maldracite Crystal
+    181645, -- Engorged Monstosity Hearth
+    184774, -- Juvenile Sporespindle
+    181647, -- Stabilized Plague Strain
+    184338, -- Plump Glitterrot
+    184363, -- Consideration on Courage
 }
