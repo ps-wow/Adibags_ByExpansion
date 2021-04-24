@@ -22,6 +22,7 @@ AddonTable.alchemy = {
     171268, -- Spiritual Mana Potion
     171269, -- Spiritual Rejuvenation Potion
     176811, -- Potion of Sacrificial Anima
+    180317, -- Soulful Healing Potion
     -- Flasks
     171276, -- Spectral Flask of Power
     171278, -- Spectral Flask of Stamina
