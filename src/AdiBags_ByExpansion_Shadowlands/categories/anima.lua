@@ -3,6 +3,7 @@ local AddonName, AddonTable = ...
 AddonTable.anima = {
     181368, -- Centurion Power Core
     181479, -- Starlight Catcher
+    181540, -- Animaflower bud
     181541, -- Celestial Acorn
     181544, -- Confessions of Misdeed
     181547, -- Noble's Draught
@@ -47,4 +48,9 @@ AddonTable.anima = {
     181647, -- Stabilized Plague Strain
     184338, -- Plump Glitterrot
     184363, -- Consideration on Courage
+    184763, -- Mnemis Neural Network,
+    181648, -- Ziggurat Focusing Crystal
+    181649, -- Preserved Preternatural Braincase
+    184775, -- Necromancy for practical ritualist
+
 }
