@@ -14,15 +14,15 @@ AddonTable.anima = {
     181642, -- Novice Principles of Plaguistry
     181643, -- Weeping Corpseshroom
     181644, -- Unbalanced Culture Jars
+    181645, -- Engorged Monstosity Hearth
+    181647, -- Stabilized Plague Strain
+    181648, -- Ziggurat Focusing Crystal
+    181649, -- Preserved Preternatural Braincase
     181743, -- Plume of the Archon
     181745, -- Forgesmith's Coal
 
     183727, -- Resonance of Conflict
 
-    181645, -- Engorged Monstosity Hearth
-    181647, -- Stabilized Plague Strain
-    181648, -- Ziggurat Focusing Crystal
-    181649, -- Preserved Preternatural Braincase
     184146, -- Singed Soul Shackles
     184148, -- Concealed Sinvyr Flask
     184151, -- Counterfeit Ruby Brooch
