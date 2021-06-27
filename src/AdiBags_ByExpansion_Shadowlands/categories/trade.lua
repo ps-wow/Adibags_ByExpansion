@@ -12,4 +12,6 @@ AddonTable.trade = {
     173382, -- Crafter's Mark II
     -- Soul Cyphering
     174942, -- Stygia (Something to do with soulbinds?)
+    -- 
+    183701, -- Cleansing Rite Materials
 }

@@ -11,6 +11,7 @@ AddonTable.fooddrink = {
     172045, -- Tenebrous Crown Roast Aspic
     172046, -- Biscuits and Caviar
     172049, -- Iridescent Ravioli with Apple Sauce
+    172051, -- Steak a la Mode
     172068, -- Pickled Meat Smoothie
     173859, -- Ethereal pomegranite
     180430, -- Finger Food

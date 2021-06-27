@@ -4,6 +4,7 @@ AddonTable.jewelcrafting = {
     -- Misc
     173168, -- Laestrite Setting
     173169, -- Elethium Setting
+    183954, -- Malleable Wire
     -- Gems (Uncut)
     173108, -- Oriblase
     173109, -- Angerseye
@@ -43,6 +44,8 @@ AddonTable.jewelcrafting = {
     -- Hats
     180760, -- Crown of the Righteous
     -- Essenses
+    173170, -- Essense of Rebirth
     173171, -- Essense of Torment
+    173172, -- Essense of Servietude
     173173, -- Essense of Valor
 }

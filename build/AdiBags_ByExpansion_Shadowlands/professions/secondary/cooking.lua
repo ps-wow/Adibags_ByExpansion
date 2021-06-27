@@ -3,8 +3,8 @@ AddonTable.cooking = {
     -- Meat
     172052,
     172053,
+    172054,
     172055,
-    173034,
     179314,
     179315,
     -- Vendor Reagents
@@ -14,5 +14,4 @@ AddonTable.cooking = {
     172059,
     178786,
     -- Materials
-    172054,
 }

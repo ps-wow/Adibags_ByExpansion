@@ -4,8 +4,8 @@ AddonTable.cooking = {
     -- Meat
     172052, -- Aethereal Meat
     172053, -- Tenebrous Ribs
+    172054, -- Raw Seraphatic Wing
     172055, -- Phantasmal Haunch
-    173034, -- Silvergill Pike
     179314, -- Creeping Crawler Meat
     179315, -- Shadowy Shank
     -- Vendor Reagents
@@ -15,5 +15,4 @@ AddonTable.cooking = {
     172059, -- Rich Grazer Milk
     178786, -- Lusterwheat Flour
     -- Materials
-    172054, -- Seraphic Wing
 }

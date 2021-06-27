@@ -8,6 +8,14 @@ AddonTable.enchanting = {
     172230,
     172231,
     172232,
+    -- Ring Enchants
+    172362,
+    172364,
+    -- Weapon Enchants
+    172366,
+    172368,
+    -- Glove Enchants
+    172407, --Enchant Gloves - Strength of Soul
     -- Wands
     172462,
     -- Enchanted Vellums
