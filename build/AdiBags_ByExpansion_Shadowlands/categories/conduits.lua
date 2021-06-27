@@ -15,27 +15,23 @@ AddonTable.conduits = {
     183396,
     184587,
     -- Druid Conduits
-    -- Balance Druid Potency Conduits
+    183467,
     183478,
     183477,
     183476,
     183479,
-    -- Feral Druid Potency Conduits
     183483,
     183481,
     183482,
     183480,
-    -- Guardian Druid Potency and Endurance Conduits
     183485,
     183484,
     183487,
     183486,
-    -- Restoration Druid Potency Conduits
     183489,
     183490,
     183491,
     183488,
-    -- Covenant Druid Potency Conduits
     183471,
     183474,
     183472,

@@ -28,6 +28,7 @@ AddonTable.transmog = {
     176783, -- Unbrawing Shoulderpads
     176786, -- Unbrawing Cord
     176789, -- Unbrawing Wristwraps
+    176790, -- Glimmerhoof Armplates
     176791, -- Steelscale Bracers
     176793, -- Honorguide Crossbow
     176794, -- Gilded Glaive
@@ -35,6 +36,7 @@ AddonTable.transmog = {
     176796, -- Elysian Dory
     176798, -- Larion Claw
     176799, -- Reverent Dagger
+    176800, -- Modest Greatblade
     176801, -- Unburdened Hammer
     176803, -- Harmonious Mallet
     176967, -- Bloodskin Shoes
@@ -64,6 +66,7 @@ AddonTable.transmog = {
     177801, -- Sky Legion Halbard
     177802, -- Hopebreaker Carbine
     177804, -- Ritualist Dagger
+    177805, -- Redeemer's Mace
     177806, -- Banewood Dirk
     177807, -- Vyrtha's Dredglave
     177808, -- Reinforced Rapier
