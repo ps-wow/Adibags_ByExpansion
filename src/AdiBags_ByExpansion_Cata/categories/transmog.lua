@@ -108,6 +108,7 @@ AddonTable.transmog = {
 
     55700, -- Dandred Waistband
     55701, -- Haldarr Waistband
+    55702, -- Ravenholdt Waistband
     55709, -- Everstill Wristwraps
     55710, -- Mystral Wristwraps
     55711, -- Bluefen Wristwraps

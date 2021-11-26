@@ -16,7 +16,6 @@ AddonTable.loot = {
     55567, -- Talondeep Bracers (Mail)
     55619, -- Highperch Shoulders
     55693, -- Ravenholdt Shoulders (Leather)
-    55702, -- Ravenholdt Waistband
     55773, -- Mystical Cord
 
     57281, -- Scalded Rockscale Shoulderpads
