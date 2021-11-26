@@ -192,6 +192,7 @@ AddonTable.junk = {
     181487, -- Glowberry Bead String
     181488, -- Shadowstalker Claw
     181489, -- Star Lake Sonnets
+    181490, -- Wild Godrune
     181492, -- Petrified Faeflower
     181515, -- Miserable Pile of Secrets
     181713, -- Scorched Letter

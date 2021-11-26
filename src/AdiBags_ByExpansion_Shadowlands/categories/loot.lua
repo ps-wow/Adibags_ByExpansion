@@ -144,7 +144,6 @@ AddonTable.loot = {
     181421, -- Gormhusk Mantle
     181425, -- Runetender Cinch
     181459, -- Withergrove Shardling
-    181490, -- Wild Godrune
     181534, -- Ruthless Contender's Rod
     181577, -- Soulbearer's Vest
     181578, -- Soulbearer's Boots
