@@ -63,6 +63,7 @@ AddonTable.transmog = {
     55531, -- Crystalvein Helm
     55538, -- Ravencrest Legplates
     55441, -- Blackwolf Spellblade
+    55547, -- Ravencrest Pauldrons
     55548, -- Stonewrought Pauldrons
     55549, -- Crystalvein Pauldrons
     55556, -- Ravencrest Girdle
