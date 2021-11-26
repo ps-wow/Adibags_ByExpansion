@@ -460,6 +460,28 @@ function Core:LoadExpansion(module)
         })
     end
 
+    function expFilter:OnEnable()
+        AdiBags.RegisterSectionHeaderScript(self, 'OnClick', 'OnClickSectionHeader')
+    end
+
+    function expFilter:OnClickSectionHeader(arg1, header, button)
+        if button ~= 'RightButton' then
+            return
+        end
+
+        if AdiBags:GetInteractingWindow() == "MERCHANT" then
+            -- Sell our junk
+            for slotId, bag, slot, itemId in header.section:IterateContainerSlots() do
+                local sellPrice = select(11, GetItemInfo(itemId))
+                if sellPrice and sellPrice > 0 then
+                    UseContainerItem(bag, slot)
+                end
+            end
+        end
+
+        return true
+    end
+
     function expFilter:GetOptions()
         Core:Debug(module, "module")
         if module.options ~= nil then
