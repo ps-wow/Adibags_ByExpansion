@@ -1,4 +1,4 @@
-## Interface: 90002
+## Interface: 90105
 ## Title: AdiBags: ByExpansion |cff69ccf002. TBC|r
 ## Notes: Filter items from The Burning Crusade
 ## Author: PrivateSniper

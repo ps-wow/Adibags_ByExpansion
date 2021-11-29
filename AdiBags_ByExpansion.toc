@@ -1,4 +1,4 @@
-## Interface: 90002
+## Interface: 90105
 ## Title: AdiBags: ByExpansion |cff69ccf0Core|r
 ## Notes: Filter items by expansion then classification.
 ## Author: PrivateSniper
