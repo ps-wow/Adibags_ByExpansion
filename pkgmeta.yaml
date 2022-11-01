@@ -8,6 +8,7 @@ move-folders:
   Adibags_ByExpansion/build/AdiBags_ByExpansion_Legion: AdiBags_ByExpansion_Legion
   Adibags_ByExpansion/build/AdiBags_ByExpansion_BfA: AdiBags_ByExpansion_BfA
   Adibags_ByExpansion/build/AdiBags_ByExpansion_Shadowlands: AdiBags_ByExpansion_Shadowlands
+  Adibags_ByExpansion/build/AdiBags_ByExpansion_Dragonflight: AdiBags_ByExpansion_Dragonflight
 
 ignore:
   - src # Ignore the source (src) folder

@@ -18,7 +18,8 @@ class Config
             'WoD',
             'Legion',
             'BfA',
-            'Shadowlands'
+            'Shadowlands',
+            'Dragonflight'
         ];
         $this->folders = [
             'categories',

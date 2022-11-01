@@ -28,6 +28,12 @@ options['Legendaries'] = {
     type = 'toggle',
     order = 92,
 }
+options['Korthia'] = {
+    name = "Korthia",
+    desc = 'Korthia Item',
+    type = 'toggle',
+    order = 93,
+}
 
 local module = {
     ["name"] = "shadowlands",
@@ -61,5 +67,6 @@ core:LoadCategories(AddonTable, module)
 core:AddCategoryItems(AddonTable.legendaries, "Legendaries", module)
 core:AddCategoryItems(AddonTable.conduits, "Conduits", module)
 core:AddCategoryItems(AddonTable.anima, "Anima", module)
+core:AddCategoryItems(AddonTable.korthia, "Korthia", module)
 
 core:LoadExpansion(module)

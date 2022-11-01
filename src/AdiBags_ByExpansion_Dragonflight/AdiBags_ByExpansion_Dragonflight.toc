@@ -1,0 +1,8 @@
+## Interface: 100000
+## Title: AdiBags: ByExpansion |cff69ccf009. 10|r
+## Notes: Filter items from Dragonflight
+## Author: PrivateSniper
+## Version: 1.0.0
+## Dependencies: AdiBags, AdiBags_ByExpansion
+
+dragonflight.xml
