@@ -44,6 +44,8 @@
     <Script file="dungeons\multiple.lua"/>
 
     <Script file="raids\castlenathria.lua"/>
+    <Script file="raids\domination.lua"/>
+    <Script file="raids\sepulcher.lua"/>
     
     <Script file="zones\korthia.lua"/>
 

@@ -57,7 +57,11 @@ local module = {
         ["multiple"] = "Multiple",
         ["torghast"] = "Torghast"
     },
-    ["raids"] = {},
+    ["raids"] = {
+        ["castlenathria"] = "Castle Nathria",
+        ["domination"] = "Sanctum of Domination",
+        ["sepulcher"] = "Sepulcher of the First Ones",
+    }
     ["options"] = options
 }
 
