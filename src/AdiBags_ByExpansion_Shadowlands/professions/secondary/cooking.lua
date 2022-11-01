@@ -14,5 +14,6 @@ AddonTable.cooking = {
     172058, -- Smuggled Azerothian Produce
     172059, -- Rich Grazer Milk
     178786, -- Lusterwheat Flour
-    -- Materials
+    -- Zereth Mortis
+    187704, -- Protoflesh
 }

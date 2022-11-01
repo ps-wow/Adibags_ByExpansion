@@ -20,4 +20,7 @@ AddonTable.mining = {
     171841, -- Shaded Stone
     -- Misc
     177061, -- Twilight Bark
+    
+    -- Zereth Mortis
+    187700, -- Progenium Ore
 }

@@ -19,4 +19,6 @@ AddonTable.mining = {
     171841,
     -- Misc
     177061,
+    -- Zereth Mortis
+    187700,
 }

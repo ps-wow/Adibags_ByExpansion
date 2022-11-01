@@ -13,5 +13,6 @@ AddonTable.cooking = {
     172058,
     172059,
     178786,
-    -- Materials
+    -- Zereth Mortis
+    187704,
 }
