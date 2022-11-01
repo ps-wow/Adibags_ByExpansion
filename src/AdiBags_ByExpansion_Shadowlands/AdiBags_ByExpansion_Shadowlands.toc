@@ -1,4 +1,4 @@
-## Interface: 90105
+## Interface: 100000
 ## Title: AdiBags: ByExpansion |cff69ccf009. Shadowlands|r
 ## Notes: Filter items from Shadowlands
 ## Author: PrivateSniper

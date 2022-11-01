@@ -1,4 +1,4 @@
-## Interface: 90105
+## Interface: 100000
 ## Title: AdiBags: ByExpansion |cff69ccf007. Legion|r
 ## Notes: Filter items from Legion
 ## Author: PrivateSniper
