@@ -10,6 +10,7 @@ local options = core:GetOptions()
 categories['Anima'] = "Anima"
 categories['Conduits'] = "Conduits"
 categories['Legendaries'] = "Legendary"
+categories['Korthia'] = 'Korthia'
 options['Anima'] = {
     name = "Anima",
     desc = 'Anima Consumables',
@@ -71,6 +72,7 @@ core:LoadCategories(AddonTable, module)
 core:AddCategoryItems(AddonTable.legendaries, "Legendaries", module)
 core:AddCategoryItems(AddonTable.conduits, "Conduits", module)
 core:AddCategoryItems(AddonTable.anima, "Anima", module)
+------ ???
 core:AddCategoryItems(AddonTable.korthia, "Korthia", module)
 
 core:LoadExpansion(module)
