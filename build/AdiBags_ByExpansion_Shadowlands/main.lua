@@ -60,8 +60,8 @@ local module = {
     ["raids"] = {
         ["castlenathria"] = "Castle Nathria",
         ["domination"] = "Sanctum of Domination",
-        ["sepulcher"] = "Sepulcher of the First Ones",
-    }
+        ["sepulcher"] = "Sepulcher of the First Ones"
+    },
     ["options"] = options
 }
 
