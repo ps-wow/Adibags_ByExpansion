@@ -1,5 +1,10 @@
 # Changelog
 
+## [1.5.0] - 2022-11-01
+### Changed
+ - Update TOC for 10.0
+ - Add folder/file structure for dragonflight
+
 ## [1.1.0] - 2020-10-14
 ### Added
  - Add 'pets' and 'toys' categories for all expansions.
