@@ -8,7 +8,6 @@ AddonTable.fishing = {
     111650, -- Small Jawless Skulker
     111651, -- Small Fat Sleeper
     111652, -- Small Blind Lake Sturgeon
-    -- 111655, -- Also not found on wowhead
     111656, -- Small Fire Ammonite
     111658, -- Small Sea Scorpion
     111659, -- Small Abyssal Gulper Eel
