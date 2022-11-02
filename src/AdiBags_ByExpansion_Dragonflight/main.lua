@@ -18,18 +18,18 @@ local module = {
     },
     ["description"] = "Dragonflight",
     ["dungeons"] = {
-        -- ["deotherside"] = "De Other Side",
-        -- ["hallsofattonement"] = "Halls of Attonement",
-        -- ["mistsoftirnascithe"] = "Mists of Tirna Scithe",
-        -- ["necroticwake"] = "Necrotic Wake",
-        -- ["plaguefall"] = "Plaguefall",
-        -- ["sanguinedepths"] = "Sanguine Depths",
-        -- ["spiresofascension"] = "Spires of Ascension",
-        -- ["theaterofpain"] = "Theater of Pain",
-        -- ["multiple"] = "Multiple",
-        -- ["torghast"] = "Torghast"
+        ["academy"] = "Algeth'ar Academy",
+        ["azure"] = "The Azure Vault",
+        ["brackenhide"] = "Brackenhide Hollow",
+        ["hoi"] = "Halls of Infusion",
+        ["lot"] = "Uldaman: Legacy of Tyr",
+        ["multiple"] = "Multiple",
+        ["neltharus"] = "Neltharus",
+        ["nokhud"] = "The Nokhud Offensive",
+        ["rlp"] = "Ruby Life Pools"
     },
     ["raids"] = {
+        ['world'] = 'World Bosses',
         ['incarnates'] = 'Vault of the Incarnates'
     },
     ["options"] = options
@@ -38,8 +38,5 @@ local module = {
 core:AddExpansion(module)
 
 core:LoadCategories(AddonTable, module)
--- core:AddCategoryItems(AddonTable.legendaries, "Legendaries", module)
--- core:AddCategoryItems(AddonTable.conduits, "Conduits", module)
--- core:AddCategoryItems(AddonTable.anima, "Anima", module)
 
 core:LoadExpansion(module)
