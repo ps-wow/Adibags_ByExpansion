@@ -10,7 +10,7 @@ local options = core:GetOptions()
 local module = {
     ["name"] = "Dragonflight",
     ["categories"] = categories,
-    ["namespace"] = "expansion9",
+    ["namespace"] = "ps_dragonflight",
     ["prefix"] = {
         ["num"] = "10. ",
         ["title"] = "10",
@@ -29,7 +29,9 @@ local module = {
         -- ["multiple"] = "Multiple",
         -- ["torghast"] = "Torghast"
     },
-    ["raids"] = {},
+    ["raids"] = {
+        ['incarnates'] = 'Vault of the Incarnates'
+    },
     ["options"] = options
 }
 
