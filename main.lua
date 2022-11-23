@@ -474,7 +474,7 @@ function Core:LoadExpansion(module)
             for slotId, bag, slot, itemId in header.section:IterateContainerSlots() do
                 local sellPrice = select(11, GetItemInfo(itemId))
                 if sellPrice and sellPrice > 0 then
-                    UseContainerItem(bag, slot)
+                    C_Container.UseContainerItem(bag, slot)
                 end
             end
         end
