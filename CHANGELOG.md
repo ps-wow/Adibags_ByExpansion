@@ -1,5 +1,9 @@
 # Changelog
 
+## [1.5.2] - 2022-11-23
+### Fixed
+ - Fix right click vendor functionality
+
 ## [1.5.1] - 2022-11-13
  - Shadowlands(Korthia) fixes.
  - Updated dragonflight toc
