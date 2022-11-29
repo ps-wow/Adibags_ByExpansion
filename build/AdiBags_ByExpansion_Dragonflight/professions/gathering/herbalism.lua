@@ -13,4 +13,8 @@ AddonTable.herbalism = {
     191467,
     191468,
     191469,
+    -- Seeds
+    200506,
+    -- Other
+    200677,
 }

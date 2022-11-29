@@ -14,4 +14,8 @@ AddonTable.herbalism = {
     191467, -- Bubble Poppy
     191468, -- Bubble Poppy
     191469, -- Bubble Poppy
+    -- Seeds
+    200506, -- Roused Seedling
+    -- Other
+    200677, -- +1 Herbalism Knowledge
 }
