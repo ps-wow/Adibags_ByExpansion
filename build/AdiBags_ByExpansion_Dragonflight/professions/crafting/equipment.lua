@@ -4,4 +4,6 @@ AddonTable.professionequipment = {
     -- Cooking
     -- Fishing
     193529,
+    -- Tailoring
+    193541,
 }

@@ -6,4 +6,5 @@ AddonTable.transmog = {
     199019, -- Aerodynamic Cape
     199032, -- Drakescale Shield
     199037, -- Shorebreaker's Poleaxe
+    199047, -- Wind-Blessed Claw
 }
