@@ -1,6 +1,7 @@
 local AddonName, AddonTable = ...
 -- Dragonflight Herbalism
 AddonTable.herbalism = {
+    197755,
     191460,
     191461,
     191462,

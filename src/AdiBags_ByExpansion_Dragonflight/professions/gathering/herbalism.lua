@@ -2,6 +2,7 @@ local AddonName, AddonTable = ...
 
 -- Dragonflight Herbalism
 AddonTable.herbalism = {
+    197755, -- Lava Beetle
     191460, -- Hochenblume
     191461, -- Hochenblume
     191462, -- Hochenblume

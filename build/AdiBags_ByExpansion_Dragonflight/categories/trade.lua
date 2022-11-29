@@ -23,6 +23,7 @@ AddonTable.trade = {
     190316,
     190327,
     190450,
+    201401,
     -- Optional Reagents
     --- Titan Training (iLvl Setting)
     198048,

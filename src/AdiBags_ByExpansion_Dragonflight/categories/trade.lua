@@ -24,6 +24,7 @@ AddonTable.trade = {
     190316, -- Awakened Earth
     190327, -- Awakened Air
     190450, -- Awakened Ire
+    201401, -- Iridescent Plume
     -- Optional Reagents
     --- Titan Training (iLvl Setting)
     198048, -- Titan Training Matrix I
