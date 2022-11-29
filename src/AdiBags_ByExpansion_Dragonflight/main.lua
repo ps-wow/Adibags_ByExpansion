@@ -13,7 +13,7 @@ local module = {
     ["namespace"] = "abe_dragonflight",
     ["prefix"] = {
         ["num"] = "10. ",
-        ["title"] = "10",
+        ["title"] = "Dragonflight",
         ["icon"] = "",
     },
     ["description"] = "Dragonflight",
