@@ -4,4 +4,6 @@ AddonTable.mining = {
     188658,
     190395,
     190312,
+    -- Knowledge
+    201300,
 }
