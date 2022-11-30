@@ -1,6 +1,7 @@
 local AddonName, AddonTable = ...
 -- Dragonflight Loot
 AddonTable.loot = {
+    194345,
     194349,
     194368,
     194381,
