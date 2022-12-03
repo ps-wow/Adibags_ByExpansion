@@ -1,4 +1,5 @@
 local AddonName, AddonTable = ...
+
 -- Dragonflight Consumable
 AddonTable.consumable = {
     191378, -- Refreshing Healing Potion [Bronze]
