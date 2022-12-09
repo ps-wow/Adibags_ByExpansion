@@ -12,4 +12,5 @@ AddonTable.mining = {
     194039, -- Heated Ore Sample
     201300, -- Iridescent Ore Fragments
     202011, -- Elementally-Charged Stone
+    194062, -- Unyielding Stone Chunk
 }

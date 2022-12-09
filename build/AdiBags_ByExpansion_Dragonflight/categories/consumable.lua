@@ -7,6 +7,9 @@ AddonTable.consumable = {
     191396,
     201325,
 }
+AddonTable.openables = {
+    190954,
+}
 AddonTable.fooddrink = {
 }
 AddonTable.alcohol = {

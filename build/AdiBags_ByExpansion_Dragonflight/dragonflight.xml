@@ -12,11 +12,12 @@
     <Script file="categories\trade.lua"/>
     <Script file="categories\transmog.lua"/>
 
+    <Script file="professions\equipment.lua"/>
+
     <Script file="professions\crafting\alchemy.lua"/>
     <Script file="professions\crafting\blacksmithing.lua"/>
     <Script file="professions\crafting\enchanting.lua"/>
     <Script file="professions\crafting\engineering.lua"/>
-    <Script file="professions\crafting\equipment.lua"/>
     <Script file="professions\crafting\inscription.lua"/>
     <Script file="professions\crafting\jewelcrafting.lua"/>
     <Script file="professions\crafting\leatherworking.lua"/>

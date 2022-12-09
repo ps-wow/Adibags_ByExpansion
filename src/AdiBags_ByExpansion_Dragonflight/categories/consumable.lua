@@ -9,6 +9,10 @@ AddonTable.consumable = {
     201325, -- Draconic Augment Rune
 }
 
+AddonTable.openables = {
+    190954, -- Serevite Lockbox
+}
+
 AddonTable.fooddrink = {
 }
 

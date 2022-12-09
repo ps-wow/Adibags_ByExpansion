@@ -15,4 +15,5 @@ AddonTable.loot = {
     199017, -- Claw-Marked Signet
     199018, -- Bejeweled Stonewatcher's Pendant
     199029, -- Stonewatcher's Toe
+    199031, -- Stonewatcher's Eye
 }

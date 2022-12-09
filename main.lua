@@ -401,6 +401,7 @@ function Core:LoadCategories(table, module)
     Core:AddCategoryItems(table.foodDrink, "Consumable", module)
     Core:AddCategoryItems(table.consumable, "Consumable", module)
     Core:AddCategoryItems(table.alcohol, "Consumable", module)
+    Core:AddCategoryItems(table.openables, "Consumable", module)
 
     -- Trade
     Core:AddCategoryItems(table.trade, "TradeMaterials", module)
