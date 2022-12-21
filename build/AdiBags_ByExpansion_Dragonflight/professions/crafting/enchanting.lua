@@ -5,4 +5,8 @@ AddonTable.enchanting = {
     194124,
     -- Enchants
     199984,
+    -- Knowledge
+    198610,
+    198968,
+    198967,
 }

@@ -7,4 +7,9 @@ AddonTable.enchanting = {
 
     -- Enchants
     199984, -- Enchant Bracer - Writ of Speed
+
+    -- Knowledge
+    198610, -- Enchanter's Script
+    198968, -- Primalist Charm
+    198967, -- Primordial Aether
 }

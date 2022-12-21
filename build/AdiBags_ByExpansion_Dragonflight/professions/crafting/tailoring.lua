@@ -23,4 +23,5 @@ AddonTable.tailoring = {
     193951,
     -- Knowledge
     198609,
+    198978,
 }
