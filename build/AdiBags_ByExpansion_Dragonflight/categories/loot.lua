@@ -16,7 +16,6 @@ AddonTable.loot = {
     199018,
     199029,
     199031,
-    143906,
     -- WQ Rewards
     191983,
     -- PvP Items

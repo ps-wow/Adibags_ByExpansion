@@ -16,7 +16,6 @@ AddonTable.loot = {
     199018, -- Bejeweled Stonewatcher's Pendant
     199029, -- Stonewatcher's Toe
     199031, -- Stonewatcher's Eye
-    143906, -- Heartbreak Charm
     -- WQ Rewards
     191983, -- Cobalt Watcher's Vestment
     -- PvP Items

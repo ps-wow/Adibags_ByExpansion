@@ -191,6 +191,8 @@ AddonTable.loot = {
     141628, -- Soul-Stealer's Leggings
     141650, -- Helm of Reaffirmed Purpose
 
+    143906, -- Heartbreak Charm
+
     146760, -- Xorothian Waistplate
     146769, -- Netherfiend Treads
     146775, -- Netherfiend Belt
