@@ -44,6 +44,7 @@
 
     <Script file="raids\world.lua"/>
     <Script file="raids\incarnates.lua"/>
+    <Script file="raids\aberrus.lua"/>
 
     <Script file="main.lua"/>
 
