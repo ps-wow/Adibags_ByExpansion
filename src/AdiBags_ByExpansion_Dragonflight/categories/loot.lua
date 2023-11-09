@@ -16,4 +16,11 @@ AddonTable.loot = {
     199018, -- Bejeweled Stonewatcher's Pendant
     199029, -- Stonewatcher's Toe
     199031, -- Stonewatcher's Eye
+    143906, -- Heartbreak Charm
+    -- WQ Rewards
+    191983, -- Cobalt Watcher's Vestment
+    -- PvP Items
+    201749, -- Crimson Aspirant's Pendant
+    201453, -- Crimson Aspirant's Sigil of Adaptation
+    201766, -- Crimson Aspirant's Torch
 }
