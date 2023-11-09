@@ -1,0 +1,8 @@
+## Interface: 100000
+## Title: AdiBags: ByExpansion |cff69ccf011. WarWithin|r
+## Notes: Filter items from The War Within
+## Author: PrivateSniper
+## Version: 1.0.0
+## Dependencies: AdiBags, AdiBags_ByExpansion
+
+ww.xml

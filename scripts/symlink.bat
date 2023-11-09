@@ -14,3 +14,4 @@ mklink /D "%dest%\AdiBags_ByExpansion_Legion" "%source%\AdiBags_ByExpansion_Legi
 mklink /D "%dest%\AdiBags_ByExpansion_BfA" "%source%\AdiBags_ByExpansion_BfA"
 mklink /D "%dest%\AdiBags_ByExpansion_Shadowlands" "%source%\AdiBags_ByExpansion_Shadowlands"
 mklink /D "%dest%\AdiBags_ByExpansion_Dragonflight" "%source%\AdiBags_ByExpansion_Dragonflight"
+mklink /D "%dest%\AdiBags_ByExpansion_WarWithin" "%source%\AdiBags_ByExpansion_WarWithin"
