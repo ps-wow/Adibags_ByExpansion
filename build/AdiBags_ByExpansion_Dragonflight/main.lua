@@ -38,7 +38,9 @@ local module = {
     },
     ["raids"] = {
         ['world'] = 'World Bosses',
-        ['incarnates'] = 'Vault of the Incarnates'
+        ['incarnates'] = 'Vault of the Incarnates',
+        ['aberrus'] = 'Aberrus, the Shadowed Crucible',
+        ['amirdrassil'] = "Amirdrassil, the Dream's Hope"
     },
     ["options"] = options
 }
