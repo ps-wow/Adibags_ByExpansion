@@ -2,7 +2,6 @@ local AddonName, AddonTable = ...
 
 -- Dragonflight Trade Goods
 AddonTable.trade = {
-    190454, -- Primal Chaos
     190453, -- Spark of Ingenuity
     198046, -- Concentrated Primal Infusion
     190455, -- Concentrated Primal Focus

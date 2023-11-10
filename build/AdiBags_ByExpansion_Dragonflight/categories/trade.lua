@@ -1,7 +1,6 @@
 local AddonName, AddonTable = ...
 -- Dragonflight Trade Goods
 AddonTable.trade = {
-    190454,
     190453,
     198046,
     190455,
