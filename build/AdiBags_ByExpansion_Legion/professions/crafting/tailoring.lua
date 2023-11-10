@@ -1,5 +1,7 @@
 local AddonName, AddonTable = ...
 AddonTable.tailoring = {
+    -- Armor
+    126992,
     -- Materials
     127681,
     -- Quest Items

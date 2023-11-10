@@ -1,6 +1,8 @@
 local AddonName, AddonTable = ...
 
 AddonTable.tailoring = {
+    -- Armor
+    126992, -- Silkweave Epaulets
     -- Materials
     127681, -- Sharp Spritethorn
     -- Quest Items
