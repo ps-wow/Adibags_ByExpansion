@@ -14,6 +14,10 @@ AddonTable.openables = {
 }
 
 AddonTable.fooddrink = {
+    197777, -- Hopefully Healthy [Cooking]
+    201469, -- Emerald Green Apple
+    197761, -- Probably Protein
+    197770, -- Zesty Water
 }
 
 AddonTable.alcohol = {

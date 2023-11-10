@@ -11,6 +11,10 @@ AddonTable.openables = {
     190954,
 }
 AddonTable.fooddrink = {
+    197777,
+    201469,
+    197761,
+    197770,
 }
 AddonTable.alcohol = {
 }
