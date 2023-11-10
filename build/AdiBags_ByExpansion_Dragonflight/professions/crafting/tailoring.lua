@@ -19,6 +19,7 @@ AddonTable.tailoring = {
     193930,
     -- Thread
     192095,
+    192096,
     193956,
     -- Other
     193951,

@@ -4,6 +4,7 @@ local AddonName, AddonTable = ...
 AddonTable.enchanting = {
     194123, -- Chromatic Dust
     194124, -- Vibrant Shard
+    200113, -- Resonant Crystal
 
     -- Enchants
     199984, -- Enchant Bracer - Writ of Speed

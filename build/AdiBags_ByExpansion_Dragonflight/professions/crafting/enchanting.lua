@@ -3,6 +3,7 @@ local AddonName, AddonTable = ...
 AddonTable.enchanting = {
     194123,
     194124,
+    200113,
     -- Enchants
     199984,
     -- Knowledge
