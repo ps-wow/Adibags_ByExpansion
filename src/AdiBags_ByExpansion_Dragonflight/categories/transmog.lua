@@ -51,4 +51,7 @@ AddonTable.transmog = {
     199046, -- Shorebreaker's Greataxe
     199047, -- Wind-Blessed Claw
     199049, -- Fire-Blessed Greatsword
+    210083, -- Maple Tender Robe
+    210095, -- Maple Tender Leggings
+    210118, -- Maple Tender Slippers
 }
