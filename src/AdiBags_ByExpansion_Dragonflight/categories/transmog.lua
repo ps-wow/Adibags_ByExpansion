@@ -53,5 +53,6 @@ AddonTable.transmog = {
     199049, -- Fire-Blessed Greatsword
     210083, -- Maple Tender Robe
     210095, -- Maple Tender Leggings
+    210111, -- Breezekeeper's Pinecone Scepter
     210118, -- Maple Tender Slippers
 }
