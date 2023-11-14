@@ -34,11 +34,15 @@ AddonTable.loot = {
     209927, -- Summer Soother's Slippers
     209931, -- Summer Soother's Cane
     210236, -- Chartreuse Champion's Cloak
+    197924, -- Wyrm Poacher's Emberblade
     -- 424 Boosted Character Loot
     --- Warlock
     154011, -- Felsoul Band of Destruction
     154012, -- Felsoul Ring of Destruction
     154017, -- Felsoul Leggings
     154018, -- Felsoul Robe
+    154019, -- Felsoul Shoulderpads
+    154020, -- Felsoul Cord
     154021, -- Felsoul Wristwraps
+    154024, -- Felsoul Staff
 }

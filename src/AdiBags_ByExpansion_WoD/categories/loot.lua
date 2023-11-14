@@ -2,6 +2,7 @@ local AddonName, AddonTable = ...
 
 -- WoD Loot
 AddonTable.loot = {
+    106136, -- Frostwolf Scout's Boots
     106148, -- Frostwolf Stalwart Gauntlets
     106149, -- Frostwolf Stalwart Girdle
     106152, -- Frostwolf Stalwart Shoulders

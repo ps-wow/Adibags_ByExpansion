@@ -1,6 +1,7 @@
 local AddonName, AddonTable = ...
 -- WoD Loot
 AddonTable.loot = {
+    106136,
     106148,
     106149,
     106152,

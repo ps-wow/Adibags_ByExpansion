@@ -314,8 +314,10 @@ AddonTable.transmog = {
     14309, -- Celestial Belt
     14312, -- Celestial Crown
     14375, -- Sanguine Cuffs
+    14412, -- Stonecloth Epaulets
     14414, -- Stonecloth Belt
     14415, -- Stonecloth Britches
+    14426, -- Silksand Girdle
     14431, -- Windchaser Handguards
     14551, -- Edgemaster's Handguards
     14553, -- Sash of Mercy

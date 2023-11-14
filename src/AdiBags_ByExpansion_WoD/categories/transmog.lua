@@ -9,6 +9,7 @@ AddonTable.transmog = {
     106410, -- Lunarglow Leggings
     106418, -- Frostlink Greaves
     106426, -- Rimeplate Helm
+    106428, -- Rimeplate Pauldrons
     106431, -- Rimeplate Vambraces
     106432, -- Voidcaller Bindings
     106457, -- Rockspine Gauntlets
@@ -18,6 +19,7 @@ AddonTable.transmog = {
     106429, -- Rimeplate Sabatons
     106433, -- Voidcaller Boots
     106452, -- Gronnling Helm
+    106461, -- Rockspine Pauldrons
     106474, -- Iyun Cowl
     106475, -- Iyun Handwraps
     106483, -- Tangleheart Gauntlets
