@@ -1,4 +1,4 @@
-## Interface: 100000
+## Interface: 100200
 ## Title: AdiBags: ByExpansion |cff69ccf010. Dragonflight|r
 ## Notes: Filter items from Dragonflight
 ## Author: PrivateSniper
