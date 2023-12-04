@@ -27,4 +27,7 @@ AddonTable.tailoring = {
     -- Knowledge
     198609, -- Tailoring Examples
     198978, -- Stupidly Effective Stichery
+
+    -- Recipe's
+    194256, -- Pattern: Hood of Surging Time
 }
