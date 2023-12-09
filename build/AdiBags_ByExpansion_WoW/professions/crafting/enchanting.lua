@@ -10,6 +10,7 @@ AddonTable.enchanting = {
     11811,
     -- Materials
     10938,
+    10939,
     12655,
     12810,
     14343,

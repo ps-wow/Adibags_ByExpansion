@@ -11,6 +11,7 @@ AddonTable.enchanting = {
     11811,  -- Smoking Heart of the Mountain
     -- Materials
     10938,  -- Lesser Magic Essence
+    10939,  -- Greater Magic Essence
     12655,  -- Enchanted Thorium Bar
     12810,  -- Enchanted Leather
     14343,  -- Small Brilliant Shard
