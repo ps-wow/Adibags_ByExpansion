@@ -10,6 +10,8 @@ AddonTable.loot = {
     194381, -- Expedition Researcher's Treads
     194395, -- Persistent Threat Cleaver
     194401, -- Expedition Guard's Chestguard
+
+    197924, -- Wyrm Poacher's Emberblade
     -- BoE Jewelry
     199030, -- Stonewatcher's Thumb
     199017, -- Claw-Marked Signet
@@ -25,6 +27,7 @@ AddonTable.loot = {
     --
     200137, -- Chitin Dreadbringer
     200212, -- Sand Encrusted Greaves
+    203662, -- Arcanogolem Crystalblade
     209892, -- Summer Soother's Hood
     209896, -- Summer Soother's Leggings
     209901, -- Summer Soother's Shoulders
@@ -34,7 +37,6 @@ AddonTable.loot = {
     209927, -- Summer Soother's Slippers
     209931, -- Summer Soother's Cane
     210236, -- Chartreuse Champion's Cloak
-    197924, -- Wyrm Poacher's Emberblade
     -- 424 Boosted Character Loot
     --- Warlock
     154011, -- Felsoul Band of Destruction

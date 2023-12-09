@@ -25,6 +25,7 @@ AddonTable.trade = {
     190450, -- Awakened Ire
     190451, -- Rousing Ire
     201401, -- Iridescent Plume
+    201399, -- Primal Bear Spine
     -- Optional Reagents
     --- Titan Training (iLvl Setting)
     198048, -- Titan Training Matrix I
