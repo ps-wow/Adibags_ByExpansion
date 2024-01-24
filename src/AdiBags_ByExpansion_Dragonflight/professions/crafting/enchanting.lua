@@ -9,6 +9,9 @@ AddonTable.enchanting = {
     -- Enchants
     199984, -- Enchant Bracer - Writ of Speed
 
+    -- Recipes
+    210171, -- Formula: Enchanted Aspect's Dreaming Crest (473-486)
+
     -- Knowledge
     198610, -- Enchanter's Script
     198968, -- Primalist Charm
