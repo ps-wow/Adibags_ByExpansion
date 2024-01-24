@@ -6,4 +6,6 @@ AddonTable.blacksmithing = {
     205145,
     -- Knowledge
     192132,
+    -- Vendor Bought
+    190452,
 }

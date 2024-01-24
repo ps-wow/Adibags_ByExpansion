@@ -6,4 +6,7 @@ AddonTable.blacksmithing = {
     205145, -- Plans: Shadowed Impact Buckler
     -- Knowledge
     192132, -- Draconium Blade Sharpener
+
+    -- Vendor Bought
+    190452, -- Primal Flux
 }

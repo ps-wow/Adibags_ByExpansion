@@ -3,6 +3,7 @@ local AddonName, AddonTable = ...
 AddonTable.skinning = {
     193208,
     193210,
+    193211,
     193213,
     193214,
     193215,
@@ -10,5 +11,6 @@ AddonTable.skinning = {
     193217,
     193223,
     193252,
+    193258,
     193259,
 }

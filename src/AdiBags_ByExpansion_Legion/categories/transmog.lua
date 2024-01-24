@@ -76,6 +76,10 @@ AddonTable.transmog = {
     121272, -- Moonfall Robe
 
     141577, -- Fists of Thane Kray-Tan
-
+    
+    144399, -- Aristocrat's Winter Drape
+    144400, -- Feathermane Feather Cloak
     144401, -- Cloak of Multitudinous Sheaths
+    144403, -- Fashionable Autumn Cloak
+    144404, -- Mana-Cord of Deception
 }
