@@ -12,6 +12,9 @@ AddonTable.skinning = {
     193217, -- Dense Hide [Silver (2)]
     193223, -- Lustrous Scaled Hide [Silver (2)]
     193252, -- Salamanther Scales
+    193254, -- Rockfang Leather
+    193255, -- Pristine Vorquin Horn
+    193256, -- Windsong Plumage
     193258, -- Fire-Infused Hide
     193259, -- Flawless Proto Dragon Scale
 

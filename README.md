@@ -68,3 +68,7 @@ To check for duplicates:
 ```
 php ./scripts/duplicates.php
 ```
+
+## Other Info
+
+### Updating TOC files

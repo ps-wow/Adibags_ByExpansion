@@ -1,6 +1,5 @@
 local AddonName, AddonTable = ...
 AddonTable.nighthold = {
-    144403,
     -- Skorpyron
     140902,
     140901,
