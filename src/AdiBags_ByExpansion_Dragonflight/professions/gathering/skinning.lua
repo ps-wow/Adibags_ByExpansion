@@ -14,4 +14,9 @@ AddonTable.skinning = {
     193252, -- Salamanther Scales
     193258, -- Fire-Infused Hide
     193259, -- Flawless Proto Dragon Scale
+
+    -- Knowledge Items
+    198837, -- Curious Hide Scraps [1]
+    202016, -- Saturated Bone [1]
+    199128, -- Skinning Field Notes [3]
 }

@@ -13,4 +13,8 @@ AddonTable.skinning = {
     193252,
     193258,
     193259,
+    -- Knowledge Items
+    198837,
+    202016,
+    199128,
 }
