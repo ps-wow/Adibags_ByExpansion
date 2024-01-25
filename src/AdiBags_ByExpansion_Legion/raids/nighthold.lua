@@ -1,7 +1,6 @@
 local AddonName, AddonTable = ...
 
 AddonTable.nighthold = {
-    144403, -- Fashionable Autumn Cloak
     -- Skorpyron
     140902, -- jagged-carapace-wristclamps
     140901, -- vintage-suramar-nobility-hat
