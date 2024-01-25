@@ -1,4 +1,5 @@
 local AddonName, AddonTable = ...
+-- Dragonflight Jewelcrafting
 AddonTable.jewelcrafting = {
     -- Gems (Uncut)
     192866,
