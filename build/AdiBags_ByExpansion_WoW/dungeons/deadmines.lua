@@ -1,6 +1,10 @@
 local AddonName, AddonTable = ...
+-- WoW - Deadmines
 AddonTable.deadmines = {
     1951,
+    1936,
+    1925,
+    66028,
     -- Glubtok
     2169,
     5444,

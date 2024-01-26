@@ -1,7 +1,11 @@
 local AddonName, AddonTable = ...
 
+-- WoW - Deadmines
 AddonTable.deadmines = {
     1951,   -- Blackwater Cutlass
+    1936,   -- Goblin Screwdriver
+    1925,   -- Defias Rapier
+    66028,  -- Cookie's Stirring Stick
     -- Glubtok
     2169,   -- Buzzer Blade
     5444,   -- Miner's Cape
