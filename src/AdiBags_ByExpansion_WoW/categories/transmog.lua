@@ -34,6 +34,7 @@ AddonTable.transmog = {
     3193,  -- Oak Mallet
     3196,  -- Edged Bastard Sword
     3197,  -- Stonecutter Claymore
+    3208,  -- Conk Hammer
     3430,  -- Sniper Rifle
     3651,  -- Veteran Shield
     3652,  -- Hunting Buckler
@@ -107,6 +108,7 @@ AddonTable.transmog = {
     7460,  -- Knight's Cloak
     7478,  -- Ranger Leggings
     7481,  -- Ranger Boots
+    7487,  -- Captain's Leggings
     7494,  -- Captain's Waistguard
     7519,  -- Gossamer Pants
     7524,  -- Gossamer Cape
@@ -149,6 +151,7 @@ AddonTable.transmog = {
     8310,  -- Hero's Pauldrons
     8318,  -- Alabaster Plate Leggings
 
+    9290,  -- Field Plate
     9386,  -- Excavator's Brand
     9747,  -- Simple Britches
     9749,  -- Simple Blouse
@@ -326,6 +329,7 @@ AddonTable.transmog = {
     14658, -- Scorpashi Skullcap
     14670, -- Pridelord Armor
     14681, -- Indomitable Boots
+    14753, -- Slayer's Skullcap
     14788, -- Protector Armguards
     14798, -- Bloodlust Breastplate
     14809, -- Warstrike Sabatons

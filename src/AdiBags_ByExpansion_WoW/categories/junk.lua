@@ -456,4 +456,5 @@ AddonTable.junk = {
     85575, -- Peacebringer's Staff
 
     114008, -- Broken Weapon Attachment
+    174791, -- Stitched Cloth Shoes (Exile's Reach)
 }

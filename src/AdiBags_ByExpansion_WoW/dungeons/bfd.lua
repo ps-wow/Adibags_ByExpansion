@@ -48,5 +48,6 @@ AddonTable.bfd = {
     65962,  -- thaelrids-greaves
     65938,  -- blackfathom-leggings
     65912,  -- robe-of-kelris
+    66012,  -- Je'neu's Robes
     131713, -- scales-of-akumai
 }
