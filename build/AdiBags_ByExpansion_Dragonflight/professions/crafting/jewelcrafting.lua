@@ -24,6 +24,10 @@ AddonTable.jewelcrafting = {
     -- Stone/Glass
     192880,
     192872,
+    -- Statues and Carvings
+    193011,
+    -- Extravagant Glasswares
+    202052,
     -- Gems (Cut)
     192900,
     192903,

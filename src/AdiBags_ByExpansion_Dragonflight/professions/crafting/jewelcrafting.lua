@@ -25,6 +25,8 @@ AddonTable.jewelcrafting = {
     -- Stone/Glass
     192880, -- Crumbled Stone
     192872, -- Fractured Glass
+    -- Statues and Carvings
+    193011, -- Revitalizing Red Carving [Bronze (1)]
     -- Extravagant Glasswares
     202052, -- Timewatcher's Patience [Silver (2)]
     -- Gems (Cut)
