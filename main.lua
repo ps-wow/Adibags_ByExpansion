@@ -110,6 +110,19 @@ function Core:GetOptions()
         --     type = 'toggle',
         --     order = 81,
         -- }
+        -- Junk = {
+        --     name = "Junk",
+        --     desc = "Mark as Junk",
+        --     type = 'Group',
+        --     args = {
+        --         ConsumablesAsJunk = {
+        --             name = 'Consumables',
+        --             desc = "Mark Consumables as Junk",
+        --             type = 'toggle',
+        --             order = 1,
+        --         }
+        --     }
+        -- },
     }
 end
 
@@ -442,7 +455,7 @@ end
 
 function Core:LoadExpansion(module)
     local expFilter = AdiBags:RegisterFilter(module.namespace, 90)
-    expFilter.uiName = module.namespace
+    expFilter.uiName = module.name
     expFilter.uiDesc = module.description
 
     if module.filter ~= nil then
