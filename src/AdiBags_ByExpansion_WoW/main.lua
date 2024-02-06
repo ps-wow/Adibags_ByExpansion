@@ -4,7 +4,7 @@ local AddonName, AddonTable = ...
 local core = LibStub("AceAddon-3.0"):GetAddon("AdiBags_ByExansion")
 
 local module = {
-    ["name"] = "wow",
+    ["name"] = "ABE 01. WoW",
     ["categories"] = core:GetDefaultCategories(),
     ["namespace"] = "WoW",
     ["prefix"] = {

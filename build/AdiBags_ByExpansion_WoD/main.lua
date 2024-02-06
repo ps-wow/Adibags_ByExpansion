@@ -7,7 +7,7 @@ local categories = core:GetDefaultCategories()
 categories["Garrison"] = "Garrison"
 
 local module = {
-    ["name"] = "wod",
+    ["name"] = "ABE 06. WoD",
     ["categories"] = categories,
     ["namespace"] = "WoD",
     ["prefix"] = {

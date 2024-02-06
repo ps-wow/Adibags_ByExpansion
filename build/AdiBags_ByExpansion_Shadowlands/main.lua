@@ -37,7 +37,7 @@ options['Korthia'] = {
 }
 
 local module = {
-    ["name"] = "shadowlands",
+    ["name"] = "ABE 09. SL",
     ["categories"] = categories,
     ["namespace"] = "Shadowlands",
     ["prefix"] = {

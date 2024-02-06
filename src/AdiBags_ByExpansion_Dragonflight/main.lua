@@ -16,7 +16,7 @@ options["ProfessionEquipment"] = {
 }
 
 local module = {
-    ["name"] = "Dragonflight",
+    ["name"] = "ABE 10. DF",
     ["categories"] = categories,
     ["namespace"] = "abe_dragonflight",
     ["prefix"] = {

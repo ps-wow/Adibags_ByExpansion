@@ -8,7 +8,7 @@ local categories = core:GetDefaultCategories()
 categories['Mechagon'] = "Mechagon Island"
 
 local module = {
-    ["name"] = "bfa",
+    ["name"] = "ABE 08. BfA",
     ["categories"] = categories,
     ["namespace"] = "BfA",
     ["prefix"] = {

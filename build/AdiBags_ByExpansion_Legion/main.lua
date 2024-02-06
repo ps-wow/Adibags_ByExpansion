@@ -22,7 +22,7 @@ options['ArtifactWeapons'] = {
 }
 
 local module = {
-    ["name"] = "legion",
+    ["name"] = "ABE 07. Legion",
     ["categories"] = categories,
     ["namespace"] = "Legion",
     ["prefix"] = {

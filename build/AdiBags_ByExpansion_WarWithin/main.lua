@@ -16,7 +16,7 @@ local options = core:GetOptions()
 -- }
 
 local module = {
-    ["name"] = "WarWithin",
+    ["name"] = "ABE 11. WW",
     ["categories"] = categories,
     ["namespace"] = "abe_warwithin",
     ["prefix"] = {
